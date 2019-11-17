@@ -1982,7 +1982,7 @@ msgstr ""
 "John:\"I promise I'll\n"
 " make Ms. Marie happy!\" {END TEXTBOX}\n"
 "Father:\"O-obviously!\" {END TEXTBOX}\n"
-"Father\":Well,\n"
+"Father:\"Well,\n"
 " I'm busy.\n"
 " You take care of the rest.\""
 
