@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 18/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type1\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN01"
+msgid ""
+"「いらっしゃい！\n"
+"　うちは犬用品の専門店だ！"
+msgstr ""
+"\"Welcome!\n"
+" My store only sells \n"
+" stuff for dogs!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN02"
+msgid ""
+"「じゃ、また来てくれよ！\n"
+"　犬をつれてな！"
+msgstr ""
+"\"Come again!\n"
+" And bring a dog!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN03"
+msgid "｢何が必要なんだ？"
+msgstr "\"What do you need?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN04"
+msgid ""
+"「ほかに用は\n"
+"　あるかい？"
+msgstr ""
+"\"Do you need\n"
+" anything else?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN05"
+msgid ""
+"「$_Iだな。\n"
+"　$_MＧになるけど、\n"
+"　いいかい？"
+msgstr ""
+"\"$_I, huh?\n"
+" That'll be $M_G!\n"
+" OK?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN06"
+msgid ""
+"「なんだ、\n"
+"　やめちまうのか。"
+msgstr ""
+"\"What,\n"
+" you're not buying?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN07"
+msgid ""
+"「あんた、\n"
+"　お金が足りないよ！"
+msgstr ""
+"\"Hey, you!\n"
+" Not enough money!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN08"
+msgid "「どいつが装備するんだい？"
+msgstr "\"Which one will equip this?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN09"
+msgid ""
+"「ほかにも何か\n"
+"　必要かい？"
+msgstr ""
+"\"Do you need\n"
+" anything else?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN10"
+msgid ""
+"「おや？\n"
+"　もうこれ以上、\n"
+"　持てないみたいだぜ。{END TEXTBOX}\n"
+"「かわいい飼い犬のためだ、\n"
+"　いらない物をすてるか、\n"
+"　あずけるかしてきなよ！"
+msgstr ""
+"\"Oh?\n"
+" Looks like you can't\n"
+" carry more items!\"{END TEXTBOX}\n"
+"\"Don't let the dog sadden!\n"
+" Toss away useless stuff\n"
+" or go store it somewhere!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN12"
+msgid ""
+"「$_Nは\n"
+"　これを装備できねえが\n"
+"　いいのかい？"
+msgstr ""
+"\"$_N\n"
+" can't equip this but\n"
+" you'll equip it nevertheless?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN13"
+msgid ""
+"「そうかい。{END TEXTBOX}\n"
+"「ほかにも\n"
+"　何か買っていくかい？"
+msgstr ""
+"\"I see.\"{END TEXTBOX}\n"
+"\"Do you need\n"
+" anything else?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN14"
+msgid "「はいよ　$_N！"
+msgstr "\"Here's the $N!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN15a"
+msgid ""
+"「じゃあ、道具袋に\n"
+"　いれておくぜ。"
+msgstr ""
+"\"I'll put it in\n"
+" the tools bag!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN15b"
+msgid ""
+"「じゃあ、装備袋に\n"
+"　いれておくぜ。"
+msgstr ""
+"\"I'll put it in\n"
+" the equipment bag!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN17"
+msgid "「何を売ってくれるんだい？"
+msgstr "\"What are you selling?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN18"
+msgid ""
+"「それはウチじゃ\n"
+"　買い取れないよ！{END TEXTBOX}\n"
+"「何か、ほかのものを\n"
+"　売ってくれないか？"
+msgstr ""
+"\"I don't buy\n"
+" this stuff!\"{END TEXTBOX}\n"
+"\"Is there anything else\n"
+" you wanna sell?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN19"
+msgid "「いくつ、売ってくれるんだ？"
+msgstr "\"How manu will you sell?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN20"
+msgid ""
+"「$_I　$_Kコ\n"
+"　$_MＧで買い取るけど\n"
+"　いいかい？"
+msgstr ""
+"\"$_I, $K of 'em?\n"
+" I'll buy 'em for $_MG.\n"
+" OK?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN21"
+msgid ""
+"「そうかい。\n"
+"　何かほかのものを\n"
+"　売ってくれるかい？"
+msgstr ""
+"\"I see.{END TEXTBOX}\n"
+"\"Is there anything else\n"
+" you wanna sell?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN22"
+msgid ""
+"「ありがとよ。{END TEXTBOX}\n"
+"「ほかにも何か\n"
+"　売ってくれるかい？"
+msgstr ""
+"\"Thanks.\"{END TEXTBOX}\n"
+"\"Is there anything else\n"
+" you wanna sell?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SHOP_NINGEN23"
+msgid ""
+"「なんだ、何もないな。{END TEXTBOX}\n"
+"「ほかの持ち物は\n"
+"　どうなんだ？"
+msgstr ""
+"\"What, it's empty.\"{END TEXTBOX}\n"
+"\"How about you try another item?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "<!empty>"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "犬専門店"
+msgstr "Dog store"

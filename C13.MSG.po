@@ -1,0 +1,275 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 18/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type1\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N1_MSG1"
+msgid ""
+"「この辺りには、$ne014が\n"
+"　よくでるぜ！{END TEXTBOX}\n"
+"「しかも、どういうわけか\n"
+"　よく$ni038を落とすんだ。{END TEXTBOX}\n"
+"「おっと、このことは\n"
+"　みんなには、ないしょだぜっ！"
+msgstr ""
+"\"$ne014 usually show up\n"
+" around here!\"{END TEXTBOX}\n"
+"\"And they usually drop\n"
+" $ni038\"{END TEXTBOX}\n"
+"\"Ah, keep that a secret\n"
+" from everyone!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_MSG1"
+msgid ""
+"「この辺りは、蚊が多くてかなわねー。{END TEXTBOX}\n"
+"「あんた、ハンターだろ？"
+msgstr ""
+"\"Can't stand all the\n"
+" mosquitoes we got here.\"{END TEXTBOX}\n"
+"\"You are a hunter, right?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_SEL1"
+msgid "そうだ"
+msgstr "Yeah"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_SEL2"
+msgid "ちがう"
+msgstr "Nope"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_MSG2"
+msgid ""
+"「そうか、そうか。{END TEXTBOX}\n"
+"「あんた、$ni032って\n"
+"　知ってるか？"
+msgstr ""
+"\"I see, I see.\"{END TEXTBOX}\n"
+"\"Y'know about the M-Toll?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_MSG3"
+msgid ""
+"「そうか‥‥。\n"
+"　ハンターじゃないか‥‥。"
+msgstr ""
+"\"I see...\n"
+" So you are not...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_SEL3"
+msgid "知ってる"
+msgstr "Yeah"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_SEL4"
+msgid "知らない"
+msgstr "Never heard of it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_MSG4"
+msgid "「そうか、知ってるか。"
+msgstr "\"So y'know 'bout it.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_MSG5"
+msgid ""
+"「$ni032を\n"
+"　買ってきてくれねーか？"
+msgstr ""
+"\"Could you buy M-Toll\n"
+" and bring it to me?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_SEL5"
+msgid "いいよ"
+msgstr "Sure"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_SEL6"
+msgid "いやだ"
+msgstr "Nah"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_MSG6"
+msgid ""
+"「$ni032ってのはな。\n"
+"　あのにっくき蚊を退治する道具だ。{END TEXTBOX}\n"
+"「これがあれば、宿屋の宿泊も\n"
+"　安心ってわけだ。"
+msgstr ""
+"\"With the M-Toll\n"
+" the mosquitoes could be\n"
+" exterminated.\"{END TEXTBOX}\n"
+"\"The inn would be safe too.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_MSG7"
+msgid ""
+"「ありがてぇ。\n"
+"　礼は、きちんとするからよ。{END TEXTBOX}\n"
+"「$ni032を２０コほど\n"
+"　買ってきてくれ。"
+msgstr ""
+"\"Thanks.\n"
+" I'll reward your work.\"{END TEXTBOX}\n"
+"\"Bring at least\n"
+" 20 M-Toll!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_MSG8"
+msgid ""
+"「そうか・・・。\n"
+"　そりゃ、残念だ。"
+msgstr ""
+"\"I see...\n"
+" Real shame.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_MSG9"
+msgid ""
+"「おっと、せっかくお客さんが\n"
+"　きたんだ。\n"
+"　商売をしねーとな。"
+msgstr ""
+"\"Ah, got some customers\n"
+" Gotta open up business.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_MSG10"
+msgid ""
+"「お、あんたか。\n"
+"　$ni032は、買ってきてくれたか？"
+msgstr ""
+"\"Oh it's you.\n"
+" Did you bring the\n"
+" M-Toll?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_SEL7"
+msgid "買ってきた"
+msgstr "I got it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_SEL8"
+msgid "まだだよ"
+msgstr "Not yet"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_MSG11"
+msgid ""
+"「そうか、そうか。{END TEXTBOX}\n"
+"「じゃあ、ブツをみせてくれ。"
+msgstr ""
+"\"I see, I see.\"{END TEXTBOX}\n"
+"\"Well,\n"
+" show me the stuff.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_MSG12"
+msgid ""
+"「そうか・・・。\n"
+"　はやくたのむぜ。{END TEXTBOX}\n"
+"「蚊がうるさくて\n"
+"　かなわねーからよ！"
+msgstr ""
+"\"I see...\n"
+" Please hurry.\"{END TEXTBOX}\n"
+"\"Can't stand these\n"
+" mosquitoes!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_MSG13"
+msgid ""
+"「いいねー。\n"
+"　ちゃんと、２０コあるじゃないか。"
+msgstr ""
+"\"Nice.\n"
+" All 20 of 'em.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_MSG14"
+msgid ""
+"「ひとつ、５５Ｇで引き取るよ。\n"
+"　しめて、１１００Ｇだ。\n"
+"　これで、いいかい？"
+msgstr ""
+"\"55G each.\n"
+" so, 1100G for all of it\n"
+" How 'bout it?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_SEL9"
+msgid "ＯＫ！"
+msgstr "OK!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_SEL10"
+msgid "いやだ"
+msgstr "Nope"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_MSG15"
+msgid ""
+"「いや、あんた。\n"
+"　オレは　$ni032が\n"
+"　２０コほしいんだ。{END TEXTBOX}\n"
+"「取引は、まとめてしたいからよ。\n"
+"　２０コ分、そろったら\n"
+"　また、来てくれよ。"
+msgstr ""
+"\"Hey, now..\n"
+" I asked for 20 M-Toll!\"{END TEXTBOX}\n"
+"\"Get all 20 together,\n"
+" and bring them over.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_MSG16"
+msgid ""
+"「いやいや、あんた。\n"
+"　１コも、もってねーじゃねーか。{END TEXTBOX}\n"
+"「たのむよ、しかし・・・。"
+msgstr ""
+"\"Hey, hey.\n"
+" You got none of 'em.\"{END TEXTBOX}\n"
+"\"Come on now...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_MSG17"
+msgid ""
+"「よーし、取引成立だ。{END TEXTBOX}\n"
+"$npは\n"
+"$ni032を２０コわたし、\n"
+"１１００Ｇ　受け取った。"
+msgstr ""
+"\"Alright, all done.\"{END TEXTBOX}\n"
+"$np handed\n"
+"20 M-Toll,\n"
+"and got 1100G.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C13_SOTO_N2_MSG18"
+msgid ""
+"「お、あんたか。\n"
+"　この間は、ありがとうよ。"
+msgstr ""
+"\"Oh, hey.\n"
+" Thanks for everything.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "<!empty>"
+msgstr ""

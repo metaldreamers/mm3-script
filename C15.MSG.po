@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 18/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type1\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C15_N1_MSG1"
+msgid ""
+"「あんた、$nn034じゃないな。\n"
+"　その格好は、ハンターか？"
+msgstr ""
+"\"You're not from\n"
+" the Clan.\"{END TEXTBOX}\n"
+"\"You look like a Hunter,\n"
+" am I right?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C15_N1_SEL1"
+msgid "そうだ"
+msgstr "I am"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C15_N1_SEL2"
+msgid "ちがう"
+msgstr "Nope"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C15_N1_MSG2"
+msgid "「もしかして、$nn039退治かい？"
+msgstr ""
+"\"You're not after\n"
+" Dominguez, are you?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C15_N1_MSG3"
+msgid "「まさか、$nn034！？"
+msgstr ""
+"\"Wait, you aren't\n"
+" from the Clan,\n"
+" are you!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C15_N1_MSG4"
+msgid ""
+"「もし、クルマもないようなら\n"
+"　やめたほうがいいぜ！{END TEXTBOX}\n"
+"「$nn039退治どころか\n"
+"　$nc029にたどり着くまでに\n"
+"　おだぶつよ。"
+msgstr ""
+"\"If you don't have a vehicle,\n"
+" you should give up now!\"{END TEXTBOX}\n"
+"\"You won't even make\n"
+" it to Dominguez.\"{END TEXTBOX}\n"
+"\"You'll be killed\n"
+" by the Clan\n"
+" long before then.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C15_N1_MSG5"
+msgid ""
+"「なら、さっさと\n"
+"　おうちにかえりな。{END TEXTBOX}\n"
+"「ここから先は$nn034の縄張りだ。\n"
+"　命がいくつあっても\n"
+"　足りねぇぜっ！"
+msgstr ""
+"\"Then you should hurry up\n"
+" and turn back.\"{END TEXTBOX}\n"
+"\"Past here is\n"
+" Clan territory.\"{END TEXTBOX}\n"
+"\"No matter how many\n"
+" lives you have,\n"
+" it isn't enough!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C15_N1_MSG6"
+msgid "「ひぃーーーっ！"
+msgstr "\"Eeek!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C15_N1_MSG7"
+msgid ""
+"「脅かすんじゃないよ。\n"
+"　あんたも命がおしけりゃ\n"
+"　さっさと、おうちにかえりな。{END TEXTBOX}\n"
+"「ここから先は　$nn034の縄張りだ。\n"
+"　命がいくつあっても\n"
+"　足りねぇぜっ！"
+msgstr ""
+"\"Jeez, don't scare me\n"
+" like that.\"{END TEXTBOX}\n"
+"\"Anyway,\n"
+" if you value your life,\n"
+" you should turn around.\"{END TEXTBOX}\n"
+"\"Past here is\n"
+" Clan territory.\"{END TEXTBOX}\n"
+"\"No matter how many\n"
+" lives you have,\n"
+" it isn't enough!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C15_N1_MSG8"
+msgid ""
+"「それにしても\n"
+"　あんたの装備はヘボイな。{END TEXTBOX}\n"
+"「そんなヘボイ装備じゃ\n"
+"　$nn039には\n"
+"　ぜーーったい勝てねーぜ！{END TEXTBOX}\n"
+"「いい装備がほしけりゃ\n"
+"　$nc003に\n"
+"　行ってみるんだな。"
+msgstr ""
+"\"Anyway, your equipment\n"
+" is terrible.\"{END TEXTBOX}\n"
+"\"There's no waaaaay you'll\n"
+" ever be able to beat Domiguez\n"
+" with that crappy equipment!\"{END TEXTBOX}\n"
+"\"If you want good equipment\n"
+" you should try heading\n"
+" to Rusty Maiden.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C15_N1_SEL3"
+msgid "$nc003？"
+msgstr "Rusty Maiden?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C15_N1_SEL4"
+msgid "もう行ってきたよ"
+msgstr "I've already been there"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C15_N1_MSG9"
+msgid ""
+"「$nc027のそばの\n"
+"　坂をおりて、海岸ぞいに\n"
+"　北に行ったところだ。"
+msgstr ""
+"\"Go down the slope \n"
+" to the beach near Great Cannon\n"
+" and follow the coast north.\"{END TEXTBOX}\n"
+"\"You can't miss it.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C15_N1_MSG10"
+msgid ""
+"「おぉ、そうかい。\n"
+"　で、どうだった？"
+msgstr ""
+"\"Oh, you have.\n"
+" Well, how was it?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C15_N1_SEL5"
+msgid "ハッピー"
+msgstr "Happy"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C15_N1_SEL6"
+msgid "アンハッピー"
+msgstr "Unhappy"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C15_N1_SEL7"
+msgid "別に・・・"
+msgstr "Meh"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C15_N1_MSG11"
+msgid ""
+"「そうかい、そうかい。\n"
+"　まぁ、あの町を\n"
+"　どう思うかは、人それぞれよ。"
+msgstr ""
+"\"I see, I see.\n"
+" Well, to each his own.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "<!empty>"
+msgstr ""

@@ -1,0 +1,341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 18/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type1\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_MSG1"
+msgid ""
+"$nn104「わんっ！　@w30\n"
+"　わん、わんっ！"
+msgstr ""
+"Pochi:\"Arf!　@w30\n"
+" Arf, arf!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_MSG01"
+msgid ""
+"犬は警戒するように\n"
+"激しく吠えた。{END TEXTBOX}\n"
+"クルマに乗ったままでは、\n"
+"犬とふれあうことは\n"
+"できないようだ。"
+msgstr ""
+"The dog seems\n"
+"to be on guard,\n"
+"barking furiously.{END TEXTBOX}\n"
+"It seems you can't\n"
+"interact with the\n"
+"dog while driving."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_MSG02"
+msgid ""
+"どうやら、この犬は\n"
+"腹をすかせているようだ。"
+msgstr ""
+"The dog seems\n"
+"to be hungry."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_SEL1"
+msgid "なでてみる"
+msgstr "Try petting it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_SEL2"
+msgid "おすわり！　と言ってみる"
+msgstr "Say \"Sit!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_SEL3"
+msgid "食べものをやってみる"
+msgstr "Try giving it food"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_SEL4"
+msgid "ほっておく"
+msgstr "Leave"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_MSG2"
+msgid ""
+"$nn104「くんくん‥‥‥‥@w30\n"
+"  がぶっ！{END TEXTBOX}\n"
+"なでようとした手を\n"
+"犬にかじられた！"
+msgstr ""
+"Pochi:\"Sniff sniff......@w30\n"
+" Chomp!\"{END TEXTBOX}\n"
+"The dog bit your hand!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_MSG21"
+msgid ""
+"$npは\n"
+"$_0ポイントのダメージをうけた！"
+msgstr ""
+"$np took\n"
+"$_0 points of damage!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_MSG3"
+msgid ""
+"犬はじっとこっちを見ながら、\n"
+"首をかしげている。{END TEXTBOX}\n"
+"命令にしたがうべきかどうか、\n"
+"迷っているように見える。"
+msgstr ""
+"The dog looked at you\n"
+"and tilted its head\n"
+"to the side.{END TEXTBOX}\n"
+"It seems to\n"
+"be confused by\n"
+"your order."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_MSG4"
+msgid "何を食べさせますか？"
+msgstr ""
+"What do you want\n"
+" to feed it?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_MSG5"
+msgid ""
+"$nn104「ハッ、ハッ、ハッ‥‥、\n"
+"　わん、わんっ！"
+msgstr ""
+"Pochi:\"Haa haa haa...\n"
+" Arf, arf!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_MSG11"
+msgid ""
+"$npは、\n"
+"$ni61を\n"
+"犬の目の前に置いた。"
+msgstr ""
+"$np put the\n"
+"Bowwow Gourmet in front\n"
+"of the dog."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_MSG12"
+msgid ""
+"$npは、\n"
+"$ni38を\n"
+"犬の目の前に置いた。"
+msgstr ""
+"$np put the\n"
+"Gull Tender in front\n"
+"of the dog."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_MSG6"
+msgid ""
+"犬は、大よろこびで、\n"
+"あっというまに\n"
+"食べてしまった！"
+msgstr ""
+"The dog ate it\n"
+"leefully in the\n"
+"blink of an eye!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_SEL5"
+msgid "なでてやる"
+msgstr "Pet it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_SEL6"
+msgid "仲間にする"
+msgstr "Make it your companion"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_SEL7"
+msgid "立ち去る"
+msgstr "Leave"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_MSG13"
+msgid ""
+"$npは、\n"
+"$ni52を\n"
+"犬の目の前に置いた。"
+msgstr ""
+"$np put the\n"
+"Gull Wing in front\n"
+"of the dog."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_MSG14"
+msgid ""
+"$npは、\n"
+"$ni62を\n"
+"犬の目の前に置いた。"
+msgstr ""
+"$np put the\n"
+"Inject Wings in front\n"
+"of the dog."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_MSG15"
+msgid ""
+"$npは、\n"
+"$ni63を\n"
+"犬の目の前に置いた。"
+msgstr ""
+"$np put the\n"
+"Syringe Wings in front\n"
+"of the dog."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_MSG7"
+msgid ""
+"犬は、まず匂いをかぎ、\n"
+"味をたしかめるかのように、\n"
+"端っこに口をつける。{END TEXTBOX}\n"
+"噛んでいるあいだも\n"
+"こっちを見ている。\n"
+"警戒しているのだろう。{END TEXTBOX}\n"
+"それでも犬は、やがて、\n"
+"ぜんぶ\n"
+"食べてしまった！"
+msgstr ""
+"The dog first\n"
+"tried sniffing it,\n"
+"then tried eating it.{END TEXTBOX}\n"
+"It looked at you\n"
+"while chewing.\n"
+"It seems to be on guard.{END TEXTBOX}\n"
+"However,\n"
+"the dog eventually\n"
+"ate it all!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_MSG8"
+msgid ""
+"$npは、\n"
+"犬に食べさせられそうなものを\n"
+"持っていなかった。"
+msgstr ""
+"$np doesn't have\n"
+"anything a dog\n"
+"might want to eat."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_MSG9"
+msgid ""
+"手をのばすと、犬は、\n"
+"においをかぐように、\n"
+"鼻さきをくっつけてきた。{END TEXTBOX}\n"
+"なでてやると、\n"
+"ぱたぱたと、\n"
+"はげしくしっぽをふっている。{END TEXTBOX}\n"
+"すごくうれしそうだ。"
+msgstr ""
+"The dog sniffed\n"
+"the outstretched hand\n"
+"its nose touching the palm.{END TEXTBOX}\n"
+"As you pet it,\n"
+"its tail started\n"
+"wagging violently.{END TEXTBOX}\n"
+"It seems\n"
+"very happy."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N1_MSG10"
+msgid ""
+"$nn104「わんっ！{END TEXTBOX}\n"
+"$nn104が仲間になった！"
+msgstr ""
+"Pochi:\"Arf!\"{END TEXTBOX}\n"
+"Pochi became\n"
+"your companion!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_POCHI_SEL1"
+msgid "$ni061"
+msgstr "Bowwow Gourmet"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_POCHI_SEL2"
+msgid "$ni038"
+msgstr "Gull Tender"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_POCHI_SEL3"
+msgid "$ni052"
+msgstr "Gull Wing"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_POCHI_SEL4"
+msgid "$ni062"
+msgstr "Inject Wings"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_POCHI_SEL5"
+msgid "$ni063"
+msgstr "Syringe Wings"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_POCHI_SEL6"
+msgid "やめておく"
+msgstr "Never mind"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N2_MSG1"
+msgid ""
+"「犬がいるって、聞いて\n"
+"　やって来たんだが・・・。\n"
+"　いねぇーじゃねーかっ！{END TEXTBOX}\n"
+"「やっぱり、デマだっか・・・。"
+msgstr ""
+"\"I heard there\n"
+" was a dog here, so I came all\n"
+" the way out here, but..\".{END TEXTBOX}\n"
+"\"There aren't\n"
+" any dogs here!\"{END TEXTBOX}\n"
+"\"I guess I was a\n"
+" fool to believe him...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N2_MSG2"
+msgid ""
+"「おっ、あんた。\n"
+"　いい犬を連れてるじゃねーかっ！\n"
+"　うらやましいぜっ！"
+msgstr ""
+"\"Oh, hey. That's a nice\n"
+" dog you have there!\n"
+" I'm jealous!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C04_N2_MSG3"
+msgid ""
+"「まぁ、ツリシ峠の北の樹界にも\n"
+"　犬がいるってウワサがあるからな。\n"
+"　そっちをあたってみるか。"
+msgstr ""
+"\"Oh well, I heard\n"
+" another rumor that\n"
+" there was a dog...\"{END TEXTBOX}\n"
+"\"In the Woodsea,\n"
+" north of Fisherman's Pass.\"{END TEXTBOX}\n"
+"\"I'll try there, next.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "<!empty>"
+msgstr ""

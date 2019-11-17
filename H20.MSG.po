@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 18/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type1\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H20_TOBIRA_MSG1"
+msgid ""
+"「ん！？？{END TEXTBOX}\n"
+"「むにゃ・・・\n"
+"　むにゃ・・・{END TEXTBOX}\n"
+"「ボクを起こすのは\n"
+"　誰だワン！？"
+msgstr ""
+"\"Huh!??\"{END TEXTBOX}\n"
+"\"Yaaawn...\"{END TEXTBOX}\n"
+"\"Who is it who\n"
+" woke me up, arf!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H20_TOBIRA_SEL1"
+msgid "流れ者だ"
+msgstr "A wanderer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H20_TOBIRA_SEL2"
+msgid "ご主人様だ"
+msgstr "Your master"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H20_TOBIRA_SEL3"
+msgid "ボクだワン！"
+msgstr "Me, arf!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H20_TOBIRA_MSG2"
+msgid ""
+"「流れ者！？\n"
+"　流れ者には\n"
+"　用はないワン！{END TEXTBOX}\n"
+"「立ち去るワン！"
+msgstr ""
+"\"A wanderer!?\n"
+" Wanderers have no\n"
+" business here, arf!\"{END TEXTBOX}\n"
+"\"Leave, arf!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H20_TOBIRA_MSG3"
+msgid ""
+"「ご主人様！？{END TEXTBOX}\n"
+"「お帰りなさいませ\n"
+"　ご主人様！{END TEXTBOX}\n"
+"「では、ご主人様と\n"
+"　証明してくださいませ。"
+msgstr ""
+"\"Master!?\"{END TEXTBOX}\n"
+"\"Welcome home,\n"
+" Master!\"{END TEXTBOX}\n"
+"\"Now, please verify\n"
+" that you're the Master.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H20_TOBIRA_MSG5"
+msgid ""
+"そのとき、$ni047に\n"
+"何者かがアクセスしてきた！{END TEXTBOX}\n"
+"なにやら、データが\n"
+"ダウンロードされている・・・。"
+msgstr ""
+"Suddenly, something\n"
+"accessed the $ni047!{END TEXTBOX}\n"
+"Something seems to\n"
+"be being downloaded..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H20_TOBIRA_MSG6"
+msgid "※クエスト「オレはご主人様だ」発生！"
+msgstr "*Quest \"I'm the Master\" triggered!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H20_TOBIRA_MSG4"
+msgid ""
+"「ボク！？{END TEXTBOX}\n"
+"「ボクって、\n"
+"　誰だワン？"
+msgstr ""
+"\"Me!?\"{END TEXTBOX}\n"
+"\"Who's \"me\", arf?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H20_DEBUG"
+msgid ""
+"※未来戦車を入手しました。\n"
+"この後未来戦車入手処理に入ります。"
+msgstr ""
+"*You got the Future Tank.\n"
+" The proceedings of post-adquisition will now begin. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H20_DEBUG2"
+msgid ""
+"処理が終了後、未来戦車入手フラグON。\n"
+"未来戦車を調べられなくなり、放置戦車\n"
+"扱いになります。"
+msgstr ""
+"Once they're over, the tank's flag will become ON.\n"
+" You won't be able to inspect it,\n"
+" and will be treated as an abandoned tank."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "<!empty>"
+msgstr ""

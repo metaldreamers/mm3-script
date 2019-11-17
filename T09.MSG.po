@@ -1,0 +1,6189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 18/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type1\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N1_MSG1"
+msgid ""
+"「ここは　$nc008。\n"
+"　今は　$nn034$nn108の町だ。{END TEXTBOX}\n"
+"「ハンター風情が、うろちょろできる\n"
+"　町じゃねーんだよっ！{END TEXTBOX}\n"
+"「さ、帰れ、帰れ！！"
+msgstr ""
+"\"This is Elurus.\n"
+" Now's the city of\n"
+" Clan Clan Coldblood.\" {END TEXTBOX}\n"
+"\"Now a town for\n"
+" Hunters to visit!\" {END TEXTBOX}\n"
+"\"Leave at once!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N1_SEL1"
+msgid "おとなしく帰る"
+msgstr "Leave"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N1_SEL2"
+msgid "ぶっとばす！"
+msgstr "Beat them up!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N1_MSG2"
+msgid "$npは　町を出た。"
+msgstr "$np left the city."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N1_MSG3"
+msgid ""
+"$npは\n"
+"こいつらを、ぶっとばすことにした！"
+msgstr ""
+"$np\n"
+"decided to beat them up!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N3"
+msgid ""
+"「貴様は、門番を倒したヤツだなっ！\n"
+"　ぶっころしてやるっ！"
+msgstr ""
+"\"You beat the gateman!\n"
+" Gonna killa you!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N5A"
+msgid ""
+"「あんた、ハンターだろ？\n"
+"　この町のヤツに話しかけるときは\n"
+"　気をつけな。{END TEXTBOX}\n"
+"「そいつが$nn034の連中なら\n"
+"　問答無用で、おそわれるぞ！"
+msgstr ""
+"\"A Hunter, huh? \n"
+" Watch out when\n"
+" talking to people.\" {END TEXTBOX}\n"
+"\"If they are Clan\n"
+" you'll be attacked!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N5B"
+msgid ""
+"「ようこそ。\n"
+"　光の町、$nc008へ。{END TEXTBOX}\n"
+"「あぁ、このセリフをいうのは\n"
+"　何日ぶりかしら？"
+msgstr ""
+"\"Welcome\n"
+" to the city of light, Elurus.\" {END TEXTBOX}\n"
+"\"How many days has it been\n"
+" since I said this?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N6_MSG1"
+msgid ""
+"「こんなキレイな木は\n"
+"　初めて見たわ。{END TEXTBOX}\n"
+"「イルミネーションの木って\n"
+"　呼ぶらしいわよ。"
+msgstr ""
+"\"I'd never seen\n"
+" such a pretty tree.\" {END TEXTBOX}\n"
+"\"It'd seem\n"
+" it's named illumination tree.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N6_SEL1"
+msgid "男？"
+msgstr "A man?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N6_SEL2"
+msgid "女？"
+msgstr "A woman?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N6_SEL3"
+msgid "オカマ！"
+msgstr "A shemale!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N6_MSG2"
+msgid ""
+"「きーーーっ！\n"
+"　こう見えても\n"
+"　れっきとした女よ！"
+msgstr ""
+"\"Kih!\n"
+" I don't look like one\n"
+" but I swear I'm a woman!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N7_MSG1"
+msgid ""
+"「この先のビルの一番上に\n"
+"　$nn034№２の$nw019が\n"
+"　いるって、うわさだよ。"
+msgstr ""
+"\"Rumor:\n"
+" $nw019, No.2 of the Clan\n"
+" is on that tower.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N7_MSG2"
+msgid ""
+"「$nn034№２の$nw019を\n"
+"　$npって\n"
+"　ハンターが倒したらしいぜ！"
+msgstr ""
+"\"A Hunter named\n"
+" $np beat $nw019, \n"
+" No.2 of the Clan!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N8_MSG1"
+msgid ""
+"「この先は　$nn034№２　$nw019様の\n"
+"　根城だ！{END TEXTBOX}\n"
+"「ハンター風情を通すわけには\n"
+"　いかねーんだよっ！{END TEXTBOX}\n"
+"「さ、帰れ、帰れ！！"
+msgstr ""
+"\"This is the castle\n"
+" of Lord $nw019\n"
+" No.2 of the Clan!\"  {END TEXTBOX}\n"
+"\"Can't let\n"
+" Hunters through!\" {END TEXTBOX}\n"
+"\"Leave at once!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N8_MSG2"
+msgid ""
+"$npは、いったん\n"
+"もどることにした。"
+msgstr ""
+"$np decided\n"
+"to leave for now."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N8_MSG3"
+msgid ""
+"$npは\n"
+"こいつらを、ぶっとばすことにした！"
+msgstr ""
+"$np decided\n"
+"to beat them up!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N8_SEL1"
+msgid "おとなしく帰る"
+msgstr "Leave"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N8_SEL2"
+msgid "ぶっとばす！"
+msgstr "Beat them up!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SOTO_N11_MSG"
+msgid ""
+"「貴様は　ハンターだなっ！\n"
+"　ぶっころしてやるっ！"
+msgstr ""
+"\"You're a Hunter!\n"
+" Gonna kill you!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N1A_MSG1"
+msgid ""
+"「いらっしゃーい！\n"
+"　ここは$nn206だ。\n"
+"　ハンターさん、補給に来たのか？"
+msgstr ""
+"\"Welcome!\n"
+" This is the Refill Service.\n"
+" Refill, Mr. Hunter?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N1A_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N1A_SEL2"
+msgid "いいえ"
+msgstr "No "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N1A_SEL3"
+msgid "ぶっとばす"
+msgstr "Beat them up"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N1A_MSG2"
+msgid ""
+"「って、ハンターなんぞに\n"
+"　補給するかってーのっ！"
+msgstr ""
+"\"Not gonna refill\n"
+" for a Hunter, anyway!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N1A_MSG3"
+msgid ""
+"「ふんっ！\n"
+"　補給じゃないのなら\n"
+"　さっさと出ていきなっ！"
+msgstr ""
+"\"Hmpf!\n"
+" If you're not refilling\n"
+" then leave!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N1A_MSG4"
+msgid "「な、やんのかこらっ！"
+msgstr "\"Wanna brawl!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N2A_MSG1"
+msgid ""
+"「いらっしゃーい！\n"
+"　ここはクルマの修理屋だ。\n"
+"　ハンターさん、修理に来たのか？"
+msgstr ""
+"\"Welcome!\n"
+" I'm the repairs shop.\n"
+" Repairs, Mr. Hunter?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N2A_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N2A_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N2A_SEL3"
+msgid "ぶっとばす"
+msgstr "Beat them up"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N2A_MSG2"
+msgid ""
+"「って、ハンターのクルマなんぞ\n"
+"　修理するかってーのっ！"
+msgstr ""
+"\"Not gonna repair\n"
+" for a Hunter, anyway!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N2A_MSG3"
+msgid ""
+"「ふんっ！\n"
+"　修理じゃないのなら\n"
+"　さっさと出ていきなっ！"
+msgstr ""
+"\"Hmpf!\n"
+" If you're not repairing\n"
+" then leave!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N2A_MSG4"
+msgid "「な、やんのかこらっ！"
+msgstr "\"Wanna brawl!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N3A_MSG1"
+msgid ""
+"「いらっしゃーーいっ！\n"
+"　オレは$nn313を\n"
+"　売っているのだ！{END TEXTBOX}\n"
+"「何か用か？"
+msgstr ""
+"\"Welcome!\n"
+" I sell\n"
+" Vehicle Goods!\"{END TEXTBOX}\n"
+"\"Do you want something?\" "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N3A_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N3A_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N3A_SEL3"
+msgid "ぶっとばす"
+msgstr "Beat them up"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N3A_MSG2"
+msgid ""
+"「って、ハンターなんぞに\n"
+"　売るかってーのっ！"
+msgstr ""
+"\"Not gonna sell it\n"
+" to a Hunter, anyway!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N3A_MSG3"
+msgid ""
+"「ふんっ！\n"
+"　用がないのなら\n"
+"　さっさと出ていきなっ！"
+msgstr ""
+"\"Hmpf!\n"
+" If you're not buying\n"
+" then leave!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N3A_MSG4"
+msgid "「な、やんのかこらっ！"
+msgstr "\"Wanna brawl!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGA_N6"
+msgid ""
+"「$nn034の連中に、店を\n"
+"　乗っとられちまった！{END TEXTBOX}\n"
+"「くやしいですっ！！"
+msgstr ""
+"\"The Clan\n"
+" took over my shop!\" {END TEXTBOX}\n"
+"\"It's so shameful!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N1A_MSG1"
+msgid ""
+"「ここは、ハンターたちが\n"
+"　たたかいの記録をつける\n"
+"　$nn208よ！{END TEXTBOX}\n"
+"「あなたも、ゲームを\n"
+"　セーブしてみる？"
+msgstr ""
+"\"Here, Hunters\n"
+" store their records,\n"
+" it's the Memory Center!\" {END TEXTBOX}\n"
+"\"Are you going to\n"
+" save the game?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N1A_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N1A_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N1A_SEL3"
+msgid "ぶっとばす"
+msgstr "Beat them up"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N1A_MSG2"
+msgid ""
+"「って、おまえのセーブデータなんか\n"
+"　おまえごと、消してやるぜぇ！"
+msgstr ""
+"\"Gonna delete you\n"
+" along with your data!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N1A_MSG3"
+msgid ""
+"「ふんっ！\n"
+"　セーブしないのなら\n"
+"　さっさと出ていきなっ！{END TEXTBOX}\n"
+"「ひよっこ　ハンターさんよぉ！"
+msgstr ""
+"\"Hmpf!\n"
+" If you're not saving\n"
+" then leave!\" {END TEXTBOX}\n"
+"\"Hunter brat!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N1A_MSG4"
+msgid ""
+"「な、こらやめんか\n"
+"　セーブ中だぞっ！"
+msgstr ""
+"\"Wanna brawl!?\n"
+" The game's saving!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N1B_MSG1"
+msgid ""
+"「はーい、$nn208よ。\n"
+"　あなたも、セーブしてみるぅ？{END TEXTBOX}\n"
+"「あなたも、ゲームを\n"
+"　セーブしてみるぅ？"
+msgstr ""
+"\"Hi, this is the Memory Center.\n"
+" You're going to save the game?\" {END TEXTBOX}\n"
+"\"Are you going\n"
+" to save the game?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N1B_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N1B_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N1B_MSG2"
+msgid "「ちょっとまってね。"
+msgstr "\"Wait a min.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N1B_MSG21"
+msgid ""
+"「ポン！\n"
+"　ポン！\n"
+"　ポン！と。{END TEXTBOX}\n"
+"エラー！{END TEXTBOX}\n"
+"エラー！{END TEXTBOX}\n"
+"エラー！{END TEXTBOX}\n"
+"「あら、どうしたのかしら？{END TEXTBOX}\n"
+"「妹は、簡単そうに\n"
+"　やってたのになぁ。"
+msgstr ""
+"\"Bon! \n"
+" Bon!\n"
+" Bon!\" {END TEXTBOX}\n"
+"Error! {END TEXTBOX}\n"
+"Error! {END TEXTBOX}\n"
+"Error! {END TEXTBOX}\n"
+"\"What's the matter?\" {END TEXTBOX}\n"
+"\"My sister\n"
+" did it so easily.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N1B_MSG22"
+msgid ""
+"「ごめんなさい。\n"
+"　やっぱり、わたしには\n"
+"　できないみたい。{END TEXTBOX}\n"
+"「妹なら、$nc008の\n"
+"　$nn212にいたわよ。"
+msgstr ""
+"\"Sorry.\n"
+" I knew it, \n"
+" I can't do it.\" {END TEXTBOX}\n"
+"\"My sis was at Interior Shop\n"
+" in Elurus.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N1B_MSG3"
+msgid ""
+"「ゲームをやめるときは\n"
+"　ここで記録をつけてねぇ。{END TEXTBOX}\n"
+"「でないと、せっかくの\n"
+"　苦労がみずのあわよ。{END TEXTBOX}\n"
+"「って、妹が言ってたわ。"
+msgstr ""
+"\"When you want to quit playing\n"
+" store the records here.\" {END TEXTBOX}\n"
+"\"Else, all the\n"
+" effort will have been in vain.\" {END TEXTBOX}\n"
+"\"Or so my sis said.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N2A_MSG1"
+msgid ""
+"「$nn201へようこそ！\n"
+"　なんか用かい？"
+msgstr ""
+"\"Welcome to the \n"
+" Hunter Office!\n"
+" Do you want something?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N2A_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N2A_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N2A_SEL3"
+msgid "ぶっとばす"
+msgstr "Beat them up"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N2A_MSG2"
+msgid ""
+"「って、おまえに教える情報なんか\n"
+"　ひとつもねぇーよっ！"
+msgstr ""
+"\"I've got no info\n"
+" to tell you, anyway!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N2A_MSG3"
+msgid ""
+"「ふんっ！\n"
+"　用がないのなら\n"
+"　さっさと出ていきなっ！"
+msgstr ""
+"\"Hmpf!\n"
+" If you've got no business\n"
+" then leave!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N2A_MSG4"
+msgid "「な、やんのかこらっ！"
+msgstr "\"Wanna brawl!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N3_MSG1"
+msgid ""
+"「ふぅ、あぶねー。\n"
+"　もう少しで、セーブデータを\n"
+"　消されるところだったぜ！"
+msgstr ""
+"\"That was close.\n"
+" I almost got\n"
+" my save data deleted!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N3_MSG11"
+msgid ""
+"「なぜだ・・・。\n"
+"　$nn208のお姉さんが\n"
+"　もどってこない。{END TEXTBOX}\n"
+"「だれか、さがして\n"
+"　くれないか？"
+msgstr ""
+"\"Why doesn't Miss Memory Center\n"
+" come back?\" {END TEXTBOX}\n"
+"\"Will someone\n"
+" go search for her?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N3_SEL1"
+msgid "さがしてこようか"
+msgstr "I'll search"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N3_SEL2"
+msgid "ほうっておく"
+msgstr "Ignore "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N3_MSG12"
+msgid ""
+"「おぉ、それは助かる。\n"
+"　ぜひ、たのむよ。"
+msgstr ""
+"\"Oh, thanks for the help!\n"
+" Please handle it!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N3_MSG13"
+msgid ""
+"「あー、記録できないと\n"
+"　夜も　眠れない・・・。"
+msgstr ""
+"\"Ah, if I can't save\n"
+" I can't sleep at night...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N3_MSG14"
+msgid ""
+"「あんた、\n"
+"　ひどい人を連れてきたな。{END TEXTBOX}\n"
+"「あの姉ちゃんは、ダメだ。\n"
+"　おかげでメモリーが\n"
+"　消されるところだったぜ。{END TEXTBOX}\n"
+"「たのむから、ちゃんと\n"
+"　記録できる人を\n"
+"　さがして来てくれよ。"
+msgstr ""
+"\"You\n"
+" brought someone horrible.\" {END TEXTBOX}\n"
+"\"She won't do.\n"
+" I almost got\n"
+" my memory data deleted.\" {END TEXTBOX}\n"
+"\"Please, search\n"
+" for someone\n"
+" who can save the game.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N3_MSG15"
+msgid ""
+"「おぉ、あんたのおかげで\n"
+"　やっと記録できたよ。{END TEXTBOX}\n"
+"「これで、ぐっすり\n"
+"　眠れそうだ。"
+msgstr ""
+"\"Oh, thanks! Now I can\n"
+" finally save the game.\" {END TEXTBOX}\n"
+"\"Now I can sleep\n"
+" in peace.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_1F_N3_MSG16"
+msgid ""
+"「あ、これは少しだが\n"
+"　お礼だ。{END TEXTBOX}\n"
+"$npは\n"
+"１０００Ｇ、もらった。"
+msgstr ""
+"\"It's small\n"
+" but it's a reward.\" {END TEXTBOX}\n"
+"$np\n"
+"got 1000G. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_2F_N1A_MSG1"
+msgid ""
+"「いらっしゃい！\n"
+"　オレは人間用品を\n"
+"　売っているのだ！{END TEXTBOX}\n"
+"「ハンターさん、何か用かい？"
+msgstr ""
+"\"Welcome!\n"
+" I sell\n"
+" human gear!\" {END TEXTBOX}\n"
+"\"Do you want something,\n"
+" Mr. Hunter?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_2F_N1A_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_2F_N1A_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_2F_N1A_SEL3"
+msgid "ぶっとばす"
+msgstr "Beat them up"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_2F_N1A_MSG2"
+msgid ""
+"「って、ハンターなんぞに\n"
+"　売るモノはねーってーのっ！"
+msgstr ""
+"\"Not selling anything\n"
+" to a Hunter, anyway!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_2F_N1A_MSG3"
+msgid ""
+"「ふんっ！\n"
+"　用がねーなら\n"
+"　さっさと出ていきなっ！"
+msgstr ""
+"\"Hmpf!\n"
+" Not buying\n"
+" then leave!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEA_2F_N1A_MSG4"
+msgid "「な、やんのかこらっ！"
+msgstr "\"Wanna brawl!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TOSENBO_MSG1"
+msgid ""
+"「この先に行きてーんなら\n"
+"　１００Ｇ、だしなっ！"
+msgstr ""
+"\"Wanna go ahead,\n"
+" pay 100G!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TOSENBO_SEL1"
+msgid "はらう"
+msgstr "Pay"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TOSENBO_SEL2"
+msgid "はらわない"
+msgstr "Don't pay"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TOSENBO_SEL3"
+msgid "ぶっとばす"
+msgstr "Beat them up"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TOSENBO_MSG2"
+msgid "「なら、１００Ｇ　よこしなっ！"
+msgstr "\"Then pay 100G!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TOSENBO_MSG3"
+msgid "「で、命も　よこしなっ！"
+msgstr "\"Then pay with your life!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TOSENBO_MSG4"
+msgid ""
+"「ふんっ！\n"
+"　はらえないなら\n"
+"　さっさと出ていきなっ！"
+msgstr ""
+"\"Hmpf!\n"
+" If you're not paying\n"
+" then leave!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TOSENBO_MSG5"
+msgid "「な、やんのかこらっ！"
+msgstr "\"Wanna brawl!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEB_1F_N1A_MSG1"
+msgid ""
+"「いらっしゃいませ！\n"
+"　ここは宿屋です。\n"
+"　お泊りですか？"
+msgstr ""
+"\"Welcome!\n"
+" This is the Inn.\n"
+" Are you staying?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEB_1F_N1A_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEB_1F_N1A_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEB_1F_N1A_SEL3"
+msgid "ぶっとばす"
+msgstr "Beat them up"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEB_1F_N1A_MSG2"
+msgid ""
+"「って、おまえに貸すベッドなんて\n"
+"　ひとつもねぇーよっ！"
+msgstr ""
+"\"Got no bed\n"
+" to lend to you!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEB_1F_N1A_MSG3"
+msgid ""
+"「ふんっ！\n"
+"　泊まらないのなら\n"
+"　さっさと出ていきなっ！"
+msgstr ""
+"\"Hmpf!\n"
+" Not staying,\n"
+" then leave!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEB_1F_N1A_MSG4"
+msgid "「な、やんのかこらっ！"
+msgstr "\"Wanna brawl!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEB_1F_N2_MSG1"
+msgid ""
+"「$nn034に占領！？{END TEXTBOX}\n"
+"「そんなことより、オレの相棒を\n"
+"　しらねーか！？{END TEXTBOX}\n"
+"「この宿屋に泊まったはず\n"
+"　なんだが、姿がみえねーんだ。{END TEXTBOX}\n"
+"「赤いパンツをはいた\n"
+"　レスラーだ。\n"
+"　みかけたら教えてくれ。"
+msgstr ""
+"\"Taken over by Clan!?\" {END TEXTBOX}\n"
+"\"That asides, haven't you seen\n"
+" my pal!?\" {END TEXTBOX}\n"
+"\"He should've been staying\n"
+" here, but I can't see him.\" {END TEXTBOX}\n"
+"\"A wrestler\n"
+" wearing red pants.\n"
+" Tell me if you see him.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEB_1F_N2_MSG2"
+msgid ""
+"「オレの相棒を\n"
+"　しらねーか！？{END TEXTBOX}\n"
+"「この宿屋に泊まったはず\n"
+"　なんだが、姿がみえねーんだ。{END TEXTBOX}\n"
+"「赤いパンツをはいた\n"
+"　レスラーだ。\n"
+"　みかけたら教えてくれ。"
+msgstr ""
+"\"You haven't seen\n"
+" my pal!?\" {END TEXTBOX}\n"
+"\"He should be staying\n"
+" in this inn, but can't see him.\" {END TEXTBOX}\n"
+"\"A wrestler\n"
+" wearing red pants.\n"
+" Tell me if you see him.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEB_1F_N3A"
+msgid ""
+"「ぐごぉーー。\n"
+"　ぐごぉーー。"
+msgstr ""
+"\"Gugoaaa.\n"
+" Gugoaaa.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEB_1F_N3B_MSG1"
+msgid "「あーー、よくねたーー。"
+msgstr "\"Ah, that was a good nap.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEB_1F_N3B_MSG2"
+msgid ""
+"「ん、オレが寝ている間に\n"
+"　なんかあったのけ！？"
+msgstr ""
+"\"Did something happen\n"
+" while I was sleeping!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEB_1F_N3B_SEL1"
+msgid "$nn034に占拠された"
+msgstr "The city got taken over by Clan"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEB_1F_N3B_SEL2"
+msgid "なんもないよ"
+msgstr "Nothing"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEB_1F_N3B_MSG3"
+msgid ""
+"「がーーはははっは！{END TEXTBOX}\n"
+"「なに、バカなこと言ってんだべ。\n"
+"　そんなことあるわけねーだべっ！"
+msgstr ""
+"\"Gah, hah, hah, hah!\" {END TEXTBOX}\n"
+"\"Don't talk nonsense.\n"
+" That can never happen!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEB_1F_N3B_MSG4"
+msgid ""
+"「$nc008は\n"
+"　平和と　光の町。{END TEXTBOX}\n"
+"「なんも起こるわけねーべ。"
+msgstr ""
+"\"Elurus is\n"
+" is the city of peace and light.\" {END TEXTBOX}\n"
+"\"Nothing can happen here.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEB_2F_N1"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"ただの死体のようだ。"
+msgstr ""
+"\"...\"{END TEXTBOX}\n"
+"\"There's no reply.\n"
+" Seems to be a mere corpse.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEB_2F_TA_MSG"
+msgid "「ぎゃぎゃぎゃーーーっ！"
+msgstr "\"Gyah, gyah, gyah!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEC_1F_N3"
+msgid ""
+"「ときどき、この町に\n"
+"　$nn034№２の$nw019様を狙って\n"
+"　ハンターが忍びこんで来るが{END TEXTBOX}\n"
+"「タワーの最上階にいる\n"
+"　$nw019様の所まで行けた\n"
+"　ヤツは、ひとりもいないってさ。"
+msgstr ""
+"\"Hunters come\n"
+" to hunt No. 2 of Clan, \n"
+" Lord $nw019.\"{END TEXTBOX}\n"
+"\"But none\n"
+" reach Lord $nw019\n"
+" in the topmost floor.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEC_1F_N4A_MSG"
+msgid ""
+"「今、オレがやってんだ。\n"
+"　ジャマすんな・・・{END TEXTBOX}\n"
+"「あーーーっ！\n"
+"　やられちまったじゃねーかっ！{END TEXTBOX}\n"
+"「きさまぁ、ゆるさねー！！"
+msgstr ""
+"\"I'm now doing it.\n"
+" Don't bother me...\" {END TEXTBOX}\n"
+"\"Aaahhh!\n"
+" I got busted!\" {END TEXTBOX}\n"
+"\"Bastard, you'll pay!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEC_1F_N4B"
+msgid ""
+"「今、修理中だよ。\n"
+"　どこぞのバカが\n"
+"　ぶっこわしやがったんだ。"
+msgstr ""
+"\"It's being repaired.\n"
+" Some idiot\n"
+" broke it.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEC_1F_N4C"
+msgid ""
+"「ゲーム機は、もうなおったぜ。\n"
+"　もう壊すなよ。"
+msgstr ""
+"\"I fixed the game console.\n"
+" Don't break it again.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TEC_1F_GAME1"
+msgid ""
+"・・・・・・。{END TEXTBOX}\n"
+"まったく反応しない。\n"
+"どうやら壊れているようだ。"
+msgstr ""
+"...{END TEXTBOX}\n"
+"It doesn't react.\n"
+"It'd seem it's broken. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGB_1F_N2_MSG1"
+msgid ""
+"「ここは元々\n"
+"　$nn209だよ。{END TEXTBOX}\n"
+"「やつら、$nn034が攻めて来る前には\n"
+"　もう、いなくなってたんだ。{END TEXTBOX}\n"
+"「自分たちのことしか考えない\n"
+"　非情なやつらなのさ。"
+msgstr ""
+"\"This is originally\n"
+" the Rental Tank Shop.\" {END TEXTBOX}\n"
+"\"They fled even before\n"
+" the Clan arrived.\" {END TEXTBOX}\n"
+"\"They're heartless guys\n"
+" who only think of themselves.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGB_1F_N2_MSG2"
+msgid ""
+"「けっ！\n"
+"　$nn034がいなくなったら\n"
+"　もどってきやがって{END TEXTBOX}\n"
+"「ゲンキンなやつらだぜ！"
+msgstr ""
+"\"Keh!\n"
+" They came back\n"
+" because the Clan fled.\" {END TEXTBOX}\n"
+"\"What greedy guys!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGB_B1_N3_MSG"
+msgid ""
+"「ここの改造屋は世界一よ。{END TEXTBOX}\n"
+"「ここで改造できないクルマは\n"
+"　ほかのどの改造屋にも\n"
+"　改造できないでしょうね。"
+msgstr ""
+"\"This Modder is\n"
+" the best in the world.\" {END TEXTBOX}\n"
+"\"If you can't be modder here\n"
+" no-one will\n"
+" be able to.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N1A_MSG"
+msgid ""
+"「ったく！\n"
+"　ここの客は、最悪だぜ。\n"
+"　ガラ悪すぎだっちゅーの！{END TEXTBOX}\n"
+"「アタイも、早くこんな店やめて\n"
+"　もっと、いい店に行きたいぜ！"
+msgstr ""
+"\"Sheesh! \n"
+" These clients are the worst.\n"
+" Very vulgar!\" {END TEXTBOX}\n"
+"\"Wanna quit this store soon\n"
+" and go to a better store!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N1B_MSG"
+msgid ""
+"「やっと夢がかなったわ。{END TEXTBOX}\n"
+"「どこの誰だか知らないけど\n"
+"　これも$nn034を追っぱらって\n"
+"　くれた人のおかげよ。"
+msgstr ""
+"\"My dream finally fulfilled.\" {END TEXTBOX}\n"
+"\"Dunno his name.\n"
+" But I mean the guy\n"
+" who beat the Clan.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N2"
+msgid ""
+"「よぉ、ねぇちゃんよぉ。\n"
+"　オレと　いっしょに\n"
+"　いいことしねーか！？{END TEXTBOX}\n"
+"「だれが、あんたみたいな\n"
+"　ゲス野郎を相手にすんだよっ！\n"
+"　ふんっ！"
+msgstr ""
+"\"Hey, missy.\n"
+" Don't wanna\n"
+" have fun with me!?\" {END TEXTBOX}\n"
+"\"Who'd stick around\n"
+" with a dirty rascal like you!\n"
+" Hmpf!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N3A"
+msgid ""
+"「この町のタワーには、ときどき\n"
+"　$nn034の首領、$nn042様も\n"
+"　来るらしいぜ！{END TEXTBOX}\n"
+"「あー、オレも見たことあるぜ！\n"
+"　ヘリに乗って、屋上のヘリポートに\n"
+"　降りるところをよ！"
+msgstr ""
+"\"One day Lord Gratonos,\n"
+" boss of the Clan,\n"
+" came over!\" {END TEXTBOX}\n"
+"\"Me, too\n"
+" He rides on chopper\n"
+" and lands in heliport!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N3B"
+msgid ""
+"「いやー、ここのメシは\n"
+"　最高だぜっ！"
+msgstr ""
+"\"Man, this meal\n"
+" is great!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N5"
+msgid ""
+"「けっ！\n"
+"　また負けちまった。{END TEXTBOX}\n"
+"「今日はもうしまいだ。\n"
+"　ちきしょうめっ！"
+msgstr ""
+"\"Keh!\n"
+" I lost again.\" {END TEXTBOX}\n"
+"\"Quitting for today!\n"
+" Damn it!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N6_MSG1"
+msgid ""
+"「おい、あんた\n"
+"　オレと勝負するかい？"
+msgstr ""
+"\"Hey, you\n"
+" Wanna play with me?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N6_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N6_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N6_SEL3"
+msgid "ぶっとばす！"
+msgstr "Beat them up!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N6_MSG2"
+msgid ""
+"「おいおいおい！\n"
+"　慌てるなよ、ケンカじゃねーよ。\n"
+"　カードの勝負だよ。"
+msgstr ""
+"\"Hey!\n"
+" Don't panic, it's not a brawl.\n"
+" I mean a card game.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N6_SEL4"
+msgid "ＯＫ！"
+msgstr "OK!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N6_SEL5"
+msgid "イヤだ"
+msgstr "Don't want to"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N6_SEL6"
+msgid "勝負する"
+msgstr "Play"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N6_SEL7"
+msgid "しない"
+msgstr "Not do it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N6_MSG3"
+msgid ""
+"「よし、１ゲーム１００Ｇだ。\n"
+"　いいかい？"
+msgstr ""
+"\"Good. 1 game, 100G.\n"
+" OK?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N6_MSG4"
+msgid "「よし、やろうぜ！"
+msgstr "\"Good, let's do it!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N6_MSG5"
+msgid ""
+"「その気になったら\n"
+"　来てくれや。\n"
+"　いつでも相手するぜ！"
+msgstr ""
+"\"If you feel like it\n"
+" then come.\n"
+" I'll play with you!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_1F_N6_MSG6"
+msgid ""
+"「おいおい、\n"
+"　金もってねーじゃねーか。\n"
+"　稼いでからこいよ！"
+msgstr ""
+"\"Hey!\n"
+" You've got no money!\n"
+" Gather some!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N1_MSG1"
+msgid ""
+"「いらっしゃーい。{END TEXTBOX}\n"
+"「どう、今日の衣装\n"
+"　似合う？"
+msgstr ""
+"\"Welcome!\" {END TEXTBOX}\n"
+"\"Does today's suit\n"
+" fit me?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N1_SEL1"
+msgid "似合うよ"
+msgstr "It fits you"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N1_SEL2"
+msgid "別のにして"
+msgstr "Try another"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N1_MSG2"
+msgid ""
+"「ありがとう。\n"
+"　うれしい♪{END TEXTBOX}\n"
+"「じゃあ、始めましょうね。"
+msgstr ""
+"\"Thanks.\n"
+" I'm happy ♪\" {END TEXTBOX}\n"
+"\"OK, let's begin.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N1_MSG3"
+msgid ""
+"「ぷにぷに。\n"
+"　ぷにぷに。{END TEXTBOX}\n"
+"「ぷにぷに。\n"
+"　ぷにぷに。{END TEXTBOX}\n"
+"「はーい、おしまいよ。"
+msgstr ""
+"\"Massage.\n"
+" Massage.\" {END TEXTBOX}\n"
+"\"Massage.\n"
+" Massage.\"  {END TEXTBOX}\n"
+"\"OK, finished.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N1_MSG4"
+msgid ""
+"「また来てねー。\n"
+"　うふ。"
+msgstr ""
+"\"Come again some day.\n"
+" Tee-heh.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N1_MSG5"
+msgid ""
+"「あら、気にいらない？{END TEXTBOX}\n"
+"「どれがいいかしら？"
+msgstr ""
+"\"You don't like it?\" {END TEXTBOX}\n"
+"\"Which do you prefer?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N1_SEL3"
+msgid "ドレス"
+msgstr "Dress"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N1_SEL4"
+msgid "町娘風"
+msgstr "Town girl style"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N1_SEL5"
+msgid "西部劇風"
+msgstr "Wild West style"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N1_SEL6"
+msgid "バニーガール"
+msgstr "Bunny Girl"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N1_MSG6"
+msgid ""
+"「$_0ね。\n"
+"　わかった、すぐ着替えるから\n"
+"　まっててね。"
+msgstr ""
+"\"The $_0?\n"
+" OK, will change\n"
+" so wait a min.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N1_MSG7"
+msgid "「どう、似合う？"
+msgstr "\"Does it look good on me?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N2_MSG1"
+msgid ""
+"「いらっしゃーい。\n"
+" お兄さん、若いわね。\n"
+"　サービスしちゃうわよ。"
+msgstr ""
+"\"Welcome.\n"
+" You're strong, my boy.\n"
+" I'll do it free.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N2_SEL1"
+msgid "おねがい"
+msgstr "Please"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N2_SEL2"
+msgid "また今度"
+msgstr "On another day"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N2_MSG2"
+msgid "「じゃあ、始めるわよ。"
+msgstr "\"Let's begin.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N2_MSG3"
+msgid ""
+"「ぷにぷに。\n"
+"　ぷにぷに。{END TEXTBOX}\n"
+"「ぷにぷに。\n"
+"　ぷにぷに。{END TEXTBOX}\n"
+"「はい、おしまい。"
+msgstr ""
+"\"Massage.\n"
+" Massage.\" {END TEXTBOX}\n"
+"\"Massage.\n"
+" Massage.\"  {END TEXTBOX}\n"
+"\"OK, finished.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N2_MSG4"
+msgid ""
+"「また来てねー。\n"
+"　うふ。"
+msgstr ""
+"\"Come again some day.\n"
+" Tee-heh.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N2_MSG5"
+msgid ""
+"「あら、どうしたの？{END TEXTBOX}\n"
+"「はずかしがらなくて\n"
+"　いいのよ。"
+msgstr ""
+"\"What's wrong?\" {END TEXTBOX}\n"
+"\"You needn't\n"
+" feel shy.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N3_MSG1"
+msgid ""
+"「もう少しまってぇ。{END TEXTBOX}\n"
+"「ん！？\n"
+"　あなた部屋がちがうわよ。"
+msgstr ""
+"\"Wait a bit more.\" {END TEXTBOX}\n"
+"\"Hmm!?\n"
+" Wrong room.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N3_MSG2"
+msgid ""
+"「えっ！？　$nn034に\n"
+"　むりやり、やらされて\n"
+"　いたんじゃなかったのかって？{END TEXTBOX}\n"
+"「あはははははっ！{END TEXTBOX}\n"
+"「面白いことをいう人だね。\n"
+"　男に、悪党も善人も\n"
+"　ないよ！{END TEXTBOX}\n"
+"「服を脱いじまえば、\n"
+"　みんな、同じさ。"
+msgstr ""
+"\"Eh!? If the Clan\n"
+" were forcing me to\n"
+" do this?\" {END TEXTBOX}\n"
+"\"Hah, hah, hah!\" {END TEXTBOX}\n"
+"\"How fun.\n"
+" There's no villains or heroes\n"
+" amongst men!\" {END TEXTBOX}\n"
+"\"If you take off their clothes\n"
+" they all act the same.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N4A"
+msgid "「おーい、まだかー。"
+msgstr "\"Hey, when does it begin?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N5_MSG1"
+msgid ""
+"「兄さん、１回１００Ｇだぜ。\n"
+"　どうだい？"
+msgstr ""
+"\"Bro, 100G per session.\n"
+" Well?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N5_SEL1"
+msgid "おねがい"
+msgstr "Please"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N5_SEL2"
+msgid "また今度"
+msgstr "Some other day"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N5_MSG2"
+msgid "「ＯＫ！ＯＫ！"
+msgstr "\"OK! OK!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N5_MSG3"
+msgid ""
+"「おっと、この先は\n"
+"　ひとりで　行ってくれ！"
+msgstr ""
+"\"Hey. Enter\n"
+" alone!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N5_MSG4"
+msgid ""
+"「ＮＯ！マネー！\n"
+"　ＮＯ！サービス！{END TEXTBOX}\n"
+"「カネがないなら\n"
+"　帰ってくれ。"
+msgstr ""
+"\"No! Money!\n"
+" No! Service!\" {END TEXTBOX}\n"
+"\"Got no money,\n"
+" leave.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N5_MSG5"
+msgid ""
+"「そうかい、\n"
+"　いつでも待ってるぜ！"
+msgstr ""
+"\"I see.\n"
+" Come again whenever you want!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N5_MSG6"
+msgid "「なんだ、もうおかえりかい？"
+msgstr "\"What, going back already?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N5_MSG7"
+msgid "「じゃあ、またな。"
+msgstr "\"See you.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N5_MSG8"
+msgid "「たっぷり、楽しんでくれ。"
+msgstr "\"Enjoy it.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N5_MSG11"
+msgid ""
+"「ここはお姉さんが\n"
+"　来る場所じゃねーぜ！{END TEXTBOX}\n"
+"「それとも、ここで働く気かい？"
+msgstr ""
+"\"This ain't a place\n"
+" for girls!\" {END TEXTBOX}\n"
+"\"Or do you intend to work here?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N5_SEL3"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N5_SEL4"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N5_MSG12"
+msgid ""
+"「あはははは。{END TEXTBOX}\n"
+"「おもしれー、ねーちゃんだ。\n"
+"　あいにく、ウチは定員が\n"
+"　いっぱいでね。{END TEXTBOX}\n"
+"「残念だ。\n"
+"　また来てくれや。"
+msgstr ""
+"\"Hah, hah, hah.\"{END TEXTBOX}\n"
+"\"Interesting girl.\n"
+" Sorry, but got\n"
+" too much staff.\"{END TEXTBOX}\n"
+"\"Sorry.\n"
+" Come again some other day.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_2F_N5_MSG13"
+msgid ""
+"「じゃあ、さっさと\n"
+"　出て行ってくれ！"
+msgstr ""
+"\"Then leave\n"
+" at once!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N1A"
+msgid ""
+"「なんだ、おまえ\n"
+"　見かけない顔だな。{END TEXTBOX}\n"
+"「ベッドなら、奥のヤツを\n"
+"　使ってくれよ。"
+msgstr ""
+"\"Who are you?\n"
+" I don't know you.\"{END TEXTBOX}\n"
+"\"Wish a bed,\n"
+" use the one deeper in.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N1B_MSG1"
+msgid ""
+"「町に、もどれたのはいいけど\n"
+"　モンスターにおそわれて\n"
+"　けが人だらけよ。{END TEXTBOX}\n"
+"「それに薬がたりなくて\n"
+"　大変なの。{END TEXTBOX}\n"
+"「だれか、薬を調達して\n"
+"　くれないかしら？"
+msgstr ""
+"\"We're back here\n"
+" but it's full of\n"
+" wounded by Monsters.\" {END TEXTBOX}\n"
+"\"Don't have enough medicines,\n"
+" this is hard.\" {END TEXTBOX}\n"
+"\"Won't someone go\n"
+" fetch some medicines?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N1B_SEL1"
+msgid "引き受けよう"
+msgstr "Accept"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N1B_SEL2"
+msgid "大変だね"
+msgstr "It gotta be hard"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N1B_MSG2"
+msgid ""
+"「えっ、本当？\n"
+"　だったら、$ni044を\n"
+"　３０コ、用意してほしいの。{END TEXTBOX}\n"
+"「お願いね。\n"
+"　$ni044、３０コよ。"
+msgstr ""
+"\"Eh, really?\n"
+" Then bring me 30 samples of\n"
+" $ni044.\" {END TEXTBOX}\n"
+"\"Please.\n"
+" 30 of $ni044.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N1B_MSG3"
+msgid ""
+"「同情するなら\n"
+"　薬のひとつでも\n"
+"　持ってきてほしいわ。"
+msgstr ""
+"\"If you feel pity\n"
+" then \n"
+"t bring some medicine.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N1B_MSG11"
+msgid ""
+"「$ni044を３０コよ。\n"
+"　お願いね。"
+msgstr ""
+"\"$ni044, 30 units.\n"
+" Please.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N1B_MSG21"
+msgid ""
+"「$ni044を\n"
+"　持ってきてくれたのね。{END TEXTBOX}\n"
+"「どれ、みせて。"
+msgstr ""
+"\"You brought\n"
+" $ni044.\"{END TEXTBOX}\n"
+"\"Let me check.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N1B_MSG22"
+msgid ""
+"「$_1コね。\n"
+"　これ、全部もらうわね。"
+msgstr ""
+"\"$_1.\n"
+" Going to keep them.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N1B_MSG23"
+msgid ""
+"「$_0コも\n"
+"　調達してきたの。\n"
+"　すごいわ。{END TEXTBOX}\n"
+"「でも、　あと$_1コ\n"
+"　あれば、十分なの。\n"
+"　じゃあ、$_1コ　もらうわね。"
+msgstr ""
+"\"You brought\n"
+" $_0.\n"
+" Impressive.\"{END TEXTBOX}\n"
+"\"But I'll have enough with\n"
+" another $_1.\n"
+" Going to borrow $_1.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N1B_SEL3"
+msgid "ＯＫ！"
+msgstr "OK!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N1B_SEL4"
+msgid "ダメ！"
+msgstr "No!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N1B_MSG24"
+msgid ""
+"$npは\n"
+"$ni044を\n"
+"$_1コ　わたした。{END TEXTBOX}\n"
+"「ありがとう。"
+msgstr ""
+"$np gave\n"
+"n$_1 $ni044.{END TEXTBOX}\n"
+"\"Thanks.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N1B_MSG25"
+msgid ""
+"「これで、みんなに\n"
+"　薬を投与できるわ。{END TEXTBOX}\n"
+"「これもみんな、\n"
+"　あなたのおかげよ。{END TEXTBOX}\n"
+"「あ、そうだ。{END TEXTBOX}\n"
+"「これはわたしからの\n"
+"　お礼よ。{END TEXTBOX}\n"
+"$npは\n"
+"$_0を\n"
+"もらった。"
+msgstr ""
+"\"Now I can\n"
+" give medicines\n"
+" to all of them.\"{END TEXTBOX}\n"
+"\"It's all\n"
+" thanks to you.\"{END TEXTBOX}\n"
+"\"Ah, yes.\"{END TEXTBOX}\n"
+"\"This is a reward\n"
+" from me.\" {END TEXTBOX}\n"
+"$np\n"
+"got $_0."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N1B_MSG26"
+msgid ""
+"「でも、まだ　$_0コ\n"
+"　足らないわ。{END TEXTBOX}\n"
+"「がんばって調達してきてね。"
+msgstr ""
+"\"But I still need\n"
+" another $_0.\" {END TEXTBOX}\n"
+"\"Do your best to gather them.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N1B_MSG27"
+msgid ""
+"「な、なんて人なの！{END TEXTBOX}\n"
+"「あなたには\n"
+"　この苦しんでいる人たちが\n"
+"　見えないの！"
+msgstr ""
+"\"W-what a...!\" {END TEXTBOX}\n"
+"\"You can't see\n"
+" all the people here\n"
+" who suffer!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N1B_MSG31"
+msgid ""
+"「これで、みんなに\n"
+"　薬を投与できるわ。{END TEXTBOX}\n"
+"「これもみんな、\n"
+"　あなたのおかげよ。"
+msgstr ""
+"\"Now I can\n"
+" give medicines to all of them.\"{END TEXTBOX}\n"
+"\"It's all\n"
+" thanks to you.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N2_MSG1"
+msgid ""
+"「ぐごぉーー。\n"
+"　ぐごぉーー。"
+msgstr ""
+"\"Gugoaaa.\n"
+" Guaaa.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N2_MSG2"
+msgid ""
+"「いてー！\n"
+"　いてー！\n"
+"　なんとかしてくれぇ！"
+msgstr ""
+"\"Ow!\n"
+" OW!\n"
+" Do something about this pain!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N2_MSG3"
+msgid ""
+"「あー、痛みが消えて\n"
+"　なんだか、きもちいい～。"
+msgstr ""
+"\"Ah, the pain is gone\n"
+" and it feels good...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N3A"
+msgid ""
+"「あー、イビキがうるさくて\n"
+"　ねむれない・・・。"
+msgstr ""
+"\"Ah, those snores are so loud,\n"
+" cannot sleep...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N3B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。{END TEXTBOX}\n"
+"どうやら\n"
+"寝ているようだ。"
+msgstr ""
+"...{END TEXTBOX}\n"
+"There's no answer.{END TEXTBOX}\n"
+"It'd seem\n"
+"they can't sleep."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N4_MSG1"
+msgid ""
+"「ごごごごーー。\n"
+"　ごーごごっごー。"
+msgstr ""
+"\"Gogogogogo.\n"
+" Gogogogo.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N4_MSG2"
+msgid ""
+"「こんな美人に看病して\n"
+"　もらえるなら\n"
+"　けが人も、わるくないなぁ。{END TEXTBOX}\n"
+"「あー、でも\n"
+"　苦しい・・・。"
+msgstr ""
+"\"If that beauty\n"
+" takes care of me\n"
+" I can resist pain.\" {END TEXTBOX}\n"
+"\"Ah, but...\n"
+" It's painful...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N4_MSG3"
+msgid ""
+"「こんな美人に看病して\n"
+"　もらえるなら\n"
+"　けが人も、わるくないなぁ。{END TEXTBOX}\n"
+"「それに、薬で、気持ちいいぃ。"
+msgstr ""
+"\"If that beauty\n"
+" takes care of me\n"
+" I can resist pain.\" {END TEXTBOX}\n"
+"\"Also, the medicine\n"
+" makes me feel good...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N5A"
+msgid ""
+"「すーー。\n"
+"　すーー。"
+msgstr ""
+"\"Zzzz.\n"
+" Zzzz...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N5B_MSG1"
+msgid ""
+"「オレとしたことが\n"
+"　ヘマをしちまったぜ。{END TEXTBOX}\n"
+"「自分の身を自分で\n"
+"　守れないとは・・・。{END TEXTBOX}\n"
+"「オレもヤキが\n"
+"　まわったぜ・・・。"
+msgstr ""
+"\"I actually\n"
+" screwed it up.\"{END TEXTBOX}\n"
+"\"I couldn't\n"
+" protect myself...\" {END TEXTBOX}\n"
+"\"I'm getting\n"
+" old, too...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N5B_MSG2"
+msgid ""
+"「薬なんぞに、たよっちまうとは\n"
+"　オレもヤキがまわったぜ・・・。"
+msgstr ""
+"\"Relying on medicines...\n"
+" I'm getting old...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N6_MSG1"
+msgid ""
+"「うぅ、頭がイタい！\n"
+"　腕がイタい！\n"
+"　腰もイタい！"
+msgstr ""
+"\"Uh, my head hurts!\n"
+" My arms hurt!\n"
+" My legs hurt, too!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N6_MSG2"
+msgid ""
+"「えーのう、えーのう\n"
+"　白衣は、えーのう。"
+msgstr ""
+"\"Nice, nice\n"
+" White coat is nice.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N7_MSG1"
+msgid ""
+"「えーん、えーん！\n"
+"　いたいよう！"
+msgstr ""
+"\"Huh, huh!\n"
+" It hurts!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N7_MSG2"
+msgid ""
+"「すー。\n"
+"　すー。"
+msgstr ""
+"\"Zzzz.\n"
+" Zzzz...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N8"
+msgid ""
+"「あーー、また負けだ。\n"
+"　負け！{END TEXTBOX}\n"
+"「やってらんねーぜ！"
+msgstr ""
+"\"Ah, I lost again!\n"
+" Lost!\" {END TEXTBOX}\n"
+"\"I'm quitting!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N9_MSG1"
+msgid ""
+"「へへ。またオレの勝ちだ！{END TEXTBOX}\n"
+"「お、そこのヤツ。\n"
+"　オレとカードしようぜ？"
+msgstr ""
+"\"Heh, heh. I win again!\" {END TEXTBOX}\n"
+"\"Hey, you.\n"
+" Wanna play cards with me?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N9_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N9_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N9_MSG2"
+msgid ""
+"「よし、１ゲーム２００Ｇだ。\n"
+"　いいかい？"
+msgstr ""
+"\"OK, 1 game is 200G.\n"
+" Alright?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N9_SEL3"
+msgid "ＯＫ！"
+msgstr "OK!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N9_SEL4"
+msgid "イヤだ"
+msgstr "Nope"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N9_MSG3"
+msgid "「よし、やろうぜ！"
+msgstr "\"Good, let's do it!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N9_MSG4"
+msgid ""
+"「なんだ、逃げるのか？{END TEXTBOX}\n"
+"「オレなら\n"
+"　いつでも相手するぜ！"
+msgstr ""
+"\"What, running away?\" {END TEXTBOX}\n"
+"\"I'll play with you\n"
+" anytime!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N9_MSG11"
+msgid ""
+"「カモがいなく\n"
+"　なっちまったぜ！{END TEXTBOX}\n"
+"「お、そこのヤツ。\n"
+"　オレとカードしようぜ？"
+msgstr ""
+"\"Got no\n"
+" easy preys!\" {END TEXTBOX}\n"
+"\"Hey, you.\n"
+" Wanna play cards with me?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_N9_MSG12"
+msgid ""
+"「なんだ、金がないのか？\n"
+"　稼いでからまたこいよ。{END TEXTBOX}\n"
+"「オレなら\n"
+"　いつでも相手するぜ！"
+msgstr ""
+"\"What, out of money?\n"
+" Get some and come back.\" {END TEXTBOX}\n"
+"\"I'll play with you\n"
+" anytime!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_BED1_MSG"
+msgid ""
+"「そこはオレのベッドだよ。{END TEXTBOX}\n"
+"「寝るんなら、奥のベッドを\n"
+"　つかいな！"
+msgstr ""
+"\"That's my bed.\" {END TEXTBOX}\n"
+"\"Wanna sleep, \n"
+" use the bed further in!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_BED2_MSG1"
+msgid "「休憩しますか？"
+msgstr "\"Will you rest?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_BED2_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_BED2_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_BED2_MSG2"
+msgid ""
+"$npは\n"
+"少し休むことにした。"
+msgstr ""
+"$np\n"
+"rested for a bit"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TED_B1_BED2_MSG3"
+msgid ""
+"$npは\n"
+"休憩するのをやめた。"
+msgstr ""
+"$np\n"
+"didn't rest"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_MAN_N2_MSG1"
+msgid ""
+"「ここは、ハンターたちが\n"
+"　たたかいの記録をつける\n"
+"　$nn208よ！{END TEXTBOX}\n"
+"「あなたもゲームを\n"
+"　セーブしてみる？"
+msgstr ""
+"\"I'm the Memory Center\n"
+" where Hunters\n"
+" keep memories of battles!\" {END TEXTBOX}\n"
+"\"Are you going to\n"
+" save the game?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_MAN_N2_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_MAN_N2_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_MAN_N2_MSG2"
+msgid ""
+"「では、セーブしますね。{END TEXTBOX}\n"
+"「ぽん　ぽん　ぽん･･･と。{END TEXTBOX}\n"
+"ピピピッ！\n"
+"ピピーーーーーーーーー！{END TEXTBOX}\n"
+"ピ、ピ、ピ！{END TEXTBOX}\n"
+"パンパカパーン♪{END TEXTBOX}\n"
+"「あ、当たったわ！{END TEXTBOX}\n"
+"「でも、やっぱり\n"
+"　自販機じゃセーブできない\n"
+"　みたいだわ。"
+msgstr ""
+"\"I'll save it, then.\" {END TEXTBOX}\n"
+"\"Ping, ping ping...\"{END TEXTBOX}\n"
+"\"Beep-beep-beep!\n"
+" BEEEPPP!\" {END TEXTBOX}\n"
+" Beep, beep!  {END TEXTBOX}\n"
+"Ta-dah♪ {END TEXTBOX}\n"
+"\"Oh, I got prize!\" {END TEXTBOX}\n"
+"\"Seems that\n"
+" you can't save the game\n"
+" in a vending machine\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_MAN_N2_MSG3"
+msgid ""
+"「ごめんなさい。\n"
+"　$nt\n"
+"　$npさん！{END TEXTBOX}\n"
+"$nc008で　$nn208の\n"
+"お姉さんがいなくて、困っていると\n"
+"事情を説明した。{END TEXTBOX}\n"
+"「えっ！お姉さんが！？{END TEXTBOX}\n"
+"「わかったわ。\n"
+"　すぐにもどるわ。"
+msgstr ""
+"\"Sorry.\n"
+" $np\n"
+" the $nt!\" {END TEXTBOX}\n"
+"You explained that the sister of\n"
+"Memory Center isn't at Elurus,\n"
+"at that there's trouble. {END TEXTBOX}\n"
+"\"Eh! Sis is in trouble!?\" {END TEXTBOX}\n"
+"\"Gotcha.\n"
+" Going back ASAP.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_MAN_N2_MSG4"
+msgid ""
+"「ゲームをやめるときは\n"
+"　ここで記録をつけてね！{END TEXTBOX}\n"
+"「でないと、せっかくの\n"
+"　苦労がみずのあわよ！"
+msgstr ""
+"\"When you want to stop playing\n"
+" record it here!\" {END TEXTBOX}\n"
+"\"If not your efforts\n"
+" will have been in vain!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TC_N1_MSG1"
+msgid ""
+"「見てのとおりよ。{END TEXTBOX}\n"
+"「$nn034の連中に\n"
+"　なにもかも　もっていかれたわ。{END TEXTBOX}\n"
+"「あと、売れるモノといったら\n"
+"　あたしくらいかしら・・・。{END TEXTBOX}\n"
+"「あんた、買ってくれるかい？"
+msgstr ""
+"\"As you can see...\" {END TEXTBOX}\n"
+"\"The Clan\n"
+" have stolen all from us.\" {END TEXTBOX}\n"
+"\"I've only got myself\n"
+" as things to sell...\" {END TEXTBOX}\n"
+"\"Will you buy me?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TC_N1_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TC_N1_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TC_N1_MSG2"
+msgid ""
+"「バッカじゃないの！\n"
+"　売るわけないでしょっ！"
+msgstr ""
+"\"Are you stupid!?\n"
+" Like I'd sell myself!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TC_N1_MSG3"
+msgid ""
+"「ふんっ！\n"
+"　あたしなんて、買う価値も\n"
+"　ないって！？{END TEXTBOX}\n"
+"「さっ、用がないなら\n"
+"　出てってくれっ！"
+msgstr ""
+"\"Hmpf!\n"
+" So I'm not\n"
+" worth buying!?\" {END TEXTBOX}\n"
+"\"Got no business, then\n"
+" get out!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N1_MSG1"
+msgid ""
+"「ここは地下の名もない町だ。{END TEXTBOX}\n"
+"「町といっても、\n"
+"　そこら中に　モンスターが\n"
+"　徘徊しているがな。{END TEXTBOX}\n"
+"「$nc008の町が\n"
+"　$nn034に占拠されたんで\n"
+"　みんな、ここに逃げこんでるのさ。{END TEXTBOX}\n"
+"「モンスターが徘徊するが\n"
+"　$nn034よりはマシって\n"
+"　ことだ。"
+msgstr ""
+"\"This is a nameless\n"
+" underground city.\" {END TEXTBOX}\n"
+"\"I call it city but\n"
+" Monsters are\n"
+" everywhere.\"  {END TEXTBOX}\n"
+"\"We ran here\n"
+" since Elurus\n"
+" was occupied by the Clan.\" {END TEXTBOX}\n"
+"\"Monsters everywhere\n"
+" but better than\n"
+" the Clan.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N1_SEL1"
+msgid "メモリーセンターは？"
+msgstr "Where's the Memory Center?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N1_SEL2"
+msgid "満タンサービスは？"
+msgstr "Where's the Refill Service?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N1_SEL3"
+msgid "宿屋は？"
+msgstr "Where's the inn?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N1_SEL4"
+msgid "立ち去る"
+msgstr "Leave"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N1_MSG2"
+msgid ""
+"「ここを左に行った先の\n"
+"　スロープで、地上にでると\n"
+"　みつかるよ。"
+msgstr ""
+"\"Turn left\n"
+" and exit to street on that slope\n"
+" to find it\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N1_MSG3"
+msgid ""
+"「宿屋！？\n"
+"　あったような・・・。\n"
+"　ないような・・・。"
+msgstr ""
+"\"The inn!?\n"
+" There is...\n"
+" Or these isn't...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N1_MSG4"
+msgid ""
+"$npは\n"
+"立ち去ることにした。"
+msgstr ""
+"$np\n"
+"left the place."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N2"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただの死体のようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere corpse. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N4"
+msgid ""
+"「ひぃいいぃーー。\n"
+"　助けてくれーー。{END TEXTBOX}\n"
+"「カネなら、いくらでも\n"
+"　あげるから\n"
+"　命だけはーーー！"
+msgstr ""
+"\"Hiihh.\n"
+" Help me!\"{END TEXTBOX}\n"
+"\"I'll give you\n"
+" money so\n"
+" spare me!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N6"
+msgid ""
+"「ひっく・・・。{END TEXTBOX}\n"
+"「店は$nn034に\n"
+"　乗っ取られちまった。{END TEXTBOX}\n"
+"「酒でものまねーと\n"
+"　やってらんないぜ。"
+msgstr ""
+"\"Hip...\" {END TEXTBOX}\n"
+"\"My store got taken over by\n"
+" the Clan.\" {END TEXTBOX}\n"
+"\"If I don't drink\n"
+" I can't calm down.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N7"
+msgid ""
+"「仕事も奪われ、\n"
+"　住む場所も奪われ\n"
+"　未来も奪われちまった・・・。{END TEXTBOX}\n"
+"「残ったのは　$nn309だけさ・・・。\n"
+"　へへへ・・・。"
+msgstr ""
+"\"My job,\n"
+" my house,\n"
+" my future stolen...\"{END TEXTBOX}\n"
+"\"Only thing left is Alcohol...\n"
+" Heh, heh, heh...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N8"
+msgid ""
+"「おい、こんな所で寝たら\n"
+"　モンスターに殺されるぞ！"
+msgstr ""
+"\"Hey! If you sleep there\n"
+" the Monsters will kill you!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N9A"
+msgid ""
+"「ぐごーー。{END TEXTBOX}\n"
+"「もう、いいんだ・・・\n"
+"　どう、なって・・・\n"
+"　ぐごーー。"
+msgstr ""
+"\"Gugoh...\" {END TEXTBOX}\n"
+"\"I don't care...\n"
+" What happens...\n"
+" Gugoh.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N9B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら　\n"
+"ただの死体のようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere corpse. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N10"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら　\n"
+"ただの死体のようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere corpse. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N11"
+msgid ""
+"「みな、こうやってバリケードを\n"
+"　つくって、モンスターから\n"
+"　身を守っているんだよ。"
+msgstr ""
+"\"We make barricades\n"
+" to protect\n"
+" from the Monsters.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N12"
+msgid ""
+"「家族は、みんな\n"
+"　殺されちまったよ。{END TEXTBOX}\n"
+"「$nn034に殺され‥‥。{END TEXTBOX}\n"
+"「モンスターに殺され‥‥。{END TEXTBOX}\n"
+"「飢えに殺され‥‥。{END TEXTBOX}\n"
+"「オレは、誰に殺されるん\n"
+"　だろうな‥‥。{END TEXTBOX}\n"
+"「あは‥‥は‥‥は‥‥。"
+msgstr ""
+"\"All my family\n"
+" was killed.\" {END TEXTBOX}\n"
+"\"Killed by the Clan...\" {END TEXTBOX}\n"
+"\"Killed by the Monsters...\" {END TEXTBOX}\n"
+"\"Killed by hunger...\" {END TEXTBOX}\n"
+"\"I'll get killed\n"
+" by something...\" {END TEXTBOX}\n"
+"\"Hah... Hah... Hah...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N13"
+msgid ""
+"「あの日、$nn034の連中が\n"
+"　やってきた。{END TEXTBOX}\n"
+"「あっというまだったよ。{END TEXTBOX}\n"
+"「なぜか、警備の連中が\n"
+"　気づかなかったんだ。{END TEXTBOX}\n"
+"「うわさじゃ、$nn034に\n"
+"　買収されたって話だ。"
+msgstr ""
+"\"On that day, the Clan\n"
+" appeared.\" {END TEXTBOX}\n"
+"\"It was in the blink of an eye.\" {END TEXTBOX}\n"
+"\"Why didn't the guards\n"
+" notice them?\" {END TEXTBOX}\n"
+"\"Rumors says that the Clan\n"
+" bribed them.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N14"
+msgid ""
+"「自分の身は自分で守る。\n"
+"　この世界、たったひとつの掟さ。{END TEXTBOX}\n"
+"「みんな平和ボケして\n"
+"　暮らしてるから\n"
+"　こんな目にあうんだ。"
+msgstr ""
+"\"You protect yourself.\n"
+" The only rule in this world.\" {END TEXTBOX}\n"
+"\"Stupid,\n"
+" you think of\n"
+" peace, and this happens.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N15_MSG1"
+msgid ""
+"「ここは、ハンターたちが\n"
+"　たたかいの記録を　つける\n"
+"　$nn208よ！{END TEXTBOX}\n"
+"「あなたもゲームを\n"
+"　セーブしてみる？"
+msgstr ""
+"\"This is the Memory Center\n"
+" where Hunters\n"
+" store memories of battles!\" {END TEXTBOX}\n"
+"\"Are you going to\n"
+" save the game?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N15_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N15_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N15_MSG2"
+msgid ""
+"「では、セーブしますね。{END TEXTBOX}\n"
+"「ぽん　ぽん　ぽん･･･と。{END TEXTBOX}\n"
+"「あら、やっぱり\n"
+"　冷蔵庫じゃセーブできない\n"
+"　みたいだわ。"
+msgstr ""
+"\"I'll save the game.\" {END TEXTBOX}\n"
+"\"Pon, pon, ton...\" {END TEXTBOX}\n"
+"\"Oh, so it'd seem that\n"
+" I can't save in a\n"
+" fridge.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N15_MSG3"
+msgid ""
+"「ごめんなさい。\n"
+"　$nt\n"
+"　$npさん！"
+msgstr ""
+"\"Sorry. $np,\n"
+" the $nt!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N15_MSG4"
+msgid ""
+"「ゲームをやめるときは\n"
+"　ここで記録をつけてね！{END TEXTBOX}\n"
+"「でないと、せっかくの\n"
+"　苦労がみずのあわよ！"
+msgstr ""
+"\"When you stop playing\n"
+" store your memories here!\"  {END TEXTBOX}\n"
+"\"Else all of your efforts\n"
+" will have been in vain!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N18_MSG1"
+msgid ""
+"「ここの自販機を使いたければ\n"
+"　１００Ｇ払いな！"
+msgstr ""
+"\"Want to use this machine,\n"
+" pay 100G!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N18_SEL1"
+msgid "はらう"
+msgstr "Pay"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N18_SEL2"
+msgid "はらわない"
+msgstr "Don't pay"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N18_MSG2"
+msgid "「よし、通ってもいいぜ！"
+msgstr "\"Good, you may pass!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N18_MSG3"
+msgid ""
+"「はぁ！？\n"
+"　カネがたりねーぜ！\n"
+"　おととい来な！"
+msgstr ""
+"\"Huh!?\n"
+" Not enough money!\n"
+" Never come again!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N18_MSG4"
+msgid "「じゃあ、とっとと消えな！"
+msgstr "\"Then be gone!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N19A_MSG1"
+msgid ""
+"「$nc008のおいしい水は\n"
+"　いかが？{END TEXTBOX}\n"
+"「ひえひえに冷えてるよ。\n"
+"　１本、１００Ｇだ。"
+msgstr ""
+"\"Do you want\n"
+" good water from Elurus?\" {END TEXTBOX}\n"
+"\"It's very cold.\n"
+" 1 barrel, 100G.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N19A_SEL1"
+msgid "はらう"
+msgstr "Pay"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N19A_SEL2"
+msgid "はらわない"
+msgstr "Don't pay"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N19A_MSG2"
+msgid ""
+"「毎度あり！{END TEXTBOX}\n"
+"$npは\n"
+"１００Ｇをはらって\n"
+"$ni045を手にいれた。"
+msgstr ""
+"\"Thanks!\" {END TEXTBOX}\n"
+"$np\n"
+"paid 100G and\n"
+"got $ni045"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N19A_MSG3"
+msgid ""
+"「お客さん、おカネが\n"
+"　たりませんよ。"
+msgstr ""
+"\"Sir, you don't have\n"
+" enough money.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N19A_MSG4"
+msgid "「また、来てください。"
+msgstr "\"Please come again\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N19A_MSG5"
+msgid ""
+"「もう売り切れだよー。{END TEXTBOX}\n"
+"「水があっても\n"
+"　入れ物がなくっちゃ\n"
+"　売りようがないよ。"
+msgstr ""
+"\"Ran out of stock.\" {END TEXTBOX}\n"
+"\"I have water\n"
+" but no container\n"
+" so I can't sell it.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N19B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。{END TEXTBOX}\n"
+"どうやら、\n"
+"ただの死体のようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere corpse. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N20_MSG"
+msgid ""
+"「ここの水はオレらのモノだ。\n"
+"　水がほしけりゃ、そこの男に\n"
+"　言うんだな。"
+msgstr ""
+"\"This water is mine.\n"
+" Want water, talk to\n"
+" that man.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N22_MSG1"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただの死体のようだ。{END TEXTBOX}\n"
+"ん！？\n"
+"よくみると、りっぱな服を\n"
+"着ている。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton.{END TEXTBOX}\n"
+" Hm!?\n"
+" Checking closer, it has\n"
+" a good dress"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N22_SEL1"
+msgid "はぎとる"
+msgstr "Take it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N22_SEL2"
+msgid "ほうっておく"
+msgstr "Ignore it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N22_MSG2"
+msgid ""
+"$npは\n"
+"$ni076を\n"
+"手にいれた。"
+msgstr ""
+"$np\n"
+"got $ni076"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N22_MSG3"
+msgid ""
+"しかし、ほうっておく\n"
+"ことにした。"
+msgstr ""
+"However, he decided\n"
+"to ignore it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N22_MSG4"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただの死体のようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere corpse. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N23"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただの死体のようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere corpse. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N25"
+msgid ""
+"「前の店で売っているものは\n"
+"　全部、盗品だっていう\n"
+"　ウワサだよ。"
+msgstr ""
+"\"Rumor:\n"
+" items on that store\n"
+" there are stolen stuff.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N27_MSG1"
+msgid ""
+"「あんた、そこにいたら\n"
+"　商売のジャマだよ！"
+msgstr ""
+"\"Hey, step away\n"
+" you're in the way of business!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N27B_MSG1"
+msgid ""
+"「あ！？\n"
+"　・・・・・・・。{END TEXTBOX}\n"
+"「わ、わたしは\n"
+"　なにもとってないわよ！"
+msgstr ""
+"\"Huh!?\n"
+"\" ... {END TEXTBOX}\n"
+"\"I-I haven't\n"
+" stolen anything!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N27B_MSG2"
+msgid ""
+"「あ！？\n"
+"　・・・・・・・。{END TEXTBOX}\n"
+"「わ、わたしは\n"
+"　なにもとってないわよ！{END TEXTBOX}\n"
+"「それより、そこを\n"
+"　どきなさいよ！"
+msgstr ""
+"\"Huh!?\n"
+"\" ... {END TEXTBOX}\n"
+"\"I-I haven't\n"
+" stolen anything!\" {END TEXTBOX}\n"
+"\"That asides,\n"
+" step asides!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N28"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただの死体のようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere corpse. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N29_MSG1"
+msgid ""
+"「今、食事を作っているのよ。\n"
+"　あなたも食べる？{END TEXTBOX}\n"
+"「ネズミのしっぽすき。"
+msgstr ""
+"\"I'm making food.\n"
+" Will you eat, too?\"{END TEXTBOX}\n"
+"\"I like rat tails.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N29_SEL1"
+msgid "たべる"
+msgstr "Eat"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N29_SEL2"
+msgid "いらない"
+msgstr "No need to"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N29_MSG2"
+msgid ""
+"「あら、ごめーん！\n"
+"　もうぜんぶ\n"
+"　たべちゃってたわ。"
+msgstr ""
+"\"Oh, sorry!\n"
+" I already\n"
+" ate all.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N29_MSG3"
+msgid ""
+"「かわりにレシピを\n"
+"　教えてあげるから\n"
+"　ゆるしてね。{END TEXTBOX}\n"
+"$npは\n"
+"ネズミのしっぽすきの\n"
+"レシピを　教えてもらった。"
+msgstr ""
+"\"I'll tell you\n"
+" the recipe so\n"
+" forgive me.\" {END TEXTBOX}\n"
+"$np\n"
+" was told the recipe\n"
+" of mouse tail."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N29_MSG4"
+msgid ""
+"「あら、いらないの。\n"
+"　おいしいのに。"
+msgstr ""
+"\"Oh, you don't need it?\n"
+" It's very good, see.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N30"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただの死体のようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere corpse. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N31"
+msgid ""
+"「ダメだ、これ。\n"
+"　壊れてるな。{END TEXTBOX}\n"
+"「動いてると、\n"
+"　高く売れるのにな・・・。"
+msgstr ""
+"\"No good.\n"
+" Is it broken?\"{END TEXTBOX}\n"
+"\"If if worked\n"
+" I'd sell it at a high price...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N32_MSG"
+msgid ""
+"「こんなところじゃなく\n"
+"　もっと、ちゃんとしたところに\n"
+"　お店を持つのが私の夢よ。"
+msgstr ""
+"\"Not here, but\n"
+" I dream of a shop\n"
+" in a decent place.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N33"
+msgid ""
+"「ここは$nc008の町よ\n"
+"　って{END TEXTBOX}\n"
+"「今ゲームしてるから\n"
+"　話かけないで。{END TEXTBOX}\n"
+"「そもそも、ここは\n"
+"　$nc008の町じゃないし。"
+msgstr ""
+"\"This is the city of Elurus\n"
+" But...\"{END TEXTBOX}\n"
+"\"I'm playing a game so\n"
+" don't talk to me.\"{END TEXTBOX}\n"
+"\"And this isn't\n"
+" the city of Elurus\n"
+" to begin with.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N35"
+msgid ""
+"「$nc008の町には\n"
+"　高層タワーがあるんだ。{END TEXTBOX}\n"
+"「その一番上に$nn034ナンバー２の\n"
+"　$nw019がいるって噂だ。"
+msgstr ""
+"\"There's a tall tower\n"
+" in the city of Elurus.\" {END TEXTBOX}\n"
+"\"Rumor: No.2 of the Clan,\n"
+" $nw019 is there.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N36_MSG1"
+msgid ""
+"「はーい、$nn208よ。\n"
+"　あなたもセーブしてみるぅ？{END TEXTBOX}\n"
+"「あなたもゲームを\n"
+"　セーブしてみるぅ？"
+msgstr ""
+"\"Hi, it's the Memory Center.\n"
+" Are you gonna save?\" {END TEXTBOX}\n"
+"\"Are you gonna\n"
+" save the game?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N36_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N36_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N36_MSG2"
+msgid "「ちょっとまってね。"
+msgstr "\"Wait a min.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N36_MSG3"
+msgid ""
+"「ポン！\n"
+"　ポン！\n"
+"　ポン！と。{END TEXTBOX}\n"
+"エラー！{END TEXTBOX}\n"
+"エラー！{END TEXTBOX}\n"
+"エラー！{END TEXTBOX}\n"
+"「あら、どうしたのかしら？{END TEXTBOX}\n"
+"「妹は簡単そうに\n"
+"　やってたのになぁ。"
+msgstr ""
+"\"Pon!\n"
+" Pon!\n"
+" Pon!\"{END TEXTBOX}\n"
+" Error! {END TEXTBOX}\n"
+" Error! {END TEXTBOX}\n"
+" Error! {END TEXTBOX}\n"
+"\"My, what's the matter?\"{END TEXTBOX}\n"
+"\"My sister made it seem\n"
+" so easy.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N36_MSG4"
+msgid ""
+"「ごめんなさい。\n"
+"　やっぱり、わたしには\n"
+"　できないみたい。{END TEXTBOX}\n"
+"「てへ。"
+msgstr ""
+"\"Sorry.\n"
+" It'd seem I\n"
+" can't do it.\" {END TEXTBOX}\n"
+"\"Heh, heh\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N36_MSG5"
+msgid ""
+"「ゲームをやめるときは\n"
+"　ここで記録をつけてねぇ。{END TEXTBOX}\n"
+"「でないと、せっかくの\n"
+"　苦労がみずのあわよ。{END TEXTBOX}\n"
+"「って、妹が言ってたわ。"
+msgstr ""
+"\"When you wanna\n"
+" quit playing store\n"
+" your memories here.\" {END TEXTBOX}\n"
+"\"If you don't\n"
+" all of your effort\n"
+" will be in vain.\" {END TEXTBOX}\n"
+"\"Or so my sister said.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N37_MSG1"
+msgid ""
+"「よぉ、よぉ。\n"
+"　ねぇちゃんよぉ。{END TEXTBOX}\n"
+"「ちょっと、オレらと\n"
+"　あそばねーかぁ？{END TEXTBOX}\n"
+"おねぇちゃん「きゃーーっ！\n"
+"　やめてぇ！"
+msgstr ""
+"\"Hey, hey!\n"
+" Missy!\" {END TEXTBOX}\n"
+"\"Won't you\n"
+" play with us?\" {END TEXTBOX}\n"
+"Missy:\"Kyah!\n"
+" Stop!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N37_SEL1"
+msgid "助ける"
+msgstr "Help her"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N37_SEL2"
+msgid "みてみぬふり"
+msgstr "Turn a blind eye"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N37_MSG2"
+msgid ""
+"「あ、なんだよ、おめぇ！\n"
+"　やんのか、コルゥア！"
+msgstr ""
+"\"Huh! Who are ya!\n"
+" Wanna brawl!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N37_SEL3"
+msgid "やる"
+msgstr "Brawl"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N37_SEL4"
+msgid "やらない"
+msgstr "Quit"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N37_MSG3"
+msgid "「腰抜けは、ひっこでろぉい！"
+msgstr "\"Go away, weakling!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N37_MSG4"
+msgid ""
+"おねぇちゃん「あ、そこの人！\n"
+"　たすけてぇ～！"
+msgstr ""
+"Missy:\"Ah, you!\n"
+" Help me!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TIKA_N37_MSG5"
+msgid ""
+"おねぇちゃん「ありがとう。\n"
+"　あなたって、強いのね。{END TEXTBOX}\n"
+"「わたしは　$nc008で\n"
+"　$nn208のお姉さんを\n"
+"　やってるの。よろしく。{END TEXTBOX}\n"
+"$nc008で　$nn208の\n"
+"お姉さんがいなくて、困っていると\n"
+"事情を説明した。{END TEXTBOX}\n"
+"「うん、わかったわ。\n"
+"　じゃあ、$nc008で\n"
+"　お会いしましょうねぇ。"
+msgstr ""
+"Missy:\"Thanks.\n"
+" You're very strong.\" {END TEXTBOX}\n"
+"\"I'm the Memory Center girl\n"
+" in Elurus,\n"
+" glad to meet you.\" {END TEXTBOX}\n"
+"You explain that\n"
+" the Memory Center girl of\n"
+" Elurus is gone and it's trouble.{END TEXTBOX}\n"
+"\"OK, gotcha.\n"
+" Let's meet at\n"
+" Elurus\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_HOUSE1_N3"
+msgid ""
+"「店の連中は\n"
+"　$nc008に帰ったぜ。"
+msgstr ""
+"\"The store owner\n"
+" returned to Elurus\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_HOUSE2_N2_MSG1"
+msgid ""
+"「こんなところに\n"
+"　$nn210が　あったのね。{END TEXTBOX}\n"
+"「ちょっと借りてみよう\n"
+"　かしら。"
+msgstr ""
+"\"There was a\n"
+" Tank Rental here.\" {END TEXTBOX}\n"
+"\"Maybe I could\n"
+" borrow one.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_HOUSE2_N2_MSG2"
+msgid ""
+"「$nn306を\n"
+"　借りに来たのに\n"
+"　お店がなくなってるわ。"
+msgstr ""
+"\"I came to borrow\n"
+" a Rental Tank\n"
+" but the store's gone.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_HOUSE3_N3"
+msgid ""
+"「この店の品揃えは\n"
+"　すごいわ。{END TEXTBOX}\n"
+"「わざわざ買いに来た\n"
+"　かいがあったわ。"
+msgstr ""
+"\"This store's items\n"
+" are impressive.\"{END TEXTBOX}\n"
+"\"It was worth it\n"
+" coming to buy them.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_HOUSE3_N4"
+msgid ""
+"「このコの父親は突然\n"
+"　消えてしまったんです。{END TEXTBOX}\n"
+"「それ以来、家では\n"
+"　家具がうごいたり、\n"
+"　変な声が聞こえたり・・・。{END TEXTBOX}\n"
+"「あー、こんなときに\n"
+"　あの人がいてくれれば・・・。"
+msgstr ""
+"\"This child's father\n"
+" vanished all of a sudden.\"{END TEXTBOX}\n"
+"\"Since then\n"
+" furniture moves\n"
+" and odd voices echo...\" {END TEXTBOX}\n"
+"\"Ah... If only he was here\n"
+" when we need him...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_HOUSE3_N5"
+msgid ""
+"「ねぇねぇ、お母さん。\n"
+"　お父さんはどこへ\n"
+"　行っちゃったの？"
+msgstr ""
+"\"Hey, hey, mom.\n"
+" Where did Dad\n"
+" go to?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_HOUSE3_N6_MSG1"
+msgid ""
+"「$nc008は\n"
+"　もうおわりだ。{END TEXTBOX}\n"
+"「悪党がはびこるようじゃ\n"
+"　この世もおわりだ。"
+msgstr ""
+"\"Elurus is\n"
+" over.\"{END TEXTBOX}\n"
+"\"Evil grunts are spreading\n"
+" the world's done for.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_HOUSE3_N6_MSG2"
+msgid ""
+"「どっかのハンターが\n"
+"　$nc008にいた$nn034どもを\n"
+"　やっつけたらしいぜ。{END TEXTBOX}\n"
+"「いやー、世の中\n"
+"　まだ、すてたもんじゃないねー。"
+msgstr ""
+"\"Seems that some Hunter\n"
+" beat the Clan\n"
+" in Elurus.\" {END TEXTBOX}\n"
+"\"Man, looks like\n"
+" there's still hope out there.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F1_N1_MSG1"
+msgid ""
+"「この先に通すわけには\n"
+"　行かない！"
+msgstr ""
+"\"You can't\n"
+" pass past here!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F1_N1_MSG2"
+msgid ""
+"「オレたちを倒しても\n"
+"　ムダだぜ・・・。{END TEXTBOX}\n"
+"「どうせ、$nn223がないと\n"
+"　上の階にはいけねぇんだ。{END TEXTBOX}\n"
+"「$nn223は、全部で３枚。{END TEXTBOX}\n"
+"「全部、隊長クラスの\n"
+"　つえぇやつが持っている。{END TEXTBOX}\n"
+"「そいつらを、たおさねーかぎり\n"
+"　一生、上の階には\n"
+"　行けねーって、ことだよ。"
+msgstr ""
+"\"You beat us but\n"
+" it's in vain...\" {END TEXTBOX}\n"
+"\"If you don't have ID Card\n"
+" you can't go to upper floors.\" {END TEXTBOX}\n"
+"\"There's 3\n"
+" ID Card.\" {END TEXTBOX}\n"
+"\"Strong guys of\n"
+" commander class have them.\" {END TEXTBOX}\n"
+"\"You gotta beat them\n"
+" to get to\n"
+" the upper floors.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F1_N9_MSG"
+msgid ""
+"「この先に通すわけには\n"
+"　行かない！"
+msgstr ""
+"\"You can't\n"
+" pass past here!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F1_N17"
+msgid ""
+"「上の階はモンスターだらけだ。\n"
+"　$nn034より、タチが悪いぜ！"
+msgstr ""
+"\"Upper floors, full of Monsters.\n"
+" Worse than the Clan!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F1_N18"
+msgid ""
+"「$nn034退治はアレだが・・・。{END TEXTBOX}\n"
+"「モンスター退治なら\n"
+"　お手の物よ！"
+msgstr ""
+"\"Beating Clan is not easy but...\"{END TEXTBOX}\n"
+"\"Beating Monsters\n"
+" is easy!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F1_N19"
+msgid ""
+"「$nn034がいなくなったのはいいが\n"
+"　その分、モンスターがうろついて\n"
+"　ひどい状態だ。"
+msgstr ""
+"\"The Clan is gone\n"
+" but there's Monsters\n"
+" and it's trouble.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F2_N11"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただの死体のようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere corpse. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F3_N13"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただの死体のようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere corpse. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F4_N16"
+msgid ""
+"「どんなハンターも\n"
+"　$nn033様にかかれば\n"
+"　イチコロだぜ！"
+msgstr ""
+"\"Even strong Hunters\n"
+" can't rival\n"
+" Lord Packriel!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F4_N17"
+msgid ""
+"「$nn033様が、きれないうちに\n"
+"　さっさと逃げちまいな\n"
+"　くされハンター！"
+msgstr ""
+"\"Run away, rascal!\n"
+" Before Lord Packriel\n"
+" gets pissed off!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F4_CB1_MSG1"
+msgid ""
+"$nn033「きさま　ハンターだな！{END TEXTBOX}\n"
+"$nn033「$nn034第６隊長\n"
+"　$nn033様が、きさまを\n"
+"　ぶっころしてやるぜ！"
+msgstr ""
+"Packriel:\"You're a Hunter!\"{END TEXTBOX}\n"
+"Packriel:\"Lord Packriel\n"
+" of the Clan 6th Unit\n"
+" will kill you!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F6_N1A"
+msgid ""
+"「この先に通すわけには\n"
+"　行かない！"
+msgstr ""
+"\"You can't\n"
+" pass past here!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F6_N5B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F6_N14A"
+msgid ""
+"「こいつ、また出てきやがった！\n"
+"　いったい、どこから\n"
+"　でてきてんだ！？{END TEXTBOX}\n"
+"「キッシャー！"
+msgstr ""
+"\"It appeared again!\n"
+" Where did it\n"
+" come out from!?\"{END TEXTBOX}\n"
+"\"Kisshaah!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F6_N19A"
+msgid ""
+"「上の階に行ったやつが\n"
+"　帰ってこねぇ！{END TEXTBOX}\n"
+"「いったい上では\n"
+"　何が起こってるんだ！？"
+msgstr ""
+"\"The guy who went\n"
+" upstairs doesn't come back!\"{END TEXTBOX}\n"
+"\"What's happening\n"
+" up there!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F7_N1A"
+msgid ""
+"「モンスターが大発生しやがった！{END TEXTBOX}\n"
+"「このままでは全滅だ‥‥。"
+msgstr ""
+"\"Tons of Monsters have appeared!\"{END TEXTBOX}\n"
+"\"If it keeps up they'll wipe us out...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F7_N1B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F7_N2A"
+msgid ""
+"「ネ、ネズミだらけだ！\n"
+"　すげぇー数だ！"
+msgstr ""
+"\"I-it's full of MICE!\n"
+" There's TONS of them!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F7_N2B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F7_N3A"
+msgid ""
+"「ひいいぃ！\n"
+"　助けてくれぇ！{END TEXTBOX}\n"
+"「仲間は　みんな\n"
+"　モンスターに　くわれちまった！"
+msgstr ""
+"\"Hiih!\n"
+" Help me!\" {END TEXTBOX}\n"
+"\"All my pals\n"
+" got eaten by the Monsters!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F7_N3B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F8_N1A"
+msgid ""
+"「たのむ！\n"
+"　助けてくれ！{END TEXTBOX}\n"
+"「そうだ！\n"
+"　このお宝を　おまえに　やる！！{END TEXTBOX}\n"
+"「だから！\n"
+"　た、助けてくれぇ！！"
+msgstr ""
+"\"Pleaseª\n"
+" Help me!\" {END TEXTBOX}\n"
+"\"Oh yeah! \n"
+" I'll give you this treasure!!\" {END TEXTBOX}\n"
+"\"So please!\n"
+" H-help me!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F8_N1B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F8_N2A"
+msgid ""
+"「むっ！！{END TEXTBOX}\n"
+"「なんだ、ハンターか！{END TEXTBOX}\n"
+"「ハンターよりも\n"
+"　ネズミにびびるとはな。{END TEXTBOX}\n"
+"「オレもヤキが\n"
+"　まわっちまったな・・・。"
+msgstr ""
+"\"Hum!!\" {END TEXTBOX}\n"
+"\"What, a Hunter!\" {END TEXTBOX}\n"
+"\"To think I fear mice\n"
+" more than Hunters...\" {END TEXTBOX}\n"
+"\"Guess I'm\n"
+" turning senile...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F8_N2B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F8_N3B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F8_N4A"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただの死体のようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere corpse. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F8_N4B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F9_N1A"
+msgid ""
+"「この階は、もうダメだ・・・。\n"
+"　みんな・・・　ネズミに・・・\n"
+"　くわれちまった・・・。{END TEXTBOX}\n"
+"「オレも、もうすぐ・・・\n"
+"　ネズミのエサだ・・・。"
+msgstr ""
+"\"This floor is doomed!\n"
+" They were\n"
+" eaten by the mice!\" {END TEXTBOX}\n"
+"\"I'll soon be...\n"
+" mice food...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F9_N1B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F9_N2A"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただの死体のようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere corpse. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F9_N2B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F12_N1A"
+msgid ""
+"「ネズミだ！\n"
+"　ネズミだよ！{END TEXTBOX}\n"
+"「ネズミが仲間を\n"
+"　くっちまったんだ！！{END TEXTBOX}\n"
+"「隊長も、くわれちまったよ。{END TEXTBOX}\n"
+"「$nn223がほしけりゃ\n"
+"　あの怪物を倒すんだな。"
+msgstr ""
+"\"Mice!\n"
+" Mice!\" {END TEXTBOX}\n"
+"\"Mice ate\n"
+" my pals!!\" {END TEXTBOX}\n"
+"\"The Commander got eaten, too!\" {END TEXTBOX}\n"
+"\"If you want the ID Card\n"
+" then beat that monster.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F12_N1B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F12_N2A"
+msgid ""
+"「ネズミが大発生したんだ！{END TEXTBOX}\n"
+"「最初は１匹、２匹\n"
+"　うろついているぐらい\n"
+"　だったんだ！{END TEXTBOX}\n"
+"「それが、オレたち$nn034が\n"
+"　持ちこんだ食料のせいで・・・。{END TEXTBOX}\n"
+"「食料庫が襲われた\n"
+"　あの日からだ！{END TEXTBOX}\n"
+"「あっという間だったよ。{END TEXTBOX}\n"
+"「２匹が　４匹。\n"
+"　４匹が　８匹。\n"
+"　８匹が　１６匹。{END TEXTBOX}\n"
+"「まさに、ネズミ算式に\n"
+"　増えちまった。"
+msgstr ""
+"\"A lot of mice have appeared!\"{END TEXTBOX}\n"
+"\"At first there were\n"
+" 1-2 mice around.\n"
+" Very few!\" {END TEXTBOX}\n"
+"\"And because of the food\n"
+" we Clan had brought...\" {END TEXTBOX}\n"
+"\"One day,\n"
+" the food store got attacked!\" {END TEXTBOX}\n"
+"\"It was in the blink of an eye.\" {END TEXTBOX}\n"
+"\"2 turned into 4\n"
+" 4 into 8\n"
+" 8 into 16.\" {END TEXTBOX}\n"
+"\"They increased\n"
+" as mice formula.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F12_N2B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F12_N3B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F13_N1A"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただの死体のようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere corpse. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F13_N1B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F13_N4A"
+msgid ""
+"「ヤツは化け物だ！\n"
+"　ふつうじゃねー！{END TEXTBOX}\n"
+"「隊長も、ヤツに\n"
+"　くわれちまったよ。"
+msgstr ""
+"\"It's a monster!\n"
+" It's not normal!\" {END TEXTBOX}\n"
+"\"The Commander got\n"
+" eaten by it.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F13_N4B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F14_N1A"
+msgid ""
+"「で、出た！！\n"
+"　化け物だ！！{END TEXTBOX}\n"
+"「みんな、ヤツに、くわれた！{END TEXTBOX}\n"
+"「あの強かった隊長もだ！{END TEXTBOX}\n"
+"「あんなヤツ、倒せるわけがねぇ！"
+msgstr ""
+"\"T-there!!\n"
+" The monster!!\" {END TEXTBOX}\n"
+"\"It ate up everyone!\" {END TEXTBOX}\n"
+"\"Even our powerful Commander!\" {END TEXTBOX}\n"
+"\"No-one can beat that freak!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F14_N1B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F14_N2A"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただの死体のようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere corpse. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F14_N2B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F15_N7A"
+msgid ""
+"「下の階が、うるさいな。\n"
+"　何かあったのか？{END TEXTBOX}\n"
+"「そういえば最近\n"
+"　隊長も、みねーな。"
+msgstr ""
+"\"It's loud downstairs.\n"
+" What happened?\" {END TEXTBOX}\n"
+"\"By the way,\n"
+" I haven't seen\n"
+" the Commander lately.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F15_N7B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F15_N8B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F17_N1A"
+msgid ""
+"「この辺りの階は\n"
+"　オレら　$nn034も\n"
+"　制圧はしてない。{END TEXTBOX}\n"
+"「あの奇妙なモンスターは\n"
+"　倒しても、倒しても\n"
+"　どこからか湧いてきやがる。"
+msgstr ""
+"\"We Clan\n"
+" haven't occupied\n"
+" these floors.\" {END TEXTBOX}\n"
+"\"Those appear \n"
+" from somewhere\n"
+" despite killing lots.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F17_N1B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F17_N2A"
+msgid ""
+"「上の階は最強の$nn316が\n"
+"　守っている。{END TEXTBOX}\n"
+"「おまえらハンターでも\n"
+"　あの$nn316には\n"
+"　かなわねーさ。　へへ。"
+msgstr ""
+"\"The strongest\n"
+" Security Robot\n"
+" protects the upper floor.\" {END TEXTBOX}\n"
+"\"Heh, heh. Not even you\n"
+" Hunters can defeat the\n"
+" Security Robot.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F17_N2B"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただのガイコツのようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere skeleton. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F21_N2_MSG2"
+msgid ""
+"「オレたちを倒したからって\n"
+"　いい気になるな！{END TEXTBOX}\n"
+"「あの$nn316がいるかぎり\n"
+"　おまえは$nw19様の所へは\n"
+"　行けねーんだよ！！"
+msgstr ""
+"\"Don't get cocky because\n"
+" you beat us!\"{END TEXTBOX}\n"
+"\"We have the Security Robot\n"
+" so you'll never reeach\n"
+" Lord $nw19!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F26_N1"
+msgid ""
+"「$nn223が、ほしけりゃ\n"
+"　隊長をさがすんだな。{END TEXTBOX}\n"
+"「でもな。{END TEXTBOX}\n"
+"「みつけても\n"
+"　隊長に殺されるだけだぜ！{END TEXTBOX}\n"
+"「きゃはははっは！"
+msgstr ""
+"\"If you want the ID Card\n"
+" search for the Commander.\" {END TEXTBOX}\n"
+"\"But!\" {END TEXTBOX}\n"
+"\"Even if you find him\n"
+" he's gonna kill you!\" {END TEXTBOX}\n"
+"\"Kyah, hah, hah!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F26_N2"
+msgid ""
+"「この先に通すわけには\n"
+"　行かない！"
+msgstr ""
+"\"You can't\n"
+" pass past here!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F27_N1A"
+msgid ""
+"「$nn316が暴走しやがった！{END TEXTBOX}\n"
+"「みんな、殺された！{END TEXTBOX}\n"
+"「あの隊長もだ！{END TEXTBOX}\n"
+"「もう、ヤツはだれにも\n"
+"　とめられない・・・。"
+msgstr ""
+"\"The Security Robot is\n"
+" out of control!\" {END TEXTBOX}\n"
+"\"Everyone got killed!\" {END TEXTBOX}\n"
+"\"Even the Commander!\" {END TEXTBOX}\n"
+"\"No-one can\n"
+" stop it anymore...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F27_N2A"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"ただの死体のようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"Seems to be\n"
+"a mere corpse. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F28_N1A"
+msgid ""
+"「・・・・・・。{END TEXTBOX}\n"
+"返事がない。\n"
+"どうやら、\n"
+"ただの死体のようだ。"
+msgstr ""
+"\"....\" {END TEXTBOX}\n"
+"There's no reply.\n"
+"It'd seem it's but\n"
+"a mere corpse. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F28_N4A_MSG2"
+msgid ""
+"！？\n"
+"死体から$ni093を\n"
+"みつけた。"
+msgstr ""
+"!?\n"
+"You got $ni093 from\n"
+"the corpse. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F30_N1_MSG1"
+msgid ""
+"「やはり、おまえだったか\n"
+"　$nn040。{END TEXTBOX}\n"
+"「ちょうどいい。{END TEXTBOX}\n"
+"「おまえとは、一度\n"
+"　やってみたかったんだ！{END TEXTBOX}\n"
+"「いろいろ聞きたい\n"
+"　こともあるが・・・。{END TEXTBOX}\n"
+"「それは戦いの中で\n"
+"　聞くとするかっ！"
+msgstr ""
+"\"So it was you.\n"
+" Bladetooth.\" {END TEXTBOX}\n"
+"\"Very good.\" {END TEXTBOX}\n"
+"\"I've wanted\n"
+" to fight you!\" {END TEXTBOX}\n"
+"\"There's lots\n"
+" I want to ask but...\" {END TEXTBOX}\n"
+"\"I'll ask you\n"
+" in the midst of the battle!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F30_N1_MSG2"
+msgid ""
+"$nw019「ふぅ・・・。\n"
+"　さすが$nw031だ・・・。{END TEXTBOX}\n"
+"「最高だったぜっ！{END TEXTBOX}\n"
+"「ぐふっ・・・。"
+msgstr ""
+"$nw019:\"Heh...\n"
+" As expected of $nw031...\" {END TEXTBOX}\n"
+"\"It was great!\" {END TEXTBOX}\n"
+"\"Guh...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F30_N1_MSG3"
+msgid ""
+"こうして、$npは\n"
+"$nn034№２　$nw019を\n"
+"撃破した！\n"
+"\n"
+"このことは、またたく間に\n"
+"街中に広まった。"
+msgstr ""
+"And thus $np\n"
+"beat the No.2 of\n"
+"Clan, $nw019! {END TEXTBOX}\n"
+"The news quickly spread\n"
+"across the city. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_F30_N2A"
+msgid ""
+"「この先に通すわけには\n"
+"　行かない！"
+msgstr ""
+"\"You can't\n"
+" pass past here!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG1"
+msgid ""
+"$_0「‥‥@w60‥‥。@w60\n"
+"　あんたのその顔‥‥。\n"
+"　見たことがある‥‥。{END TEXTBOX}\n"
+"$_0「あれはたしか‥‥@w60‥‥、@w60\n"
+"　何か過去の記録を\n"
+"　調べていたとき‥‥。{END TEXTBOX}\n"
+"$_0「何かの実験の記録‥‥。@w60\n"
+"　多くの人間が死んだ‥‥。@w60\n"
+"　はっ‥‥！　まっ、まさか！"
+msgstr ""
+"$_0:\"...@w60... @w60\n"
+" Your face...\n"
+" I've seen it before...\"{END TEXTBOX}\n"
+"$_0:\"Where was it...? ...@w60..., @w60\n"
+" When investigating\n"
+" old records...\"{END TEXTBOX}\n"
+"$_0:\"Records of experiments. @w60\n"
+" Many died. @w60\n"
+" What! N-no way!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL1"
+msgid "オレを知ってるのか？"
+msgstr "Do you know me?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL2"
+msgid "あんたは何者だ？"
+msgstr "Who are you?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG2"
+msgid ""
+"$_0「‥‥@w60‥‥。@w60\n"
+"　あたいは、\n"
+"　いろんなことを知ってるわ。{END TEXTBOX}\n"
+"$_0「あなたは、\n"
+"　$np。\n"
+"　$nn034と戦うハンター。"
+msgstr ""
+"$_0:\"...@w60... @w60\n"
+" I know\n"
+" a lot of things.\"{END TEXTBOX}\n"
+"$_0:\"You're\n"
+" $np.The Hunter\n"
+" who fights the Clan.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL3"
+msgid "もっと知ってるだろ！？"
+msgstr "You know more, don't you!?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL4"
+msgid "オレも有名になったもんだ"
+msgstr "I've become famous, yeah"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG3"
+msgid ""
+"$_0「あたいは、\n"
+"　情報を売ってる、情報屋。\n"
+"　地獄耳の$nn089と呼ぶ者もいる。"
+msgstr ""
+"$_0:\"I'm an informant\n"
+" who sells info.\n"
+" Hell-Ears Daphne.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG4"
+msgid ""
+"$_0「知ってるかもしれないし、\n"
+"　知らないかもしれない。{END TEXTBOX}\n"
+"$_0「それを知りたければ\n"
+"　あたいに\n"
+"　お金を払うことね。"
+msgstr ""
+"$_0:\"I might know\n"
+" I might not know.\"{END TEXTBOX}\n"
+"$_0:\"If you want \n"
+" to know more\n"
+" pay me money.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL5"
+msgid "いくらだ？"
+msgstr "How much?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL6"
+msgid "金を払う気はない"
+msgstr "I don't want to"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG5"
+msgid ""
+"$_0「ふふふ。\n"
+"　そうかもしれないし、\n"
+"　そうでないかもしれない。{END TEXTBOX}\n"
+"$_0「この世は\n"
+"　すべて\n"
+"　闇の中‥‥。"
+msgstr ""
+"$_0:\"Heh, heh, heh.\n"
+" It might be so,\n"
+" it might not be so.\"{END TEXTBOX}\n"
+"$_0:\"All of this world\n"
+" is within\n"
+" the darkness...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG6"
+msgid ""
+"$_0「ある情報の\n"
+"　価値を知るには、\n"
+"　もっとほかの情報が必要‥‥。{END TEXTBOX}\n"
+"$_0「いまはまだ、この情報の\n"
+"　ねだんを決められない。\n"
+"　だから売れないわ。{END TEXTBOX}\n"
+"$_0「ほかの情報はいかが？"
+msgstr ""
+"$_0:\"To know \n"
+" the value of info\n"
+" I need other info...\"{END TEXTBOX}\n"
+"$_0:\"It has no\n"
+" price yet.\n"
+" So I don't sell yet.\"{END TEXTBOX}\n"
+"$_0:\"Want some other info?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL7"
+msgid "橋の向こうに何かある件"
+msgstr "What's beyond the bridge?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL8"
+msgid "$nn000が男に口説かれてる件"
+msgstr "A guy is hitting Shise"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL9"
+msgid "実験体１３１３号が生きてる件"
+msgstr "Subject 1313 is alive"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL10"
+msgid "ほかに何か情報は？"
+msgstr "Do you have other info?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG7"
+msgid ""
+"$_0「その選択は\n"
+"　正しいかもしれないし、\n"
+"　そうでないかもしれない。{END TEXTBOX}\n"
+"$_0「この世は\n"
+"　すべて\n"
+"　闇の中‥‥。"
+msgstr ""
+"$_0:\"That choice\n"
+" could be right one\n"
+" or the wrong one.\"{END TEXTBOX}\n"
+"$_0:\"All of this world\n"
+" is within\n"
+" the darkness...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG8"
+msgid ""
+"$_0「情報提供料金は\n"
+"　３００Ｇよ。"
+msgstr ""
+"$_0:\"Info providing fee:\n"
+" 300G.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL11"
+msgid "払う"
+msgstr "Pay"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL12"
+msgid "やめとく"
+msgstr "Stop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG9"
+msgid ""
+"$_0「情報提供料金は\n"
+"　７００Ｇよ。"
+msgstr ""
+"$_0:\"Info providing fee:\n"
+" 700G.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG10"
+msgid ""
+"$_0「ふふふ。\n"
+"　あるかもしれないし、\n"
+"　ないかもしれない。{END TEXTBOX}\n"
+"$_0「この世は\n"
+"　すべて\n"
+"　闇の中‥‥。"
+msgstr ""
+"$_0:\"Heh, heh, heh.\n"
+" It might be so,\n"
+" it might not be so.\"{END TEXTBOX}\n"
+"$_0:\"All of this world\n"
+" is within\n"
+" the darkness...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG11"
+msgid ""
+"$_0「お金がたりないようね。\n"
+"　お金を持って、また来てね。"
+msgstr ""
+"$_0:\"Not enough money.\n"
+" Come again, \n"
+" and bring the money.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG12"
+msgid ""
+"$_0「では、３００Ｇ、\n"
+"　前金でいただくわ。\n"
+"　ありがと。"
+msgstr ""
+"$_0:\"I'll take 300G\n"
+" as advance.\n"
+" Thanks.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG37"
+msgid ""
+"$_0「では、７００Ｇ、\n"
+"　前金でいただくわ。\n"
+"　ありがと。"
+msgstr ""
+"$_0:\"I'll take 700G\n"
+" as advance.\n"
+" Thanks.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG13"
+msgid ""
+"$_0「この情報の料金は\n"
+"　すでにいただいたわ。\n"
+"　もういちど、くりかえすわね。"
+msgstr ""
+"$_0:\"I have\n"
+" fee of the info,\n"
+" I'm going to repeat again.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG14"
+msgid ""
+"$_0「$nc051\n"
+"　‥‥と呼ばれる橋の向こうに、\n"
+"　奇妙な建物があるみたい。"
+msgstr ""
+"$_0:\"There's odd building\n"
+" past the bridge named\n"
+" Spine Bridge.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG14_2"
+msgid ""
+"$_0「$nc051は\n"
+"　この位置に\n"
+"　存在しているはずよ。"
+msgstr ""
+"$_0:\"The Spine Bridge\n"
+" should be\n"
+" in this spot.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG15"
+msgid ""
+"$_0「何か耳よりな情報が\n"
+"　欲しくなったら、\n"
+"　また来てちょうだい。"
+msgstr ""
+"$_0:\"If you want\n"
+" reliable info\n"
+" then come again.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG16"
+msgid ""
+"$_0「どうぞご自由に。{END TEXTBOX}\n"
+"$_0「この世には、\n"
+"　知らないほうがいいことも\n"
+"　たくさんあるから。"
+msgstr ""
+"$_0:\"Do as as you wish.\"{END TEXTBOX}\n"
+"$_0:\"There are things\n"
+" in the world\n"
+" better off not known.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG17"
+msgid ""
+"$_0「$nc000の町の近くで\n"
+"　$nn000という若い娘が\n"
+"　暮らしている。{END TEXTBOX}\n"
+"$_0「$nn006という男が\n"
+"　その娘を恋人にしようと、\n"
+"　口説いてるらしいわ。{END TEXTBOX}\n"
+"$_0「このふたりの親同士にも、\n"
+"　昔何かあったみたいね。{END TEXTBOX}\n"
+"$_0「何か耳よりな情報が\n"
+"　欲しくなったら、\n"
+"　また来てちょうだい。"
+msgstr ""
+"$_0:\"A girl named\n"
+" Shise lives\n"
+" near the city of Wara\"{END TEXTBOX}\n"
+"$_0:\"A guy, Joaquin,\n"
+" is hitting to her.\n"
+" To become lovers.\"{END TEXTBOX}\n"
+"$_0:\"It'd seem their parents\n"
+" had some fight in the past.\"{END TEXTBOX}\n"
+"$_0:\"If you want\n"
+" reliable info\n"
+" then come again.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG18"
+msgid ""
+"$_0「あたいは、\n"
+"　情報を売ってる、情報屋。\n"
+"　地獄耳の$nn089と呼ぶ者もいる。"
+msgstr ""
+"$_0:\"I'm\n"
+" an informant who sells info.\n"
+" Hell-Ears Daphne.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL13"
+msgid "何か耳よりな情報は？"
+msgstr "Have some reliable info?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL14"
+msgid "また来るよ"
+msgstr "I'll come again"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG19"
+msgid ""
+"$_0「いま売れるのは\n"
+"　こういう情報。"
+msgstr ""
+"$_0:\"These are the infos\n"
+" I'm selling.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG20"
+msgid "ほかに何か情報は？"
+msgstr "Have some other info?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG21"
+msgid ""
+"$_0「情報提供料金は\n"
+"　１３１３０Ｇよ。"
+msgstr ""
+"$_0:\"Info providing fee:\n"
+" 13130G.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL15"
+msgid "払う"
+msgstr "Pay"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL16"
+msgid "やめとく"
+msgstr "Stop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG22"
+msgid ""
+"$_0「実験体１３１３号は\n"
+"　いまも生存しているもよう。{END TEXTBOX}\n"
+"$_0「てゆーか‥‥、\n"
+"　いまあたしの目の前に\n"
+"　立ってる。{END TEXTBOX}\n"
+"$_0「その裏づけとなる\n"
+"　実験カルテが、記録として\n"
+"　保存されている。{END TEXTBOX}\n"
+"$_0「これがそのカルテ。"
+msgstr ""
+"$_0:\"Seems that Subject 1313\n"
+" is still alive.\"{END TEXTBOX}\n"
+"$_0:\"Well, more like...\n"
+" He's standing\n"
+" before my eyes.\"{END TEXTBOX}\n"
+"$_0:\"I keep\n"
+" experiment chart as record\n"
+" to prove it.\"{END TEXTBOX}\n"
+"$_0:\"This is the chart.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG23"
+msgid ""
+"$_0「名ざしで\n"
+"　要求されないかぎり、\n"
+"　この情報は$nn034には売らない。"
+msgstr ""
+"$_0:\"If it's not\n"
+" demanded, I won't \n"
+" sell to the Clan.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG24"
+msgid ""
+"$_0「そんなわけで‥‥{END TEXTBOX}\n"
+"$_0「何か耳よりな\n"
+"　情報がほしくなったら\n"
+"　また来てちょうだい。"
+msgstr ""
+"$_0:\"So, then...\"{END TEXTBOX}\n"
+"$_0:\"If you wish\n"
+" reliable info\n"
+" then come again.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_N2"
+msgid ""
+"「ここのヤツら、\n"
+"　バカばっかりだぜ。{END TEXTBOX}\n"
+"「地下にもぐったぐれーで、\n"
+"　$nn034から逃げられるわけ\n"
+"　ねーんだよ！"
+msgstr ""
+"\"These guys\n"
+" are so stupid.\"{END TEXTBOX}\n"
+"\"They can't escape\n"
+" the Clan\n"
+" by hiding underground!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG26"
+msgid ""
+"「くそ、$nn034のヤツらめ！\n"
+"　いったい何しにきやがった！"
+msgstr ""
+"\"Damn Clan!\n"
+" What do they want!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG27"
+msgid "「なんだ、てめえは！"
+msgstr "\"What do you want!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL17"
+msgid "地獄耳の$nn089はどこに？"
+msgstr "Where's Hell-Ears Daphne?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL18"
+msgid "てめえこそ、なんだ！"
+msgstr "Who the hell are you!?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG28"
+msgid ""
+"「あの女はもう\n"
+"　ここにはいねえよ。\n"
+"　ぐふふふ。{END TEXTBOX}\n"
+"「$nn034・ナンバー２、\n"
+"　漆黒の$nn091さまから\n"
+"　お呼びがかかったのさ。{END TEXTBOX}\n"
+"「今ごろは、\n"
+"　町のタワーの\n"
+"　てっぺんか‥‥{END TEXTBOX}\n"
+"「それとも上がりすぎて、\n"
+"　あの世に昇天しちまった\n"
+"　かもな！　ぐへひひゃひゃ！"
+msgstr ""
+"\"That woman isn't here\n"
+" anymore.\n"
+" Heh, heh, heh.\"{END TEXTBOX}\n"
+"\"No.2 of the Clan\n"
+" Lord JetBlack Auroch\n"
+" called her.\"{END TEXTBOX}\n"
+"\"By now\n"
+" she must be at the tower's top...\"{END TEXTBOX}\n"
+"\"Or she\n"
+" went too high\n"
+" and went to the Beyond! Hah!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL19"
+msgid "なんのために呼び出しを？"
+msgstr "Why did he summon her?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL20"
+msgid "情報、ありがとう"
+msgstr "Thanks for the info"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG29"
+msgid ""
+"「なんだたぁ、なんだ！\n"
+"　生意気な野郎め！{END TEXTBOX}\n"
+"「ケツの穴から手ェつっこんで、\n"
+"　奥歯ガタガタ言わしたろか！"
+msgstr ""
+"\"What, what!\n"
+" What a cheeky rascal!\"{END TEXTBOX}\n"
+"\"I'll stuff hand in butthole\n"
+" and make molar rattle!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL21"
+msgid "かんべんしてください"
+msgstr "Please don't do that"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL22"
+msgid "やれるもんならやってみな！"
+msgstr "Bring it on!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG30"
+msgid "「んなこと、知るかよっ！"
+msgstr "\"Dunno and I don't care!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG31"
+msgid ""
+"「あ‥‥。\n"
+"　いけね。\n"
+"　つぃしゃべりすぎちまった。"
+msgstr ""
+"\"Ah...\n"
+" Crap.\n"
+" I talk too much.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG32"
+msgid ""
+"「ちっ、ヘタレが！\n"
+"　とっとと消えろ！\n"
+"　目ざわりだ！"
+msgstr ""
+"\"Sheesh! Retard!\n"
+" Be gone!\n"
+" Eyesore!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG33"
+msgid ""
+"「ぬぁぁにぃ！\n"
+"　$nn034にさからうたぁ、\n"
+"　どこの田舎モンじゃ！われェ！{END TEXTBOX}\n"
+"「$nc008の町の\n"
+"　掟ちゅーもんを、\n"
+"　体で覚えろや！　ボケがぁ！"
+msgstr ""
+"\"Whuutt!\n"
+" Defying the Clan,\n"
+" you villager!\"{END TEXTBOX}\n"
+"\"Learn the rules\n"
+" of Elurus\n"
+" with your body! Moron!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG34"
+msgid ""
+"「ひぃぃ～。\n"
+"　もう、かんべんしてくだせ～。\n"
+"　あっしが悪ぅござんした～。"
+msgstr ""
+"\"Hiiihh!\n"
+" Please spare me!!\n"
+" I did something bad!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL23"
+msgid "もう悪事をはたらくなよ！"
+msgstr "\"I won't do evil anymore!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_SEL24"
+msgid "$nn089はどこに？"
+msgstr "Where's Daphne?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG35"
+msgid ""
+"「へへへぃ～。\n"
+"　悪事をはたらくのは\n"
+"　もうやめにいたしますです～。"
+msgstr ""
+"\"Hei, hei, hei.\n"
+" I'll stop doing\n"
+" bad things.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DAFUNE_MSG36"
+msgid ""
+"「漆黒の$nn091さまに\n"
+"　呼び出されて‥‥{END TEXTBOX}\n"
+"「今ごろはタワーの上‥‥\n"
+"　じゃねーかと\n"
+"　思いやすぅ～。"
+msgstr ""
+"\"Got summoned by\n"
+" Lord JetBlack Auroch...\"{END TEXTBOX}\n"
+"\"I think\n"
+" she must be\n"
+" atop the tower by now...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG1"
+msgid ""
+"$nn091「地獄耳と\n"
+"　うわさされるおまえが、\n"
+"　知らないはずはない！{END TEXTBOX}\n"
+"$nn091「いいかげんに\n"
+"　白状しろ、$nn089！"
+msgstr ""
+"Auroch:\"You're rumored to be\n"
+" Hell-Ears\n"
+" so you MUST know it!\"{END TEXTBOX}\n"
+"Auroch:\"Don't waste my time,\n"
+" spit it out! Daphne!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG2"
+msgid ""
+"$nn089「だから‥‥、\n"
+"　言ってるじゃ\n"
+"　ありませんか。{END TEXTBOX}\n"
+"$nn089「お金を払って\n"
+"　いただけるなら、\n"
+"　お答えします。"
+msgstr ""
+"Daphne:\"See...\n"
+" I've told you,\n"
+" haven't I?\"{END TEXTBOX}\n"
+"Daphne:\"That if you\n"
+" pay me then\n"
+" I'll tell you.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG2_1"
+msgid ""
+"$nn091「はっはっは！\n"
+"　女のくせにいい根性だ！\n"
+"　気に入った！{END TEXTBOX}\n"
+"$nn091「ここで死ぬか、\n"
+"　生きて帰るか、\n"
+"　どちらかを選ばせてやろう！{END TEXTBOX}\n"
+"$nn091「死にたくなければ\n"
+"　知っていることすべてを\n"
+"　あらいざらいぶちまけろ。"
+msgstr ""
+"Auroch:\"Hah, hah!\n"
+" You've got guts for a woman!{END TEXTBOX}\n"
+"Auroch:\"I like that!\"{END TEXTBOX}\n"
+"Auroch:\"I'll yet you choose:\n"
+" you die here\n"
+" or you leave alive.\"{END TEXTBOX}\n"
+"Auroch:\"If you don't want to die\n"
+" then confess all\n"
+" you know!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG3"
+msgid ""
+"$nn091「死にたいなら\n"
+"　殺してやる。\n"
+"　拷問にかけたあとでな。{END TEXTBOX}\n"
+"$nn089「‥‥@w60‥‥。{END TEXTBOX}\n"
+"$nn091「漆黒の$nn091を\n"
+"　ナメるなよ、$nn089！{END TEXTBOX}\n"
+"$nn091「オレは、\n"
+"　やると言ったことは\n"
+"　かならずやる。{END TEXTBOX}\n"
+"$nn091「いくらおまえが\n"
+"　優秀な情報屋でも、オレの役に\n"
+"　立たないなら、殺す！"
+msgstr ""
+"Auroch:\"If you wanna die\n"
+" I'll kill you.\n"
+" After torturing you.\"{END TEXTBOX}\n"
+"Daphne:\"...@w60...\"{END TEXTBOX}\n"
+"Auroch:\"Don't underestimate\n"
+" JetBlack Auroch,\n"
+" Daphne!\"{END TEXTBOX}\n"
+"Auroch:\"If I say\n"
+" I'll do something\n"
+" then I WILL do it.\"{END TEXTBOX}\n"
+"Auroch:\"A good informant.\n"
+" But if you're useless to me,\n"
+" you die!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG4"
+msgid ""
+"「ややっ！？\n"
+"　なんだ、てめえらはっ！\n"
+"　どーやってここにっ！"
+msgstr ""
+"\"W-what!?\n"
+" Who are you guys!?\n"
+" How did you get here!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG5"
+msgid ""
+"「ややっ！？\n"
+"　なんだ、てめえはっ！\n"
+"　どーやってここにっ！"
+msgstr ""
+"\"W-what!?\n"
+" Who are you!?\n"
+" How did you get here!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_SEL1"
+msgid "悪党どもを血祭りにあげて"
+msgstr "I've come to slaugther villains"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_SEL2"
+msgid "ピザの配達にきました～♪"
+msgstr "I've come to deliver a pizza~♪"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG6"
+msgid ""
+"「なんだとォ！\n"
+"　くそったれがぁ！\n"
+"　やっちまえぇ～っ！"
+msgstr ""
+"\"What!\n"
+" Damn you!\n"
+" Beat 'em!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG7"
+msgid ""
+"「そうかい。\n"
+"　んじゃ、ピザといっしょに\n"
+"　命も置いてけやぁ！"
+msgstr ""
+"\"Oh, yeah?\n"
+" Then leave your life here\n"
+" with the pizza!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG8"
+msgid ""
+"「おうおうおう！\n"
+"　やんのか、こらぁ！\n"
+"　ここは通さねえぜっ！"
+msgstr ""
+"\"Hey, heh, hey!\n"
+" Wanna brawl!?\n"
+" You won't pass!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG9"
+msgid ""
+"「やるじゃねーか！\n"
+"　だがそれも、ここまでだ！\n"
+"　くたばりやがれぇっ！"
+msgstr ""
+"\"Not bad!\n"
+" But that's as far as you come!\n"
+" Go to Hell!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG10"
+msgid ""
+"$nn089「‥‥@w60‥‥！\n"
+"　あんたは‥‥！！！{END TEXTBOX}\n"
+"$nn089「ふふふ。\n"
+"　あはははは！"
+msgstr ""
+"Daphne:\"...@w60...!\n"
+" You're...!!!\"{END TEXTBOX}\n"
+"Daphne:\"Heh, heh, heh.\n"
+" Ah, hah, hah, hah!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG11"
+msgid ""
+"$nn089「漆黒の$nn091！\n"
+"　会いたがってた相手が\n"
+"　来たみたいだよ！{END TEXTBOX}\n"
+"$nn091「なにぃ‥‥？{END TEXTBOX}\n"
+"$nn089「とうに死んだはずの\n"
+"　$nn034・ナンバー３、\n"
+"　$nn040が、ね！{END TEXTBOX}\n"
+"$nn091「その人間が\n"
+"　$nn040だと！？\n"
+"　バカな！"
+msgstr ""
+"Daphne:\"JetBlack Auroch\n"
+" The man you\n"
+" wish to meet has come!\"{END TEXTBOX}\n"
+"Auroch: \"What...?\"{END TEXTBOX}\n"
+"Daphne:\"The No.3 of the Clan\n"
+" Bladetooth, who\n"
+" should be dead!\"{END TEXTBOX}\n"
+"Auroch:\"That human is\n"
+" Bladetooth!?\n"
+" Impossible!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG32"
+msgid ""
+"$nn089「この情報は\n"
+"　高いよ、$nn091！{END TEXTBOX}\n"
+"$nn089「１０万くらいは\n"
+"　払ってもらわないと！{END TEXTBOX}\n"
+"$nn089「もし、あんたが\n"
+"　彼に勝てたら、\n"
+"　の話だけどさ。あははは！"
+msgstr ""
+"Daphne:\"This info\n"
+" is expensive, Auroch\"{END TEXTBOX}\n"
+"Daphne:\"It'll cost you about\n"
+" 100.000G!\"{END TEXTBOX}\n"
+"Daphne:\"If you can\n"
+" defeat him,\n"
+" that is! Ah, hah, hah, hah!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG321"
+msgid ""
+"$nn091「勝つ！\n"
+"　勝つ勝つ勝つ勝つ！\n"
+"　オレは勝つ！{END TEXTBOX}\n"
+"$nn091「$nn091は\n"
+"　常に\n"
+"　勝利するのだ！"
+msgstr ""
+"Auroch:\"I'll win!\n"
+" Win, win, win!\n"
+" I'll be victorious!\"{END TEXTBOX}\n"
+"Auroch:\"Auroch is\n"
+" ALWAYS\n"
+" victorious!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG12"
+msgid ""
+"「ぶわ！\n"
+"「ぐぎぇっ！\n"
+"「んがぼげっ！"
+msgstr ""
+"\"Buwah!\n"
+" Gugieeh!\n"
+" Nga, moron!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG13"
+msgid ""
+"$nn091「ぶはぁ！@w30\n"
+"　ぶももォォォオオ～～ッ！@w30\n"
+"　ぶしゅる、ぶしゅるるるっ！{END TEXTBOX}\n"
+"$nn091「さぁ、来いぃぃ！\n"
+"　$nn040ぅぅぅ！"
+msgstr ""
+"Auroch:\"Buah! @w30\n"
+" Bumoooohhh! @w30\n"
+" Brrr, Brrrrr!\"{END TEXTBOX}\n"
+"Auroch:\"Let's go!\n"
+" Bladetooth!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG14"
+msgid ""
+"$nn089「‥‥@w60‥‥。\n"
+"　あんたは‥‥？？？"
+msgstr ""
+"Daphne:\"...@w60...\n"
+" You're...???\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG15"
+msgid ""
+"$nn091「ふ～っ！\n"
+"　ふ～っ！\n"
+"　ぶはぁっ！{END TEXTBOX}\n"
+"$nn091「ぶるるるっ！\n"
+"　ぶももォォォオオ～～ッ！"
+msgstr ""
+"Auroch:\"Fuuuh!\n"
+" Fuuuh!\n"
+" Buhah!\"{END TEXTBOX}\n"
+"Auroch:\"Brrrr!\n"
+" Brrruuooohhhh!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG16"
+msgid ""
+"$nn091「やるな！\n"
+"　ぶっふっふ！\n"
+"　久しぶりに血がさわぐ！{END TEXTBOX}\n"
+"$nn091「エレベータで\n"
+"　屋上へ来いぃ、\n"
+"　$nn040ぅ！{END TEXTBOX}\n"
+"$nn091「そこで\n"
+"　ぞんぶんに\n"
+"　戦おうではないかっ！"
+msgstr ""
+"Auroch:\"Not bad!\n"
+" Heh, heh!\"{END TEXTBOX}\n"
+"Auroch:\"Been while since\n"
+" my blood had boiled!\"{END TEXTBOX}\n"
+"Auroch:\"Come to the rooftop\n"
+" with the elevator\n"
+" Bladetooth!\"{END TEXTBOX}\n"
+"Auroch:\"Let's fight\n"
+" to full extent\n"
+" there!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG17"
+msgid ""
+"$nn089「$nn091は\n"
+"　屋上に行ったみたいね‥‥。{END TEXTBOX}\n"
+"$nn089「気をつけなよ。\n"
+"　ヤツはきっと、クルマに乗って\n"
+"　あんたを待ってるはず。"
+msgstr ""
+"Daphne:\"It'd seem that\n"
+" Auroch got up to the rooftop...\"{END TEXTBOX}\n"
+"Daphne:\"Be careful.\n"
+" He'll use a vehicle\n"
+" to wait for you.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG18"
+msgid ""
+"$nn089「ヤツは‥‥\n"
+"　$nn091は‥‥？"
+msgstr ""
+"Daphne:\"Where's...\n"
+" Auroch...?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_SEL3"
+msgid "たおしたぜ！"
+msgstr "I beat the guy!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_SEL4"
+msgid "その情報は高いぜ！"
+msgstr "That info is expensive!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG19"
+msgid ""
+"$nn089「やったわね！\n"
+"　$nn034め！\n"
+"　ざまぁみろっての！"
+msgstr ""
+"Daphne:\"Good work!\n"
+" Damned Clan!\n"
+" You deserve this!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_SEL5"
+msgid "たのみたいことがある"
+msgstr "There's a favor I want to ask"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_SEL6"
+msgid "だいじょうぶか？"
+msgstr "Are you OK?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG20"
+msgid ""
+"$nn089「ふっ‥‥。\n"
+"　あはははは！\n"
+"　言ってくれるじゃないの！"
+msgstr ""
+"Daphne:\"Heh...\n"
+" Ah, hah, hah!\n"
+" Now that's a good reply!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG21"
+msgid ""
+"$nn089「‥‥@w60‥‥。\n"
+"　この状況で\n"
+"　たのまれちゃうと‥‥{END TEXTBOX}\n"
+"$nn089「ことわるわけには\n"
+"　いかないわね‥‥。\n"
+"　何がおのぞみなの？"
+msgstr ""
+"Daphne:\"...@w60...\n"
+" If you ask me\n"
+" that in this state...\"{END TEXTBOX}\n"
+"Daphne:\"Then I can't\n"
+" turn it down...\n"
+" What do you want me to do?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_SEL7"
+msgid "$nn042をおびきだす件"
+msgstr "Lure out Gratonos"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_SEL8"
+msgid "燃えるような熱いキッスを"
+msgstr "A burning hot kiss"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG22"
+msgid ""
+"$nn089「心配ご無用。\n"
+"　あたいはひとりで\n"
+"　だいじょうぶ。"
+msgstr ""
+"Daphne:\"Don't worry.\n"
+" I can handle\n"
+" on my own.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG23"
+msgid ""
+"$nn089「え、何？\n"
+"　どういうこと？{END TEXTBOX}\n"
+"$npは、\n"
+"$nn089に事情を説明した。{END TEXTBOX}\n"
+"$nn089「なるほどね‥‥。\n"
+"　タイミングとしては\n"
+"　いいとは言えないけど‥‥{END TEXTBOX}\n"
+"$nn089「できるかぎり\n"
+"　それらしく\n"
+"　におわせてみるわ。{END TEXTBOX}\n"
+"$nn089「あんたのおかげで\n"
+"　命びろいした\n"
+"　お礼にね。"
+msgstr ""
+"Daphne:\"Eh, what?\n"
+" What do you mean?\"{END TEXTBOX}\n"
+"$np\n"
+"explained things to Daphne.{END TEXTBOX}\n"
+"Daphne:\"I see...\n"
+" Can't say it's the\n"
+" best of timings but...\"{END TEXTBOX}\n"
+"Daphne:\"I'll try to\n"
+" make it stand out\n"
+" the best I can.\"{END TEXTBOX}\n"
+"Daphne:\"You\n"
+" saved me so\n"
+" this is my gratitude for that.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG24"
+msgid ""
+"$nn089「あたいなんかと\n"
+"　キスしたいなんて、\n"
+"　あんたも変わり者ねー。{END TEXTBOX}\n"
+"$nn089「んじゃ、\n"
+"　はい、\n"
+"　チュッ。"
+msgstr ""
+"Daphne:\"You're odd,\n"
+" wanting to have\n"
+" a kiss with me.\"{END TEXTBOX}\n"
+"Daphne:\"OK.\n"
+" Well...\n"
+" Kiss.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG25"
+msgid ""
+"$nn089「れいの情報は、\n"
+"　できるだけうまく\n"
+"　におわせてみるわ。{END TEXTBOX}\n"
+"$nn089「さぁ、もう行って。\n"
+"　あたいは\n"
+"　だいじょうぶだから。"
+msgstr ""
+"Daphne:\"I'll do my best\n"
+" to make that info\n"
+" stand out.\"{END TEXTBOX}\n"
+"Daphne:\"Get going.\n"
+" I'll be alright.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_SEL9"
+msgid "＜$nn317＞が売りにだされてる件"
+msgstr "About \"Twin Lotus\" being sold"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG26"
+msgid ""
+"$nn089「やれやれ‥‥。\n"
+"　$nn008ちゃんや\n"
+"　$nn000ちゃんが怒るわよ。"
+msgstr ""
+"Daphne:\"Oh boy...\n"
+" Both Cola\n"
+" and Shise will get annoyed.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_SEL10"
+msgid "ぎくっ"
+msgstr "Yikes!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_SEL11"
+msgid "そんなの関係ない"
+msgstr "That's unrelated"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG27"
+msgid ""
+"$nn089「あたいは情報屋だもの。\n"
+"　いろんなことを知ってるの。\n"
+"　それ、忘れないようにね。"
+msgstr ""
+"Daphne:\"I'm an informant.\n"
+" I know many things.{END TEXTBOX}\n"
+"Daphne:\"Don't forget it.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG28"
+msgid ""
+"$nn089「ふーん。\n"
+"　そういうことについては\n"
+"　野獣なのね。{END TEXTBOX}\n"
+"$nn089「あたいってば、\n"
+"　惚れたら一途で\n"
+"　チョー重い女よ、いいの？"
+msgstr ""
+"Daphne:\"Hmmm...\n"
+" You're a wild beast\n"
+" when it comes to that.\"{END TEXTBOX}\n"
+"Daphne:\"When\n"
+" I fall in love\n"
+" I can be very heavy, that OK?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_SEL12"
+msgid "じゃーやめとく"
+msgstr "I'll stop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_SEL13"
+msgid "いいとも！"
+msgstr "That OK!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG29"
+msgid ""
+"$nn089「心のなかの野獣を\n"
+"　うまく飼いならすのが\n"
+"　ま人間、てものよ。{END TEXTBOX}\n"
+"$nn089「あんたの場合、\n"
+"　野獣は、心じゃなくて\n"
+"　体の中にいるみたいだけど。"
+msgstr ""
+"Daphne:\"Raising\n"
+" a wild beast in the heart\n"
+" is a part of humans.\"{END TEXTBOX}\n"
+"Daphne:\"But your\n"
+" wild beast isn't in the heart\n"
+" but in the body.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG30"
+msgid ""
+"$nn089「あはは！\n"
+"　ホントに野獣だ、こいつ！\n"
+"　あはははは！"
+msgstr ""
+"Daphne:\"Hah, hah!\n"
+" You're a real wild beast, man!\n"
+" Hah, hah!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG31"
+msgid ""
+"$nn089「これは、\n"
+"　あんたにたのまれた\n"
+"　れいの情報よ。{END TEXTBOX}\n"
+"$nn089「計画が\n"
+"　うまくいくといいわね。"
+msgstr ""
+"Daphne:\"This is\n"
+" the info that you\n"
+" asked of me.\"{END TEXTBOX}\n"
+"Daphne:\"Hope the plan\n"
+" goes well.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG33"
+msgid ""
+"$nn091「来たか！\n"
+"　ぶるるるっ！\n"
+"　ぶももももォ～～ッ！"
+msgstr ""
+"Auroch:\"So you've come!\n"
+" Brrrr!\n"
+" Bumomomohhh!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG34"
+msgid ""
+"$nn091「貴様が\n"
+"　何者であれ、\n"
+"　勝つのはオレ！{END TEXTBOX}\n"
+"$nn091「このオレがぁ！\n"
+"　漆黒の$nn091がぁ！\n"
+"　勝利するのだぁ！"
+msgstr ""
+"Auroch:\"I don't care\n"
+" who you are,\n"
+" I'll win!\"{END TEXTBOX}\n"
+"Auroch:\"I!\n"
+" JetBlack Auroch!\n"
+" Will win!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG35"
+msgid ""
+"$nn091「黒鋼爆牛号‥‥\n"
+"　発進！\n"
+"　ぶももォォォオオオッ！{END TEXTBOX}\n"
+"$nn091「行くぞォ！\n"
+"　あの世の彼方まで\n"
+"　吹き飛ばしてくれるわァ！"
+msgstr ""
+"Auroch:\"BlackSteelBombBull...\n"
+" Go! Bummoooohhh!\"{END TEXTBOX}\n"
+"Auroch:\"Let's go!\n"
+" I'll blow you away\n"
+" past the Beyond!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_TW_EVENT_MSG36"
+msgid ""
+"$nn091「ぶるるるっ‥‥。@w20\n"
+"　見事‥‥。@w20{END TEXTBOX}\n"
+"$nn091「$nn091‥‥\n"
+"　地獄へ突進んんんっ‥‥！"
+msgstr ""
+"Auroch:\"Brrrr...@w20\n"
+" Splendid...@w20\"{END TEXTBOX}\n"
+"Auroch:\"Auroch...\n"
+" Plunges into Hell...!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SCOUT_MSG1"
+msgid ""
+"「オレはシャシーの改造屋だ！\n"
+"　あんたのクルマも\n"
+"　チューンアップするかい？"
+msgstr ""
+"\"I'm a chassis modder!\n"
+" Wanna tune up\n"
+" your vehicle?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SCOUT_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SCOUT_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SCOUT_MSG2"
+msgid ""
+"「どのクルマを、いじらせて\n"
+"　くれるんだ？"
+msgstr ""
+"\"Which vehicle\n"
+" do you want to alter?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SCOUT_MSG3"
+msgid ""
+"「って、こんな設備も\n"
+"　なーんもないところで\n"
+"　シャシー改造屋なんて・・・"
+msgstr ""
+"\"But there's \n"
+" nothing here\n"
+" so my offer is pointless...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SCOUT_MSG4"
+msgid ""
+"「できるわけ、ないだろうがっ！{END TEXTBOX}\n"
+"「あ、わりぃ！\n"
+"　つい大声を出しちまって。{END TEXTBOX}\n"
+"「クランの野郎どもに\n"
+"　町を追い出されてよ！{END TEXTBOX}\n"
+"「大好きな改造もできねー\n"
+"　始末よ・・・。"
+msgstr ""
+"\"There's no way I can do it!\"{END TEXTBOX}\n"
+"\"Ah, sorry!\n"
+" I yelled without wanting to.\"{END TEXTBOX}\n"
+"\"The Clan bastards\n"
+" kicked me out the city!\"{END TEXTBOX}\n"
+"\"And now...\n"
+" I can't alter vehicles, man.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SCOUT_MSG5"
+msgid ""
+"「なんだ、しないのか･･･\n"
+"　それはざんねん。{END TEXTBOX}\n"
+"「クルマの性能に\n"
+"　ものたらなくなったら\n"
+"　オレのことを思い出してくれよ！{END TEXTBOX}\n"
+"「そのとき、また、きてくれ！"
+msgstr ""
+"\"What, not gonna do it...?\n"
+" What a pity.\"{END TEXTBOX}\n"
+"\"If you want more\n"
+" stuff for your vehicle\n"
+" remember me!\"{END TEXTBOX}\n"
+"\"And then come again!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SCOUT_SEL3"
+msgid "事情を話す"
+msgstr "Explain to him"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SCOUT_SEL4"
+msgid "立ち去る"
+msgstr "Leave"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SCOUT_MSG6"
+msgid ""
+"$npは\n"
+"$nn113が　改造屋を\n"
+"さがしていることを話した。{END TEXTBOX}\n"
+"「なにっ！\n"
+"　改造屋ができるのか！{END TEXTBOX}\n"
+"「それなら、どこへでも\n"
+"　連れてってくれ！{END TEXTBOX}\n"
+"こうして、$npは\n"
+"シャシー改造屋を$nc33へ\n"
+"連れて行くことになった。"
+msgstr ""
+"$np\n"
+"explained that Mecha Gang is\n"
+"looking for a Modder.{END TEXTBOX}\n"
+"\"What! I can run a store!?\"{END TEXTBOX}\n"
+"\"If that's the case,\n"
+" bring me there!\"{END TEXTBOX}\n"
+"And thus, $np brought\n"
+"the Chassis Modder\n"
+"to Evil Estate."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_SCOUT_MSG7"
+msgid ""
+"$npは\n"
+"立ち去ることにした。"
+msgstr ""
+"$np\n"
+"left the place."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_MSG1"
+msgid ""
+"「昔は、この町もキラキラしてた・・・。{END TEXTBOX}\n"
+"「しかし、今じゃまるで\n"
+"　色のない町のようじゃ。"
+msgstr ""
+"\"This city used to\n"
+" sparkle in the past...\"{END TEXTBOX}\n"
+"\"But now it feels like\n"
+" a colorless city.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_MSG2"
+msgid ""
+"「昔は、この町もキラキラしてた・・・。{END TEXTBOX}\n"
+"「しかし、今じゃまるで\n"
+"　色のない町のようじゃ。"
+msgstr ""
+"\"This city used to\n"
+" sparkle in the past...\"{END TEXTBOX}\n"
+"\"But now it feels like\n"
+" a colorless city.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_SEL1"
+msgid "もしかして、伝説の・・・"
+msgstr "Could you be the legendary...?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_SEL2"
+msgid "あなた、ペイント屋ですか？"
+msgstr "Are you a Paint Shop?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_SEL3"
+msgid "立ち去る"
+msgstr "Leave"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_SEL4"
+msgid "あきらめて、立ち去る"
+msgstr "Give up and leave"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_MSG3"
+msgid ""
+"「あー、そういえば、\n"
+"　昔、伝説と呼ばれた\n"
+"　ペイント屋がいたのー。{END TEXTBOX}\n"
+"「しかし、そいつは\n"
+"　もう死んだよ。"
+msgstr ""
+"\"Ah, true...\n"
+" There was a Painter\n"
+" called \"legendary\".\"{END TEXTBOX}\n"
+"\"But he's\n"
+" already dead.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_MSG4"
+msgid ""
+"「ふん、そんな昔のことは\n"
+"　忘れたよ。"
+msgstr ""
+"\"Hmpf. I forgot\n"
+" about that old tale.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_MSG5"
+msgid ""
+"$npは\n"
+"立ち去ることにした。"
+msgstr ""
+"$np\n"
+"left the area"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_SEL5"
+msgid "死んだの？"
+msgstr "Dead?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_SEL6"
+msgid "あなたでしょ？"
+msgstr "Aren't you him?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_MSG6"
+msgid ""
+"「あぁ、死んだよ。\n"
+"　とっくの昔にな・・・。"
+msgstr ""
+"\"Yeah, he died.\n"
+" A long time ago...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_MSG7"
+msgid ""
+"「えーい、うるさいヤツだ。\n"
+"　帰ってくれ！"
+msgstr ""
+"\"Sheesh! You're annoying!\n"
+" Leave!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_SEL7"
+msgid "墓は？"
+msgstr "Where's the grave?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_MSG8"
+msgid ""
+"「墓？{END TEXTBOX}\n"
+"「あははは。\n"
+"　墓なんかないよ。{END TEXTBOX}\n"
+"「なんだ、おまえ\n"
+"　墓参りにでも来たのか？"
+msgstr ""
+"\"Grave?\"{END TEXTBOX}\n"
+"\"Ah hah, hah\n"
+" There's no grave.\"{END TEXTBOX}\n"
+"\"What's with you,\n"
+" do you want to visit graves?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_SEL8"
+msgid "はい、そうです"
+msgstr "Yes, exactly"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_MSG9"
+msgid ""
+"「そうか・・・。{END TEXTBOX}\n"
+"「・・・・・・。{END TEXTBOX}\n"
+"「あんたにいいことを\n"
+"　教えてやろう。{END TEXTBOX}\n"
+"「もし、$ni83っていう\n"
+"　スプレー缶をみつけたら\n"
+"　そのペイント屋は生き返るかもな・・・。"
+msgstr ""
+"\"I see...\"{END TEXTBOX}\n"
+"\"....\"{END TEXTBOX}\n"
+"\"I'll you\n"
+" something.\"{END TEXTBOX}\n"
+"\"Find a spray\n"
+" named $ni83.\n"
+" The store could revive.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_SEL9"
+msgid "そうじゃないけど・・・"
+msgstr "Not exactly but..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_MSG10"
+msgid ""
+"「それなら、\n"
+"　さっさと、帰んな。"
+msgstr ""
+"\"If that's it\n"
+" then leave.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_SEL10"
+msgid "$ni83をわたす"
+msgstr "Give him the $ni83"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_MSG11"
+msgid ""
+"$npは\n"
+"その老人に\n"
+"$ni83をわたした。{END TEXTBOX}\n"
+"「おぉ、それは\n"
+"　$ni83じゃないか。{END TEXTBOX}\n"
+"「まだ、残っていたのか・・・。"
+msgstr ""
+"$np\n"
+"gave $ni83\n"
+"to the old man.{END TEXTBOX}\n"
+"\"Oh, that's\n"
+" $ni83, isn't it?\"{END TEXTBOX}\n"
+"\"It still existed...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_MSG12"
+msgid ""
+"「ハンターさん、あんたの\n"
+"　その心意気に答えないと\n"
+"　申し訳ないのう。{END TEXTBOX}\n"
+"「さっしのとおり、\n"
+"　わしは、伝説と言われた\n"
+"　ペイント屋じゃ。{END TEXTBOX}\n"
+"「で、このわしに何のようじゃ。"
+msgstr ""
+"\"Mr. Hunter,\n"
+" I am much obliged to answer\n"
+" your spirit.\"{END TEXTBOX}\n"
+"\"As you guessed,\n"
+" I'm the man\n"
+" called \"Legendary\".\"{END TEXTBOX}\n"
+"\"So, what do you want out of me?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_SEL11"
+msgid "クルマをペイントしてほしい"
+msgstr "I want you to paint a vehicle"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_SEL12"
+msgid "今は特にない"
+msgstr "Nothing yet"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_MSG13"
+msgid ""
+"「うむ、わかった。{END TEXTBOX}\n"
+"「ハンターさんのために\n"
+"　ひさしぶりに、腕をふるおう！"
+msgstr ""
+"\"Alright.\"{END TEXTBOX}\n"
+"\"I'll get to work again,\n"
+" for you, Mr. Hunter!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_KIRA2_TANK_MSG14"
+msgid ""
+"「そうかい。\n"
+"　クルマをペイントしてほしいときは\n"
+"　わしのところにくるがよい。"
+msgstr ""
+"\"Is that so?\n"
+" If you want to paint\n"
+" then come here.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_DOGB_B1_N3_MSG2"
+msgid ""
+"「あそこにいるおじいさん。\n"
+"　昔は、すごうでのペイント屋だった\n"
+"　らしいわよ。"
+msgstr ""
+"\"That gramps.\n"
+" Seems he was\n"
+" an impressive painter.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_MSG1"
+msgid "何階に行きますか？"
+msgstr "Choose floor"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_NO"
+msgid "やめる"
+msgstr "Stop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_B1"
+msgid "B１"
+msgstr "B1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_1F"
+msgid "１Ｆ"
+msgstr "1F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_2F"
+msgid "２Ｆ"
+msgstr "2F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_3F"
+msgid "３Ｆ"
+msgstr "3F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_4F"
+msgid "４Ｆ"
+msgstr "4F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_5F"
+msgid "５Ｆ"
+msgstr "5F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_6F"
+msgid "６Ｆ"
+msgstr "6F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_7F"
+msgid "７Ｆ"
+msgstr "7F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_8F"
+msgid "８Ｆ"
+msgstr "8F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_9F"
+msgid "９Ｆ"
+msgstr "9F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_10F"
+msgid "１０Ｆ"
+msgstr "10F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_11F"
+msgid "１１Ｆ"
+msgstr "11F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_12F"
+msgid "１２Ｆ"
+msgstr "12F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_13F"
+msgid "１３Ｆ"
+msgstr "13F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_14F"
+msgid "１４Ｆ"
+msgstr "14F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_15F"
+msgid "１５Ｆ"
+msgstr "15F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_16F"
+msgid "１６Ｆ"
+msgstr "16F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_17F"
+msgid "１７Ｆ"
+msgstr "17F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_18F"
+msgid "１８Ｆ"
+msgstr "18F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_19F"
+msgid "１９Ｆ"
+msgstr "19F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_20F"
+msgid "２０Ｆ"
+msgstr "20F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_21F"
+msgid "２１Ｆ"
+msgstr "21F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_22F"
+msgid "２２Ｆ"
+msgstr "22F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_23F"
+msgid "２３Ｆ"
+msgstr "23F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_24F"
+msgid "２４Ｆ"
+msgstr "24F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_25F"
+msgid "２５Ｆ"
+msgstr "25F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_26F"
+msgid "２６Ｆ"
+msgstr "26F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_27F"
+msgid "２７Ｆ"
+msgstr "27F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_28F"
+msgid "２８Ｆ"
+msgstr "28F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_29F"
+msgid "２９Ｆ"
+msgstr "29F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_30F"
+msgid "３０Ｆ"
+msgstr "30F"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// T09_ELE_RF"
+msgid "ＲＦ"
+msgstr "RF"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// TW_F30_NO2ZOMBI_01"
+msgid "「ぐぉごがごぐがぁっ！"
+msgstr "\"Go-ga-go-gu-gah!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// TW_F30_NO2ZOMBI_02"
+msgid "「がががーーーっ！"
+msgstr "\"Ga-ga-gaahhh!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// TW_F30_NO2ZOMBI_03"
+msgid "「ぎぎぎ・・・。"
+msgstr "\"Gi-gi-gi\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// PAINTYA_MSG01"
+msgid ""
+"「わしが伝説のペイント屋じゃ！\n"
+"　あんたのクルマの色を\n"
+"　キラッキラに変えてやろう！"
+msgstr ""
+"\"I'm painter!\n"
+" I'll change colors\n"
+" to sparkling stuff!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// PAINTYA_MSG02"
+msgid ""
+"「いくらわしが伝説でも\n"
+"　クルマがなけりゃ\n"
+"　塗れんじゃろうて！"
+msgstr ""
+"\"I'm a legend\n"
+" but can't paint\n"
+" if there's no vehicle!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// PAINTYA_MSG03"
+msgid ""
+"「塗って欲しいか？\n"
+"　たったの３００Ｇじゃ。\n"
+"　安いもんじゃろ？"
+msgstr ""
+"\"Want me to paint?\n"
+" It'll cost 300G.\n"
+" Cheap, isn't it?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// PAINTYA_MSG04"
+msgid ""
+"「よろしい！\n"
+"　で、どのクルマを\n"
+"　塗ればいいんじゃ？"
+msgstr ""
+"\"OK!\n"
+" Which vehicle\n"
+" should I paint?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// PAINTYA_MSG04B"
+msgid ""
+"「ほう！　$_Nか！\n"
+"　なかなかいいクルマに\n"
+"　乗っておるのう。{END TEXTBOX}\n"
+"「$_Nなら\n"
+"　こんな色にできるぞ。\n"
+"　どれを塗る？"
+msgstr ""
+"\"Oh! $_N!\n"
+" You've got a\n"
+" pretty good vehicle.\"{END TEXTBOX}\n"
+"\"For the $_N\n"
+" I can use these colors.\n"
+" Choose!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// PAINTYA_MSG05"
+msgid ""
+"「$_Iなら、\n"
+"　こんな感じになるかのう！"
+msgstr ""
+"\"$_I?\n"
+" Then this would be the result!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// PAINTYA_MSG05B"
+msgid ""
+"「$_Iなら、\n"
+"　$_MＧじゃな。\n"
+"　塗るか？"
+msgstr ""
+"\"$_I\n"
+" will be $_MG.\n"
+" Paint it?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// PAINTYA_MSG06"
+msgid ""
+"「承知した！\n"
+"　いま塗ってやるから\n"
+"　ちょっと待っとれよ。{END TEXTBOX}\n"
+"「ここをこうして‥‥。\n"
+"　おお、体は仕事を\n"
+"　おぼえておるもんじゃ。{END TEXTBOX}\n"
+"「いま乾かしておる。\n"
+"　もうちょっと待っとれ。"
+msgstr ""
+"\"Roger!\n"
+" I'll paint it\n"
+" so wait a bit.\"{END TEXTBOX}\n"
+"\"I do this...\n"
+" Oh, my body remembers\n"
+" the job.\"{END TEXTBOX}\n"
+"\"It's drying.\n"
+" Wait a bit longer.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// PAINTYA_MSG07"
+msgid ""
+"「完成じゃ！\n"
+"　こりゃ、われながら\n"
+"　ほれぼれするデキじゃぞ！{END TEXTBOX}\n"
+"「ほかにもキラッキラに\n"
+"　したいクルマがあったら\n"
+"　乗ってくるのじゃぞ！"
+msgstr ""
+"\"Completed!\n"
+" This is a pretty good work,\n"
+" coming from me!\"{END TEXTBOX}\n"
+"\"If you want\n"
+" more like this\n"
+" bring them here!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// PAINTYA_MSG08"
+msgid ""
+"「わしならこのクルマを\n"
+"　もっとキラッキラに\n"
+"　できるんじゃがのう‥‥。"
+msgstr ""
+"\"I can make\n"
+" this vehicle\n"
+" more sparkling...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// PAINTYA_MSG09"
+msgid ""
+"「おい、カネがたらんぞ。\n"
+"　いくらあんたでも、カネは\n"
+"　払ってもらわんとな。"
+msgstr ""
+"\"You got no money.\n"
+" You must pay,\n"
+" without exception.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// PAINTYA_MSG10"
+msgid ""
+"「塗らずにおくか。\n"
+"　まあ、それもよかろう。"
+msgstr ""
+"\"You don't want to paint it?\n"
+" Well, that's no problem.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// PAINTYA_MSG10B"
+msgid ""
+"「このクルマを塗らないのなら\n"
+"　ほかのクルマを\n"
+"　塗ってやろうか？"
+msgstr ""
+"\"Don't want to paint this one?\n"
+" Should I\n"
+" paint another?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// PAINTYA_QA01"
+msgid "変えたい"
+msgstr "Change it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// PAINTYA_QA02"
+msgid "変えたくない"
+msgstr "Don't change it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "<!empty>"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "満タンサービス"
+msgstr "Refill Service"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "修理屋"
+msgstr "Repair Shop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "クルマ用品店"
+msgstr "Vehicle Shop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "砲弾屋"
+msgstr "Shells Shop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "メモリーセンター"
+msgstr "Memory Center"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "ハンターオフィス"
+msgstr "Hunter Office"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "人間武器屋"
+msgstr "Weapon Shop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "人間防具屋"
+msgstr "Armor Shop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "宿屋"
+msgstr "Inn"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "酒場"
+msgstr "Bar"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "レンタルタンク屋"
+msgstr "Tank Rental"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "ダブルエンジン屋"
+msgstr "Double Engine"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "シャシー改造屋"
+msgstr "Chassis Mods"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "料理屋"
+msgstr "Restaurant"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "インテリアショップ"
+msgstr "Interior Shop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "よろず屋"
+msgstr "General Store"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "冷蔵庫の店"
+msgstr "Fridge Store"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "タンスの店"
+msgstr "Drawer Store"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "自販機屋"
+msgstr "Vending Machine"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "門番クラン"
+msgstr "Gate Men Clan"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "パトロールドッグ"
+msgstr "Patrol Dog"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "休憩クラン"
+msgstr "Rest Clan"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "パトロールクランB"
+msgstr "Patrol Clan B"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "モンスターＡ"
+msgstr "Monster A"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "情報クラン"
+msgstr "Info Clan"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "パクリエル"
+msgstr "Pacriel"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "モンスターＢ"
+msgstr "Monster B"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "中ボスＢ"
+msgstr "MidBoss B"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "パトロールクランＡ"
+msgstr "Patrol Clan A"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "中ボスＣ"
+msgstr "Mid Boss C"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "通常ＮＰＣ"
+msgstr "Normal NPC"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "クラン№２"
+msgstr "Clan No.2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "ペイント屋"
+msgstr "Paint Shop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "ダフネ"
+msgstr "Daphne"

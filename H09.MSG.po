@@ -1,0 +1,566 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 18/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type1\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_B_N1_MSG1"
+msgid ""
+"「話しかけるなよっ！\n"
+"　いまいーとこなんだからっ！"
+msgstr ""
+"\"Don't talk to me!\n"
+" I'm about to win!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_B_N1_MSG2"
+msgid "「へっへっへ‥‥"
+msgstr "\"Heh, heh, heh...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_B_N2_MSG1"
+msgid ""
+"「ははは！\n"
+"　やられた！\n"
+"　ははは！"
+msgstr ""
+"\"Hah, hah!\n"
+" I got beaten!\n"
+" Hah, hah!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_B_N2_MSG2"
+msgid "「ひっひっひ‥‥"
+msgstr "\"Hih, hih!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_B_N3_MSG1"
+msgid ""
+"「へへへ‥‥。\n"
+"　そうそう、\n"
+"　その調子だぜ‥‥"
+msgstr ""
+"\"Heh, heh...\n"
+" Yeah, yeah!\n"
+" Keep it up!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_B_N3_MSG2"
+msgid "「くっくっく‥‥"
+msgstr "\"Heh, heh...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_B_N4_MSG1"
+msgid ""
+"「あ！\n"
+"　もう金がねえっ！\n"
+"　ぜんぶ使っちまった！"
+msgstr ""
+"\"Ah!\n"
+" Ran outta money!\n"
+" I used it all!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_KATUAGE_MSG1"
+msgid ""
+"「ここに遊びに来るってことはだ、\n"
+"　それなりの金を持ってきてる\n"
+"　わけだよな、あんちゃん。{END TEXTBOX}\n"
+"「ぜんぶ置いてって\n"
+"　もらおーか。けけけ！\n"
+"　命もいっしょにな！"
+msgstr ""
+"\"If you've come to play here\n"
+" that means you gotta have\n"
+" lotta money, bro.\"{END TEXTBOX}\n"
+"\"Leave it\n"
+" to me! Heh, heh!\n"
+" Along with your life!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_KATUAGE_SEL1"
+msgid "やれるもんならやってみな！"
+msgstr "Bring it on"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_KATUAGE_SEL2"
+msgid "命ばかりはお助けを！"
+msgstr "I beg for mercy!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_KATUAGE_MSG2"
+msgid ""
+"「なんだとォ！\n"
+"　オレたちゃ、泣く子もだまる\n"
+"　$nn034・$nn118だぞ！{END TEXTBOX}\n"
+"「見たらわかるだろーがっ、\n"
+"　それくらいのことはっ！"
+msgstr ""
+"\"What!?\n"
+" We're the Clan-Coldblood,\n"
+" the strongest out there!\"{END TEXTBOX}\n"
+"\"You can tell by looking,\n"
+" can't you!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_KATUAGE_SEL3"
+msgid "それがどうした？"
+msgstr "And what if?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_KATUAGE_SEL4"
+msgid "やるのかやらないのか？"
+msgstr "Are you coming or not?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_KATUAGE_MSG3"
+msgid ""
+"「ひひひ。\n"
+"　命が惜しけりゃよぉ、\n"
+"　もっと泣け！　わめけぇ！"
+msgstr ""
+"\"Hih, hih!\n"
+" If you wanna live\n"
+" then weep away!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_KATUAGE_MSG4"
+msgid "「うっひゃっひゃっ！"
+msgstr "\"Hyah, hyah!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_KATUAGE_MSG5"
+msgid "「にゃへへへへ！"
+msgstr "\"Nyah, heh, heh!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_KATUAGE_MSG6"
+msgid "「くまかかか！"
+msgstr "\"Ku-ma-ka-ka-ka!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_KATUAGE_MSG7"
+msgid ""
+"「泣いてもわめいても‥‥\n"
+"　どーせおめえは\n"
+"　ここで終わりだがな！"
+msgstr ""
+"\"Weep or cry...\n"
+" You're done for,\n"
+" anyway!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_KATUAGE_MSG8"
+msgid ""
+"「おい‥‥\n"
+"　待てよ‥‥\n"
+"　こいつ‥‥{END TEXTBOX}\n"
+"「まさか‥‥\n"
+"　$npって\n"
+"　ハンターじゃねえのかっ！"
+msgstr ""
+"\"Hey!\n"
+" Wait!\n"
+" Isn't this guy...?\"{END TEXTBOX}\n"
+"\"Isn't it...\n"
+" The Hunter named\n"
+" $np!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_KATUAGE_MSG9"
+msgid ""
+"「ああっ！　そうだっ！\n"
+"　$nn039をたおしたとかいう\n"
+"　スゴ腕のっ！"
+msgstr ""
+"\"Oh yeah! True!\n"
+" That strong guy\n"
+" who beat Dominguez!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_KATUAGE_MSG10"
+msgid ""
+"「ああっ！　そうだっ！\n"
+"　$nn039も、$nn079も\n"
+"　こいつにやられたんだっ！"
+msgstr ""
+"\"Oh yeah! True!\n"
+" Dominguez and Almeida\n"
+" were beaten by this jerk!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_KATUAGE_MSG11"
+msgid ""
+"「ひ～っ！\n"
+"　逃げろ～っ！"
+msgstr ""
+"\"Hiiihhh!\n"
+" Run away!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_KATUAGE_MSG12"
+msgid ""
+"「むううっ‥‥！\n"
+"　おっ、\n"
+"　おぼえてやがれぇっ！"
+msgstr ""
+"\"Shit!\n"
+" I-I'll\n"
+" remember this one!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_KATUAGE_MSG13"
+msgid ""
+"「なまいきなヤローだぜ！{END TEXTBOX}\n"
+"「冥土のみやげに、\n"
+"　$nn034の恐ろしさを\n"
+"　思い知らせてやるっ！"
+msgstr ""
+"\"What a jerk!\"{END TEXTBOX}\n"
+"\"I'll make you learn\n"
+" how scary the Clan\n"
+" as I kill you!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_LUCY_N1"
+msgid "「‥‥‥‥。"
+msgstr "\"...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_LUCY_N2"
+msgid "「‥‥‥‥。"
+msgstr "\"...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_LUCY_N3"
+msgid "「‥‥‥‥。"
+msgstr "\"...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_ANSATU_MSG1"
+msgid ""
+"「ふふふ‥‥。\n"
+"　見つけたわよ！\n"
+"　$np！"
+msgstr ""
+"\"Heh, heh!\n"
+" Found you!\n"
+" $np!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_ANSATU_MSG12"
+msgid "「あたしは、喪服の$nn047！"
+msgstr "\"I'm the Mourning Dress, Lucy!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_ANSATU_MSG13"
+msgid "葬式屋の$nn048と‥‥"
+msgstr "The Mortuary, Mig and..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_ANSATU_MSG2"
+msgid "念仏屋の$nn046！"
+msgstr "The Preacher Attuk!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_ANSATU_MSG3"
+msgid ""
+"「ここで死ぬのが\n"
+"　あんたの運命みたいね！\n"
+"　$nn085、見参！"
+msgstr ""
+"\"Looks like you're\n"
+" fated to die here and now!\n"
+" Lucy's has come!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_ANSATU_SEL1"
+msgid "殺し屋か！？"
+msgstr "Assassins!?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_ANSATU_SEL2"
+msgid "誰にたのまれた？"
+msgstr "Who hired you!?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_ANSATU_SEL3"
+msgid "死ぬのはそっち"
+msgstr "You're the ones who are gonna die"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_ANSATU_MSG4"
+msgid ""
+"$nn047「そう。\n"
+"　殺し屋よ～ン♪\n"
+"　お命ぜんぶ、くださいな。"
+msgstr ""
+"Lucy:\"Yes!\n"
+" We're assasins♪\n"
+" Give us all of your life!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_ANSATU_MSG5"
+msgid ""
+"$nn047「ふふふ。\n"
+"　それは、ひ、み、つ♪{END TEXTBOX}\n"
+"$nn047「仕事が終わったら、\n"
+"　あんたのために\n"
+"　泣いてあげるわ♪"
+msgstr ""
+"Lucy:\"Heh, heh!\n"
+" That's a secret♪\"{END TEXTBOX}\n"
+"Lucy:\"We'll cry\n"
+" for you once\n"
+" the job's over♪\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_ANSATU_MSG6"
+msgid ""
+"$nn047「あら。\n"
+"　言うじゃない♪\n"
+"　ふふふ‥‥{END TEXTBOX}\n"
+"$nn047「仕事が終わったら、\n"
+"　そのギャグを思い出して\n"
+"　笑ってあげるわ♪"
+msgstr ""
+"Lucy:\"My.\n"
+" That's cool♪\n"
+" Heh, heh...\"{END TEXTBOX}\n"
+"Lucy:\"I'll remember\n"
+" that gag once the job's over, \n"
+" and laugh at it♪\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_ANSATU_MSG7"
+msgid ""
+"$nn047「ちくしょうっ！\n"
+"　よくも（死んだ仲間の名前）をっ！"
+msgstr ""
+"Lucy:\"Shit!\n"
+" How dare you beat \n"
+" (name of the pal who died)...!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_ANSATU_MSG8"
+msgid ""
+"$nn048「ふん！\n"
+"　なかなか手ごわいヤツ（ら）だ！{END TEXTBOX}\n"
+"$nn048「$nn047！\n"
+"　ここはいったん引こう！{END TEXTBOX}\n"
+"$nn047「$nn046‥‥！\n"
+"　この仇はかならず\n"
+"　とってやるからねっ！"
+msgstr ""
+"Mig:\"Hmpf!\n"
+" Pretty tough guy(s)!\"{END TEXTBOX}\n"
+"Mig:\"Lucy! Let's flee!\"{END TEXTBOX}\n"
+"Lucy:\"Attuk...!\n"
+" One day I will\n"
+" avenge you!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_ANSATU_MSG9"
+msgid ""
+"$nn046「姉さんっ！\n"
+"　ここはいったん退却しよう！{END TEXTBOX}\n"
+"$nn046「こいつら、\n"
+"　けっこうやりやがる！{END TEXTBOX}\n"
+"$nn047「$nn048‥‥。\n"
+"　この仇はかならず\n"
+"　とってやるからねっ！"
+msgstr ""
+"Attuk:\"Sis!\n"
+" We should flee!\"{END TEXTBOX}\n"
+"Attuk:\"They're pretty\n"
+" diehard guys!\"{END TEXTBOX}\n"
+"Lucy:\"Mig...!\n"
+" One day I will\n"
+" avenge you!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_ANSATU_MSG10"
+msgid ""
+"$nn046「ああっ！\n"
+"　姉さんっ！"
+msgstr ""
+"Attuk:\"Aaahhh!\n"
+" SIS!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_ANSATU_MSG11"
+msgid ""
+"$nn048「ふん！\n"
+"　なかなか手ごわいヤツ（ら）だ！{END TEXTBOX}\n"
+"$nn048「$nn046！\n"
+"　ここはいったん引こう！"
+msgstr ""
+"Mig:Mig:\"Hmpf!\n"
+" Pretty tough guy(s)!\"{END TEXTBOX}\n"
+"Mig:\"Attuk! Let's flee!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_HAKKOTU"
+msgid ""
+"白骨死体がある。\n"
+"死後かなりの時間が\n"
+"経過しているようだ。"
+msgstr ""
+"There's a skeleton.\n"
+"Looks like it died\n"
+"quite some time ago."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_BOUREI_MSG01"
+msgid ""
+"突然、あたりに\n"
+"冷気がたちこめてきた。{END TEXTBOX}\n"
+"異様な気配とともに\n"
+"黒い影のようなものが現れ、\n"
+"だんだん濃くなっていく‥‥"
+msgstr ""
+"The surroundings\n"
+"suddenly chilled.{END TEXTBOX}\n"
+"An odd presence\n"
+"and a black shadow appeared\n"
+"and became thicker..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_BOUREI_MSG02"
+msgid ""
+"「う‥‥ううう‥‥@w20\n"
+"　うううぉぉぁああぁ‥‥{END TEXTBOX}\n"
+"「誰‥‥だぁ‥‥@w20\n"
+"　勝ったのは‥‥@w20\n"
+"　誰だぁぁぁあ！"
+msgstr ""
+"\"Uh... Uuuhhh...@w20\n"
+" Uuoooaaaahhhh....\"{END TEXTBOX}\n"
+"\"Who... Is it...@w20\n"
+" Who's the one...@w20\n"
+" That won the gameee!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_BOUREI_SELL1"
+msgid "オレじゃないよ～"
+msgstr "It wasn't me~"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_BOUREI_SELL2"
+msgid "出たな亡霊！"
+msgstr "There you are, you ghost!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_BOUREI_SELL3"
+msgid "勝ったのはおまえだ！"
+msgstr "You won!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_BOUREI_MSG03"
+msgid ""
+"「ウソをつけぇぇぇ！\n"
+"　おまえは勝ったぁぁぁ！\n"
+"　おまえが勝ったんだぁぁぁ！{END TEXTBOX}\n"
+"「勝った者は死ぬのだぁぁぁ！\n"
+"　それが運命なのだぁぁあああ！"
+msgstr ""
+"\"Liaaarrr!\n"
+" You woooonnnn!\n"
+" You're the oneeeee!\"{END TEXTBOX}\n"
+"\"Winners dieeee!\n"
+" That's your fateeeeee!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_BOUREI_MSG04"
+msgid ""
+"「ぐぅっはぁっはぁっはぁっ！\n"
+"　勝たなければぁぁぁ\n"
+"　よかったんだぁぁぁ！{END TEXTBOX}\n"
+"「勝ったおまえが悪いぃぃぃ！\n"
+"　幸運の後ろにはぁぁぁ\n"
+"　悪運がひそんでいるのだぁぁあ！"
+msgstr ""
+"\"Guh, hah, hah!\n"
+" That happens 'causeeee\n"
+" you won the gameeeee!\"{END TEXTBOX}\n"
+"\"You shouldn't have wooonnnn!\n"
+" Disgrace lurkkkssss\n"
+" behind luuuckkkkk!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_BOUREI_MSG05"
+msgid ""
+"「そうだぁぁぁ‥‥\n"
+"　勝ったのはオレだぁぁあ！\n"
+"　そして殺されたぁぁぁ！{END TEXTBOX}\n"
+"「おまえもそうなるぅぅ‥‥\n"
+"　勝った者は死ぬぅぅぅ‥‥\n"
+"　それが運命なのだぁぁあああ！"
+msgstr ""
+"\"Trueeeee....\n"
+" I'm the one who wooonnnn!\n"
+" And was killleeedddd!\"{END TEXTBOX}\n"
+"\"You're gonna die tooooo...\n"
+" Winner dieeeee...\n"
+" That's your fatteeee!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_BOUREI_MSG06"
+msgid ""
+"「ぐぅっはぁっはぁっはぁっ！@w20\n"
+"　運が悪かったなぁぁぁああ！"
+msgstr ""
+"\"Guuuhhh, haaahh, \n"
+" haaahhh!@w20!\n"
+" You were unluckyyyyyyy!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_BOUREI_MSG07"
+msgid ""
+"「カネぇぇぇぇ‥‥@w20\n"
+"　オレのぉぉぉ‥‥@w20\n"
+"　オレのカネぇぇぇぇ‥‥"
+msgstr ""
+"\"Moneeeyyyyy...@w20\n"
+" It's mineeeee...@w20\n"
+" My moneeeyyyyy....\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H09_BOUREI_MSG08"
+msgid ""
+"$nmは、\n"
+"７７７７７Ｇを手に入れた。"
+msgstr "$nm got 77777G"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "<!empty>"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "アトゥック"
+msgstr "Atuck"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "ルーシー"
+msgstr "Lucy"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "ミグ"
+msgstr "Mig"

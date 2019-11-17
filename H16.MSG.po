@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 18/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type1\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N4"
+msgid ""
+"「ここにくれば、たいていの\n"
+"　ＷＡＮＴＥＤモンスターの情報が\n"
+"　手にはいるのさ。"
+msgstr ""
+"\"If you come here,\n"
+" you'll get info on most \n"
+" of the WANTED Monsters.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N6"
+msgid ""
+"「モンスターを退治に行く前の\n"
+"　一杯は、最高さ。"
+msgstr ""
+"\"Having a cup before\n"
+" going to beat a monster\n"
+" feels great.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "<!empty>"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "ハンターオフィス"
+msgstr "Hunter Office"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "メモリーセンター"
+msgstr "Memory Center"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "ネットハンターオフィス"
+msgstr "Net Hunter Office"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "酒場"
+msgstr "Pub"

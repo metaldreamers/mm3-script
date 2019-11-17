@@ -1,0 +1,1073 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 18/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type1\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_MSG1"
+msgid ""
+"「‥‥。{END TEXTBOX}\n"
+"若者がたおれている。\n"
+"気を失っているが\n"
+"深い傷ではないようだ。{END TEXTBOX}\n"
+"$ni000を使って\n"
+"手当てしますか？"
+msgstr ""
+"\"...\"{END TEXTBOX}\n"
+"A young man is lying\n"
+"on the ground.{END TEXTBOX}\n"
+"He seems to be unconscious,\n"
+"but doesn't have any \n"
+"deep wounds.{END TEXTBOX}\n"
+"Would you like\n"
+"to treat him with\n"
+"a $ni000?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_SEL1"
+msgid "手当てする"
+msgstr "Treat him"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_SEL2"
+msgid "ほっておく"
+msgstr "Leave"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_MSG2"
+msgid ""
+"$npは、\n"
+"$ni000を持っていなかった。"
+msgstr ""
+"$np doesn't\n"
+"have any $ni000."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_MSG3"
+msgid ""
+"$npは\n"
+"たおれている男に\n"
+"$ni000を飲ませてやった。{END TEXTBOX}\n"
+"「う‥‥、@w60\n"
+"　げほ、げほ、げほっ‥‥。{END TEXTBOX}\n"
+"「はっ‥‥！\n"
+"　ここは天国っ！？"
+msgstr ""
+"$np made the\n"
+"unconscious man\n"
+"swallow a $ni000.{END TEXTBOX}\n"
+"\"Ooh...@w60\n"
+" *Cough*, *cough*, *cough*...\"{END TEXTBOX}\n"
+"\"Ah...!\n"
+" Is this heaven!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_MSG11"
+msgid ""
+"「あれ？\n"
+"　ちがうな‥‥。\n"
+"　生きてるのか、オレ！"
+msgstr ""
+"\"Huh?\n"
+" No, it's not...\n"
+" Then, am I alive!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_SEL3"
+msgid "おまえの名はゲイリーか？"
+msgstr "Is your name Carey?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_SEL4"
+msgid "おまえの名はゲイレフか？"
+msgstr "Is your name Calef?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_SEL5"
+msgid "おまえの名は$nn005か？"
+msgstr "Is your name Caleb?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_MSG12"
+msgid ""
+"「ゲイリー？\n"
+"　誰だ、そりゃ。"
+msgstr ""
+"\"Carey?\n"
+" Who the heck is that?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_MSG13"
+msgid ""
+"「ゲイレフ？\n"
+"　知らないな、そんなヤツは。"
+msgstr ""
+"\"Calef?\n"
+" Can't say I know him.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_MSG21"
+msgid ""
+"「そうだよ。\n"
+"　オレに何か用か？{END TEXTBOX}\n"
+"$npは、$nn005に\n"
+"$nn004からの伝言をつたえた。{END TEXTBOX}\n"
+"$nn005「$nn004のやつ、\n"
+"　オレをそんなに弱い男だと\n"
+"　思ってるのか‥‥。{END TEXTBOX}\n"
+"$nn005「だったら意地でも\n"
+"　ひと稼ぎして帰らないと！\n"
+"　このままおめおめ帰れるかぁ！"
+msgstr ""
+"\"That's right.\n"
+" Do you need\n"
+" something from me?\"{END TEXTBOX}\n"
+"$np told Caleb\n"
+"Rosa's message.{END TEXTBOX}\n"
+"Caleb:\"Does Rosa really\n"
+" think I'm that weak...?\"{END TEXTBOX}\n"
+"Caleb:\"If that's the case,\n"
+" then there's no way\n"
+" I can go home empty-handed!\"{END TEXTBOX}\n"
+"Caleb:\"I wouldn't be able\n"
+" to look her in the eye!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_SEL6"
+msgid "勝手にしろ"
+msgstr "Have it your way"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_SEL7"
+msgid "力を貸そう"
+msgstr "I'll help you"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_SEL8"
+msgid "死ぬ前に町に帰れってば"
+msgstr "Go home before you get killed"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_MSG22"
+msgid ""
+"$nn005「ああ、そうするさ！\n"
+"　助けてくれてありがとよ！"
+msgstr ""
+"Caleb:\"Yeah, that's right!\n"
+" Thanks for the help!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_MSG_a"
+msgid ""
+"$nn005「ほっといてくれ！　　\n"
+"　オレはまだ帰らん～っ！"
+msgstr ""
+"Caleb:\"Buzz off!\n"
+" I'm not going home yet!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_MSG31"
+msgid ""
+"$nn005「えっ！？\n"
+"　オレといっしょに\n"
+"　戦ってくれるのか！？"
+msgstr ""
+"Caleb:\"Huh!?\n"
+" You'll fight alongside me!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_SEL9"
+msgid "そういうことだ"
+msgstr "That's what I said"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_SEL10"
+msgid "やっぱやめとく"
+msgstr "Actually, no"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_MSG32"
+msgid ""
+"$nn005「ありがてえっ！\n"
+"　あんた強そうだもんなっ！\n"
+"　よろしくたのむぜ！{END TEXTBOX}\n"
+"$nn005が\n"
+"なかまにくわわった！"
+msgstr ""
+"Caleb:\"Thank you!\n"
+" You look real strong!\"{END TEXTBOX}\n"
+"Caleb:\"I'll be counting on you!\"{END TEXTBOX}\n"
+"Caleb joined\n"
+"your party!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3A_MSG33"
+msgid ""
+"$nn005「何だよっ！\n"
+"　期待させやがってっ！{END TEXTBOX}\n"
+"$nn005「もういいよ！\n"
+"　ほっといてくれ！"
+msgstr ""
+"Caleb:\"What the hell!\n"
+" Don't get my hopes up!\"{END TEXTBOX}\n"
+"Caleb:\"Whatever!\n"
+" Buzz off!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3B_MSG"
+msgid ""
+"白骨死体がある。\n"
+"生き返ることはなさそうだ。"
+msgstr ""
+"It's a bleached-white\n"
+"skeleton.\"{END TEXTBOX}\n"
+"It doesn't seem possible\n"
+"to bring back to life."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3C_MSG"
+msgid ""
+"$nn005「ほっといてくれ！　　\n"
+"　オレはまだ帰らん～っ！"
+msgstr ""
+"Caleb:\"Buzz off!\n"
+" I'm not going home yet!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3D_MSG1"
+msgid ""
+"$nn005「ふぅう～っ。\n"
+"　死んだふりするのも\n"
+"　意外とたいへんなんだぜ。{END TEXTBOX}\n"
+"$nn005「どうだろう、\n"
+"　オレといっしょに戦ってくれたりなんて\n"
+"　してくれちゃったりなんかして？"
+msgstr ""
+"Caleb:\"Phew.\n"
+" Playing dead is\n"
+" surprisingly tough.\"{END TEXTBOX}\n"
+"Caleb:\"What is it?\n"
+" Did you come back to fight together\n"
+" with me or something?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3D_SEL1"
+msgid "しょーがないな"
+msgstr "I guess there's no helping it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3D_SEL2"
+msgid "ねごとを言うな"
+msgstr "Don't talk gibberish"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3D_MSG2"
+msgid ""
+"$nn005「‥‥。\n"
+"　わかったよ。\n"
+"　もうたのまねーよ。"
+msgstr ""
+"Caleb:\"...\n"
+" I get it.\n"
+" I won't ask again.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3E_MSG1"
+msgid ""
+"$nn005「いやー、ずっと\n"
+"　死んだふりしてたらさぁ、\n"
+"　ほんとに死んだような気がしたよ。{END TEXTBOX}\n"
+"$nn005「どうだろう、\n"
+"　$nc000の町まで、連れて帰ったりなんて\n"
+"　してくれちゃったりなんかして？"
+msgstr ""
+"Caleb:\"Woah,\n"
+" I was playing dead\n"
+" for so long...\"{END TEXTBOX}\n"
+"Caleb:\"That I almost thought\n"
+" I WAS dead!\"{END TEXTBOX}\n"
+"Caleb:\"What is it?\n"
+" Did you come to take me back\n"
+" to Wara or something?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3E_SEL1"
+msgid "しょーがないな"
+msgstr "I guess there's no helping it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3E_SEL2"
+msgid "甘えてんじゃねえ"
+msgstr "Don't act so spoiled"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3E_MSG2"
+msgid ""
+"$nn005「‥‥。\n"
+"　キビし～っ！"
+msgstr ""
+"Caleb:\"...\n"
+" You're so harsh!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3F_MSG1"
+msgid ""
+"$nn005「すげえな、あんた！\n"
+"　あの$nw001を！\n"
+"　やっつけちまうなんてっ！{END TEXTBOX}\n"
+"$nn005「あんたといっしょなら\n"
+"　この世に\n"
+"　こわいものなんてなさそーだ！"
+msgstr ""
+"Caleb:\"You're amazing!\n"
+" You kicked that\n"
+" $nw001's ass!\"{END TEXTBOX}\n"
+"Caleb:\"If I'm with you,\n"
+" there's nothing left\n"
+" out there to be scared of!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3F_MSG11"
+msgid ""
+"$nn005「ひきかえす気に\n"
+"　なったのかい？"
+msgstr ""
+"Caleb:\"Did you\n"
+" decide to go back?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3F_SEL1"
+msgid "なった"
+msgstr "I did"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3F_SEL2"
+msgid "なってない"
+msgstr "I didn't"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3F_MSG12"
+msgid ""
+"$nn005「よし！\n"
+"　んじゃ、もう下におりよう！"
+msgstr ""
+"Caleb:\"Alright!\n"
+" Then let's go back down.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3F_MSG13"
+msgid ""
+"$nn005「気が変わったら\n"
+"　また声をかけてくれ。"
+msgstr ""
+"Caleb:\"Come talk to\n"
+" me again if you\n"
+" change your mind.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_N3G_MSG"
+msgid ""
+"$nn005「死んだふりしながら、\n"
+"　道を思い出してるところだよ。\n"
+"　縁があったらまた会おう！"
+msgstr ""
+"Caleb:\"I'll make my\n"
+" way back while\n"
+" playing dead.\"{END TEXTBOX}\n"
+"Caleb:\"We'll meet again,\n"
+" if fate wills it!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_MAPIN_MSG1"
+msgid ""
+"「これじゃ\n"
+"　命がいくつあっても\n"
+"　たりねーよっ！{END TEXTBOX}\n"
+"「逃げろ～っ！"
+msgstr ""
+"\"One life isn't\n"
+" enough for this!{END TEXTBOX}\n"
+"\"Run awaaay!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_MAPIN_MSG2"
+msgid ""
+"「待ってくれ～！\n"
+"　おいてかないでくれ～！"
+msgstr ""
+"\"Wait!\n"
+" Don't leave me here!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_BATTLE_MSG1"
+msgid ""
+"$nn005「あと$_0Ｇ　稼ぐまでは\n"
+"　町にもどらないぞっ！"
+msgstr ""
+"Caleb:\"I'm not going back\n"
+" until I earn another $_0G!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_BATTLE_MSG2"
+msgid ""
+"$nn005「やったぁ！\n"
+"　１００Ｇたまったぁっ！{END TEXTBOX}\n"
+"$nn005「これで$nn004に\n"
+"　けっこん指輪を\n"
+"　買ってやれるぞっ！"
+msgstr ""
+"Caleb:\"Yes!\n"
+" I've got 100G!\"{END TEXTBOX}\n"
+"Caleb:\"Now I can buy a\n"
+" wedding ring for Rosa!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_BATTLE_SEL1"
+msgid "じゃ、ぼちぼち町に帰れば？"
+msgstr "Should you make your way back?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_BATTLE_SEL2"
+msgid "もっと稼ごうぜ"
+msgstr "Let's get more"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_BATTLE_MSG3"
+msgid ""
+"$nn005「え‥‥？\n"
+"　いや‥‥、オレは‥‥{END TEXTBOX}\n"
+"$nn005「そ‥‥、\n"
+"　それもそうだな‥‥。\n"
+"　そうするか！"
+msgstr ""
+"Caleb:\"Huh..?\n"
+" No...\n"
+" I'm...\"{END TEXTBOX}\n"
+"Caleb:\"I...\n"
+" I guess we could...\n"
+" Why not!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_BATTLE_MSG4"
+msgid ""
+"$nn005「そうだな！\n"
+"　あんたもいっしょに\n"
+"　帰ってくれるんだろ？"
+msgstr ""
+"Caleb:\"I know!\n"
+" Do you want to\n"
+" go back with me?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_BATTLE_SEL3"
+msgid "なぜ？"
+msgstr "Why?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_BATTLE_SEL4"
+msgid "いいとも"
+msgstr "Sure"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_BATTLE_SEL5"
+msgid "甘えたことを言うな"
+msgstr "Don't act so spoiled"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_BATTLE_MSG5"
+msgid ""
+"$nn005「ありがてえっ！\n"
+"　んじゃ、いざ、$nc000の町へ！"
+msgstr ""
+"Caleb:\"Thank you!\n"
+" Now, off to Wara!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_BATTLE_MSG6"
+msgid ""
+"$nn005「‥‥。\n"
+"　そうだな‥‥。\n"
+"　調子よすぎるよな。{END TEXTBOX}\n"
+"$nn005「わかったよ、\n"
+"　ひとりで帰り着いてみせるさ！\n"
+"　$nn004のもとへ！"
+msgstr ""
+"Caleb:\"...\n"
+" You're right...\n"
+" I got too worked up.\"{END TEXTBOX}\n"
+"Caleb:\"Alright,\n"
+" I'll show you I can\n"
+" get back by myself!\"\n"
+"Caleb:\"I'm coming, Rosa!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_BATTLE_MSG7"
+msgid ""
+"$nn005「いろいろありがとな！\n"
+"　この恩は一生わすれないよ！"
+msgstr ""
+"Caleb:\"Thank you for everything!\n"
+" I'll never forget this!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_BATTLE_MSG8"
+msgid ""
+"$nn005「う‥‥\n"
+"　うううっ‥‥。{END TEXTBOX}\n"
+"$nn005「どうやら、\n"
+"　オレはもうダメなようだ‥‥。{END TEXTBOX}\n"
+"$nn005「死神には\n"
+"　死んだふりも\n"
+"　きかないらしいや‥‥{END TEXTBOX}\n"
+"$nn005「ああ‥‥。@w60\n"
+"　かわいい$nn004、@w30もういちど‥‥@w30\n"
+"　会いたかったなぁ‥‥。"
+msgstr ""
+"Caleb:\"Ooh...\n"
+"Oooooh...\"{END TEXTBOX}\n"
+"Caleb:\"I think this\n"
+" is it for me...\"{END TEXTBOX}\n"
+"Caleb:\"The reaper couldn't\n"
+" tell I was only\n"
+" playing dead...\"{END TEXTBOX}\n"
+"Caleb:\"Ah...@w60\n"
+" My sweet Rosa...\"{END TEXTBOX}\n"
+"Caleb:\"I just wish I could...@w30\n"
+" See you once more...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_BATTLE_MSG9"
+msgid ""
+"$nn005「こんなにいっぱい\n"
+"　稼いだら‥‥\n"
+"　死ぬのがこわくなっちまった。{END TEXTBOX}\n"
+"$nn005「なぁ、いっしょに\n"
+"　町に帰ろうよ。"
+msgstr ""
+"Caleb:\"Now that I've made\n"
+" this much money...\"{END TEXTBOX}\n"
+"Caleb:\"I'm kind of\n"
+" scared of dying.\"{END TEXTBOX}\n"
+"Caleb:\"Come on,\n"
+" let's go back\n"
+" to town.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_BATTLE_MSG10"
+msgid ""
+"$nn005「ぼちぼち\n"
+"　$nc000の町に帰らないか？"
+msgstr ""
+"Caleb:\"Should we make \n"
+" our way back to Wara?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_RF_MSG1"
+msgid ""
+"$nn005「なんてゆーか、こう‥‥\n"
+"　すっごくイヤな予感がする‥‥。\n"
+"　引き返そうぜ！"
+msgstr ""
+"Caleb:\"For some reason...\"{END TEXTBOX}\n"
+"Caleb:\"I'm getting a\n"
+" really bad feeling...\"{END TEXTBOX}\n"
+"Caleb:\"Let's get out of here!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_RF_SEL1"
+msgid "ここで待ってろ"
+msgstr "You wait here"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_RF_SEL2"
+msgid "ついてこい"
+msgstr "Follow me"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_RF_SEL3"
+msgid "さきに町にもどってろ"
+msgstr "You go back to town first"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_RF_MSG2"
+msgid ""
+"$nn005「そうだな‥‥。\n"
+"　そうするか。{END TEXTBOX}\n"
+"$nn005が\n"
+"なかまでなくなった！"
+msgstr ""
+"Caleb:\"Alright...\n"
+" I will.\"{END TEXTBOX}\n"
+"Caleb left\n"
+"the party!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_RF_MSG3"
+msgid "$nn005「ムリ。"
+msgstr "Caleb:\"Nope.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_RF_MSG4"
+msgid ""
+"$nn005「そうだな‥‥\n"
+"　そうするか‥‥。{END TEXTBOX}\n"
+"$nn005が\n"
+"なかまでなくなった！"
+msgstr ""
+"Caleb:\"Alright...\n"
+" I will.\"{END TEXTBOX}\n"
+"Caleb left\n"
+"the party!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_SOTO_KEIREB_MSG1"
+msgid ""
+"$nn005「帰るのは\n"
+"　もっと\n"
+"　稼いでからにしようよ！"
+msgstr ""
+"Caleb:\"I need to\n"
+" make more money\n"
+" before I go home!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_SOTO_KEIREB_SEL1"
+msgid "勝手にしろ"
+msgstr "Do what you want"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_SOTO_KEIREB_SEL2"
+msgid "わかったよ、もう少しだけな"
+msgstr "Okay, just a bit longer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_SOTO_KEIREB_MSG2"
+msgid ""
+"$nn005「じゃぁ、\n"
+"　そうさせてもらうよ。\n"
+"　またね！"
+msgstr ""
+"Caleb:\"Alright, I will.\n"
+" See you later!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_SOTO_KEIREB_MSG11"
+msgid ""
+"$nn005「どうだろう、\n"
+"　$nc000の町まで、連れて帰ったりなんて\n"
+"　してくれちゃったりなんかして？"
+msgstr ""
+"Caleb:\"What is it?\n"
+" Do you want to take me back\n"
+" to Wara or something?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_SOTO_KEIREB_MSG12"
+msgid ""
+"$nn005「‥‥。\n"
+"　キビし～っ！"
+msgstr ""
+"Caleb:\"...\n"
+" You're so harsh!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_1F_MEMBER_OVER"
+msgid ""
+"しかし、これ以上\n"
+"仲間をふやすことは\n"
+"できなかった！"
+msgstr ""
+"But you don't\n"
+" have room for any\n"
+" more party members!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_SOTO_ENTRANCE"
+msgid ""
+"ゲートは\n"
+"かたく閉ざされたまま\n"
+"さびついてしまっている。{END TEXTBOX}\n"
+"ここをあけることは\n"
+"できないようだ。"
+msgstr ""
+"The gate is\n"
+"rusted shut.{END TEXTBOX}\n"
+"You won't be\n"
+"able to open it."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_SOTO_CRANE"
+msgid ""
+"倒壊したクレーンの\n"
+"先っぽだ。"
+msgstr ""
+"It's the collapsed\n"
+"arm of a crane."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_KOU_JIHANKI1"
+msgid ""
+"自動販売機は、\n"
+"完全にこわれて\n"
+"しまっているようだ。"
+msgstr ""
+"The vending machine\n"
+"is completely broken."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_KOU_REGI"
+msgid ""
+"レジスターはこわれていて、\n"
+"からっぽだ。{END TEXTBOX}\n"
+"誰かがむりやりこじあけて、\n"
+"中身を持ち去ったようだ。"
+msgstr ""
+"The register is\n"
+"broken and empty.{END TEXTBOX}\n"
+"Someone must have\n"
+"forced it open and\n"
+"taken the contents."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_KAMI"
+msgid ""
+"$npは、\n"
+"かべの貼り紙を読んだ。"
+msgstr ""
+"$np read the\n"
+"poster on the wall."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_KOU_KAMI1"
+msgid ""
+"「万引きするとクビになります！\n"
+"　クビにしてから告訴します！\n"
+"　　　エネルギン社　購買部より"
+msgstr ""
+"\"Shoplifters will be fired!\n"
+"　Fired and prosecuted!\"{END TEXTBOX}\n"
+"   -EnerGin Corporation\n"
+"    Company Store"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_KOU_KAMI2"
+msgid ""
+"「喫煙室\n"
+"　　　すいがらは灰皿に！"
+msgstr ""
+"\"Smoking Room\n"
+"   Cigarette butts go\n"
+"   in the ashtray!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_KOU_KAMI3"
+msgid ""
+"「灰皿を投げるな！\n"
+"　空気清浄機を盗むな！"
+msgstr ""
+"\"Do not throw out\n"
+" the ashtray!\"{END TEXTBOX}\n"
+"\"Do not steal\n"
+" the air purifier!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_JIMU_KAMI1"
+msgid "＊＊　室長室　＊＊"
+msgstr "＊＊　Manager's Office　＊＊"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_JIMU_DOOR1_MSG1"
+msgid ""
+"やけに頑丈につくられた\n"
+"金属製のドアだ。{END TEXTBOX}\n"
+"ドアにはカギがかかっている。"
+msgstr ""
+"It's a strongly built\n"
+"metal door.{END TEXTBOX}\n"
+"The door is\n"
+"currently locked."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_DOOR_LOCK1"
+msgid ""
+"カギが合わない！{END TEXTBOX}\n"
+"このドアをあけるには\n"
+"べつのカギが必要だ。"
+msgstr ""
+"The key doesn't match!{END TEXTBOX}\n"
+"You will need a different\n"
+"key to open this door."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_DOOR_KEYS"
+msgid ""
+"カギたばにまとめられたカギを\n"
+"ひとつずつ、順番に\n"
+"ためしてみる‥‥@w60‥‥@w60"
+msgstr ""
+"You slowly try all the keys,\n"
+"one by one...@w60...@w60"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_DOOR_UNLOCK"
+msgid "カギが合った！"
+msgstr "You found a matching key!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_DOOR_LOCK2"
+msgid ""
+"どのカギも\n"
+"ここでは役にたたなかった。{END TEXTBOX}\n"
+"このドアをあけるには\n"
+"べつのカギが必要だ。"
+msgstr ""
+"None of the keys work here.{END TEXTBOX}\n"
+"You will need a different\n"
+"key to open this door."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_JIMU_DOOR2"
+msgid "ドアにはカギがかかっている。"
+msgstr ""
+"The door is\n"
+"currently locked."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_COM_MSG1"
+msgid ""
+"＊＊ＳｕｐｅｒＬｏｃｋｙ＊＊\n"
+"＞パスワードを入力してください"
+msgstr ""
+"＊＊SuperLocky＊＊\n"
+"＞Please enter your password"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_COM_MSG2"
+msgid "SuperLockyにおまかせ！"
+msgstr "Leave the SuperLocky to me!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_COM_MSG3"
+msgid ""
+"＞不正なパスワードです{END TEXTBOX}\n"
+"＞正しいパスワードを\n"
+"入力してください"
+msgstr ""
+"＞Incorrect password{END TEXTBOX}\n"
+"＞Please enter the\n"
+" correct password"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_COM_MSG4"
+msgid ""
+"＞正しいパスワードが\n"
+"入力されました{END TEXTBOX}\n"
+"＞ＳｕｐｅｒＬｏｃｋｙは\n"
+"ドアのロックを\n"
+"はずしています‥‥"
+msgstr ""
+"＞Correct password entered{END TEXTBOX}\n"
+"＞Superlocky will now\n"
+" unlock the door..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_COM_MSG5"
+msgid "＞ドアは開放されました"
+msgstr "＞The door is now open"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_3F_KEYS"
+msgid ""
+"似たようなたくさんのカギが\n"
+"金属のリングで\n"
+"たばねられている。{END TEXTBOX}\n"
+"$nc026のあちこちのドアを\n"
+"あけしめするための\n"
+"ものらしい。"
+msgstr ""
+"It appears to be\n"
+"many keys on\n"
+"a metal ring.{END TEXTBOX}\n"
+"They likely open\n"
+"various doors\n"
+"in the Factory Ruins."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_JIMU_DOOR3"
+msgid "ドアにはカギがかかっているようだ。"
+msgstr ""
+"The door seems\n"
+"to be locked."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_HOLE_MSG1"
+msgid "飛び降りますか？"
+msgstr "Jump down?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_HOLE_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_HOLE_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_YAMBER_MSG01"
+msgid ""
+"　　　　　緊急事態発生のため\n"
+"　　　　　当工場は無期限\n"
+"　　　　　封鎖されました！"
+msgstr ""
+"Due to the current state \n"
+"of emergency, this factory \n"
+"will be closed indefinitely!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_YAMBER_MSG02"
+msgid ""
+"金庫の近くの壁に\n"
+"落書きのような文字が\n"
+"殴り書きされている。{END TEXTBOX}\n"
+"ざまぁみろ、イカレた機械ども！\n"
+"地下室ごと、まとめて\n"
+"爆破してやったぜ！"
+msgstr ""
+"There's something\n"
+"written on the wall\n"
+"near the safe.{END TEXTBOX}\n"
+"\"Just try it,\n"
+" you damn machines!{END TEXTBOX}\n"
+"\"As long as I'm down here,\n"
+" nothing can kill me!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_YAMBER_MSG03"
+msgid ""
+"どうやら、\n"
+"あそこに見えるのが‥‥{END TEXTBOX}\n"
+"２０００Ｇの賞金がかかった\n"
+"ＷＡＮＴＥＤモンスター、\n"
+"$nw001らしい。"
+msgstr ""
+"Over there\n"
+"seems to be...{END TEXTBOX}\n"
+"The Wanted monster\n"
+"with a 2000G bounty,\n"
+"$nw001."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_YAMBER_SELL1"
+msgid "ダニエルの仇をうつ！"
+msgstr "Time to get revenge for Daniel!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_YAMBER_SELL2"
+msgid "立ち去る"
+msgstr "Leave"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_YAMBER_MSG04"
+msgid ""
+"工場の内部を通らないと、\n"
+"$nw001のいる屋上へは、\n"
+"行けないようだ。"
+msgstr ""
+"It seems like you\n"
+"will only be able to\n"
+"get to $nw001{END TEXTBOX}\n"
+"on the roof by going\n"
+"through the inside\n"
+"of the factory."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_YAMBER_MSG05"
+msgid ""
+"　　　　クリーンで明るい未来へ！\n"
+"　　　　エネル・ギンスキー社の\n"
+"　　　　バイオ・エタノール"
+msgstr ""
+"　　　　For a Bright, Clean Future!{END TEXTBOX}\n"
+"　　　　EnerGinsky Corporation\n"
+"　　　　Bio-Ethanol Production"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_YAMBER_MSG06"
+msgid ""
+"外壁が崩れ落ちている。\n"
+"ここから外に\n"
+"抜け出られそうだ。{END TEXTBOX}\n"
+"工場遺跡から\n"
+"立ち去りますか？"
+msgstr ""
+"The outer wall\n"
+"has crumbled away.{END TEXTBOX}\n"
+"It seems you can get out here.\n"
+"Leave the Factory Ruins?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_YAMBER_SELL3"
+msgid "まだ立ち去らない"
+msgstr "Don't leave yet"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_YAMBER_SELL4"
+msgid "立ち去る"
+msgstr "Leave"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_YAMBER_MSG07"
+msgid ""
+"「ガシャコン！\n"
+"　ガシャコン！\n"
+"　ガシャコン！{END TEXTBOX}\n"
+"「ギギッ！@w20\n"
+"　ギッギッギ！@w20\n"
+"　ギギギ～～ッ！"
+msgstr ""
+"\"Kashunk!\n"
+" Kashunk!\n"
+" Kashunk!\"{END TEXTBOX}\n"
+"\"Gi gi!@w20\n"
+" Gi gi gi!@w20\n"
+" Gigigiiii!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D01_YAMBER_MSG08"
+msgid ""
+"「ギギ‥‥\n"
+"　ギ‥‥\n"
+"　ギギギ～～ッ！"
+msgstr ""
+"\"Gigi...\n"
+" Gi...\n"
+" Gigigiiiiii!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "<!empty>"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "ケイレブ"
+msgstr "Caleb"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "ユンボラー"
+msgstr "Yunbola"

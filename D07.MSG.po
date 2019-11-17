@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 18/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type1\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D07_B1_N1A"
+msgid ""
+"「この先は、危険だぞ！\n"
+"　足場がもろくて\n"
+"　崩れ落ちるんだぞ！{END TEXTBOX}\n"
+"「さっきも、オレの弟分が\n"
+"　落ちてしまいやがった。"
+msgstr ""
+"\"This area is dangerous!\n"
+" The footing is weak\n"
+" so it breaks and falls!\"{END TEXTBOX}\n"
+"\"My bud actually\n"
+" fell down there!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D07_B5_N1B"
+msgid ""
+"「しゃべるんじゃねぇ。\n"
+"　いいから、もう帰るぞ！"
+msgstr ""
+"\"Don't talk.\n"
+" Let's go back!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D07_B5_N2_MSG1"
+msgid ""
+"「ぴよ、ぴよ・・・。{END TEXTBOX}\n"
+"「アニキ・・・。\n"
+"　オイラは、もうダメだ・・・。"
+msgstr ""
+"\"H-huh...\"{END TEXTBOX}\n"
+"\"Bro...\n"
+" I'm done for...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D07_B5_N2_MSG2"
+msgid ""
+"「あ、アニキ・・・。\n"
+"　めんぼくねぇ。"
+msgstr ""
+"\"B-Bro...\n"
+" Sorry for this...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "<!empty>"
+msgstr ""

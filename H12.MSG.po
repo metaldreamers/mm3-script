@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 18/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type1\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H12_1F_N1_MSG1"
+msgid ""
+"どうやら、\n"
+"ただの死体のようだ。{END TEXTBOX}\n"
+"ん！？\n"
+"死体が　$ni046を\n"
+"持っていた。"
+msgstr ""
+"Seems to be\n"
+"a mere dead body.{END TEXTBOX}\n"
+"Huh!?\n"
+"he body carries\n"
+"$ni046!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H12_1F_N1_MSG2"
+msgid "$ni046を　手に入れた。"
+msgstr "You got $ni046"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H12_1F_N1_MSG3"
+msgid ""
+"どうやら、\n"
+"ただの死体のようだ。"
+msgstr ""
+"Seems to be\n"
+"a mere dead body."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H12_SAI_COM_MSG1"
+msgid ""
+"生命エネルギーをカプセルに\n"
+"注入します。"
+msgstr ""
+"Will pour life energy\n"
+"into the capsule"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H12_SAI_COM_MSG1_2"
+msgid ""
+"１０％@w60\n"
+"２０％@w60\n"
+"３０％@w60\n"
+"４０％@w60\n"
+"５０％@w60"
+msgstr ""
+"10%@w60\n"
+"20%@w60\n"
+"30%@w60\n"
+"40%@w60\n"
+"50%@w60"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H12_SAI_COM_MSG1_3"
+msgid ""
+"６０％@w60\n"
+"７０％@w60\n"
+"８０％@w60\n"
+"９０％@w60\n"
+"１００％@w60"
+msgstr ""
+"60%@w60\n"
+"70%@w60\n"
+"80%@w60\n"
+"90%@w60\n"
+"100%@w60"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H12_SAI_COM_MSG1_4"
+msgid ""
+"注入完了！{END TEXTBOX}\n"
+"カプセルを排出します。"
+msgstr ""
+"Pouring complete!{END TEXTBOX}\n"
+"The capsule will be ejected"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H12_SAI_COM_MSG2"
+msgid ""
+"$npは\n"
+"$ni069を手に入れた！"
+msgstr ""
+"$np\n"
+"got $ni069!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H12_SAI_COM_MSG3"
+msgid ""
+"エラー！エラー！\n"
+"エネルギー不足です。"
+msgstr ""
+"Error! Error!\n"
+"Not enough energy."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H12_SAI_COM_MSG4"
+msgid ""
+"エラー！エラー！\n"
+"カプセルは排出済です。"
+msgstr ""
+"Error! Error!\n"
+"The capsule \n"
+" has already been ejected"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H12_BATTERY_OFF"
+msgid ""
+"どうやら、電源が\n"
+"入っていないようだ。"
+msgstr "Looks like it's not powered on"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SEC_MACHINE_MSG1"
+msgid ""
+"シンニュウシャ　ハッケン！\n"
+"シンニュウシャ　ハッケン！{END TEXTBOX}\n"
+"タダチニ　タイキョ　セヨ！\n"
+"タイキョ　シナイ　モノハ\n"
+"ハイジョ　スル！"
+msgstr ""
+"INTRUDER FOUND!\n"
+"INTRUDER FOUND!{END TEXTBOX}\n"
+"LEAVE AT ONCE!\n"
+"ELSE YOU WILL BE\n"
+"ELIMINATED!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// SEC_MACHINE_MSG2"
+msgid ""
+"シンニュシャ　ハイジョ！\n"
+"シンニュシャ　ハイジョ！"
+msgstr ""
+"ELIMINATE INTRUDER!\n"
+"ELIMINATE INTRUDER!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// TOUCH_PANEL_MSG1"
+msgid "$ni046を、かざしてください。"
+msgstr "Insert the $ni046"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// TOUCH_PANEL_MSG2"
+msgid "$ni046をかざしますか？"
+msgstr "Insert it?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// TOUCH_PANEL_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// TOUCH_PANEL_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// TOUCH_PANEL_MSG3"
+msgid ""
+"$ni046をタッチパネルに\n"
+"かざした！"
+msgstr ""
+"You inserted\n"
+"$ni046 into the touch panel!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// TOUCH_PANEL_MSG4"
+msgid ""
+"ＯＫ！\n"
+"扉を解除します。"
+msgstr ""
+"OK!\n"
+"The door will be opened."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// TOUCH_PANEL_MSG5"
+msgid "$ni046を、かざさなかった。"
+msgstr "You didn't insert it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// INPUT"
+msgid "<!empty>"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H12_POWER_ON"
+msgid "＞電力供給を開始します・@w20・@w20・@w20・@w60"
+msgstr ">Starting electricity feeding...@w20...@w20...@w20...@w60"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H12_POWER_OFF"
+msgid "＞電力供給を終了します・@w20・@w20・@w20・@w60"
+msgstr ">Ending electricity feeding...@w20...@w20...@w20...@w60"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H12_PASS_ERROR"
+msgid ""
+"＞不正なパスワードです{END TEXTBOX}\n"
+"＞正しいパスワードを\n"
+"入力してください"
+msgstr ""
+">Wrong password.{END TEXTBOX}\n"
+">Please input the right password"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H12_PASS_OK"
+msgid ""
+"＞正しいパスワードが\n"
+"入力されました"
+msgstr ""
+">The right password\n"
+" has been inserted"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "<!empty>"
+msgstr ""

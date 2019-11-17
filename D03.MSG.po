@@ -1,0 +1,470 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 18/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type1\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_N1"
+msgid ""
+"「で‥‥\n"
+"　デカ\n"
+"　デカプリ‥‥ン‥‥　がくっ"
+msgstr ""
+"\"Me...\n"
+" Mega...\n"
+" MegaPud...ding... Guh..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_N2"
+msgid ""
+"「強すぎ‥‥る‥‥\n"
+"　がくっ"
+msgstr ""
+"\"Too... strong...\n"
+" Guh..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_N3"
+msgid ""
+"「賞金‥‥{END TEXTBOX}\n"
+"「ごっ‥‥、\n"
+"　ごちそう‥‥{END TEXTBOX}\n"
+"「おだいじん‥‥\n"
+"　がくっ"
+msgstr ""
+"\"The bounty...\"{END TEXTBOX}\n"
+"\"Eat...\n"
+" eat all you want...\"{END TEXTBOX}\n"
+"\"I'm paying...\n"
+" Guh...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_COOKIE"
+msgid ""
+"どうやらもう\n"
+"息をしていないようだ。"
+msgstr ""
+"They seem to have taken\n"
+"their last breath."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_MSG1"
+msgid ""
+"白骨死体がある。\n"
+"クルマから降りないと、\n"
+"これ以上調べられそうにない。"
+msgstr ""
+"It's a bleached\n"
+"white skeleton.{END TEXTBOX}\n"
+"You can't tell\n"
+"anything else from\n"
+"inside your vehicle."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_MSG2"
+msgid ""
+"白骨死体がある。\n"
+"死後、かなりの時間が\n"
+"経過しているらしい。{END TEXTBOX}\n"
+"死体には、２重３重に\n"
+"ロープのようなものが\n"
+"巻きついている。"
+msgstr ""
+"It's a bleached\n"
+"white skeleton.{END TEXTBOX}\n"
+"A lot of time seems\n"
+"to have passed since\n"
+"they died.{END TEXTBOX}\n"
+"What seems to be a rope is\n"
+"wrapped around it\n"
+"two or three times."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_SEL1"
+msgid "骨を調べる"
+msgstr "Investigate the skeleton"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_SEL2"
+msgid "ロープを調べる"
+msgstr "Investigate the rope"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_SEL3"
+msgid "ほっておく"
+msgstr "Leave"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_MSG3"
+msgid ""
+"風と砂が磨いたのだろう。\n"
+"骨は、まるで洗ったように\n"
+"まっ白になっている。"
+msgstr ""
+"It's been polished by\n"
+"the wind and sand.{END TEXTBOX}\n"
+"The bones are so white,\n"
+"it's almost as if\n"
+"they were washed."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_MSG4"
+msgid ""
+"体に巻きついたロープの端は、\n"
+"白骨化した足もとのあたりで\n"
+"とぐろを巻いている。{END TEXTBOX}\n"
+"よく見ると、\n"
+"骨になった手がロープを\n"
+"にぎりしめていて‥‥{END TEXTBOX}\n"
+"もう一方のロープの端は\n"
+"その手のさきで、\n"
+"砂の下に埋もれている。"
+msgstr ""
+"One end of the rope\n"
+"is caught around\n"
+"the skeleton's foot.{END TEXTBOX}\n"
+"If you look close,\n"
+"you can see that its hands\n"
+"are holding the rope, as well...{END TEXTBOX}\n"
+"The other end\n"
+"of the rope is\n"
+"buried in the sand."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_SEL4"
+msgid "ロープをたぐってみる"
+msgstr "Try pulling up the rope"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_MSG5"
+msgid ""
+"たぐってみると、\n"
+"地中に埋もれていたロープのさきが\n"
+"ズルズルっと持ち上がる。{END TEXTBOX}\n"
+"どうやら、埋もれて見えない\n"
+"もう一方の端は、何か重いものに\n"
+"結びつけられているようだ。"
+msgstr ""
+"As you pull, the rope\n"
+"is slowly drawn up\n"
+"from underground.{END TEXTBOX}\n"
+"Although you can't see it, \n"
+"the other end seems to be tied\n"
+"to something heavy."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_SEL5"
+msgid "もっと引っぱってみる"
+msgstr "Keep pulling"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_MSG6"
+msgid ""
+"引っぱってみると、\n"
+"ロープは地中から飛び出して、\n"
+"ぴん、と、張りつめた。{END TEXTBOX}\n"
+"ロープのさきは、\n"
+"たまった水の中へと\n"
+"つづいている。"
+msgstr ""
+"As you pull,\n"
+"the rope suddenly pops\n"
+"up from the sand.{END TEXTBOX}\n"
+"However, the end\n"
+"seems to now continue\n"
+"into the water."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_SEL6"
+msgid "もっと引っぱる"
+msgstr "Pull even more"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_MSG7"
+msgid ""
+"ひどく重い‥‥！\n"
+"これ以上はとても\n"
+"引っぱれそうにない。"
+msgstr ""
+"So heavy...!\n"
+"It doesn't seem like\n"
+"you can pull anymore."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_SEL7"
+msgid "思いきり引っぱる"
+msgstr "Pull with all your strength"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_SEL8"
+msgid "クルマで引っぱる"
+msgstr "Pull it with your vehicle"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_SEL9"
+msgid "あきらめる"
+msgstr "Give up"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_MSG8"
+msgid ""
+"ロープの端をクルマに\n"
+"結びつけますか？"
+msgstr ""
+"Tie the end of the rope\n"
+"to your vehicle?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_SEL10"
+msgid "結びつける"
+msgstr "Tie it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_SEL11"
+msgid "やめておく"
+msgstr "Stop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_MSG9"
+msgid ""
+"あたりには、\n"
+"これを引っぱれる\n"
+"クルマはないようだ。"
+msgstr ""
+"You don't have\n"
+"a vehicle that can\n"
+"pull it with you."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_MSG10"
+msgid ""
+"$npは、\n"
+"ロープをクルマに結びつけ、\n"
+"クルマに乗りこんだ！"
+msgstr ""
+"$np tied the rope\n"
+"to the vehicle and\n"
+"climbed back in!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_MSG11"
+msgid ""
+"クルマが遠すぎて\n"
+"ロープが届かない！"
+msgstr ""
+"The vehicle is\n"
+"too far away to\n"
+"tie the rope on!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_MSG12"
+msgid ""
+"白骨死体がある。\n"
+"死後、かなりの時間が\n"
+"経過しているらしい。"
+msgstr ""
+"It's a bleached\n"
+"white skeleton.{END TEXTBOX}\n"
+"A lot of time seems\n"
+"to have passed since\n"
+"they died."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_MOTO_MSG13"
+msgid ""
+"ロープを戦車にくくりつければ\n"
+"引き上げることができそうだ。"
+msgstr ""
+"If you tied the rope to a tank,\n"
+"you might be able to pull it up."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_PURIN_MSG1"
+msgid ""
+"デカプリン「ぶしゅっ@w60\n"
+"　ぶしゅるるっ@w60\n"
+"　にゅるにゅるにゅるぅ～っ！"
+msgstr ""
+"Megapudding:\"Bushu...@w60\n"
+" Bushururu...@w60\"{END TEXTBOX}\n"
+"Megapudding:\"Wobble\n"
+" wobble wobble~!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_PURIN_SEL1"
+msgid "逃げる"
+msgstr "Run away"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_PURIN_SEL2"
+msgid "戦う"
+msgstr "Fight"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_DEBUG"
+msgid ""
+"※モトクロスを入手しました。\n"
+"この後モトクロス入手処理に入ります。"
+msgstr ""
+"*You got the Motocross.\n"
+"Will now begin Motocross\n"
+"adquiral processing. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_DEBUG2"
+msgid ""
+"処理が終了後、モトクロス入手フラグON。\n"
+"バイクを調べられなくなり、極楽谷から\n"
+"このイベントが消滅します。"
+msgstr ""
+"Once processing is over, the Monocross adquiral flag nwill be turned ON.{END TEXTBOX}\n"
+" You'll be unable to check it\n"
+" in the Paradise Valley area,\n"
+" and this event will disappear."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_AOWANI_MSG01"
+msgid ""
+"「へっへっへ！\n"
+"　ハンターのだんな！\n"
+"　ひょっとして‥‥{END TEXTBOX}\n"
+"「$nn323のしっぽを\n"
+"　さがしてらっしゃるんじゃ\n"
+"　ねーですかい？"
+msgstr ""
+"\"Hehehe!\n"
+" Mister Hunter!\n"
+" You...\"{END TEXTBOX}\n"
+"\"You aren't looking for\n"
+" a Blue Alligator tail,\n"
+" are you?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_AOWANI_SEL1"
+msgid "さがしてるぜ"
+msgstr "I am"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_AOWANI_SEL2"
+msgid "さがしてないぜ"
+msgstr "I'm not"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_AOWANI_SEL3"
+msgid "なぜそれを知っている？"
+msgstr "How did you know?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_AOWANI_MSG02"
+msgid ""
+"「そりゃ、\n"
+"　ちょうどよかった！{END TEXTBOX}\n"
+"「$nn323のしっぽ、\n"
+"　１０００Ｇで\n"
+"　買ってもらえませんかね？"
+msgstr ""
+"\"Great timing!{END TEXTBOX}\n"
+"\"I'll sell you\n"
+" one for 1000G,\n"
+" how about it?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_AOWANI_SEL4"
+msgid "買おう"
+msgstr "I'll buy it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_AOWANI_SEL5"
+msgid "自分でさがすぜ"
+msgstr "I'll find one myself"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_AOWANI_MSG03"
+msgid ""
+"「そうですかい。\n"
+"　そりゃ、残念。{END TEXTBOX}\n"
+"「もし、$nn323のしっぽが\n"
+"　ほしくなったら、\n"
+"　いつでも声をかけてくだせえ！"
+msgstr ""
+"\"I see.\n"
+" That's too bad.\"{END TEXTBOX}\n"
+"\"Well, if you do\n"
+" happen to want one,\n"
+" come back any time!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_AOWANI_MSG04"
+msgid ""
+"「いや‥‥、何となく\n"
+"　そんな気がした\n"
+"　だけでやんすよ。へへへ。"
+msgstr ""
+"\"Well... I just\n"
+" sort of had a feeling,\n"
+" you know. Hehehe.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_AOWANI_MSG05"
+msgid ""
+"「へっへっへ。\n"
+"　顔もいいけど、気前もいいねェ！\n"
+"　さすがですぜ、だんな！{END TEXTBOX}\n"
+"「じゃあ、交渉成立ってことで。"
+msgstr ""
+"\"Hehehe.\n"
+" Handsome AND generous!\n"
+" As I thought, Mister!\"{END TEXTBOX}\n"
+"\"Negotiation complete!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_AOWANI_MSG06"
+msgid ""
+"$npは\n"
+"１０００Ｇ　払った。"
+msgstr "$np paid 1000G."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_AOWANI_MSG07"
+msgid ""
+"$nn323のしっぽを\n"
+"受けとった。"
+msgstr ""
+"Received a\n"
+"Blue Alligator tail."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_AOWANI_MSG08"
+msgid ""
+"「じゃ、あっしは\n"
+"　これで。\n"
+"　ごめんなすって。"
+msgstr ""
+"\"Alright, sorry to run,\n"
+" but see ya.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D03_AOWANI_MSG09"
+msgid ""
+"「おい、カネはどうした？\n"
+"　もってねーのかよー。{END TEXTBOX}\n"
+"「ちっ、しけた野郎だぜぇ。"
+msgstr ""
+"\"Hey, where's the money?\n"
+" You don't have enough.\"{END TEXTBOX}\n"
+"\"Tsk, poor bastard.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "<!empty>"
+msgstr ""

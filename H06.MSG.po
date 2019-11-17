@@ -1,0 +1,631 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 18/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type1\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N1"
+msgid ""
+"「ここは$nc014。\n"
+"　トレーダーたちが集まる\n"
+"　大きなキャンプよ。"
+msgstr ""
+"\"This is Jump Camp.\n"
+" A big camp where\n"
+" Traders gather at.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N2A_MSG1"
+msgid ""
+"「よそ者を通すわけには\n"
+"　いかないよ。{END TEXTBOX}\n"
+"「そうだ。オレのたのみを\n"
+"　きいてくれたら\n"
+"　通してやろう。どうだ？"
+msgstr ""
+"\"I can't let any strangers\n"
+" come in.\"{END TEXTBOX}\n"
+"\"But if you\n"
+" help me out, then\n"
+" I'll let you in. Well?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N2A_SEL1"
+msgid "たのみを聞く"
+msgstr "Agree"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N2A_SEL2"
+msgid "じゃあいいよ"
+msgstr "Disagree"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N2A_MSG2"
+msgid ""
+"「オレは$ni11というモノを\n"
+"　食べてみたいんだ。{END TEXTBOX}\n"
+"「それを持ってきてくれたら\n"
+"　通してあげても　いいぜ！"
+msgstr ""
+"\"I wanna eat something\n"
+" named $ni11.\"{END TEXTBOX}\n"
+"\"If you bring me that,\n"
+" then I'll let you in!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N2A_MSG3"
+msgid ""
+"「よし、じゃあオレは\n"
+"　ここで待ってるぜ。"
+msgstr ""
+"\"I'll be waiting\n"
+" for you.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N2A_MSG4"
+msgid ""
+"「そうかい、残念だよ。\n"
+"　ここを通して\n"
+"　あげられなくてなっ！"
+msgstr ""
+"\"Oh, yeah? What a pity.\n"
+" I can't\n"
+" let you in, then!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N2A_SEL3"
+msgid "わかった"
+msgstr "Gotcha"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N2A_SEL4"
+msgid "無理だよ"
+msgstr "Can't do that"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N2A_MSG11"
+msgid ""
+"「お、アンタか。\n"
+"　$ni11は持ってきたか？"
+msgstr ""
+"\"Oh, it's you!\n"
+" Did you bring the $ni11?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N2A_MSG12"
+msgid ""
+"「なんだ、まだか。\n"
+"　オレの気が変わらない\n"
+"　うちに持ってこいよ。"
+msgstr ""
+"\"Not yet?\n"
+" Bring it before\n"
+" I change my mind.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N2A_MSG13"
+msgid ""
+"「なんだ、持ってるじゃないか。\n"
+"　それなら早くそういえよ。{END TEXTBOX}\n"
+"$np00は\n"
+"$ni11を渡した。{END TEXTBOX}\n"
+"「よーし、じゃあ、\n"
+"　ここを通っていいぜ。"
+msgstr ""
+"\"What? You already have it?\n"
+" Hand it over, then!\"{END TEXTBOX}\n"
+"$np00\n"
+"gave him $ni11.{END TEXTBOX}\n"
+"\"OK!\n"
+" You can come in now.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N2A_MSG21"
+msgid ""
+"「お、アンタか。\n"
+"　アンタなら通っていいぜ。"
+msgstr ""
+"\"Oh, it's you.\n"
+" You can come in.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N2B_MSG1"
+msgid "「もう通っていいぜ。"
+msgstr "\"Come in.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N3"
+msgid ""
+"「ここから、南西に行けば\n"
+"　$nc005。{END TEXTBOX}\n"
+"「北には、「樹界」の\n"
+"　森が広がる。{END TEXTBOX}\n"
+"「どちらも　モリじゃ。\n"
+"　ひっひっひ。"
+msgstr ""
+"\"If you SW there's\n"
+" Puerto Mori.\"{END TEXTBOX}\n"
+"\"You've got the \"jungle\"\n"
+" the huge forest,\n"
+" to the north.\"{END TEXTBOX}\n"
+"\"It's a forest, yeah!\n"
+" Heh, heh, heh.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N4_MSG1"
+msgid ""
+"「何をしてるのかって？{END TEXTBOX}\n"
+"「釣りじゃよ、釣り。"
+msgstr ""
+"\"What am I doing, you ask?\"{END TEXTBOX}\n"
+"\"Fishing, as you can see!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N4_MSG2"
+msgid ""
+"「今日は$_3じゃよ。{END TEXTBOX}\n"
+"「そうじゃ、あんた\n"
+"　１００Ｇで　買ってくれんか？"
+msgstr ""
+"\"Today is $_3.\"{END TEXTBOX}\n"
+"\"Oh yeah.\n"
+" Won't you buy one for 100G?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N4_MSG3"
+msgid ""
+"「買ってくれるか！\n"
+"　言ってみるもんじゃ。{END TEXTBOX}\n"
+"「ほれ、$_3じゃ。{END TEXTBOX}\n"
+"$np00は\n"
+"$_3を受け取って\n"
+"１００Ｇ、わたした。"
+msgstr ""
+"\"You gonna buy?\n"
+" That's great.\"{END TEXTBOX}\n"
+"\"Here's the $_3.\"{END TEXTBOX}\n"
+"$np00\n"
+"received $_3\n"
+"and paid 100G."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N4_MSG4"
+msgid ""
+"「気持ちはうれしいが\n"
+"　カネがないようじゃのう。\n"
+"　残念じゃ。"
+msgstr ""
+"\"I'm glad you want to,\n"
+" but you have no money!\n"
+" What a pity!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N4_MSG5"
+msgid ""
+"「ほっほっほ。\n"
+"　そうじゃ、そうじゃ。\n"
+"　ヒマなんじゃよ。"
+msgstr ""
+"\"Hoh, hoh, hoh.\n"
+" Yes, yes.\n"
+" Got nothing else to do!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N4_MSG6"
+msgid ""
+"「ほっほっほ。\n"
+"　そりゃそうじゃろう。{END TEXTBOX}\n"
+"「今どき、こんなモノを買う\n"
+"　キトクなヤツは、おらんよ。"
+msgstr ""
+"\"Hoh, hoh, hoh.\n"
+" Obviously.\"{END TEXTBOX}\n"
+"\"There's no nice guy\n"
+" who'd buy this nowadays.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N4_SEL1"
+msgid "何が釣れる？"
+msgstr "What are you fishing?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N4_SEL2"
+msgid "ヒマだね"
+msgstr "You look bored"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N4_SEL3"
+msgid "買う"
+msgstr "Buy"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N4_SEL4"
+msgid "買わない"
+msgstr "Don't buy"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N5_MSG1"
+msgid ""
+"「よそ者を通すわけには\n"
+"　いかないよ。"
+msgstr ""
+"\"Can't let any\n"
+" outsiders come in.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N5_MSG2"
+msgid ""
+"「そうだな、おまえの持っている\n"
+"　ＸＸＸＸを　くれたら\n"
+"　通してもいいぜ！"
+msgstr ""
+"\"But if you give me your\n"
+" XXXX\n"
+" then I'll let you come in!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N5_MSG3"
+msgid ""
+"「げへげへ。\n"
+"　じゃあ、ありがたく\n"
+"　もらってぜ！{END TEXTBOX}\n"
+"$np00は\n"
+"ＸＸＸＸを　わたした！{END TEXTBOX}\n"
+"「じゃあな！"
+msgstr ""
+"\"Heh, heh!\n"
+" I'll be taking it,\n"
+" alright?\"{END TEXTBOX}\n"
+"$np00\n"
+"handed over XXXX!{END TEXTBOX}\n"
+"\"See ya!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N5_MSG4"
+msgid ""
+"「べついいんだぜ！\n"
+"　ここを　通さないだけ\n"
+"　だからな。げへげへ。"
+msgstr ""
+"\"I don't care!\n"
+" Because I'm not\n"
+" letting you in! Heh, heh!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N5_SEL1"
+msgid "わたす"
+msgstr "Give it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N5_SEL2"
+msgid "わたさない"
+msgstr "Don't give it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N6_MSG1"
+msgid ""
+"「よそ者を通すわけには\n"
+"　いかないよ。"
+msgstr ""
+"\"Can't let any\n"
+" outsiders come in.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N6_MSG2"
+msgid ""
+"「お、お、押すんじゃないよ！{END TEXTBOX}\n"
+"「年寄りは大切に\n"
+"　するものじゃ。"
+msgstr ""
+"\"D-d-don't push me!\"{END TEXTBOX}\n"
+"\"Treat the elder\n"
+" with respect!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N9_MSG1"
+msgid ""
+"「昔、$ni03という\n"
+"　モノで、この村の上に\n"
+"　クルマで来たヤツがいたよ！"
+msgstr ""
+"\"There's someone who came here\n"
+" with a vehicle using something\n"
+" named \"$ni03\"!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N9_MSG2"
+msgid ""
+"「ん、おまえさんのクルマに\n"
+"　つんであるのは\n"
+"　$ni03じゃないか！{END TEXTBOX}\n"
+"「なんだ！？\n"
+"　$ni04がないのか！？{END TEXTBOX}\n"
+"「ほれ、これをあげよう。{END TEXTBOX}\n"
+"$np00は\n"
+"$ni04をもらった。"
+msgstr ""
+"\"Huh? That thing loaded\n"
+" in your vehicle,\n"
+" it's the $ni03!\"{END TEXTBOX}\n"
+"\"What!? You don't have\n"
+" the $ni04!?\"{END TEXTBOX}\n"
+"\"Here, have this!\"{END TEXTBOX}\n"
+"$np\n"
+"received $ni04."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_MSG1"
+msgid ""
+"「どうだいアンタ！\n"
+"　この最高にかっこいい\n"
+"　バイクを買わないか？"
+msgstr ""
+"\"Hey, dude!\n"
+" Wanna buy this\n"
+" super cool bike?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_SEL1"
+msgid "ほしい"
+msgstr "I want it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_SEL2"
+msgid "いらない"
+msgstr "Don't need it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_SEL3"
+msgid "それはオレのだ"
+msgstr "That's mine"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_MSG2"
+msgid ""
+"「そうか、ほしいか！\n"
+"　じゃあ、いくら出すんだ？"
+msgstr ""
+"\"Oh, so you want it!\n"
+" How much will you pay for it?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_MSG3"
+msgid ""
+"「けっ！\n"
+"　そんなカネで売れるかよ。\n"
+"　こちとら、もとでが、かかってるんだ。"
+msgstr ""
+"\"Hah!\n"
+" Like I'll sell for so little!\n"
+" Money's at stake here!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_MSG4"
+msgid ""
+"「しかたない。\n"
+"　その値段で売ってやるよ！"
+msgstr ""
+"\"Can't be helped.\n"
+" I'll sell it for that amount!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_MSG5"
+msgid "「ほらよ、好きにしな！"
+msgstr "\"Do as you like with it!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_MSG6"
+msgid ""
+"「なにっ！\n"
+"　バイクだぜ！\n"
+"　バ@w60・イ@w60・ク！！{END TEXTBOX}\n"
+"「まぁ、その気になったら\n"
+"　またきなっ！"
+msgstr ""
+"\"What!?\n"
+" It's a bike, dude!\n"
+" A B-I-K-E!!\"{END TEXTBOX}\n"
+"\"Well, come again\n"
+" if you change your mind!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_MSG7"
+msgid ""
+"「なにいってやがる！\n"
+"　これはオレが大枚はたいて\n"
+"　女から買ったんだぜ！{END TEXTBOX}\n"
+"「文句があるなら\n"
+"　その女に言ってくれ！{END TEXTBOX}\n"
+"「その女なら今ごろ\n"
+"　$nc005に\n"
+"　いるはずさ！"
+msgstr ""
+"\"What are you saying!?\n"
+" I bought it for a gal\n"
+" for a huge amount!\"{END TEXTBOX}\n"
+"\"Got a complaint,\n"
+" tell her!\"{END TEXTBOX}\n"
+"\"She's probably\n"
+" at Puerto Mori\n"
+" by now!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_MSG8"
+msgid ""
+"「どうした！？\n"
+"　そのバイクは\n"
+"　もう、あんたのものだぜっ！"
+msgstr ""
+"\"What's wrong!? That bike's\n"
+" already yours, dude!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_MSG11"
+msgid ""
+"「いらないバイクが\n"
+"　あったら買い取るぜっ！"
+msgstr ""
+"\"Got extra bikes?\n"
+" Then I'll buy 'em!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_MSG12"
+msgid ""
+"「そのバイクがいらなくなったら\n"
+"　１万Ｇで買い取るぜ！"
+msgstr ""
+"\"Don't need that bike,\n"
+" I'm buying it for 10000G!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_SEL4"
+msgid "売る"
+msgstr "Sell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_SEL5"
+msgid "売らない"
+msgstr "Don't sell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_SEL6"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_SEL7"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_MSG13"
+msgid ""
+"「お！\n"
+"　ホントに１万Ｇで\n"
+"　$_4を売るんだな？"
+msgstr ""
+"\"Oh!\n"
+" You really selling $_4\n"
+" for 10000G?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_MSG14"
+msgid ""
+"$np00は\n"
+"$_4を\n"
+"１万Ｇで売った。"
+msgstr ""
+"$np00\n"
+"sold $_4\n"
+"for 10000G."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N10_MSG15"
+msgid ""
+"「その気になったら\n"
+"　いつでも買い取るぜ！"
+msgstr ""
+"\"If you feel like it,\n"
+" I'll buy it anytime!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N11"
+msgid ""
+"「ワシはあのバイクを\n"
+"　知っておるぞ！{END TEXTBOX}\n"
+"「あのバイクに乗る者が\n"
+"　やってきたら\n"
+"　この村も終わりじゃ！"
+msgstr ""
+"\"I know\n"
+" that bike!\"{END TEXTBOX}\n"
+"\"If its rider\n"
+" were to come here\n"
+" we're done for!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_SOTO_N12"
+msgid ""
+"「水は、命の水。\n"
+"　この水のおかげで\n"
+"　この村があるのよ。{END TEXTBOX}\n"
+"「この泉は地下のスイドウカンと\n"
+"　呼ばれるモノから、わき出ていると\n"
+"　おばぁちゃんから聞いたわ。"
+msgstr ""
+"\"Water is the water of life.\n"
+" This village\n"
+" exists thanks to it.\"{END TEXTBOX}\n"
+"\"This pond gushes\n"
+" from a buried \"water pipe\",\n"
+" or so grandma told me.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_BL_A_N1"
+msgid ""
+"「なんだ、おまえ！！\n"
+"　でてけよ！\n"
+"　でてけぇーーっ！{END TEXTBOX}\n"
+"「弟と妹は僕が守るって\n"
+"　おねぇちゃんと約束したんだ！"
+msgstr ""
+"\"Who are you!?\n"
+" Get out!\n"
+" GET OUT!!\"{END TEXTBOX}\n"
+"\"I promised grandma\n"
+" that I'd protect my bro and sis!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_BL_A_N2"
+msgid ""
+"「オトナは、みんな\n"
+"　ウソつきだ！\n"
+"　キライだ！！"
+msgstr ""
+"\"Adults are but\n"
+" liars!\n"
+" I hate you all!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H06_BL_A_N3"
+msgid ""
+"「これは　おねぇちゃんが\n"
+"　くれた大事なおカネ\n"
+"　なんだからっ！"
+msgstr ""
+"\"This money is from\n"
+" sis and so it's\n"
+" very valuable for me!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "<!empty>"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "人間武器屋"
+msgstr "Weapon Shop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "人間防具屋"
+msgstr "Equipment Shop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "クルマ用品店"
+msgstr "Vehicle Shop"

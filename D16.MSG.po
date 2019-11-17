@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 18/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type1\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_MSG1"
+msgid ""
+"かわいた泥の上に\n"
+"大きな爆弾が横たわっている。"
+msgstr ""
+"A big bomb lies stretched\n"
+"over the dried mud."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_SEL1"
+msgid "爆弾を調べる"
+msgstr "Check it out"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_SEL2"
+msgid "たたいてみる"
+msgstr "Hit it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_SEL3"
+msgid "動かしてみる"
+msgstr "Move it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_SEL4"
+msgid "ほっておく"
+msgstr "Ignore it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_MSG2"
+msgid ""
+"湖に投下された爆弾が、\n"
+"不発のまま水に流されて\n"
+"ここに流れついたらしい。{END TEXTBOX}\n"
+"表面には、泥や、干からびた\n"
+"水草などが付着しているが、\n"
+"サビついてはいないようだ。"
+msgstr ""
+"A bomb dropped into the lake\n"
+"didn't detonate and was washed over\n"
+"all the way here.{END TEXTBOX}\n"
+"The surface has mud and dried\n"
+"waterweed but it doesn't\n"
+"seem to be rusted."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_MSG3"
+msgid "爆弾のどこをたたきますか？"
+msgstr "Where will you will hit?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_MSG4"
+msgid ""
+"爆弾は重くて、\n"
+"動かそうとしても\n"
+"びくともしない。"
+msgstr ""
+"The bomb is heavy,\n"
+"and doesn't bulge\n"
+"despite your efforts."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_SEL5"
+msgid "まんなかへん"
+msgstr "The middle"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_SEL6"
+msgid "安定翼"
+msgstr "The stabilizer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_SEL7"
+msgid "信管"
+msgstr "The fuse"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_SEL8"
+msgid "やっぱやめとく"
+msgstr "Better stop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_MSG5"
+msgid ""
+"ペィン！　と、\n"
+"しっかり身のつまった\n"
+"金属音がひびく。{END TEXTBOX}\n"
+"しかし、それ以上のことは\n"
+"何もおきなかった。"
+msgstr ""
+"*Clang!*\n"
+"A metallic sound echoes\n"
+"around the bomb.{END TEXTBOX}\n"
+"But nothing else\n"
+"actually happened."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_MSG6"
+msgid ""
+"パィィ～ンと、\n"
+"よくひびく、\n"
+"いい音がする。{END TEXTBOX}\n"
+"しかし、それ以上のことは\n"
+"何もおきなかった。"
+msgstr ""
+"*Claaannng.*\n"
+"It makes a good,\n"
+"echoing sound.{END TEXTBOX}\n"
+"But nothing ele\n"
+"actually happened. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_MSG7"
+msgid ""
+"泥に埋もれかけた\n"
+"爆弾のさきっぽに\n"
+"信管らしきものが見える。{END TEXTBOX}\n"
+"ここをたたけば、\n"
+"爆発するかもしれない。{END TEXTBOX}\n"
+"爆発にまきこまれたら、\n"
+"とても生きては\n"
+"いられないだろう‥‥。"
+msgstr ""
+"You see a fuse-like thing\n"
+"on the tip of the bomb,\n"
+"partly buried in the mud.{END TEXTBOX}\n"
+"If you hit this,\n"
+"it might explode.{END TEXTBOX}\n"
+"If you get dragged\n"
+"into the explosion\n"
+"you'll probably die..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_MSG8"
+msgid "誰がたたきますか？"
+msgstr "Who'll hit it?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_SEL9"
+msgid "それでＯＫ"
+msgstr "That's OK"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_DRUMKAN"
+msgid "$_0「じゃぁ、たたくぜ！"
+msgstr "$_0:\"OK! I'll hit it!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_OTOKO"
+msgid ""
+"$_0「よい子のみんなは\n"
+"　こういうこと、\n"
+"　マネしちゃダメだぞ！"
+msgstr ""
+"$_0:\"Good kids\n"
+" mustn't do\n"
+" this at home!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_ONNA"
+msgid ""
+"$_0「よい子のみんなは\n"
+"　こういうこと、\n"
+"　マネしちゃダメよ！"
+msgstr ""
+"$_0:\"Good children\n"
+" mustn't do\n"
+" this at home!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N1_INU"
+msgid "$_0「わん！"
+msgstr "$_0:\"Woof!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_SEL_PC1"
+msgid "$np0"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_SEL_PC2"
+msgid "$np1"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_SEL_PC3"
+msgid "$np2"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_SEL_PC4"
+msgid "$np3"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_SEL_PC_FINAL"
+msgid ""
+"$_0が\n"
+"爆弾の信管を叩きます。"
+msgstr ""
+"$_0\n"
+"hit the bomb's fuse"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_SEL_PC_FINAL00"
+msgid ""
+"$np0が爆弾を叩きます。\n"
+"よろしいですか?"
+msgstr ""
+"$np0 will hit the bomb.\n"
+"OK?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_SEL_PC2_FA?"
+msgid ""
+"※デバッグメッセージ\n"
+"$np1が爆弾を叩きます。\n"
+"よろしいですか?"
+msgstr ""
+"*Debug Message\n"
+" $np1 will hit the bomb.\n"
+" OK?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_SEL_PC3_FA?"
+msgid ""
+"※デバッグメッセージ\n"
+"$np2が爆弾を叩きます。\n"
+"よろしいですか?"
+msgstr ""
+"*Debug Message\n"
+" $np2 will hit the bomb.\n"
+" OK?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_SEL_PC4_FA?"
+msgid ""
+"※デバッグメッセージ\n"
+"$np3が爆弾を叩きます。\n"
+"よろしいですか?"
+msgstr ""
+"*Debug Message\n"
+" $np3 will hit the bomb.\n"
+" OK?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D16_1F_N2"
+msgid ""
+"地面がぬかるんで\n"
+"泥沼のようになっている！{END TEXTBOX}\n"
+"クルマに乗ったままでは\n"
+"すすめそうにない。"
+msgstr ""
+"The ground is muddy\n"
+"and feels like a bog!{END TEXTBOX}\n"
+"You can't advance\n"
+"with a vehicle."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "<!empty>"
+msgstr ""

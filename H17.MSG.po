@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 18/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type1\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N1"
+msgid ""
+"「よく来たな！\n"
+"　ここが有名な\n"
+"　$nn080の交易所だ。"
+msgstr ""
+"\"Welcome!\n"
+" This is the famed\n"
+" trading post of Hawk!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N2_MSG1"
+msgid ""
+"$nn080「交易所へようこそ！\n"
+"　わたしが超交易型アンドロイド\n"
+"　$nn080なのだ！"
+msgstr ""
+"Hawk:\"Welcome to the trade post!\n"
+" I'm the Super Trading Android,\n"
+" Hawk!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N4_MSG1"
+msgid ""
+"「このあたりのことなら何でも、\n"
+"　この$nn081に\n"
+"　聞いてね♪"
+msgstr ""
+"\"Ask any details to\n"
+" Navi-Monkey,\n"
+" if you may ♪\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N4_SEL1"
+msgid "$nn081‥‥？"
+msgstr "Navi-Monkey...?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N4_SEL2"
+msgid "たとえば？"
+msgstr "Such as?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N4_SEL3"
+msgid "またあとで"
+msgstr "Bye"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N4_MSG2"
+msgid ""
+"「$nn081は、\n"
+"　知能強化された\n"
+"　天才的なサルなので～す。"
+msgstr ""
+"\"Navi-Monkey is\n"
+" a genius monkey\n"
+" with improved knowledge!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N4_MSG3"
+msgid ""
+"「近くにある場所とか、@w60\n"
+"　近くにある場所とか、@w60\n"
+"　近くにある場所とか！"
+msgstr ""
+"\"Nearby locations, @w60\n"
+" Nearby locations, @w60\n"
+" Nearby locations!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N5_MSG1"
+msgid "$nn081「うっきっきー！"
+msgstr "Navi-Monkey:\"Ukiihhh!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N5_SEL1"
+msgid "$nc013"
+msgstr "Fisherman's Pass"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N5_SEL2"
+msgid "$nc004"
+msgstr "Hohohole"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N5_SEL3"
+msgid "$nc014"
+msgstr "Jump Camp"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N5_SEL4"
+msgid "ありがとよ"
+msgstr "Thanks"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N5_MSG2"
+msgid ""
+"ワールドマップに\n"
+"あらたな場所が\n"
+"表示されました。"
+msgstr ""
+"New places\n"
+"have been marked\n"
+"in the world map."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N5_TURISSI"
+msgid ""
+"「正解！\n"
+"　えらいわ、$nn081！\n"
+"　よくできました！"
+msgstr ""
+"\"Correct!\n"
+" Great job, Navi-Monkey!\n"
+" Well done!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N5_HORU"
+msgid ""
+"「$nc004の鉱山町では、\n"
+"　貴重な鉱物はちっとも\n"
+"　採れないらしいわ。"
+msgstr ""
+"\"The mining city of Hohohole\n"
+" hasn't found any\n"
+" vital minerals yet.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N5_JUMP"
+msgid ""
+"「$nc014は\n"
+"　ハイウェイの上にある町よ。{END TEXTBOX}\n"
+"「ハイウェイがどんなものかは\n"
+"　行ってみないと\n"
+"　わからないわね、きっと。{END TEXTBOX}\n"
+"「えらいわ、$nn081！\n"
+"　正解よっ！\n"
+"　その調子でねっ！"
+msgstr ""
+"\"Jump Camp is\n"
+" a town atop a highway.\"{END TEXTBOX}\n"
+"\"You can't tell\n"
+" what it is unless\n"
+" you go there.\"{END TEXTBOX}\n"
+"\"Great job, Navi-Monkey!\n"
+" Keep it up!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N5_MSG3"
+msgid "$nn081「うっきっきー！"
+msgstr "Navi-Monkey:\"Ukiihhh!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_N7_A_MSG1"
+msgid ""
+"「この交易所には\n"
+"　旅のトレーダーたちも\n"
+"　商売しにやってくるんだよ。{END TEXTBOX}\n"
+"「ここでは誰でも\n"
+"　好きに商売できるからね！\n"
+"　おいらもそのひとりさ！"
+msgstr ""
+"\"Travelling traders\n"
+" also come to sell things\n"
+" to this location.\"{END TEXTBOX}\n"
+"\"Anyone\n"
+" is free to come sell!\n"
+" I'm one such trader!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_KAKUNIN1"
+msgid ""
+"ダイコング「トレードしてください。\n"
+"\n"
+"※デバッグメッセージ"
+msgstr ""
+"Daikong:\"Please trade with me.\"\n"
+"*Debug message"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_KAKUNIN2"
+msgid ""
+"※デバッグメッセージ\n"
+"通信した人とトレードした！"
+msgstr ""
+"*Debug Message:\n"
+" you traded with another player!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_KAKUNIN3"
+msgid ""
+"※デバッグメッセージ\n"
+"演出が終了しました。\n"
+"H17の入り口に戻ります。"
+msgstr ""
+"*Debug Message:\n"
+" the scene has ended.\n"
+" Returning to the entrance of H17."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_KAKUNIN4"
+msgid ""
+"※デバッグメッセージ\n"
+"演出が終了しました。"
+msgstr ""
+"*Debug Message:\n"
+" the scene has ended."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H17_KAKUNIN5"
+msgid ""
+"※デバッグメッセージ\n"
+"通信エラー発生。\n"
+"フェードをかけてお客さんを消しています"
+msgstr ""
+"*Debug Message:\n"
+" communication error.\n"
+" Will use a fade to black to delete the guest "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "<!empty>"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "ホック"
+msgstr "Hawk"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "メモリーセンター"
+msgstr "Memory Center"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "ナビ猿"
+msgstr "Navi-Monkey"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "掘り出し物屋"
+msgstr "Bargain Shop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "道具屋"
+msgstr "Item Shop"

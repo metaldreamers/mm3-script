@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 18/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type1\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D09_N1_MSG1"
+msgid ""
+"「アニキぃ、どこに\n"
+"　いっちまったんだよぉ。"
+msgstr ""
+"\"Bro... where\n"
+" did you goooo...?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D09_N1_MSG2"
+msgid ""
+"「アニキは見つからないし\n"
+"　帰り道も、わからねぇーよぉ。"
+msgstr ""
+"\"I can't find my bro,\n"
+" and I can't find my way baaack...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D09_N2_MSG1"
+msgid ""
+"「このドラム缶橋を\n"
+"　渡れば、この水路を\n"
+"　渡れそうだぜ。"
+msgstr ""
+"\"If you cross this drum can bridge,\n"
+" you'll probably cross the\n"
+" canal too.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D09_N2_MSG2"
+msgid ""
+"「うーむ、このドラム缶橋が\n"
+"　もっと　左側にあればなぁ。"
+msgstr ""
+"\"Hmm... If only this bridge\n"
+" was more to the left...\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D09_N2_MSG3"
+msgid ""
+"「なにーっ！\n"
+"　$nw011を倒したって！？{END TEXTBOX}\n"
+"「ほんとかぁ！？\n"
+"　ヤツは一度死んでも\n"
+"　よみがえるって噂だぜ！"
+msgstr ""
+"\"Whaaat?!\n"
+" $nw011 was defeated?\n"
+" !Seriously?!\"{END TEXTBOX}\n"
+"\"That bastard died, but,\n"
+" rumor has it he came back!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D09_W1_MSG1"
+msgid "「ギギギ・・・。"
+msgstr "*CREEEEEAK*"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D09_W1_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D09_W1_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D09_W1_MSG2"
+msgid "「ギャギャギャーーッ！"
+msgstr "*CLATTER CLATTER*"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D09_W1_MSG3"
+msgid "「ギー・・・。"
+msgstr "*CREEEAK*"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D09_SW_MSG1"
+msgid "レバーを動かしますか？"
+msgstr "Turn the lever?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D09_SW_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D09_SW_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D09_SW_MSG2"
+msgid ""
+"$npは\n"
+"レバーを動かした！"
+msgstr "$np turned the lever!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D09_SW_MSG3"
+msgid ""
+"$npは\n"
+"レバーを動かすのをやめた。"
+msgstr ""
+"$np\n"
+"left the lever alone."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// D09_TIKA_MSG1"
+msgid ""
+"重くて開けられない！\n"
+"マンホールの上に\n"
+"何か乗っているようだ。"
+msgstr ""
+"It's too heavy to open!\n"
+"Something seems to be\n"
+"ontop of the manhole."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "<!empty>"
+msgstr ""

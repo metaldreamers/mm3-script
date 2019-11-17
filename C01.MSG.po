@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 18/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type1\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C01_N1_MSG1"
+msgid ""
+"「！！！{END TEXTBOX}\n"
+"「あ、あんた\n"
+"　歩いてここまで来たのか？"
+msgstr ""
+"\"!!!{END TEXTBOX}\n"
+"\"H-hey...\n"
+" Did you walk here?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C01_N1_SEL1"
+msgid "そうだ"
+msgstr "I did"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C01_N1_SEL2"
+msgid "ちがうよ"
+msgstr "I didn't"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C01_N1_MSG2"
+msgid ""
+"「なんて、無謀な人だ・・・。\n"
+"　あんたみたいな無謀な人は\n"
+"　初めてだよ。"
+msgstr ""
+"\"Damn, you're reckless...\"{END TEXTBOX}\n"
+"\"I've never seen\n"
+" anyone as reckless\n"
+" as you before.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C01_N1_MSG3"
+msgid "「死ぬのが怖くないのか？"
+msgstr "\"Aren't you scared of dying?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C01_N1_MSG4"
+msgid ""
+"「そうか・・・。{END TEXTBOX}\n"
+"「ならいいんだが・・・。{END TEXTBOX}\n"
+"「しかし、ここの店は\n"
+"　アーチストじゃないと、\n"
+"　あまり用のないところだぜ！"
+msgstr ""
+"\"I see...\"{END TEXTBOX}\n"
+"\"Then that's fine,\n"
+" I guess...{END TEXTBOX}\n"
+"\"You won't be able\n"
+" to use many of the shops here\n"
+" without an Artist, though!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C01_N1_SEL3"
+msgid "それほどでも"
+msgstr "Not that much"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C01_N1_SEL4"
+msgid "怖いさ"
+msgstr "I am"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C01_N1_SEL5"
+msgid "死んだことあるよ"
+msgstr "I've already died"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C01_N1_MSG5"
+msgid ""
+"「そうかい。\n"
+"　ま、どっちにしろ。{END TEXTBOX}\n"
+"「クルマに乗らずに\n"
+"　この辺りをうろつくのは\n"
+"　やめたほうが身のためだぜ！"
+msgstr ""
+"\"I see.\n"
+" Well, do as you want.\"{END TEXTBOX}\n"
+"\"For your own good, I wouldn't\n"
+" recommend traveling around here\n"
+" without a vehicle, though!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C01_N1_MSG6"
+msgid ""
+"「あはは・・・。{END TEXTBOX}\n"
+"「冗談のうまいハンターさんだ。"
+msgstr ""
+"\"Ahaha.\"{END TEXTBOX}\n"
+"\"You're a real\n"
+" jokester, Hunter.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C01_N1_MSG11"
+msgid ""
+"「あんた、犬には\n"
+"　くわしいかい？"
+msgstr ""
+"\"Hey, do you\n"
+" know about dogs?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C01_N1_SEL6"
+msgid "もちろんだ！"
+msgstr "Of course!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C01_N1_SEL7"
+msgid "くわしくない"
+msgstr "Not everything"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C01_N1_MSG12"
+msgid ""
+"「さすが、ハンターだな。{END TEXTBOX}\n"
+"「それにしても、ハンターにしては\n"
+"　ヘボイクルマに乗ってるな。{END TEXTBOX}\n"
+"「もっと、いいエンジンを買って、\n"
+"　装備を強化したほうが\n"
+"　いいぜっ！"
+msgstr ""
+"\"That's a Hunter\n"
+" for ya.\"{END TEXTBOX}\n"
+"\"By the way, you\n"
+" don't wanna be driving\n"
+" crappy vehicles.\"{END TEXTBOX}\n"
+"\"You should buy\n"
+" a better engine so you can\n"
+" upgrade your equipment!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C01_N1_MSG13"
+msgid ""
+"「ここから、東にずーーっと行った\n"
+"　キャンプ跡に、犬をみかけたよ。{END TEXTBOX}\n"
+"「まだ若い感じの犬だったぜ。{END TEXTBOX}\n"
+"「群れからはぐれたとか\n"
+"　飼い主がくたばったとか、\n"
+"　ウワサはあるが・・・。{END TEXTBOX}\n"
+"「ノラ犬も野犬も、ほとんどは\n"
+"　知能強化された軍用犬の\n"
+"　子孫らしいぜ。"
+msgstr ""
+"\"If you go waaaaaay \n"
+" east of here, you should\n"
+" be able to find one\"{END TEXTBOX}\n"
+"\"In the remains\n"
+" of an old camp.\"{END TEXTBOX}\n"
+"\"It seemed pretty\n"
+" young, too.{END TEXTBOX}\n"
+"\"Maybe it got lost,\n"
+" or maybe its\n"
+" owner died...\"{END TEXTBOX}\n"
+"\"Anyway, wild or stray dogs are\n"
+" almost all descended from smart,\n"
+" strong war dogs.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C01_N1_MSG14"
+msgid ""
+"「もし買うカネがないなら\n"
+"　エンジンの改造が\n"
+"　オススメだぜっ！"
+msgstr ""
+"\"If you don't\n"
+" have the money to\n"
+" buy a new one...\"{END TEXTBOX}\n"
+"\"I recommend\n"
+" modding your old\n"
+" engine instead!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// C01_N2_MSG01"
+msgid ""
+"「ここには\n"
+"　ちょっとめずらしい\n"
+"　お店があるの。{END TEXTBOX}\n"
+"「部品屋は、アーチストたちが\n"
+"　砲弾ゲージツで使う\n"
+"　材料を売ってるお店。{END TEXTBOX}\n"
+"「レアメタル屋は、\n"
+"　レアメタルとか、\n"
+"　あたりメタルとかを‥‥{END TEXTBOX}\n"
+"「$nn310や$ni094から\n"
+"　抽出してくれるお店よ！"
+msgstr ""
+"\"There are a\n"
+" few relatively rare\n"
+" shops here.\"{END TEXTBOX}\n"
+"\"The Components Shop\n"
+" sells materials that Artists\n"
+" can use to craft shells.\"{END TEXTBOX}\n"
+"\"The Rare Metal Shop \n"
+" sells Rare Metal\n"
+" and Hit Metal,\"{END TEXTBOX}\n"
+"\"And extracts it from stuff like\n"
+" Scrap Iron and\n"
+" Hohohole Ore!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "<!empty>"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "不発弾屋"
+msgstr "Dud Shell Shop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "部品屋"
+msgstr "Components Shop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "レアメタル屋"
+msgstr "Metallurgy"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "エンジン改造屋"
+msgstr "Engine Mods"

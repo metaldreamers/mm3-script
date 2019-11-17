@@ -1,0 +1,236 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 18/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type1\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_EV_MSG"
+msgid ""
+"「きゃあぁーーーっ！{END TEXTBOX}\n"
+"建物の上のほうから\n"
+"悲鳴が聞こえる。"
+msgstr ""
+"\"Kyaaahhh!\"{END TEXTBOX}\n"
+"You hear a scream\n"
+"from the rooftop."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_SOTO_N2"
+msgid "「きゃああぁーーーっ！"
+msgstr "\"Kyaaahhh!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_SOTO_N3_MSG1"
+msgid "「うっきーーーっ！"
+msgstr "\"Ukkiiihhh!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_SOTO_N3_SEL1"
+msgid "ぶっとばす"
+msgstr "Blow it away"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_SOTO_N3_SEL2"
+msgid "ほおっておく"
+msgstr "Ignore it"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_SOTO_N3_MSG2"
+msgid "「うきーー！"
+msgstr "\"Ukkiiihhhh!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_SOTO_N2_MSG1"
+msgid ""
+"「おかげで助かったわぁ。\n"
+"　あのサル、最低よぅ。{END TEXTBOX}\n"
+"「わたしの胸をぉ\n"
+"　さわろうとするのよぉ。{END TEXTBOX}\n"
+"「$ni067をしてたからぁ\n"
+"　つきゆびしてたけどねぇ。{END TEXTBOX}\n"
+"「あ、わたしはぁ\n"
+"　$nn044ぇ。{END TEXTBOX}\n"
+"「バイオタンクをぉ\n"
+"　研究しているのよぉ。{END TEXTBOX}\n"
+"「興味あったら、\n"
+"　遊びに来てねぇ。"
+msgstr ""
+"\"Thanks for the help.\n"
+" I hate that monkey!\"{END TEXTBOX}\n"
+"\"It was trying to grab\n"
+" my breasts!\"{END TEXTBOX}\n"
+"\"I was doing $ni067 so\n"
+" I sprained my finger.\"{END TEXTBOX}\n"
+"\"Ah. My name's\n"
+" Prof. Tanklady.\"{END TEXTBOX}\n"
+"\"I'm researching\n"
+" Biotanks, see.\"{END TEXTBOX}\n"
+"\"Drop by\n"
+" if you're interested.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_SOTO_SABO_MSG1"
+msgid ""
+"その気になれば、なんとか\n"
+"ここからのぼれそうだ。\n"
+"のぼりますか？"
+msgstr ""
+"Looks like you can climb\n"
+" this up, even.\n"
+" Climb up?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_SOTO_SABO_MSG2"
+msgid ""
+"$npは\n"
+"サボテンを、のぼることにした。"
+msgstr ""
+"$np\n"
+"climbed up the cactus."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_SOTO_SABO_MSG3"
+msgid "しかし、のぼるのをやめた。"
+msgstr "He didn't climb up."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_RA_MSG1"
+msgid "リフトを上昇させますか？"
+msgstr "Make the lift go up?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_RA_SEL1"
+msgid "はい"
+msgstr "Yes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_RA_SEL2"
+msgid "いいえ"
+msgstr "No"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_RA_MSG2"
+msgid ""
+"$npは\n"
+"リフトを上昇させた。"
+msgstr ""
+"$np\n"
+"raised the lift."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_RA_MSG3"
+msgid ""
+"$npは\n"
+"リフトを上昇させるのを\n"
+"やめた。"
+msgstr "$np didn't raise the lift."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_RA_MSG4"
+msgid "リフトを下降させますか？"
+msgstr "Make the lift go down?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_RA_MSG5"
+msgid ""
+"$npは\n"
+"リフトを下降させた。"
+msgstr ""
+"$np\n"
+"lowered the lift."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_RA_MSG6"
+msgid ""
+"$npは\n"
+"リフトを下降させるのを\n"
+"やめた。"
+msgstr "$np didn't lower the lift."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_RA_N9_MSG1"
+msgid ""
+"「新しいバイオタンクがぁ\n"
+"　生まれたわよぉ。{END TEXTBOX}\n"
+"「もう　キミの自由にぃ\n"
+"　乗り回していいわよぉ。"
+msgstr ""
+"\"A new Biotank\n"
+" has been born.\"{END TEXTBOX}\n"
+"\"You're free to\n"
+" use it anytime.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_RA_N9_MSG2"
+msgid ""
+"「次は　ぬめぬめ細胞をぉ\n"
+"　集めるのよぉ。{END TEXTBOX}\n"
+"「必要なぬめぬめ細胞はぁ\n"
+"　$_0コよぉ。{END TEXTBOX}\n"
+"「集めたぬめぬめ細胞は\n"
+"　そこにいるミートにぃ\n"
+"　渡してくれればいいわぁ。{END TEXTBOX}\n"
+"「じゃ、がんばってねぇ。"
+msgstr ""
+"\"Gather some\n"
+" Wet Cells next.\"{END TEXTBOX}\n"
+"\"I need about\n"
+" $_0 of them.\"{END TEXTBOX}\n"
+"\"Hand them over\n"
+" to Meat, who's\n"
+" over there.\"{END TEXTBOX}\n"
+"\"Do your best.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "// H07_RA_N9_MSG3"
+msgid ""
+"「ふぅ。\n"
+"　まずは、成功ねぇ。"
+msgstr ""
+"\"Phew.\n"
+" It's been successful.\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "<!empty>"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "ボーン"
+msgstr "Bone"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "タンクレディ博士"
+msgstr "Prof. Tanklady"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "ゴエモンキー"
+msgstr "Goemonkey"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "ミート"
+msgstr "Meat"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}
+#.  is \0
+msgctxt "//===[NAMES]==="
+msgid "デバッグ１"
+msgstr "Debug1"
