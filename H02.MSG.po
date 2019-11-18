@@ -1081,7 +1081,7 @@ msgstr "I'll remember that"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H02_TUMESYO_N2_SEL4"
 msgid "あんたのスリーサイズは？"
-msgstr "What are your three sizes?"
+msgstr "What are your measurements?"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H02_TUMESYO_N2_MSG4"
