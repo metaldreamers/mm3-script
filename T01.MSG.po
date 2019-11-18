@@ -7250,8 +7250,8 @@ msgstr ""
 "Joaquin:\"That's a harsh\n"
 " reply, you know.\"{END TEXTBOX}\n"
 "Joaquin:\"I liked her, but...\n"
-" Maybe I actually\n"
-" didn't lover her.\""
+" Maybe I never\n"
+" really loved her.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_YASI_2F_N5_MSG23"
