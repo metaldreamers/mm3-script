@@ -588,7 +588,7 @@ msgstr "I'm not lying!"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H03_GOEI7_SEL8"
 msgid "うっそぴょ～ん！"
-msgstr "Tee,hee, I lied!"
+msgstr "Teehee, I lied!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H03_GOEI7_MSG9"
