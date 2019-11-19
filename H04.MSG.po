@@ -442,7 +442,7 @@ msgstr ""
 " ruined world...\"{END TEXTBOX}\n"
 "\"We Artists\n"
 " travel the world,\"{END TEXTBOX}\n"
-"\"I search of\n"
+"\"In search of\n"
 " inspiration and material.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
