@@ -59,7 +59,7 @@ msgstr ""
 " but us, who live here...\"{END TEXTBOX}\n"
 "\"Sheesh!\n"
 " Why don't they leave us in peace?\n"
-" Hmpf!\""
+" Hmph!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_SOTO_N2_MSG1"
@@ -2333,7 +2333,7 @@ msgid ""
 "$nn073「へっ！\n"
 "　腰抜けがっ！"
 msgstr ""
-"Dihigo:\"Hmpf!\n"
+"Dihigo:\"Hmph!\n"
 " Chicken!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -2414,7 +2414,7 @@ msgid ""
 "$nn073「へっ！\n"
 "　この腰抜けがっ！"
 msgstr ""
-"Dihigo:\"Hmpf!\n"
+"Dihigo:\"Hmph!\n"
 " Chicken!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -3214,7 +3214,7 @@ msgid ""
 msgstr ""
 "You ate the bread.{END TEXTBOX}\n"
 "The HP recovered.{END TEXTBOX}\n"
-"\"Hmpf! Good!\n"
+"\"Hmph! Good!\n"
 " Stay quiet!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -3224,14 +3224,14 @@ msgid ""
 "　食わないと、\n"
 "　もたないぞ！"
 msgstr ""
-"\"Hmpf! What an sttuborn guy!\n"
+"\"Hmph! What an sttuborn guy!\n"
 " If you don't eat\n"
 " you won't resist!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_TIKAB_G_PAN_MSG4"
 msgid "「ふん、好きにしろ！"
-msgstr "\"Hmpf! Do as you like!\""
+msgstr "\"Hmph! Do as you like!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_TIKAC_BOXA_MSG"
@@ -4109,7 +4109,7 @@ msgid ""
 msgstr ""
 "$np\n"
 "ignored him.{END TEXTBOX}\n"
-"\"Hmpf!\n"
+"\"Hmph!\n"
 " What an unfriendly woman.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0

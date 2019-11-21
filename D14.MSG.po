@@ -123,12 +123,12 @@ msgstr ""
 "\"You're the new Hunter, huh?\"{END TEXTBOX}\n"
 "$np was stared \n"
 "like he was licked all over.{END TEXTBOX}\n"
-"\"Hmpf. You can pass.\""
+"\"Hmph. You can pass.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D14_1F_N2_MSG2"
 msgid "「ふん、通っていいぞ。"
-msgstr "\"Hmpf. You can pass.\""
+msgstr "\"Hmph. You can pass.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D14_1F_N2_MSG3"
@@ -963,7 +963,7 @@ msgid ""
 "　信用しないことにしているんだ。\n"
 "　さっさと、帰ってくれ！"
 msgstr ""
-"\"Hmpf. I don't trust types\n"
+"\"Hmph. I don't trust types\n"
 " who talk and don't prove.\n"
 " Get outta here!\""
 

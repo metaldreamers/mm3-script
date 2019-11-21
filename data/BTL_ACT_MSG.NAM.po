@@ -6766,7 +6766,7 @@ msgid ""
 "「今日はここまでにしてやる、ふん！"
 msgstr ""
 "$BN\n"
-"\"We'll leave it at here for today! Hmpf!\""
+"\"We'll leave it at here for today! Hmph!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1070"
