@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 21/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type2\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "0"
+msgid "<!empty>"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1"
+msgid "生きかえった死体"
+msgstr "Revived Corpse"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "2"
+msgid "お嬢様のお気に入り"
+msgstr "Lady's Favorite"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "3"
+msgid "無謀なハンター"
+msgstr "Reckless Hunter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "4"
+msgid "部品のことなら"
+msgstr "Parts Lover"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "5"
+msgid "ハッピー教団員"
+msgstr "Happy Cultist"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "6"
+msgid "地球最後の紳士"
+msgstr "Last Gentleman"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "7"
+msgid "お客さん第１号"
+msgstr "#1 Customer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "8"
+msgid "ギンスキーの犬"
+msgstr "Ginsky's Dog"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "9"
+msgid "腰ぬけハンター"
+msgstr "Cowardly Hunter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "10"
+msgid "シエルタの一日隊長"
+msgstr "Captain for a Day"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "11"
+msgid "ユムボマを倒した男"
+msgstr "Backbomber Beater"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "12"
+msgid "ﾄﾞﾐﾝｹﾞｽを倒した男"
+msgstr "Dominguez Destroyer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "13"
+msgid "地獄からの使者"
+msgstr "Envoy from Hell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "14"
+msgid "煮えカカシの亡霊"
+msgstr "Scarecrows Ghost"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "15"
+msgid "雲を消した男"
+msgstr "Cloud Crusher"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "16"
+msgid "高速の覇者"
+msgstr "HighSpeed Champ"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "17"
+msgid "№２を倒した男"
+msgstr "NO2 Nixer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "18"
+msgid "鋼鉄無比"
+msgstr "Peerless Steel"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "19"
+msgid "お祭り主義者"
+msgstr "Festivalist"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "20"
+msgid "空飛ぶハンター"
+msgstr "Flying Hunter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "21"
+msgid "ハンドレッドキラー"
+msgstr "Hundred Killer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "22"
+msgid "サウザンドキラー"
+msgstr "Thousand Killer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "23"
+msgid "ワンダースリー"
+msgstr "One-der Three"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "24"
+msgid "ファイズハンター"
+msgstr "Fives Hunter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "25"
+msgid "セブンズハンター"
+msgstr "Sevens Hunter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "26"
+msgid "ミリオンハンター"
+msgstr "Million Hunter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "27"
+msgid "さいきん売り出し中"
+msgstr "Recently Sold"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "28"
+msgid "命知らずの賞金稼ぎ"
+msgstr "Daring Hunter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "29"
+msgid "歴戦の強者"
+msgstr "Veteran Soldier"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "30"
+msgid "賞金王"
+msgstr "Bounty King"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "31"
+msgid "解決魔"
+msgstr "Resolution Devil"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "32"
+msgid "荒野のお得意さま"
+msgstr "Wasteland Regular"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "33"
+msgid "レンタルキング"
+msgstr "Rental King"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "34"
+msgid "返却無用のお大尽"
+msgstr "Wealthy Altruist"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "35"
+msgid "探知の鉄人"
+msgstr "Iron Detector"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "36"
+msgid "ゲージツの鬼"
+msgstr "Crafting Demon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "37"
+msgid "改造の鬼"
+msgstr "Modding Demon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "38"
+msgid "荒野のギャンブラー"
+msgstr "Wasteland Gambler"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "39"
+msgid "浪費平気彼氏"
+msgstr "Sugar Daddy"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "40"
+msgid "億万長者"
+msgstr "Billionaire"

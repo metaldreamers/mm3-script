@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 21/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type2\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "0"
+msgid "<!empty>"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1"
+msgid "？？？？？？？？？"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "2"
+msgid "ユムボマ"
+msgstr "Backbomber"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "3"
+msgid "ベヒムース"
+msgstr "Behemoose"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "4"
+msgid "ドミンゲス"
+msgstr "Dominguez"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "5"
+msgid "超流動デカプリン"
+msgstr "Megapudding"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "6"
+msgid "サルモネラス"
+msgstr "Salmonella"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "7"
+msgid "クラウドゴン"
+msgstr "Cloudgon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "8"
+msgid "火星クラゲ"
+msgstr "Martian Medusa"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "9"
+msgid "アクアヒドラ"
+msgstr "Aqua Hydra"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "10"
+msgid "バオーバーブンガー"
+msgstr "Baobabunga"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "11"
+msgid "ヨージンボーグ"
+msgstr "Yojimborg"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "12"
+msgid "マユラー"
+msgstr "Cocoonera"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "13"
+msgid "ガウーマン"
+msgstr "Mothlady"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "14"
+msgid "アルメイダ"
+msgstr "Almeida"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "15"
+msgid "カジキエフ"
+msgstr "Kajikiev"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "16"
+msgid "ムガデス"
+msgstr "Sintipede"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "17"
+msgid "スピードキング"
+msgstr "Speed King"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "18"
+msgid "冥界エクスプレス"
+msgstr "Hell Express"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "19"
+msgid "カミカゼクイーン"
+msgstr "Kamikaze Queen"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "20"
+msgid "オーロック"
+msgstr "Auroch"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "21"
+msgid "スクラヴードゥー"
+msgstr "Scrap Voodoo"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "22"
+msgid "アメーバブラザーズ"
+msgstr "Amoeba Bros"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "23"
+msgid "ギガンテリオン"
+msgstr "Giganterion"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "24"
+msgid "オルガ・モード"
+msgstr "Olga Mode"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "25"
+msgid "ダイコンデロガ"
+msgstr "Daikonderoga"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "26"
+msgid "凶鳥デスデモーナ"
+msgstr "Deathdemona"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "27"
+msgid "アラモ＝ジャック"
+msgstr "Alamo Jack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "28"
+msgid "ダイコンデロガ２"
+msgstr "Daikonderoga 2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "29"
+msgid "ＡＨ６６６バズズ"
+msgstr "AH666 Bazuzu"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "30"
+msgid "土星クラゲ"
+msgstr "Saturn Medusa"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "31"
+msgid "ギガンティーガー"
+msgstr "Gigantiger"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "32"
+msgid "ブレードトゥース"
+msgstr "Bladetooth"

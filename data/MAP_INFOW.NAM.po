@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 21/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type2\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "0"
+msgid "<!empty>"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1"
+msgid "ワールドマップ"
+msgstr "World Map"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "2"
+msgid "ワラ"
+msgstr "Wara"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "3"
+msgid "シエルタ"
+msgstr "Shelter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "4"
+msgid "ビーカップ"
+msgstr "Beacap"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "5"
+msgid "ラスティメイデン"
+msgstr "Rusty Maiden"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "6"
+msgid "ホホアナ"
+msgstr "Hohohole"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "7"
+msgid "プエルト・モリ"
+msgstr "Puerto Mori"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "8"
+msgid "サイドウェイ"
+msgstr "Sideway"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "9"
+msgid "エルルース"
+msgstr "Elurus"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "10"
+msgid "ソンブレロ・ビル"
+msgstr "Sombrero Building"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "11"
+msgid "クライング・ママ"
+msgstr "Crying Mama"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "12"
+msgid "ブラボー橋"
+msgstr "Bravo Bridge"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "13"
+msgid "ベイビーロック"
+msgstr "Babyrock"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "14"
+msgid "ヌッカの酒場"
+msgstr "Nukka's Bar"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "15"
+msgid "ツリシ峠"
+msgstr "Fisherman's Pass"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "16"
+msgid "ジャンプキャンプ"
+msgstr "Jump Camp"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "17"
+msgid "バイオキングダム"
+msgstr "Bio Kingdom"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "18"
+msgid "オズマのトーチカ"
+msgstr "Ozma Pillbox"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "19"
+msgid "デスベガス"
+msgstr "Death Vegas"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "20"
+msgid "渚のバンガロー"
+msgstr "Seaside Bungalow"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "21"
+msgid "軌道ステーション"
+msgstr "Orbital Station"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "22"
+msgid "崖っぷち海岸"
+msgstr "Cliff Beach"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "23"
+msgid "カスミの農場"
+msgstr "Kasumi Farm"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "24"
+msgid "ドールハウス"
+msgstr "Dollhouse"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "25"
+msgid "悪党ミュージアム"
+msgstr "Villain Museum"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "26"
+msgid "ホックの交易所"
+msgstr "Hawk Traders"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "27"
+msgid "ラッカマンの穴"
+msgstr "Lackerman's Hole"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "28"
+msgid "マスドラ研"
+msgstr "Mass Driver Lab"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "29"
+msgid "工場遺跡"
+msgstr "Factory Ruin"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "30"
+msgid "グレートキャノン"
+msgstr "Great Cannon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "31"
+msgid "極楽谷"
+msgstr "Paradise Valley"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "32"
+msgid "冷血砦"
+msgstr "Fort Coldblood"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "33"
+msgid "ドゥーム球場"
+msgstr "Doom Stadium"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "34"
+msgid "地底水脈"
+msgstr "Waterway"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "35"
+msgid "イービル不動産"
+msgstr "Evil Estate"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "36"
+msgid "モリの下水道"
+msgstr "Mori Sewers"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "37"
+msgid "テッペンタウン"
+msgstr "Top Town"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "38"
+msgid "フォレストピーク"
+msgstr "Forest Peak"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "39"
+msgid "名もない廃ビル"
+msgstr "Nameless Ruin"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "40"
+msgid "摩天楼アイランズ"
+msgstr "Sky Islands"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "41"
+msgid "禁断のマンホール"
+msgstr "Forbidden Manhole"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "42"
+msgid "スパインブリッジ"
+msgstr "Spine Bridge"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "43"
+msgid "ノボレズの断崖"
+msgstr "Unclimable Cliff"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "44"
+msgid "ワナナバニ研究所"
+msgstr "Wananabani Inst."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "45"
+msgid "干あがった水路"
+msgstr "Dry Waterway"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "46"
+msgid "ネツィブ・メラハ"
+msgstr "Netsib Melach"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "47"
+msgid "ジャガンナート"
+msgstr "Jagannath"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "48"
+msgid "トレーダーキャンプ"
+msgstr "Trader Camp"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "49"
+msgid "ありふれた廃墟"
+msgstr "Normal Ruin"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "50"
+msgid "デバッグマップ"
+msgstr "Debug Map"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "51"
+msgid "荒野"
+msgstr "Wasteland"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "52"
+msgid "砂漠"
+msgstr "Desert"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "53"
+msgid "海辺"
+msgstr "Seashore"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "54"
+msgid "洞窟"
+msgstr "Cavern"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "55"
+msgid "廃墟"
+msgstr "Ruin"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "56"
+msgid "農場"
+msgstr "Farm"

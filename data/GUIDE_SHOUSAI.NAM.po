@@ -1,0 +1,3770 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 21/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type2\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "0"
+msgid "<!empty>"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1"
+msgid "デバッグ用"
+msgstr "DEBUG"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "2"
+msgid "イゴールの話を聞く"
+msgstr "Talk to Igor"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "3"
+msgid ""
+"ドクター･ミンチの助手\n"
+"イゴールは、何か主人公に\n"
+"伝えたいことがあるようだ。"
+msgstr ""
+"Doctor Mince's assisstant, Igor,\n"
+"has something he wants to\n"
+"tell you."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "4"
+msgid "川をさかのぼってみる"
+msgstr "Investigate upstream"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "5"
+msgid ""
+"自分が死体として流れてきた川。\n"
+"\n"
+"その川を上流へさかのぼれば\n"
+"記憶を取りもどす手がかりが\n"
+"見つかるかもしれない。"
+msgstr ""
+"Your corpse was washed down\n"
+"the river.\n"
+"\n"
+"If you investigate upstream,\n"
+"you might find a clue to\n"
+"recovering your lost memories."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "6"
+msgid "チョッパーを取りもどす"
+msgstr "Reclaim the Chopper"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "7"
+msgid ""
+"自分の死体と同じく\n"
+"滝つぼの上から\n"
+"落ちてきたというバイク。\n"
+"\n"
+"このバイクには\n"
+"失った記憶の手がかりが\n"
+"あるのかもしれない。"
+msgstr ""
+"A bike was washed down the\n"
+"waterfall with your corpse.\n"
+"\n"
+"This bike could be a clue\n"
+"to your lost memories."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "8"
+msgid "オレは変身した！"
+msgstr "I transformed!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "9"
+msgid ""
+"追いこまれた自分の姿が\n"
+"クラン・ナンバー３\n"
+"ブレードトゥースそっくりに変わった！\n"
+"\n"
+"あれがかつての自分の姿なのか？"
+msgstr ""
+"When I was in trouble, I transformed\n"
+"into the form of the Clan\n"
+"Coldblood Number 3, Bladetooth!\n"
+"\n"
+"Is that who I was before?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "10"
+msgid "ゼインを殺したのはオレかも？"
+msgstr "Did I kill Zane?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "11"
+msgid ""
+"煮えカカシのゼインを殺したのは、\n"
+"自分だったのかもしれない？"
+msgstr ""
+"Am I the one that killed Zane\n"
+"from Boiling Scarecrow?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "12"
+msgid "オレは実験体１３１３号だった！"
+msgstr "I was test subject No. 1313"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "13"
+msgid ""
+"グラトノスは自分のことを\n"
+"実験体１３１３号と呼んだ。\n"
+"\n"
+"それがブレードトゥースの\n"
+"ことなのだろうか？"
+msgstr ""
+"Gratonos called me test subject\n"
+"No. 1313.\n"
+"\n"
+"That was probably Bladetooth."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "14"
+msgid "オレはグラトノスに殺された！"
+msgstr "Gratonos killed me!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "15"
+msgid ""
+"自分を殺したはずだというグラトノス。\n"
+"\n"
+"自分とグラトノスの間には\n"
+"いったい何があったのか？"
+msgstr ""
+"Gratonos has to be who killed me.\n"
+"\n"
+"What happened between us?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "16"
+msgid "オレはグラトノスを裏切った！"
+msgstr "I betrayed Gratonos!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "17"
+msgid ""
+"自分はかつて\n"
+"ブレードトゥースとしてオズマと戦い\n"
+"追いつめられ、人間の姿にもどった。\n"
+"\n"
+"その時グラトノスによる\n"
+"洗脳が解けた自分は、\n"
+"オズマにグラトノスを倒すことを\n"
+"約束したのだという。"
+msgstr ""
+"During my fight with Ozma I\n"
+"returned to my human form while\n"
+"backed into a corner.\n"
+"\n"
+"I broke free from the\n"
+"brainwashing and promised Ozma\n"
+"I'd defeat Gratonos."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "18"
+msgid "記憶のゆくえ"
+msgstr "Traces of memory"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "19"
+msgid ""
+"君の心には\n"
+"一度は終わりをむかえた\n"
+"この物語の記憶が残っている。"
+msgstr ""
+"You've reached the end and the\n"
+"memories of this story will stay\n"
+"in your heart."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "20"
+msgid "ワラの畑のボスのたのみ"
+msgstr "Request from the Farm Boss in Wara"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "21"
+msgid ""
+"ワラの町の畑のボスは\n"
+"なにやら頭の痛い問題を\n"
+"かかえているらしい。"
+msgstr ""
+"The Farm Boss in Wara seems\n"
+"to have some headache-inducing\n"
+"problem."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "22"
+msgid "メロウィンを全滅させる"
+msgstr "Exterminate all the Meloweens"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "23"
+msgid ""
+"ワラの畑のボスにたのまれ\n"
+"畑のメロウィンを\n"
+"全滅させることになった。\n"
+"\n"
+"メロウィンとマンマメロンは\n"
+"見ただけでは区別がつかないので\n"
+"注意が必要だ。"
+msgstr ""
+"The Farm Boss in Wara wants you\n"
+"to exterminate all the Meloweens\n"
+"infesting the farm.\n"
+"\n"
+"You can't tell the Meloweens\n"
+"apart from the Mama Melons, so\n"
+"you'll need to be careful."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "24"
+msgid "畑のボスに知らせる"
+msgstr "Report to the Farm Boss"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "25"
+msgid ""
+"ワラの畑のメロウィンを\n"
+"全滅させたことを畑のボスに報告する。"
+msgstr ""
+"Report to the Farm Boss that\n"
+"all the Meloweens in Wara's\n"
+"fields have been exterminated."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "26"
+msgid "ワラの町のローザにたのまれる"
+msgstr "Get request from Rosa in Wara"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "27"
+msgid ""
+"ワラの町のローザという女に\n"
+"西の工場遺跡に行った\n"
+"ケイレブという男を\n"
+"連れもどしてほしいとたのまれた。"
+msgstr ""
+"A woman in Wara named Rosa\n"
+"asked you to find a man named\n"
+"Caleb in the Factory Ruins\n"
+"to the west."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "28"
+msgid "工場遺跡でケイレブを見つける"
+msgstr "Find Caleb in the Factory Ruins"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "29"
+msgid ""
+"工場遺跡でお宝をさがしている\n"
+"ケイレブを見つけだす。"
+msgstr ""
+"Find Caleb, who was searching\n"
+"for treasure in the Factory Ruins."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "30"
+msgid "ワラの町にケイレブをつれて帰る"
+msgstr "Return to Wara with Caleb"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "31"
+msgid ""
+"ケイレブを納得させ、ワラの町の\n"
+"ローザのところへ連れ帰る。"
+msgstr ""
+"With Caleb's permission, bring\n"
+"him back to Rosa in Wara."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "32"
+msgid "ローザにケイレブの死を伝える"
+msgstr "Tell Rosa of Caleb's death"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "33"
+msgid ""
+"ケイレブが工場遺跡で死んだことを\n"
+"ワラの町のローザに伝える。"
+msgstr ""
+"Tell Rosa in Wara that Caleb\n"
+"died in the Factory Ruins."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "34"
+msgid "ユムボマの情報をきく"
+msgstr "Collect info about Backbomber"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "35"
+msgid "ベルモンドのたのみをきく"
+msgstr "Listen to Belmont's request"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "36"
+msgid ""
+"チョッパーをゆずってもらうため\n"
+"滝つぼのどうくつに住む\n"
+"ベルモンドのたのみをきく。"
+msgstr ""
+"Belmont lives in the cave\n"
+"behind the waterfall.\n"
+"Listen to his request to get\n"
+"back your Chopper."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "37"
+msgid "ハンターオフィスで情報を集める"
+msgstr "Gather info at the Hunter Office"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "38"
+msgid ""
+"ハンターオフィスで\n"
+"ベルモンドの息子、\n"
+"ダニエルを殺したモンスター\n"
+"ユムボマの情報を聞く。"
+msgstr ""
+"Gather info at the Hunter Office\n"
+"about the Backbomber, the monster\n"
+"that killed Belmont's son,\n"
+"Daniel."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "39"
+msgid "工場遺跡でユムボマを見つける"
+msgstr "Find Backbomber in the Factory Ruins"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "40"
+msgid ""
+"ワラの町の西の工場遺跡で\n"
+"ユムボマを発見する。"
+msgstr ""
+"Find Backbomber in the\n"
+"Factory Ruins, west of Wara."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "41"
+msgid "ユムボマを倒す！"
+msgstr "Defeat Backbomber!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "42"
+msgid "工場遺跡でユムボマと戦い、撃破する。"
+msgstr ""
+"Fight and defeat Backbomber\n"
+"in the Factory Ruins."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "43"
+msgid "ベルモンドに知らせる"
+msgstr "Tell Belmont"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "44"
+msgid ""
+"滝つぼのどうくつのベルモンドに\n"
+"ユムボマを倒したことを知らせる。"
+msgstr ""
+"Tell Belmont, who lives in the\n"
+"waterfall cave, that you defeated\n"
+"Backbomber."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "45"
+msgid "ギンスキーから依頼を受ける"
+msgstr "Get request from Ginsky"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "46"
+msgid ""
+"シエルタの町のボス、ギンスキーから\n"
+"結婚相手のところに向かう\n"
+"コーラ護衛の依頼を受ける。"
+msgstr ""
+"Get the request from Ginsky,\n"
+"the boss of Shelter, to\n"
+"escort Cola to her fiance."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "47"
+msgid "コーラを目的地へ送りとどける"
+msgstr "Escort Cola to her destination"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "48"
+msgid ""
+"コーラを指定された場所まで\n"
+"無事に送り届ける。"
+msgstr ""
+"Safely escort Cola to\n"
+"the designated location."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "49"
+msgid "ナダルに報告する"
+msgstr "Report to Nadar"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "50"
+msgid ""
+"コーラを目的地に送り届けたことを\n"
+"＜シエルタガード＞の隊長、\n"
+"ナダルに報告する。"
+msgstr ""
+"Report your successful\n"
+"escort to the Captain of the\n"
+"Shelter Guard, Nadar."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "51"
+msgid "コーラを見つけだす"
+msgstr "Find Cola"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "52"
+msgid ""
+"バイクをうばって行方をくらませた\n"
+"コーラを見つけだす。"
+msgstr ""
+"Find Cola, who stole your\n"
+"bike and drove off."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "53"
+msgid "シエルタの宿屋の主人に会う"
+msgstr "Meet the Shelter inn owner"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "54"
+msgid ""
+"「メロンで困っている」という\n"
+"シエルタの宿屋の主人の話を聞く。"
+msgstr ""
+"Talk to the Shelter inn owner\n"
+"about his problem with Melons."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "55"
+msgid "シエルタのメロンを収穫する"
+msgstr "Harvest Shelter Melons"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "56"
+msgid ""
+"シエルタに発生したメロウィンを\n"
+"すべてさがし出し収穫する。"
+msgstr ""
+"Find and harvest all the Shelter\n"
+"produced Meloweens. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "57"
+msgid "シエルタの宿屋の主人に報告する"
+msgstr "Report to the Shelter inn owner"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "58"
+msgid ""
+"メロウィンの収穫が終わったことを\n"
+"宿屋の主人に報告する。"
+msgstr ""
+"Report that you're done\n"
+"harvesting the Meloweens."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "59"
+msgid "ブラボー橋の兵士に会う"
+msgstr "Meet the Bravo Bridge soldier"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "60"
+msgid ""
+"シエルタの南のある\n"
+"ブラボー橋の兵士に会い\n"
+"ベイビーロックの偵察について聞く。"
+msgstr ""
+"Meet the soldier who wants you\n"
+"to scout out Babyrock at\n"
+"Bravo Bridge, south of\n"
+"Shelter."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "61"
+msgid "ベイビーロックを偵察する"
+msgstr "Scout out Babyrock"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "62"
+msgid ""
+"ブラボー橋の西にある\n"
+"ベイビーロックを偵察し、\n"
+"異常がないかたしかめる。"
+msgstr ""
+"Investigate Babyrock, west of\n"
+"Bravo Bridge, for anything out\n"
+"of the ordinary."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "63"
+msgid "ブラボー橋の兵士に報告する"
+msgstr "Report to the Bravo Bridge soldier"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "64"
+msgid ""
+"ベイビーロックでの偵察の結果を、\n"
+"ブラボー橋の兵士に伝える。"
+msgstr ""
+"Tell the soldier at Bravo Bridge\n"
+"your results from scouting\n"
+"out Babyrock."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "65"
+msgid "シエルタに水を持って行く"
+msgstr "Bring water to Shelter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "66"
+msgid ""
+"水不足のシエルタの町に\n"
+"水を運んで届ければ\n"
+"衛兵が買いとってくれるらしい。"
+msgstr ""
+"There's a water shortage in\n"
+"Shelter. If you bring water,\n"
+"the guard will buy it."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "67"
+msgid "シエルタで衛兵になる"
+msgstr "Become a Shelter guard"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "68"
+msgid ""
+"シエルタの衛兵として\n"
+"隊長の命令に従い、行動する。"
+msgstr ""
+"As a Shelter guard,\n"
+"follow the captain's orders. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "69"
+msgid "隊長に会う"
+msgstr "Meet the captain"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "70"
+msgid "０２タワーにいる隊長に会う。"
+msgstr "Meet the captain in tower 02."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "71"
+msgid "防壁の衛兵に会う"
+msgstr "Meet the rampart guard"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "72"
+msgid ""
+"０３タワーから防壁にあがって\n"
+"そこにいる衛兵に会い\n"
+"仕事の内容を聞く。"
+msgstr ""
+"Climb the rampart through tower\n"
+"03 and speak to the guard about\n"
+"your assignment."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "73"
+msgid "防壁をパトロールする"
+msgstr "Patrol the rampart"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "74"
+msgid ""
+"衛兵としてシエルタの防壁を歩き\n"
+"異常がないか、たしかめる。"
+msgstr ""
+"Patrol the rampart as a guard\n"
+"and look for anything unusual."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "75"
+msgid "隊長に報告する"
+msgstr "Report to the captain"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "76"
+msgid ""
+"パトロールが完了したことを\n"
+"シエルタガードの隊長に報告する。"
+msgstr ""
+"Report that you've finished your\n"
+"patrol to the captain."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "77"
+msgid "ギンスキーの落とし物をさがす"
+msgstr "Find what Ginsky dropped"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "78"
+msgid ""
+"シエルタのアッパー街で\n"
+"ギンスキーがなくしたという\n"
+"「$_I」をさがし出す。"
+msgstr ""
+"Find the \"$_I\"\n"
+"that Ginsky dropped in the upper\n"
+"city of Shelter."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "79"
+msgid ""
+"ギンスキーの落し物を発見したことを\n"
+"シエルタガードの隊長に報告する。"
+msgstr ""
+"Report to the captain that you\n"
+"found what Ginsky dropped."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "80"
+msgid "下水道を修理する"
+msgstr "Repair the sewer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "81"
+msgid ""
+"シエルタの地下３階に\n"
+"修理キットを持って行き、\n"
+"破損した下水管を３ヶ所修理する。"
+msgstr ""
+"Take a repair kit to underground\n"
+"level 3 in Shelter and\n"
+"repair the 3 damaged pipes."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "82"
+msgid ""
+"下水道の修理が完了したことを\n"
+"シエルタガードの隊長に報告する。"
+msgstr ""
+"Report to the captain that the\n"
+"sewer maintenance is done."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "83"
+msgid "シエルタを散策する"
+msgstr "Walk around Shelter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "84"
+msgid ""
+"シエルタガードの隊長として\n"
+"町に異常がないか、\n"
+"たしかめて回る。\n"
+"\n"
+"この町に隊長の立ち入りを\n"
+"こばめる場所はほとんど、ない。"
+msgstr ""
+"Patrol the town for anything\n"
+"unusual as the guard captain.\n"
+"\n"
+"There's nowhere in the city\n"
+"that a guard captain isn't\n"
+"allowed to go."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "85"
+msgid ""
+"一日隊長としての任務が完了したことを\n"
+"本物の隊長に報告する。"
+msgstr ""
+"Report to the real captain that\n"
+"you're done being captain for a\n"
+"day. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "86"
+msgid "トレーダーを護衛しろ！"
+msgstr "Protect the trader"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "87"
+msgid "塔の上の砲台を見つける"
+msgstr "Find the fort on the tower"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "88"
+msgid ""
+"大破壊以前に建造された\n"
+"巨大な砲台「グレートキャノン」。\n"
+"\n"
+"クレイグのくれた地図情報から、\n"
+"ビーカップの南西にあるという\n"
+"その残がいを見つける。"
+msgstr ""
+"There's a big fort, built\n"
+"before the Great Destruction,\n"
+"called \"Great Cannon\".\n"
+"\n"
+"According to the info from\n"
+"Craig, those ruins can be\n"
+"found southwest of Beacap."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "89"
+msgid "そこでクルマを手に入れる"
+msgstr "Obtain the vehicle there"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "90"
+msgid ""
+"「グレートキャノン」のどこかに\n"
+"あるというクルマを見つけ出す。"
+msgstr ""
+"Find the vehicle somewhere\n"
+"inside Great Cannon."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "91"
+msgid "クレイグに１００Ｇわたす"
+msgstr "Give Craig 100G"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "92"
+msgid ""
+"「グレートキャノン」でクルマを発見し、\n"
+"ビーカップのクレイグに\n"
+"情報への礼として１００Ｇを払う。"
+msgstr ""
+"If you find a vehicle in\n"
+"Great Cannon, give Craig in\n"
+"Beacap 100G as thanks for\n"
+"the information."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "93"
+msgid "ビーカップの技師のたのみを受ける"
+msgstr "Request from Beacap engineer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "94"
+msgid ""
+"ビーカップのパラボラにたまった\n"
+"雨水をろ過する浄水装置の\n"
+"調子が悪いらしい。\n"
+"\n"
+"その修理に使えそうな\n"
+"電子部品を探す。"
+msgstr ""
+"The machine used to purify the\n"
+"rainwater that collects in\n"
+"Beacap's parabola isn't doing\n"
+"too well.\n"
+"\n"
+"The engineer wants you to look\n"
+"for Electronic parts, which can\n"
+"be used to repair it."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "95"
+msgid "何かの電子部品を技師に持っていく"
+msgstr "Bring Electronic Parts"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "96"
+msgid ""
+"浄水装置の修理が完了するまで\n"
+"技師のところへ電子部品を届ける。"
+msgstr ""
+"Deliver Electronic parts to the\n"
+"engineer until he has enough\n"
+"to repair the water purifier."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "97"
+msgid "冷血砦からメリーアンを助け出す"
+msgstr "Save Marian from Fort Coldblood"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "98"
+msgid ""
+"ドミンゲスを倒し、\n"
+"冷血砦にとらわれていた少女\n"
+"メリーアンを助け出した。"
+msgstr ""
+"You defeated Dominguez and\n"
+"saved a girl named Marian who\n"
+"was imprisoned there."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "99"
+msgid "メリーアンの居場所をみつけてやる"
+msgstr "Find a safe place for Marian"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "100"
+msgid ""
+"メリーアンは心に傷を追い\n"
+"ひどく混乱しているようだ。\n"
+"\n"
+"まずは彼女が落ち着ける場所へ\n"
+"連れて行く必要がある。"
+msgstr ""
+"Marian seems to be very confused\n"
+"and mentally scarred.\n"
+"\n"
+"The first thing you'll need\n"
+"to do is take her somewhere\n"
+"where she can calm down."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "101"
+msgid "メリーアンを連れていく"
+msgstr "Take Marian home"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "102"
+msgid ""
+"ラスティメイデンにいるという\n"
+"メリーアンのおじ、\n"
+"トレーダーのビセンテの元へ\n"
+"メリーアンを送り届ける。"
+msgstr ""
+"Escort Marian to her uncle,\n"
+"Vicente, who she said is in\n"
+"Rusty Maiden."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "103"
+msgid "カカシビーコンを受けとる"
+msgstr "Get the Scarecrow Beacon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "104"
+msgid ""
+"冷血砦を監視している\n"
+"＜煮えカカシ＞のリーダー、\n"
+"イヴリンから\n"
+"「カカシビーコン」を受け取った。\n"
+"\n"
+"冷血砦に再び強敵が現れた時は\n"
+"「カカシビーコン」に連絡が入る。"
+msgstr ""
+"You got a Scarecrow Beacon from\n"
+"Evelyn, the leader of the\n"
+"Boiling Scarecrow who are\n"
+"monitoring Fort Coldblood.\n"
+"\n"
+"If another strong foe shows up\n"
+"there, they'll use it to contact\n"
+"you."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "105"
+msgid "<煮えカカシ>からの知らせを待つ"
+msgstr "Wait to hear something"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "106"
+msgid ""
+"「カカシビーコン」を所持し\n"
+"＜煮えカカシ＞からの連絡を待つ。"
+msgstr ""
+"Carry the Scarecrow Beacon and\n"
+"wait for the Boiling Scarecrow\n"
+"to contact you."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "107"
+msgid "冷血砦で狂騒のアルメイダをたおす"
+msgstr "Defeat Wild Almeida at the Fort"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "108"
+msgid ""
+"冷血砦にあらわれたという\n"
+"狂騒のアルメイダと対決し、倒す。"
+msgstr ""
+"Confront and defeat Wild Almeida,\n"
+"who showed up at Fort Coldblood."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "109"
+msgid "イヴリンに知らせる"
+msgstr "Tell Evelyn"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "110"
+msgid ""
+"アルメイダを倒したことを\n"
+"＜煮えカカシ＞のリーダー\n"
+"イヴリンに報告する。"
+msgstr ""
+"Report that you defeated Almeida\n"
+"to Evelyn, the leader of the\n"
+"Scarecrow."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "111"
+msgid "ゼインの行き先をさがす"
+msgstr "Search for Zane"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "112"
+msgid ""
+"＜煮えカカシ＞のリーダーだった\n"
+"ゼインという男の消息をたしかめる。"
+msgstr ""
+"Find the whereabouts of the\n"
+"Boiling Scarecrow's former leader,\n"
+"a man named Zane."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "113"
+msgid "トレドに会ってゼインのことを聞く"
+msgstr "Ask Toledo about Zane"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "114"
+msgid ""
+"ゼインと幼馴染であった\n"
+"賞金稼ぎのトレドに会い、\n"
+"ゼインの行方についての真相を聞く。"
+msgstr ""
+"Meet the bounty hunter Toledo,\n"
+"Zane's childhood friend, and\n"
+"ask about the truth behind Zane's\n"
+"whereabouts."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "115"
+msgid ""
+"消息を絶ってしまった\n"
+"ゼインの行き先をさがす。"
+msgstr ""
+"Search for Zane's\n"
+"last known location."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "116"
+msgid "極楽谷の西のありふれた廃墟を調べる"
+msgstr "Search west of Paradise Valley"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "117"
+msgid ""
+"ゼインがドミンゲスを\n"
+"待ち伏せしていたという、\n"
+"極楽谷の西のありふれた廃墟を調べる。"
+msgstr ""
+"Search for Zane's ambush spot\n"
+"for Dominguez, a ruined building\n"
+"west of Paradise Valley."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "118"
+msgid "ゼインの生死をたしかめる"
+msgstr "Check whether Zane is alive"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "119"
+msgid ""
+"ゼインを見つけ出し、\n"
+"その生死をたしかめる。"
+msgstr ""
+"Find Zane and ascertain\n"
+"whether he's alive or dead."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "120"
+msgid "大ジョッキに知らせる"
+msgstr "Tell Big Jockey"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "121"
+msgid ""
+"ゼインの最期を\n"
+"冷血砦の大ジョッキに知らせる。"
+msgstr ""
+"Tell of Zane's end to Big Jockey\n"
+"at Fort Coldblood."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "122"
+msgid "鉄くずを１０ｔ集める"
+msgstr "Collect 10t of scrap"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "123"
+msgid ""
+"ラスティメイデンの壁を\n"
+"修理している男に\n"
+"資材として鉄くずを持っていく。"
+msgstr ""
+"Bring scrap iron to the man\n"
+"working on repairing the hull\n"
+"of the Rusty Maiden. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "124"
+msgid "洗車屋に水を持って行く"
+msgstr "Bring water to the carwash"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "125"
+msgid ""
+"水不足に悩むラスティメイデンの\n"
+"洗車屋に水を届ける。"
+msgstr ""
+"Help the carwash in Rusty Maiden\n"
+"deal with their water shortage\n"
+"by delivering them water."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "126"
+msgid "酒場にぬめぬめ細胞を持って行く"
+msgstr "Bring slimy cells to the bar"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "127"
+msgid ""
+"つまみの材料がたりないという\n"
+"ラスティメイデンの酒場に\n"
+"ぬめぬめ細胞を届ける。"
+msgstr ""
+"The bartender in Rusty Maiden\n"
+"is running low on ingredients\n"
+"for snacks. Drop off some slimy\n"
+"cells. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "128"
+msgid "ロックハッカーをさがす"
+msgstr "Search for the Lock Hacker"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "129"
+msgid ""
+"あらゆる扉をこじ開けるという\n"
+"伝説のアイテム\n"
+"ロックハッカーを手に入れる。"
+msgstr ""
+"Get the legendary Lock Hacker\n"
+"that is rumored to be able to\n"
+"pop open any door. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "130"
+msgid "ワラを盗め"
+msgstr "Rob Wara"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "131"
+msgid ""
+"ロックハッカーを使い\n"
+"ワラの町の\n"
+"開錠可能な扉を全て開ける。"
+msgstr ""
+"Open all the locked doors you\n"
+"can with the Lock Hacker in\n"
+"Wara. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "132"
+msgid "シエルタを盗め"
+msgstr "Rob Shelter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "133"
+msgid ""
+"ロックハッカーを使い\n"
+"シエルタの町の\n"
+"開錠可能な扉を全て開ける。"
+msgstr ""
+"Open all the locked doors you\n"
+"can with the Lock Hacker in\n"
+"Shelter. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "134"
+msgid "ラスティメイデンを盗め"
+msgstr "Rob Rusty Maiden"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "135"
+msgid ""
+"ロックハッカーを使い\n"
+"ラスティメイデンの町の\n"
+"開錠可能な扉を全て開ける。"
+msgstr ""
+"Open all the locked doors you\n"
+"can with the Lock Hacker in\n"
+"Rusty Maiden. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "136"
+msgid "プエルト・モリを盗め"
+msgstr "Rob Puerto Mori"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "137"
+msgid ""
+"ロックハッカーを使い\n"
+"プエルト・モリの町の\n"
+"開錠可能な扉を全て開ける。"
+msgstr ""
+"Open all the locked doors you\n"
+"can with the Lock Hacker in\n"
+"Puerto Mori. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "138"
+msgid "軌道ステーションを盗め"
+msgstr "Rob Orbit Station"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "139"
+msgid ""
+"ロックハッカーを使い\n"
+"軌道ステーション内の\n"
+"開錠可能な扉を全て開ける。"
+msgstr ""
+"Open all the locked doors you\n"
+"can with the Lock Hacker in\n"
+"Orbit Station."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "140"
+msgid "世界を盗め"
+msgstr "Rob the world"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "141"
+msgid "世界中の扉という扉をあけるのだ。"
+msgstr ""
+"Open all the doors throughout\n"
+"the world."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "142"
+msgid "サブロミオの銅像を受け取る"
+msgstr "Accept the statue of Sabromeo"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "143"
+msgid ""
+"プエルト・モリにいる\n"
+"バルカンという男から\n"
+"ハッピー教団のシンボル、\n"
+"サブロミオの銅像を受け取ってくる。"
+msgstr ""
+"Receive the Sabromeo statue from\n"
+"a man called Vulcan in Puerto\n"
+"Mori. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "144"
+msgid "銅像をラスティメイデンに届ける"
+msgstr "Deliver the statue to Rusty Maiden"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "145"
+msgid ""
+"サブロミオの銅像を\n"
+"ラスティメイデンにいる\n"
+"サブロミオ本人に届ける。"
+msgstr ""
+"Deliver the statue of Sabromeo\n"
+"to the man himself in Rusty\n"
+"Maiden."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "146"
+msgid "XXXXをつくろう"
+msgstr "Make XXXX"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "147"
+msgid "-"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "148"
+msgid "赤亀の信用を得る"
+msgstr "Gain Red Turtle's trust"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "149"
+msgid ""
+"プエルト・モリのレジスタンス、\n"
+"「赤亀」のたのみを聞き、信用を得る。"
+msgstr ""
+"Listen to the request of the\n"
+"Puerto Mori resistance's Red\n"
+"Turtle and gain his trust. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "150"
+msgid "クランの武器庫をあばく"
+msgstr "Raid the clan armory"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "151"
+msgid ""
+"プエルト・モリのどこかにある\n"
+"クランの武器庫から\n"
+"武器を盗んで来れば\n"
+"赤亀が買い取ってくれるという。"
+msgstr ""
+"If you steal weapons from the\n"
+"clan's armory, which is located\n"
+"somewhere in Puerto Mori, then\n"
+"Red Turtle will buy them."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "152"
+msgid "ドランクにお守りを届ける"
+msgstr "Deliver the charm to Drunk"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "153"
+msgid ""
+"ホホアナのドランクという男に\n"
+"彼の母から預かった\n"
+"「汗じみたお守り」を届ける。"
+msgstr ""
+"Deliver the sweat stained charm\n"
+"to a man named Drunk in\n"
+"Hohohole. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "154"
+msgid "ドランクから預かった袋を届ける"
+msgstr "Deliver the bag from Drunk"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "155"
+msgid ""
+"ホホアナのドランクから預かった\n"
+"「ボロボロの袋」を\n"
+"プエルト・モリにいる彼の母に届ける。"
+msgstr ""
+"Deliver the bag you got from\n"
+"Drunk in Hohohole to his mother\n"
+"in Puerto Mori."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "156"
+msgid "ドランクに母のことを知らせる"
+msgstr "Tell Drunk about his mother"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "157"
+msgid ""
+"ホホアナのドランクに\n"
+"母のことを知らせる。"
+msgstr ""
+"Tell Drunk in Hohohole about\n"
+"his mother."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "158"
+msgid "１階モンスターを全滅させる"
+msgstr "Clear the first floor"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "159"
+msgid ""
+"イービル不動産の１Ｆに出没する\n"
+"モンスターを全滅させる。"
+msgstr ""
+"Exterminate the monsters on the\n"
+"first floor of Evil Estate."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "160"
+msgid "マットに知らせる"
+msgstr "Tell Matt"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "161"
+msgid ""
+"イービル不動産の１Ｆの安全を\n"
+"確保したことをマットに知らせる。"
+msgstr ""
+"Tell Matt that the first floor\n"
+"of Evil Estate is safe. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "162"
+msgid "地下工場で薬をさがす"
+msgstr "Search the underground plant "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "163"
+msgid ""
+"イービル不動産の地下工場で\n"
+"スベンソンの体に効きそうな薬が\n"
+"残っていないかさがしてくる。"
+msgstr ""
+"Search the underground plant for\n"
+"any medicine that might work on\n"
+"Svenson. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "164"
+msgid "薬をエリカにわたす"
+msgstr "Give the medicine to Erika"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "165"
+msgid ""
+"イービル不動産の\n"
+"地下工場で見つけた薬を\n"
+"２Ｆでスベンソンにつきそっている\n"
+"エリカにわたす。"
+msgstr ""
+"Give the medicine you found to\n"
+"Erika. She is with Svenson on\n"
+"the second floor of Evil Estate."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "166"
+msgid "ビルの屋上の太陽電池をみがく"
+msgstr "Polish the roof's solar cells"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "167"
+msgid ""
+"コグから受け取ったみがき布で\n"
+"イービル不動産の屋上にある\n"
+"太陽電池をみがく。"
+msgstr ""
+"Polish the roof's solar cells\n"
+"with the polishing rag you got\n"
+"from Cog. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "168"
+msgid "発電装置のスイッチを入れる"
+msgstr "Flip the generator switch "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "169"
+msgid ""
+"イービル不動産の屋上の\n"
+"発電装置のスイッチを入れ\n"
+"送電を開始する。"
+msgstr ""
+"Flip the generator switch on the\n"
+"roof of Evil Estate to start the\n"
+"power flow. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "170"
+msgid "コグに知らせにもどる"
+msgstr "Return to Cog"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "171"
+msgid ""
+"イービル不動産の電力が\n"
+"復帰したことをコグに知らせる。"
+msgstr ""
+"Let Cog know that power is\n"
+"running again in Evil Estate. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "172"
+msgid "地下の薬品製造マシンを調べる"
+msgstr "Find the medication dispenser"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "173"
+msgid ""
+"イービル不動産の地下にあるという\n"
+"大破壊以前の薬品製造マシンを\n"
+"調べる。"
+msgstr ""
+"Search under Evil Estate for a\n"
+"medication dispenser from before\n"
+"the fall. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "174"
+msgid "製造マシンで薬をつくる"
+msgstr "Use the medication dispenser"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "175"
+msgid ""
+"薬品製造マシンを動かして\n"
+"薬をつくってみる。"
+msgstr ""
+"Try making medicine with the\n"
+"medication dispenser. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "176"
+msgid "コグに知らせる"
+msgstr "Tell Cog"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "177"
+msgid ""
+"地下の薬品製造マシンで\n"
+"薬品をつくったことをコグに報告する。"
+msgstr ""
+"Tell Cog that you made medicine\n"
+"with the medication dispenser. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "178"
+msgid "※未定"
+msgstr "*ToBeDecided"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "179"
+msgid "酒をアリソンに売りにいく"
+msgstr "Sell alcohol to Alison"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "180"
+msgid "シエルタのディーパー街に潜入する"
+msgstr "Infiltrate Deeper village"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "181"
+msgid ""
+"シエルタの町のエレベータを使って\n"
+"地下のディーパー街に潜入する。"
+msgstr ""
+"Infiltrate Deeper village by\n"
+"using the elevator in Shelter to\n"
+"go underground."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "182"
+msgid "仕立てのいい服を手にいれる"
+msgstr "Get the tailored clothes "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "183"
+msgid ""
+"ディーパー街の洋館内で\n"
+"コーラの部屋にある\n"
+"「仕立てのいい服」を手にいれる。"
+msgstr ""
+"Get the tailored clothes from\n"
+"Cola's room in the mansion in\n"
+"Deeper village. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "184"
+msgid "服をコーラに手わたす"
+msgstr "Hand over the clothes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "185"
+msgid ""
+"シエルタで見つけた\n"
+"「仕立てのいい服」を\n"
+"カスミの農場にいるコーラに届ける。"
+msgstr ""
+"Bring the tailored clothes you\n"
+"found to Cola at Kasumi Farm. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "186"
+msgid "テッペンタウンの怪物を退治する"
+msgstr "Eliminate the Top Town monster"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "187"
+msgid ""
+"テッペンタウンの宿屋に\n"
+"出現するという怪物を退治する。\n"
+"\n"
+"テッペンタウンの５Ｆには\n"
+"怪物のすみかにもってこいの\n"
+"植物だらけの部屋がある。"
+msgstr ""
+"Eliminate the monster that has\n"
+"been seen in the Top Town hotel.\n"
+"\n"
+"It's den is a room on the 5th\n"
+"floor that is filled to the top\n"
+"with plants. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "188"
+msgid "宿屋の主人に知らせる"
+msgstr "Tell the Inn's owner "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "189"
+msgid ""
+"「松」の間に出現する\n"
+"怪物を退治したことを、\n"
+"宿屋の主人に知らせる。"
+msgstr ""
+"Let the Inn's owner know that\n"
+"the monster seen in his top room\n"
+"has been eliminated. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "190"
+msgid "ホートーをさがす"
+msgstr "Search for Hoto"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "191"
+msgid ""
+"テッペンタウンで\n"
+"病床に伏せる老人の息子、\n"
+"ホートーという男をさがす。"
+msgstr ""
+"Search for the son of the old\n"
+"bed-ridden man in Top Town."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "192"
+msgid "老人に知らせる"
+msgstr "Inform the old man"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "193"
+msgid ""
+"サイドウェイでホートーを\n"
+"見つけたことを\n"
+"テッペンタウンの老人に知らせる。"
+msgstr ""
+"Let the old man know that you\n"
+"found his son in Sideway. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "194"
+msgid "クラン№２を倒せ！"
+msgstr "Defeat the clan's No.2!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "195"
+msgid "メモリーセンターのお姉さんをさがす"
+msgstr "Look for the memory center girl"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "196"
+msgid ""
+"エルルースのメモリーセンターから\n"
+"いなくなってしまった\n"
+"お姉さんをさがし出す。"
+msgstr ""
+"The Elurus memory center girl\n"
+"has gone missing. Find her."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "197"
+msgid "依頼人に報告する"
+msgstr "Report to the requester"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "198"
+msgid ""
+"エルルースのメモリーセンターの\n"
+"お姉さんを見つけたことを\n"
+"依頼人の男に報告する。"
+msgstr ""
+"Report that you found the Elurus\n"
+"memory center girl to the\n"
+"requester."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "199"
+msgid "エルルースのナースに話を聞く"
+msgstr "Listen to the nurse in Elurus"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "200"
+msgid ""
+"エルルースのナースの女性から\n"
+"話を聞く。"
+msgstr ""
+"Get the story from the nurse in\n"
+"Elurus."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "201"
+msgid "オイホロカプセルを３０コ届ける"
+msgstr "Deliver 30 Oiholo Pills"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "202"
+msgid ""
+"モンスターにおそわれた\n"
+"エルルースの人々の痛み止めとして\n"
+"エルルースのナースに\n"
+"オイホロカプセルを３０コ届ける。"
+msgstr ""
+"Deliver 30 Oiholo Pills to the\n"
+"nurse in Elurus so she can help\n"
+"the people injured in a monster\n"
+"attack."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "203"
+msgid "極楽ボンバーを１０匹たおす"
+msgstr "Defeat 10 Paradise Bombers"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "204"
+msgid ""
+"マスドラ研の周囲に出現する\n"
+"「極楽ボンバー」を１０匹たおす。\n"
+"\n"
+"現在、倒した数：$_K匹。"
+msgstr ""
+"Defeat 10 of the Paradise Bombers\n"
+"that inhabit the area around the\n"
+"Mass Driver Lab.\n"
+"\n"
+"Currently defeated: $_K."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "205"
+msgid "教授に知らせる"
+msgstr "Report to the professor"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "206"
+msgid ""
+"マスドラ研周辺の\n"
+"極楽ボンバーを駆除したことを\n"
+"パツキントッシュ教授に報告する。"
+msgstr ""
+"Let professor Pakkintosh know\n"
+"that you took care of her\n"
+"Paradise Bomber problem."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "207"
+msgid "オズマに約束をはたすと誓う"
+msgstr "Keep the promise to Ozma"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "208"
+msgid ""
+"オズマは保護しているコーラを\n"
+"返してほしければ\n"
+"かつての約束を果たせと要求してきた。\n"
+"\n"
+"かつての約束とは\n"
+"「グラトノスを倒す」ことだ。"
+msgstr ""
+"Ozma has demanded you fulfill\n"
+"your promise if you want to get\n"
+"Cola back.\n"
+"\n"
+"The promise was to defeat\n"
+"Gratonos."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "209"
+msgid "オズマの住みかに行く"
+msgstr "Go to where Ozma is staying"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "210"
+msgid ""
+"ハラヘリ砂漠の東部にある\n"
+"オズマのトーチカをたずねる。\n"
+"\n"
+"そこには、かつてオズマと自分が\n"
+"約束をしていたことを示す\n"
+"「証拠」があるという。"
+msgstr ""
+"Visit Ozma's Pillbox in the\n"
+"eastern part of Hunger Desert.\n"
+"\n"
+"He said there's proof there of\n"
+"the promise I made in another\n"
+"life."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "211"
+msgid "＜双子の蓮＞について聞く"
+msgstr "Ask about the \"Twin Lotus\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "212"
+msgid ""
+"グラトノスは＜双子の蓮＞という\n"
+"バイオディスクを手に入れるため、\n"
+"オズマの家族を惨殺したらしい。\n"
+"\n"
+"グラトノスは今もなお\n"
+"＜双子の蓮＞をさがしている。"
+msgstr ""
+"It looks like Gratonos killed\n"
+"Ozma's family in order to get a\n"
+"biodisc called Twin Lotus.\n"
+"\n"
+"Gratonos is still searching for\n"
+"the Twin Lotus."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "213"
+msgid "エルルースで地獄耳のダフネに会う"
+msgstr "Meet discreet Daphne in Elurus"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "214"
+msgid ""
+"＜双子の蓮＞を売りたい人間がいる、\n"
+"というニセの情報を\n"
+"エルルースのダフネという\n"
+"情報屋に話す。"
+msgstr ""
+"Give fake information about\n"
+"somebody wanting to sell the\n"
+"Twin Lotus to the information\n"
+"broker Daphne."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "215"
+msgid "オズマに報告する"
+msgstr "Report back to Ozma"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "216"
+msgid ""
+"ダフネに＜双子の蓮＞の情報を\n"
+"伝えたことを、オズマに報告する。"
+msgstr ""
+"Let Ozma know about the tip\n"
+"you gave Daphne."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "217"
+msgid "グラトノスをおびきだす"
+msgstr "Lure out Gratonos"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "218"
+msgid ""
+"＜双子の蓮＞の情報を利用し\n"
+"居場所のわからないグラトノスを\n"
+"こちらの指定した場所におびき出す。"
+msgstr ""
+"Lure Gratonos out to where\n"
+"the information will lead him\n"
+"to find the \"Twin Lotus\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "219"
+msgid "グラトノスの居場所を見つける"
+msgstr "Find Gratonos' location"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "220"
+msgid ""
+"＜双子の蓮＞とコーラを交換するため、\n"
+"グラトノスの居場所をつきとめる。\n"
+"\n"
+"過去にグラトノスと\n"
+"関わりがあった人物なら、\n"
+"何か情報を知っているかもしれない。"
+msgstr ""
+"Find the location of Gratonos so\n"
+"you can trade the Twin Lotus for\n"
+"Cola.\n"
+"\n"
+"Somebody that was connected to\n"
+"Gratonos in the past might know\n"
+"something."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "221"
+msgid "テスラ・セルを1２個集める"
+msgstr "Collect 12 Tesla Cells"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "222"
+msgid ""
+"テスラ・センサーを使って、\n"
+"テスラ・セルを１２個集める。\n"
+"（すでに$_K個、入手している）　　"
+msgstr ""
+"Gather 12 Tesla Cells using the\n"
+"Tesla Sensor.\n"
+"（You have $_K Tesla Cells）"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "223"
+msgid "パツキントッシュ教授に報告する"
+msgstr "Report to professor Pakkintosh"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "224"
+msgid ""
+"すべてのテスラ・セルを集めたことを、\n"
+"マスドラ研の\n"
+"パツキントッシュ教授に報告する。"
+msgstr ""
+"Tell professor Pakkintosh at the\n"
+"Mass Driver Lab that you have\n"
+"collected all the cells."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "225"
+msgid "グラトノスを倒す"
+msgstr "Defeat Gratonos"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "226"
+msgid ""
+"数々の宿命を終結させるため、\n"
+"グラトノスと戦い、倒す。"
+msgstr ""
+"Time to settle all the scores.\n"
+"Fight Gratonos and beat him."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "227"
+msgid "ラッキーナに会う"
+msgstr "Talk to Laquina"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "228"
+msgid ""
+"ビーカップ南のトレーダーキャンプで、\n"
+"ラッキーナという名の女に会う。"
+msgstr ""
+"Talk to the woman named Laquina\n"
+"in a trader camp south\n"
+"of Beacap."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "229"
+msgid "青いワニのしっぽを手に入れる"
+msgstr "Get a Blue Alligator tail"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "230"
+msgid ""
+"幸せを呼び込むというアイテム\n"
+"「青いワニのしっぽ」を手に入れる。"
+msgstr ""
+"Get the good luck charm,\n"
+"a Blue Alligator tail."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "231"
+msgid "青いワニのしっぽを届ける"
+msgstr "Deliver the Blue Alligator tail"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "232"
+msgid ""
+"「青いワニのしっぽ」を\n"
+"ラッキーナに届ける。"
+msgstr ""
+"Deliver a Blue Alligator tail\n"
+"to Laquina."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "233"
+msgid "サイドウェイで依頼人に会う"
+msgstr "Meet the requister at Sideway"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "234"
+msgid ""
+"サイドウェイでハンターオフィスに\n"
+"依頼を出した人物に会う。"
+msgstr ""
+"Meet the requester at the\n"
+"Hunter's office in Sideway."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "235"
+msgid "赤いサメ「ディアブロ」を倒す"
+msgstr "Defeat the red shark Diablo"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "236"
+msgid ""
+"ハラヘリ砂漠を泳ぐ\n"
+"赤いスナザメ「ディアブロ」を倒す。"
+msgstr ""
+"Defeat the red shark Diablo\n"
+"that burrows through the\n"
+"Hunger Desert."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "237"
+msgid "サイドウェイの依頼人に報告する"
+msgstr "Report to the requester"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "238"
+msgid ""
+"「ディアブロ」を倒したことを\n"
+"サイドウェイの依頼人に報告する。"
+msgstr ""
+"Report to the requester\n"
+"in Sideway that you defeated Diablo."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "239"
+msgid "イクラーニのたのみを聞く"
+msgstr "Ask Ikrani about his request"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "240"
+msgid ""
+"ワラの農場の地下牢にとらわれた\n"
+"料理人、イクラーニのたのみを聞く。"
+msgstr ""
+"Ask the cook Ikrani in the\n"
+"basement jail under the Wara\n"
+"farm."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "241"
+msgid "イクラーニを牢から救い出す"
+msgstr "Free Ikrani from jail"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "242"
+msgid ""
+"イクラーニを、ワラの屋敷の\n"
+"地下牢から救い出す。"
+msgstr ""
+"Rescue the cook Ikrani from the\n"
+"basement jail under the Wara\n"
+"farm."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "243"
+msgid "イクラーニの嫌疑をはらす"
+msgstr "Clear Ikrani's name"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "244"
+msgid ""
+"イクラーニにかけられた\n"
+"嫌疑をはらし、屋敷の料理人に\n"
+"復帰できるようにする。"
+msgstr ""
+"Clear Ikrani of the suspicion\n"
+"against him so he can return to\n"
+"his job as a cook."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "245"
+msgid "ミグのメモを読む"
+msgstr "Read Mig's memo"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "246"
+msgid ""
+"牢獄でミグにわたされた\n"
+"メモの内容を確認する。"
+msgstr ""
+"Check the contents of the note\n"
+"that Mig gave you in jail. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "247"
+msgid "メタモルフィンを口にふくむ"
+msgstr "Hide the Metamorphine"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "248"
+msgid ""
+"牢獄でミグにわたされた薬品\n"
+"メタモルフィンを口にふくむ。"
+msgstr ""
+"Hide the Metamorphine medicine\n"
+"that Mig gave you in your mouth."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "249"
+msgid "拷問中にそれを「吐く」"
+msgstr "Spit it out during interrogation"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "250"
+msgid ""
+"ミグのメモの指示に従い\n"
+"拷問中に口にふくんだ\n"
+"メタモルフィンをはきだす。\n"
+"\n"
+"何が起こるかは、わからない。"
+msgstr ""
+"Follow Mig's memo and spit out\n"
+"the Metamorphine during\n"
+"the interrogation.\n"
+"\n"
+"Not sure what will happen."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "251"
+msgid "地上へ脱出する"
+msgstr "Escape to the surface "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "252"
+msgid "地下の拷問部屋から地上へ脱出する。"
+msgstr ""
+"Leave the interrogation chamber\n"
+"and escape to the surface."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "253"
+msgid "＜双子の蓮＞を見つける"
+msgstr "Find Twin Lotus"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "254"
+msgid ""
+"ハラヘリ砂漠でスナザメを狩って\n"
+"＜双子の蓮＞を手に入れる。"
+msgstr ""
+"Hunt Sand Sharks to get the\n"
+"Twin Lotus."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "255"
+msgid "＜双子の蓮＞をグラトノスにわたす"
+msgstr "Give the Twin Lotus to Gratonos"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "256"
+msgid ""
+"スナザメを狩って手に入れた\n"
+"＜双子の蓮＞をグラトノスにわたし\n"
+"コーラと交換する。"
+msgstr ""
+"Exchange the Twin Lotus you\n"
+"acquired from hunting Sand\n"
+"Sharks for Cola with Gratonos."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "257"
+msgid "カトールを持っていく"
+msgstr "Bring M-Toll"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "258"
+msgid ""
+"樹界のトレーダーキャンプで\n"
+"蚊になやむトレーダーのところに\n"
+"カトールを持っていく。"
+msgstr ""
+"Bring M-Toll to the trader in\n"
+"the Wildwood camp that is being\n"
+"bothered by mosquitos."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "259"
+msgid "依頼主にカトールを届ける"
+msgstr "Deliver M-Toll to the client "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "260"
+msgid ""
+"樹界のトレーダーに\n"
+"カトールを２０コわたす。"
+msgstr ""
+"Give the trader in Wildwood\n"
+"20 M-Toll. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "261"
+msgid "緑のモンスターを倒す"
+msgstr "Defeat the green monster"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "262"
+msgid ""
+"ミュートの森で、ミュート族をおそう\n"
+"「緑のモンスター」を倒す。"
+msgstr ""
+"Defeat the green monster that\n"
+"that threatens the Mute people\n"
+"located in Mute Forest."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "263"
+msgid "ミュート族に知らせる"
+msgstr "Inform the Mute people"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "264"
+msgid ""
+"「緑のモンスター」を倒したことを\n"
+"ミュート族に知らせる。"
+msgstr ""
+"Let the Mute people know that\n"
+"the green monster is dealt with."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "265"
+msgid "タコスをさがす"
+msgstr "Search for tacos"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "266"
+msgid ""
+"ジャンプキャンプの\n"
+"門番をしている男は\n"
+"「山盛りタコス」というものを\n"
+"食べてみたいらしい。\n"
+"\n"
+"「山盛りタコス」は\n"
+"意外と身近な人の得意料理だ。"
+msgstr ""
+"The guard at Jump Camp wants to\n"
+"try something called Pile tacos.\n"
+"\n"
+"Strangely enough Taco Pile\n"
+"are a specialty of someone nearby. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "267"
+msgid "依頼人にタコスを届ける"
+msgstr "Deliver tacos to the client "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "268"
+msgid ""
+"ジャンプキャンプの門番に\n"
+"「山盛りタコス」を持っていく。"
+msgstr ""
+"Bring Taco Pile to the\n"
+"guard at Jump Camp. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "269"
+msgid "名もない男のたのみを聞く"
+msgstr "Listen to the nameless man"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "270"
+msgid ""
+"サイドウェイにいる\n"
+"名もない男のたのみを聞けば\n"
+"スゴいバイクを\n"
+"ゆずってくれるという。"
+msgstr ""
+"There's an nameless man in\n"
+"Sideway that will give you an\n"
+"awesome motorcycle if you help\n"
+"him out."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "271"
+msgid "スピードキングをたおす"
+msgstr "Defeat Speed King"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "272"
+msgid ""
+"スゴいバイクを手に入れるため\n"
+"スピードキングをたおす。"
+msgstr ""
+"To get the awesome bike you have\n"
+"to defeat Speed King."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "273"
+msgid "名もない男に報告する"
+msgstr "Report to the nameless man"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "274"
+msgid ""
+"スピードキングを倒したことを\n"
+"サイドウェイの男に報告する。"
+msgstr ""
+"Tell the nameless man that\n"
+"you've defeated the Speed King."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "275"
+msgid "プエルト・モリへ行く"
+msgstr "Go to Puerto Mori"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "276"
+msgid ""
+"プエルト・モリの\n"
+"レンタルタンク屋に行って\n"
+"スゴいバイクを受け取る。"
+msgstr ""
+"Go to the tank rental store in\n"
+"Puerto Mori to receive your\n"
+"awesome new bike."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "277"
+msgid "ドーム内に入る"
+msgstr "Enter the dome"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "278"
+msgid ""
+"トレーダーの飼い犬、\n"
+"シルフィードがドゥーム球場の\n"
+"内部に入ってしまったという。"
+msgstr ""
+"The traders' pet dog, Sylphid,\n"
+"got lost inside the\n"
+"Doom Stadium."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "279"
+msgid "ロープの材料集め"
+msgstr "Collect rope parts"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "280"
+msgid ""
+"ロープの材料をさがしている\n"
+"球場内のトレーダーに、\n"
+"材料になりそうな\n"
+"布製のアイテムをわたす。"
+msgstr ""
+"A trader on top of the stadium is\n"
+"looking for parts to make a rope.\n"
+"Give him a cloth item to use for it."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "281"
+msgid "犬をさがす"
+msgstr "Find the dog"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "282"
+msgid ""
+"ドゥーム球場の内部で\n"
+"シルフィードを発見する。"
+msgstr ""
+"Find Sylphid inside the\n"
+"Doom Stadium."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "283"
+msgid "タンスゴンをたおす"
+msgstr "Defeat the War Drobe"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "284"
+msgid ""
+"シルフィードを助けるため\n"
+"ドゥーム球場でタンスゴンを倒す。"
+msgstr ""
+"Defeat the War Drobe in the\n"
+"Doom Stadium to rescue Sylphid."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "285"
+msgid "シャッターをあける"
+msgstr "Open the Shutter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "286"
+msgid ""
+"ドゥーム球場の中でレバーを操作し\n"
+"入り口のシャッターを開ける。"
+msgstr ""
+"Use the lever in the Doom Stadium\n"
+"to open the shutter blocking\n"
+"the entrance."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "287"
+msgid "トレーダーに報告する"
+msgstr "Report to the trader"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "288"
+msgid ""
+"シルフィードを助け、\n"
+"進路を確保したことを\n"
+"球場の前にいるトレーダーに報告する。"
+msgstr ""
+"Tell the trader in front of the\n"
+"stadium that you secured the route\n"
+"to rescue Sylphid."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "289"
+msgid "ピッチャーを倒す"
+msgstr "Defeat the pitcher"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "290"
+msgid ""
+"ドゥーム球場内のマウンドに現れた\n"
+"ゾンビを倒す。"
+msgstr ""
+"Defeat the zombie on the\n"
+"pitcher's mound inside the\n"
+"Doom Stadium."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "291"
+msgid "キャッチャーを倒す"
+msgstr "Defeat the catcher"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "292"
+msgid ""
+"ドゥーム球場内のグラウンドで\n"
+"キャッチャーを守っている\n"
+"ゾンビを倒す。"
+msgstr ""
+"Defeat the zombie protecting the\n"
+"catcher's box inside the\n"
+"Doom Stadium."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "293"
+msgid "ファーストを倒す"
+msgstr "Defeat the first baseman"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "294"
+msgid ""
+"ドゥーム球場内のグラウンドで\n"
+"ファーストを守っている\n"
+"ゾンビを倒す。"
+msgstr ""
+"Defeat the zombie protecting\n"
+"first base inside the\n"
+"Doom Stadium."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "295"
+msgid "セカンドを倒す"
+msgstr "Defeat the second baseman"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "296"
+msgid ""
+"ドゥーム球場内のグラウンドで\n"
+"セカンドを守っている\n"
+"ゾンビを倒す。"
+msgstr ""
+"Defeat the zombie protecting\n"
+"second base inside the\n"
+"Doom Stadium."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "297"
+msgid "サードを倒す"
+msgstr "Defeat the third baseman"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "298"
+msgid ""
+"ドゥーム球場内のグラウンドで\n"
+"サードを守っている\n"
+"ゾンビを倒す。"
+msgstr ""
+"Defeat the zombie protecting\n"
+"third base inside the\n"
+"Doom Stadium."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "299"
+msgid "ショートを倒す"
+msgstr "Defeat the shortstop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "300"
+msgid ""
+"ドゥーム球場内のグラウンドで\n"
+"ショートを守っている\n"
+"ゾンビを倒す。"
+msgstr ""
+"Defeat the zombie between\n"
+"second and third base inside the\n"
+"Doom Stadium."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "301"
+msgid "レフトを倒す"
+msgstr "Defeat the left fielder"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "302"
+msgid ""
+"ドゥーム球場内のグラウンドで\n"
+"レフトを守っている\n"
+"ゾンビを倒す。"
+msgstr ""
+"Defeat the zombie protecting\n"
+"left field inside the\n"
+"Doom Stadium."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "303"
+msgid "センターを倒す"
+msgstr "Defeat the center fielder"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "304"
+msgid ""
+"ドゥーム球場内のグラウンドで\n"
+"センターを守っている\n"
+"ゾンビを倒す。"
+msgstr ""
+"Defeat the zombie protecting\n"
+"center field inside the\n"
+"Doom Stadium."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "305"
+msgid "ライトを倒す"
+msgstr "Defeat the right fielder"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "306"
+msgid ""
+"ドゥーム球場内のグラウンドで\n"
+"ライトを守っている\n"
+"ゾンビを倒す。"
+msgstr ""
+"Defeat the zombie protecting\n"
+"right field inside the\n"
+"Doom Stadium."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "307"
+msgid "バッターを倒す"
+msgstr "Defeat the batter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "308"
+msgid ""
+"ドゥーム球場内の\n"
+"バッターボックスに立っている\n"
+"ゾンビを倒す。"
+msgstr ""
+"Defeat the zombie standing in\n"
+"the batter's box inside the\n"
+"Doom Stadium."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "309"
+msgid ""
+"ドゥーム球場内の\n"
+"ゾンビを全て退治したことを\n"
+"依頼人に報告する。"
+msgstr ""
+"Report to the requester that\n"
+"all of the zombies inside the\n"
+"Doom Stadium have been\n"
+"exterminated."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "310"
+msgid "たき木を集める"
+msgstr "Gather wood"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "311"
+msgid ""
+"クラウドゴンは熱のエネルギーに\n"
+"反応し、寄ってくる習性があるらしい。\n"
+"\n"
+"極楽谷でたき木になる木材を集め、\n"
+"グラウンドにいる依頼人に渡せば、\n"
+"たき火を起こしてくれるという。"
+msgstr ""
+"Cloudgon reactes to heat energy\n"
+"and tends to be drawn by it.\n"
+"\n"
+"Gather Odd Dry Wood\n"
+"in Paradise Valley\n"
+"and give it to the requester\n"
+"in the Stadium Ground\n"
+"to start a bonfire."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "312"
+msgid "クラウドゴンを閉じ込める"
+msgstr "Trap Cloudgon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "313"
+msgid ""
+"たき火でおびき寄せた\n"
+"クラウドゴンが逃げられないように\n"
+"コンピュータ端末を操作し\n"
+"ドゥーム球場の屋根を閉じる。"
+msgstr ""
+"Control the computer\n"
+"in Doom Stadium to close the dome\n"
+"to trap Cloudgon, lured in by\n"
+"the bonfire."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "314"
+msgid "クラウドゴンを倒す"
+msgstr "Defeat Cloudgon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "315"
+msgid ""
+"ドゥーム球場の屋根を閉じ、\n"
+"退路をふさいだ上で\n"
+"クラウドゴンと戦い、倒す。"
+msgstr ""
+"Now that Cloudgon can't escape,\n"
+"go and battle it."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "316"
+msgid ""
+"クラウドゴンを撃破したことを\n"
+"グラウンドの依頼人に報告する。"
+msgstr ""
+"Report to the requester\n"
+"that you defeated Cloudgon."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "317"
+msgid "畑の草をぬく"
+msgstr "Pull the weeds in the field"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "318"
+msgid ""
+"コーラの手伝いをするため\n"
+"カスミの農場の畑に生えた草を\n"
+"一本残らずぬく。"
+msgstr ""
+"Help Cola and pull out all the\n"
+"weeds in Kasumi's field without\n"
+"leaving a single one."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "319"
+msgid "コーラに知らせる"
+msgstr "Tell Cola"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "320"
+msgid ""
+"畑の草ぬきが終わったことを\n"
+"コーラに知らせる。"
+msgstr ""
+"Tell Cola that the weed pulling\n"
+"is done."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "321"
+msgid "カスミに話をきく"
+msgstr "Talk to Kasumi"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "322"
+msgid ""
+"台所のカスミから、\n"
+"水くみにつかうオケが\n"
+"どれなのかを教えてもらう。"
+msgstr ""
+"Talk to Kasumi in the kitchen\n"
+"and find out which bucket to use\n"
+"to draw water. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "323"
+msgid "オケに水をくむ"
+msgstr "Draw water in the bucket"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "324"
+msgid ""
+"カスミから受け取ったオケに\n"
+"泉の水をくんでくる。"
+msgstr ""
+"Use the bucket from Kasumi to\n"
+"draw water from the spring."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "325"
+msgid "カスミに知らせる"
+msgstr "Tell Kasumi"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "326"
+msgid ""
+"泉の水をくんできたことを\n"
+"台所のカスミに知らせる。"
+msgstr ""
+"Let Kasumi in the kitchen know\n"
+"the water is drawn. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "327"
+msgid ""
+"水くみが終わったことを\n"
+"コーラに知らせる。"
+msgstr ""
+"Let Cola know the water drawing\n"
+"is done. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "328"
+msgid "ふたつのドラム缶を運ぶ"
+msgstr "Haul the two drum cans"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "329"
+msgid ""
+"カスミの家、畑の近くにある\n"
+"二つのドラム缶を、\n"
+"家の反対側にあるドラム缶の\n"
+"近くまで押して運ぶ。"
+msgstr ""
+"Push the two drum cans near\n"
+"Kasumi's field to the other\n"
+"side of the house with the\n"
+"others. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "330"
+msgid ""
+"ドラム缶を運び終えたことを\n"
+"コーラに知らせる。"
+msgstr ""
+"Let Cola know the barrel hauling\n"
+"is done. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "331"
+msgid "しるしのついた地面を掘る"
+msgstr "Dig in the marked spot"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "332"
+msgid ""
+"コーラがしるしをつけた\n"
+"地面をしらべ、そこを掘る。"
+msgstr ""
+"Find and dig up the spot that\n"
+"Cola marked on the ground. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "333"
+msgid "コーラにしらせる"
+msgstr "Let Cola know"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "334"
+msgid ""
+"しるしのついた場所を\n"
+"掘り終わったことをコーラに知らせる。"
+msgstr ""
+"Let Cola know that the digging\n"
+"is done. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "335"
+msgid "ドラム缶を運ぶ"
+msgstr "Haul the drum can"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "336"
+msgid ""
+"コーラの指示に従い\n"
+"ドラム缶を押して運ぶ。"
+msgstr ""
+"Follow Cola's instructions and\n"
+"push the drum can. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "337"
+msgid "北西の温室をさがす"
+msgstr "Search the NW greenhouse"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "338"
+msgid ""
+"ワナナバニ研究所の\n"
+"コントロールルームの\n"
+"カギを持ったキーマンがいないか\n"
+"北西の温室をさがしてみる。"
+msgstr ""
+"Search the NW greenhouse\n"
+"of Wananabani Lab for Keyman,\n"
+"who has the control room's key."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "339"
+msgid "北東の温室をさがす"
+msgstr "Search the NE greenhouse"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "340"
+msgid ""
+"ワナナバニ研究所の\n"
+"コントロールルームの\n"
+"カギを持ったキーマンがいないか\n"
+"北東の温室をさがしてみる。"
+msgstr ""
+"Search the NE greenhouse\n"
+"of Wananabani Lab for Keyman,\n"
+"who has the control room's key."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "341"
+msgid "南西の温室をさがす"
+msgstr "Search the SW greenhouse"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "342"
+msgid ""
+"ワナナバニ研究所の\n"
+"コントロールルームの\n"
+"カギを持ったキーマンがいないか\n"
+"南西の温室をさがしてみる。"
+msgstr ""
+"Search the SW greenhouse\n"
+"of Wananabani Lab for Keyman,\n"
+"who has the control room's key."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "343"
+msgid "南西の温室の屋上をさがす"
+msgstr "Search the SW greenhouse roof"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "344"
+msgid ""
+"ワナナバニ研究所の\n"
+"コントロールルームの\n"
+"カギを持ったキーマンがいないか\n"
+"南西の温室の屋上をさがしてみる。"
+msgstr ""
+"Search the SW greenhouse roof\n"
+"of Wananabani Lab for Keyman,\n"
+"who has the control room's key."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "345"
+msgid "北の通路をさがす"
+msgstr "Search the northern corridor"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "346"
+msgid ""
+"ワナナバニ研究所の\n"
+"コントロールルームの\n"
+"カギを持ったキーマンがいないか\n"
+"北の通路をさがしてみる。"
+msgstr ""
+"Search the northern corridor\n"
+"of Wananabani Lab for Keyman,\n"
+"who has the control room's key."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "347"
+msgid "キーマンをみつけた"
+msgstr "You found Keyman"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "348"
+msgid ""
+"ワナナバニ研究所の\n"
+"コントロールルームの\n"
+"カギを持ったキーマンを発見した。"
+msgstr ""
+"You found Keyman,\n"
+"who has the key of\n"
+"the Wananabi control room."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "349"
+msgid "コントロールルームを開ける"
+msgstr "Open the control room"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "350"
+msgid ""
+"ワナナバニ研究所の\n"
+"コントロールルームの扉を\n"
+"開ける。"
+msgstr ""
+"Open up the Wananabi Lab's\n"
+"control rom."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "351"
+msgid "ドール博士をさがす"
+msgstr "Find Doctor Doll"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "352"
+msgid ""
+"どこかのドールハウスにいる\n"
+"ドール博士をさがす。\n"
+"\n"
+"iゴーグルのデータ送信ログの送信者に\n"
+"「ディノヒウス」と記載されている。"
+msgstr ""
+"Find Doctor Doll in a Dollhouse\n"
+"somewhere.\n"
+"\n"
+"The word \"Dinohyus\" is written\n"
+"in the iGoggles' data log."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "353"
+msgid "×チューブをさがす"
+msgstr "Find a ×Tube"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "354"
+msgid ""
+"自分が極楽谷の北にある\n"
+"ドールハウスのご主人様であることを\n"
+"証明するため、×チューブをさがす。"
+msgstr ""
+"Find a ×Tube to prove that\n"
+"you're the Master of the Dollhouse\n"
+"north of Paradise Valley."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "355"
+msgid "ハートチューブをさがす"
+msgstr "Find a Heart tube"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "356"
+msgid ""
+"自分が極楽谷の北にある\n"
+"ドールハウスのご主人様であることを\n"
+"証明するため、ハートチューブをさがす。"
+msgstr ""
+"Find a Heart tube to prove that\n"
+"you're the Master of the Dollhouse\n"
+"north of Paradise Valley."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "357"
+msgid "２つのチューブをセットする"
+msgstr "Set both tubes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "358"
+msgid ""
+"右目にＸチューブ、\n"
+"左目にハートチューブを\n"
+"量子ドールに組み込む。"
+msgstr ""
+"Insert the ×Tube into the right eye\n"
+"and the Heart tube into the left eye\n"
+"of the Quantum Doll."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "359"
+msgid "ご主人様と証明する"
+msgstr "Prove that you're Master"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "360"
+msgid ""
+"二つのチューブを組み込んだ\n"
+"量子ドールを\n"
+"極楽谷の北にある\n"
+"ドールハウスに持って行き\n"
+"自分がご主人様だと証明する。"
+msgstr ""
+"Bring the Quantum Doll with both\n"
+"tubes inserted to the Dollhouse\n"
+"north of Paradise Valley to prove\n"
+"that you're its Master."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "361"
+msgid "ビーカップの宿屋の女主人に会う"
+msgstr "Meet the Beacap innkeeper"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "362"
+msgid "ビーカップで宿屋の女主人に会う。"
+msgstr ""
+"Meet with the woman who runs\n"
+"the inn in Beacap."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "363"
+msgid "死んだ客の荷物をあずかる"
+msgstr "Get dead customer's package"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "364"
+msgid ""
+"ビーカップの宿屋で死んだ客の\n"
+"荷物をあずかる。"
+msgstr ""
+"Take custody of the package that\n"
+"belonged to the customer of\n"
+"the Beacap Inn who died."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "365"
+msgid "あずかったものをネイサンにわたす"
+msgstr "Give the package to Nathan"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "366"
+msgid ""
+"あずかったものを、\n"
+"ヌッカの酒場にいるネイサンにわたす。"
+msgstr ""
+"Give the package you recieved\n"
+"to Nathan, in Nukka's Bar."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "367"
+msgid "ワナナバニ研究所で依頼内容を聞く"
+msgstr "Listen to the details of the job at Wananabi Lab"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "368"
+msgid ""
+"ワナナバニ研究所の研究員と会い、\n"
+"依頼の内容について聞く。"
+msgstr ""
+"Meet with the researchers\n"
+"of the Wananabi Lab and\n"
+"get told the job details"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "369"
+msgid "ナマリタケを研究所に持って行く"
+msgstr "Bring the Namaritake to Wananabi Lab"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "370"
+msgid ""
+"ナマリタケが生えたクルマに乗って、\n"
+"ワナナバニ研究所にもどる。"
+msgstr ""
+"Ride a vehicle infested with Namaritake\n"
+"to the Wananabi Lab"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "371"
+msgid "もっとナマリタケを持って行く"
+msgstr "Bring more Namaritake"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "372"
+msgid ""
+"もっとナマリタケを生やして、\n"
+"ワナナバニ研究所にもどる。"
+msgstr ""
+"Grow more Namaritake\n"
+"and bring it to the Wananabi Lab"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "373"
+msgid "さらにナマリタケを持って行く"
+msgstr "Bring even more Namaritake"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "374"
+msgid ""
+"もっともっとナマリタケを生やして、\n"
+"ワナナバニ研究所にもどる。"
+msgstr ""
+"Grow even more Namaritake\n"
+"and bring it to the Wananabi Lab"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "375"
+msgid "ラスティメイデンのアーチストに会う"
+msgstr "Meet the Rusty Maiden artist"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "376"
+msgid ""
+"ラスティメイデンのアーチストに会い、\n"
+"依頼の内容について聞く。"
+msgstr ""
+"Meet the Rusty Maiden artist\n"
+"and listen to her request. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "377"
+msgid "りゅう弾の傑作を１発持ち帰る"
+msgstr "Bring a masterwork Explode Shell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "378"
+msgid ""
+"大破壊以前に建造された砲台\n"
+"「グレートキャノン」から\n"
+"りゅう弾の傑作を１発持ち帰る。"
+msgstr ""
+"Bring a masterwork Explode Shell\n"
+"from the Great Cannon which was\n"
+"built before the \"Great Destruction\". "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "379"
+msgid "てっこう弾の傑作を１発持ち帰る"
+msgstr "Bring a masterwork Pierce Shell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "380"
+msgid ""
+"大破壊以前に建造された砲台\n"
+"「グレートキャノン」から\n"
+"てっこう弾の傑作を１発持ち帰る。"
+msgstr ""
+"Bring a masterwork Pierce Shell from\n"
+"the Great Cannon which was built\n"
+"before the \"Great Destruction\". "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "381"
+msgid "両方の傑作をわたした"
+msgstr "Passed both shells"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "382"
+msgid ""
+"うつくしい（？）アーチストに\n"
+"依頼された二種類の特殊砲弾を\n"
+"わたした。"
+msgstr ""
+"Passed both types of shells to\n"
+"the beautiful(?) artist. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "383"
+msgid "テッペンタウンにいる依頼人に会う"
+msgstr "Meet the client at Top Town"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "384"
+msgid ""
+"テッペンタウンにいるトレーダー会い\n"
+"依頼の内容を聞く。"
+msgstr ""
+"Go meet the Trader at Top Town\n"
+"to know the details of the job"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "385"
+msgid "キャンプに出現するアリを全滅させる"
+msgstr "Annihilate the ants in the camp"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "386"
+msgid ""
+"テッペンタウン南西の高台にある\n"
+"トレーダーキャンプに出現する\n"
+"アリを全滅させる。"
+msgstr ""
+"Annihilate the ants\n"
+"at the trader camp\n"
+"on the plateau SE of Top Town"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "387"
+msgid "トレーダーから報酬を受けとる"
+msgstr "Receive the reward from the Trader"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "388"
+msgid "依頼人のトレーダーから報酬を受けとる。"
+msgstr "Receive the reward from the Trader, the requester"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "389"
+msgid "テッペンタウンでおだいじんする"
+msgstr "Treat at Top Town"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "390"
+msgid ""
+"テッペンタウンの酒場で\n"
+"おだいじんをし、依頼人から話を聞く。\n"
+"\n"
+"かなりの大判ぶるまいをしないと\n"
+"依頼人は話をする気には\n"
+"ならないようだ。"
+msgstr ""
+"Treat at the Top Town Bar and\n"
+"listen to the client's tale.\n"
+"\n"
+"Unless you treat a lot of people,\n"
+"the client won't come talk to you."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "391"
+msgid "依頼人のロドリゴから話を聞く"
+msgstr "Listen to Rodrigo's tale"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "392"
+msgid ""
+"テッペンタウンの酒場で、ロドリゴから\n"
+"依頼の内容について話を聞く。"
+msgstr ""
+"Listen to the job details\n"
+"from Rodrigo in Top Town."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "393"
+msgid "デスベガスで、１０００Ｇ稼ぐ"
+msgstr "Get 1000G in Death Vegas"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "394"
+msgid ""
+"ハラヘリ砂漠の最北西にある\n"
+"デスベガスという場所でゲームをし、\n"
+"台を替えずに１０００Ｇ稼ぐ。"
+msgstr ""
+"Get 1000G in the Death Vegas\n"
+"to the utomost NW of Hunger Desert\n"
+"without switching machines."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "395"
+msgid "亡霊ギャンブラーをたおす"
+msgstr "Defeat the Ghost Gambler"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "396"
+msgid ""
+"デスベガスで多くのプレイヤーを\n"
+"おそってきたという\n"
+"亡霊ギャンブラーをたおす。"
+msgstr ""
+"Defeat the Ghost Gambler\n"
+"that attacked many players\n"
+"in Death Vegas."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "397"
+msgid "ロドリゴに取り分をわたす"
+msgstr "Give Rodrigo his portion"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "398"
+msgid ""
+"亡霊ギャンブラーから取り返した金の、\n"
+"ロドリゴの取り分をわたす。"
+msgstr ""
+"Give Rodrigo his portion\n"
+"from the money you got\n"
+"from the Ghost Gambler."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "399"
+msgid "ロドリゴの取り分を横取りする"
+msgstr "Steal Rodrigo's portion"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "400"
+msgid "ホホアナのガントーニから事情を聞く"
+msgstr "Talk to Ganthony in Hohohole"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "401"
+msgid ""
+"ホホアナのガントーニに\n"
+"依頼の内容について聞く。"
+msgstr ""
+"Ask Ganthony in Hohohole about\n"
+"the request. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "402"
+msgid "凶暴ウリ坊をたおす"
+msgstr "Defeat the wild baby boar"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "403"
+msgid ""
+"樹界で、ガントーニが育てたという\n"
+"「凶暴ウリ坊」をたおす。"
+msgstr ""
+"Defeat the \"wild baby boar\",\n"
+"that Ganthony raised, in the\n"
+"Wildwood. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "404"
+msgid "ホホアナのガントーニに報告する"
+msgstr "Report to Ganthony in Hohohole"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "405"
+msgid ""
+"「凶暴ウリ坊」をたおしたことを\n"
+"ホホアナのガントーニに報告する。"
+msgstr ""
+"Tell Ganthony that you defeated\n"
+"the \"wild baby boar\". "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "406"
+msgid "クルマに乗って、マットに会いに行く"
+msgstr "Ride in a vehicle and go meet Matt"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "407"
+msgid ""
+"戦車に乗って、\n"
+"イービル不動産のマットに会いに行く。"
+msgstr ""
+"Take a tank with you\n"
+"and go meet Matt at Evil Estate."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "408"
+msgid "がらくたをトレーダーに売ってくる"
+msgstr "Sell the junk to the Trader"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "409"
+msgid ""
+"マットから受け取ったがらくたを\n"
+"砂漠のトレーダーに売ってくる。"
+msgstr ""
+"Sell the junk Matt gave you\n"
+"to the Trader in the desert."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "410"
+msgid "売り上げをマットにわたす"
+msgstr "Give the earnt money to Matt"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "411"
+msgid ""
+"がらくたを売って手に入れた\n"
+"金の半額をマットにわたす。"
+msgstr ""
+"Give half of the money\n"
+"you got from selling the junk\n"
+"to Matt."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "412"
+msgid "マットに会って、話を聞く"
+msgstr "Meet with Matt and listen to him"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "413"
+msgid ""
+"イービル不動産のマットに会い\n"
+"依頼の話を聞く。"
+msgstr ""
+"Go to Evil Estate to meet Matt\n"
+"and listen to the contents\n"
+"of the job."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "414"
+msgid "エンジン改造屋をさがす"
+msgstr "Search for an Engine Modder"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "415"
+msgid ""
+"イービル不動産で働いてくれそうな\n"
+"エンジン改造屋をさがしてくる。\n"
+"\n"
+"どこかの町に、\n"
+"地下のモンスターを恐れるあまり\n"
+"別の場所にうつりたいと思っている\n"
+"エンジン改造屋がいるかもしれない。"
+msgstr ""
+"Search for an Engine Modder\n"
+"that might want to work\n"
+"at Evil Estate.\n"
+"\n"
+"There might be one at a city\n"
+"somewhere who might want\n"
+"to leave due to their fear\n"
+"of underground Monsters."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "416"
+msgid "エンジン改造屋を連れて行く"
+msgstr "Bring the Engine Modder "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "417"
+msgid ""
+"イービル不動産のマットに\n"
+"エンジン改造屋が\n"
+"見つかったことを報告する。"
+msgstr ""
+"Report to Matt in Evil Estate\n"
+"that you found an Engine Modder."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "418"
+msgid "パーツ改造屋をさがす"
+msgstr "Search for a Parts Modder"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "419"
+msgid ""
+"イービル不動産で働いてくれそうな\n"
+"パーツ改造屋をさがしてくる。\n"
+"\n"
+"どこかの町に\n"
+"ボロボロになったビルの中から\n"
+"別の場所に移りたいと思っている\n"
+"パーツ改造屋がいるかもしれない。"
+msgstr ""
+"Search for an Parts Modder\n"
+"that might want to work\n"
+"at Evil Estate.\n"
+"\n"
+"There might be one\n"
+"at a word down building somewhere\n"
+"who might want to leave."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "420"
+msgid "パーツ改造屋を連れて行く"
+msgstr "Bring the Parts Modder"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "421"
+msgid ""
+"イービル不動産のマットに\n"
+"パーツ改造屋が\n"
+"見つかったことを報告する。"
+msgstr ""
+"Report to Matt in Evil Estate\n"
+"that you found a Parts Modder."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "422"
+msgid "シャシー改造屋をさがす"
+msgstr "Search for a Chassis Modder"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "423"
+msgid ""
+"イービル不動産で働いてくれそうな\n"
+"シャシー改造屋をさがしてくる。\n"
+"\n"
+"どこかに、クランに町をのっとられ、\n"
+"設備と仕事をもうばわれてしまった\n"
+"シャシー改造屋がいるかもしれない。"
+msgstr ""
+"Search for an Chassis Modder\n"
+"that might want to work\n"
+"at Evil Estate.\n"
+"\n"
+"There might be one\n"
+"in a city taken over by the Clan\n"
+"and whose equipment job\n"
+"were stolen from them. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "424"
+msgid "シャシー改造屋を連れて行く"
+msgstr "Bring the Chassis Modder"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "425"
+msgid ""
+"イービル不動産のマットに\n"
+"シャシー改造屋が\n"
+"見つかったことを報告する。"
+msgstr ""
+"Report to Matt in Evil Estate\n"
+"that you found a Chassing Modder."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "426"
+msgid "イービル不動産のエリカに会う"
+msgstr "Go meet Erika at the Evil Estate"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "427"
+msgid ""
+"イービル不動産のエリカに会い\n"
+"何を集めてほしいのかを聞く。"
+msgstr ""
+"Go meet Erika at the Evil Estate\n"
+"and ask what she wants\n"
+"you to gather."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "428"
+msgid "変わった木を集めて、エリカに届ける"
+msgstr "Gather odd wood"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "429"
+msgid ""
+"斬新なインテリアの材料として、\n"
+"極楽谷で拾える「変わった枯れ木」を\n"
+"２０本集め、エリカに届ける。"
+msgstr ""
+"Gather 20 pieces of\n"
+"\"Odd dried wood\"\n"
+"in the Paradise Valley\n"
+"and bring to Erika to make\n"
+"innovative interior furniture."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "430"
+msgid "さらに４０本集めて、エリカに届ける"
+msgstr "Gather another 40 pieces"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "431"
+msgid ""
+"「変わった枯れ木」を\n"
+"さらに４０本集め、エリカに届ける。"
+msgstr ""
+"Gather another 40 pieces\n"
+"of \"Odd dried wood\"\n"
+"and bring them to Erika."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "432"
+msgid ""
+"イービル不動産のマットに会い、\n"
+"依頼の話を聞く。"
+msgstr ""
+"Go meet Matt at Evil Estate\n"
+"and listen to the job's contents."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "433"
+msgid "アーチストをさがす"
+msgstr "Search for an Artist"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "434"
+msgid ""
+"イービル不動産で\n"
+"特殊砲弾を作ってくれる\n"
+"アーチストをさがしてくる。\n"
+"\n"
+"ラスティメイデンには\n"
+"ゲージツ的な死んだフリを\n"
+"見せてくれたアーチストがいた。\n"
+"\n"
+"その他の町でもアーチストを\n"
+"見つけることができる。"
+msgstr ""
+"The Evil Estate is searching\n"
+"for an Arist that can make\n"
+"Special Shells\n"
+"\n"
+"There was an Artist\n"
+"at Rusty Maiden that showed you\n"
+"an excellent \"play dead\".\n"
+"\n"
+"You can also find one\n"
+"in other cities."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "435"
+msgid "アーチストを連れて行く"
+msgstr "Bring the Artist"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "436"
+msgid ""
+"アーチストを連れて来たことを\n"
+"イービル不動産のマットに報告する。"
+msgstr ""
+"Report to Matt in Evil Estate\n"
+"that you brought the Artist."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "437"
+msgid ""
+"イービル不動産のエリカに会い、\n"
+"どんな人をさがしてほしいのかを聞く。"
+msgstr ""
+"Go meet Erika in Evil Estate\n"
+"and ask her what kind of person\n"
+"she's searching for."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "438"
+msgid "プラチナスプレーを老人にわたす"
+msgstr "Give the Platinum Spray to the old man"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "439"
+msgid ""
+"プラチナスプレーを入手し、\n"
+"エルルースの地下にいる老人にわたす。"
+msgstr ""
+"Get the Platinum Spray\n"
+"and give it to the old man\n"
+"in the undergound of Elurus."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "440"
+msgid "伝説のペイント屋をさがす"
+msgstr "Search for the legendary Painter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "441"
+msgid ""
+"かつてエルルースの地下にいたという\n"
+"伝説のペイント屋をさがしだす。"
+msgstr ""
+"Search for the legendary Painter\n"
+"said to have been in the\n"
+"underground of Elurus."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "442"
+msgid "キラキラのクルマをエリカにみせる"
+msgstr "Show Erika a sparkling vehicle"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "443"
+msgid ""
+"キラキラにペイントされた\n"
+"戦車に乗ってエリカに会いに行く。"
+msgstr ""
+"Ride a tank painted in sparkling\n"
+"paint and go meet Erika."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "444"
+msgid "トレーダーのキャロルの話を聞く"
+msgstr "Meet the trader Carol"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "445"
+msgid ""
+"ジャンプキャンプの南西にある\n"
+"湖が干上がってできた\n"
+"草原地帯のトレーダー、\n"
+"キャロルに会い依頼のことを聞く。"
+msgstr ""
+"Go meet Carol, the Trader\n"
+"in the grassland of\n"
+"the dried lake Surth West\n"
+"of Jump Camp, and listen to\n"
+"what she says to say. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "446"
+msgid "キャロルから古い手紙をあずかる"
+msgstr "Get the old letter from Carol"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "447"
+msgid "キャロルから古い手紙をあずかる。"
+msgstr "Get the old letter from Carol."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "448"
+msgid "手紙を消えた婚約者にとどける"
+msgstr "Bring the letter to the missing fiance"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "449"
+msgid ""
+"あずかった手紙のたばを、\n"
+"かつて姿を消したという\n"
+"キャロルの婚約者にとどける。"
+msgstr ""
+"Bring the heap of letters\n"
+"to Carol's missing fiance."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "450"
+msgid "戦車に乗って、ホレイショに会いに行く"
+msgstr "Talk to Horatio while in a tank"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "451"
+msgid ""
+"戦車に乗って、\n"
+"ホホアナの町のホレイショという\n"
+"男に会いに行く。"
+msgstr ""
+"Talk to a man called Horatio\n"
+"in Hohohole while in a tank. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "452"
+msgid "ホレイショに頼まれたカベをこわす"
+msgstr "Break the wall for Horatio"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "453"
+msgid ""
+"ホレイショのたのみを聞いて\n"
+"ほら穴の中の壁を破壊する。"
+msgstr ""
+"Destroy the wall for Horatio\n"
+"inside the cave. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "454"
+msgid "ホホアナで老人に会う"
+msgstr "Meet the old man in Hohohole"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "455"
+msgid ""
+"ホホアナでいつも墓の前にいるという\n"
+"老人に会って話を聞く。"
+msgstr ""
+"Talk to the old man that's\n"
+"always standing in-front of\n"
+"the grave. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "456"
+msgid "ホームランボールをさがしてくる"
+msgstr "Search for the home run ball"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "457"
+msgid ""
+"ビーカップのはるか東にある\n"
+"ドゥーム球場の屋根で\n"
+"大破壊の前に\n"
+"ニセンイチローが打ったという\n"
+"ホームランボールをさがしてくる。"
+msgstr ""
+"Go far east of Beacap and find\n"
+"the home run ball hit by 2,000\n"
+"Ichiro on top of the baseball\n"
+"dome's roof. "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "458"
+msgid "ホアキンに会って話を聞く"
+msgstr "Meet with Joaquin"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "459"
+msgid ""
+"ワラの町の入り口付近にいる\n"
+"ホアキンに会って話を聞く。"
+msgstr ""
+"Meet and talk with Joaquin\n"
+"near the entrance to Wara."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "460"
+msgid "荷物をホアキンから受けとる"
+msgstr "Recieve package from Joaquin"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "461"
+msgid ""
+"ホアキンから、シエルタまで\n"
+"運んでほしいという荷物を受け取る。"
+msgstr ""
+"Get the package to take\n"
+"to Shelter from Joaquin."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "462"
+msgid "荷物をシエルタに運ぶ"
+msgstr "Take package to Shelter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "463"
+msgid ""
+"ホアキンから受け取った荷物を\n"
+"シエルタのドックの前にいる男に渡す。"
+msgstr ""
+"Give the package you got\n"
+"from Joaquin to the man\n"
+"in front of the garage\n"
+"in Shelter."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "464"
+msgid "プエルト・モリで女の子の話を聞く"
+msgstr "Listen the girl at Pueto Mori entrance"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "465"
+msgid ""
+"プエルト・モリの入り口付近に\n"
+"立っている、女の子の話を聞く。"
+msgstr ""
+"Listen to what the girl standing\n"
+"near the Puerto Mori entrance\n"
+"has to say."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "466"
+msgid "大きなペットボトルを買う"
+msgstr "Buy a big pet bottle"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "467"
+msgid ""
+"崖っぷち海岸のヘンテコリンな店で、\n"
+"大きなペットボトルを買う。"
+msgstr ""
+"Buy a big pet bottle from\n"
+"the odd store at the Cliff Beach."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "468"
+msgid "大きなペットボトルを女の子にわたす"
+msgstr "Give the big pet bottle to the girl"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "469"
+msgid ""
+"大きなペットボトルを\n"
+"プエルト・モリの入り口付近に\n"
+"立っている、女の子にわたす。"
+msgstr ""
+"Give the big pet bottle to the girl\n"
+"standing near the Puerto Mori\n"
+"entrance."

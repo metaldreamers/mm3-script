@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 21/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type2\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "0"
+msgid "<!empty>"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1"
+msgid "チョッパーカーキ"
+msgstr "Chopper Khaki"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "2"
+msgid "ハッピーイエロー"
+msgstr "Happy Yellow"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "3"
+msgid "レッド"
+msgstr "Red"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "4"
+msgid "ブラック"
+msgstr "Black"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "5"
+msgid "ファイアアート"
+msgstr "FireArt"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "6"
+msgid "ラブリー"
+msgstr "Lovely"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "7"
+msgid "ゴールド"
+msgstr "Gold"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "8"
+msgid "プラチナ"
+msgstr "Platinum"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "9"
+msgid "ブルー"
+msgstr "Blue"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "10"
+msgid "ポリスホワイト"
+msgstr "Police White"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "11"
+msgid "メタルレッド"
+msgstr "Metal Red"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "12"
+msgid "メタルブルー"
+msgstr "Metal Blue"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "13"
+msgid "メタルブラック"
+msgstr "Metal Black"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "14"
+msgid "パープル"
+msgstr "Purple"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "15"
+msgid "ブルームーン"
+msgstr "Blue Moon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "16"
+msgid "ライトグリーン"
+msgstr "Light Green"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "17"
+msgid "オレンジ"
+msgstr "Orange"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "18"
+msgid "アメリカン"
+msgstr "American"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "19"
+msgid "メタルブラウン"
+msgstr "Metal Brown"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "20"
+msgid "ウォーグレー"
+msgstr "War Grey"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "21"
+msgid "デザートイエロー"
+msgstr "Desert Yellow"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "22"
+msgid "ジャングル迷彩"
+msgstr "Jungle Camouflage"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "23"
+msgid "スノー迷彩"
+msgstr "Snow Camouflage"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "24"
+msgid "パイレーツブラック"
+msgstr "Pirate Black"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "25"
+msgid "モスグリーン"
+msgstr "Moss Green"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "26"
+msgid "ウルフレッド"
+msgstr "Red Wolf"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "27"
+msgid "デザート迷彩"
+msgstr "Desert Camouflage"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "28"
+msgid "シーブルー"
+msgstr "SeaBlue"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "29"
+msgid "サンダーレッド"
+msgstr "Thunder Red"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "30"
+msgid "ナイトブラック"
+msgstr "Night Black"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "31"
+msgid "モールブラウン"
+msgstr "Mall Brown"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "32"
+msgid "タイガー迷彩"
+msgstr "Tiger Camouflage"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "33"
+msgid "唐草模様"
+msgstr "Arabesque"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "34"
+msgid "ウォーターボール"
+msgstr "WaterBall"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "35"
+msgid "マンモスブラウン"
+msgstr "Mammoth Brown"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "36"
+msgid "スノーホワイト"
+msgstr "Snow White"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "37"
+msgid "ファイアレッド"
+msgstr "FireRed"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "38"
+msgid "タイガーストライプ"
+msgstr "Tiger Stripe"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "39"
+msgid "ゼブラ"
+msgstr "Zebra"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "40"
+msgid "ビートブルー"
+msgstr "BeatBlue"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "41"
+msgid "プリズムレインボー"
+msgstr "Prism Rainbow"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "42"
+msgid "カジノレッド"
+msgstr "Casino Red"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "43"
+msgid "ヘラクレス"
+msgstr "Hercules"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "44"
+msgid "カブトブラック"
+msgstr "Helmet Black"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "45"
+msgid "ビートグリーン"
+msgstr "Beat Green"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "46"
+msgid "オクトパスレッド"
+msgstr "Octopus Red"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "47"
+msgid "オクトパスグリーン"
+msgstr "Octopus Green"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "48"
+msgid "たこ焼き"
+msgstr "Octopus Dumpling"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "49"
+msgid "サウルスブラウン"
+msgstr "Saurus Brown"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "50"
+msgid "サウルスレッド"
+msgstr "Saurus Red"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "51"
+msgid "豹柄"
+msgstr "Leopard"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "52"
+msgid "ＲＸブルー"
+msgstr "RXBlue"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "53"
+msgid "ダークグリーン"
+msgstr "Dark Green"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "54"
+msgid "タータンチェック"
+msgstr "Tartan Check"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "55"
+msgid "メタルイエロー"
+msgstr "Metal Yellow"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "56"
+msgid "クリアホワイト"
+msgstr "Clear White"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "57"
+msgid "アキラレッド"
+msgstr "Akira Red"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "58"
+msgid "レスキューオレンジ"
+msgstr "Rescue Orange"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "59"
+msgid "ネイビーパープル"
+msgstr "Navy Purple"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "60"
+msgid "カーニバル"
+msgstr "Carnival"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "61"
+msgid "ソルジャーグリーン"
+msgstr "Soldier Green"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "62"
+msgid "クリスマス"
+msgstr "Christmas"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "63"
+msgid "シャレコーベブラック"
+msgstr "ChaletCove Black"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "64"
+msgid "ストーングレー"
+msgstr "Stone Grey"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "65"
+msgid "キセグリーン"
+msgstr "Kise Green"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "66"
+msgid "ネイビーブラック"
+msgstr "Navy Black"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "67"
+msgid "モクバホワイト"
+msgstr "Mokuba White"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "68"
+msgid "クロムブラック"
+msgstr "Chrome Black"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "69"
+msgid "マグマレッド"
+msgstr "Magma Red"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "70"
+msgid "ブルーメタル"
+msgstr "Blue Metal"

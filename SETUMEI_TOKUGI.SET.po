@@ -1,0 +1,679 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 21/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type2\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "0"
+msgid "ダミーデータです。"
+msgstr "Dummy Data."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1"
+msgid ""
+"クラン・ナンバー３、\n"
+"ブレードトゥースの姿に変身する。"
+msgstr ""
+"Transform into Bladetooth,\n"
+"the #3 of Clan Coldblood."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "2"
+msgid ""
+"破損したクルマ用パーツを修理する。\n"
+"しかし、失敗することが多い。"
+msgstr ""
+"Repairs damaged parts,\n"
+"but has a high failure rate."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "3"
+msgid ""
+"こっそり車から降りて\n"
+"生身で敵への攻撃を行う。"
+msgstr ""
+"Sneak out of the vehicle\n"
+"and attack enemies yourself."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "4"
+msgid ""
+"近くに生息するモンスターの\n"
+"においをかぎ分ける。"
+msgstr ""
+"Sniff out all the\n"
+"monsters living nearby."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "5"
+msgid ""
+"ねらいを定めて、\n"
+"相手の急所に砲撃をたたき込む。"
+msgstr ""
+"Quickly aim at and\n"
+"bombard an enemy's vitals."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "6"
+msgid ""
+"目にもとまらぬ手さばきで\n"
+"複数回の銃撃を行う。"
+msgstr ""
+"Carry out many shootings\n"
+"with a very fast handling."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "7"
+msgid ""
+"自分の男らしさを拳に乗せ\n"
+"最高に男らしいパンチをはなつ。\n"
+"男らしいほど、効果アップ！"
+msgstr ""
+"The manliest punch!\n"
+"More manly = stronger!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "8"
+msgid ""
+"女の武器を利用し敵のスキをつき、\n"
+"とても女らしいキックをはなつ。\n"
+"女らしいほど、効果アップ！"
+msgstr ""
+"The womanliest kick!\n"
+"Less manly = stronger!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "9"
+msgid ""
+"歴戦のハンターならではの\n"
+"経験とカンで、モンスターの\n"
+"さまざまな情報をみやぶる。"
+msgstr ""
+"Reveals data on Monsters\n"
+"through hunter's experiences."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "10"
+msgid ""
+"こっそり車から降りて\n"
+"生身で敵への攻撃を行う。"
+msgstr ""
+"Sneak out of the vehicle\n"
+"and attack enemies yourself."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "11"
+msgid ""
+"残像が残るほどの速度で\n"
+"クルマを旋回し、敵のねらいをそらす。"
+msgstr ""
+"Turn vehicle at\n"
+"lightning speed,\n"
+"shaking off enemies' aim."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "12"
+msgid ""
+"全ての砲門をひらき\n"
+"敵陣に総攻撃をしかける。"
+msgstr ""
+"Open all cannons\n"
+"and carry out a combined attack."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "13"
+msgid ""
+"自らおとりとなって\n"
+"モンスターの注意をひきつける。"
+msgstr ""
+"Become a decoy\n"
+"and attract Monsters' attention."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "14"
+msgid ""
+"圧倒的な体さばきで\n"
+"通常の二倍の速度で行動する。"
+msgstr ""
+"Act twice as fast\n"
+"with overwhelming movements."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "15"
+msgid ""
+"大きくおたけびをあげながら\n"
+"攻撃し、仲間の士気を上げる。"
+msgstr ""
+"Attack while shouting out loud,\n"
+"boosting party's morale."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "16"
+msgid ""
+"モンスターもよだれをたらす\n"
+"フェロモンで、モンスターをおびき寄せる。"
+msgstr ""
+"Lure Monsters with pheromones\n"
+"that'll make them drool."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "17"
+msgid ""
+"攻撃に軽いフェイントをおりまぜ、\n"
+"二回攻撃をたたき込む。"
+msgstr ""
+"Add a light feint to the attack\n"
+"and add a second attack."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "18"
+msgid ""
+"手持ちの道具を一気にばらまき\n"
+"新たな戦局を開く。"
+msgstr ""
+"Throw multiple items at once\n"
+"and change the situation."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "19"
+msgid ""
+"風のように軽やかな足どりで、\n"
+"あらゆる攻撃から身をかわす。"
+msgstr ""
+"Dodge all attacks\n"
+"with a wind-like footwork."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "20"
+msgid ""
+"手にしている武器の全てを、\n"
+"一気に敵におみまいする。"
+msgstr ""
+"Simulatenous attack\n"
+"with all the equipped weapons."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "21"
+msgid ""
+"修理用具を使い\n"
+"破損したパーツを修理することができる。"
+msgstr ""
+"Use repair tools\n"
+"and repair damaged parts."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "22"
+msgid ""
+"機械型のモンスターや乗り物の\n"
+"装甲のねじをゆるめ\n"
+"敵の守りにスキを作ることができる。"
+msgstr ""
+"Loosen screws\n"
+"of machines and vehicles\n"
+"to weaken armor."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "23"
+msgid ""
+"巨大なスパナをぶん投げ\n"
+"機械型のモンスターにダメージを与える。"
+msgstr ""
+"Toss a giant spanner\n"
+"and damage machine Monsters."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "24"
+msgid ""
+"戦闘中にクルマから降りて、\n"
+"命をかけてタイルパックによる\n"
+"戦車の装甲を補充する。"
+msgstr ""
+"Exit vehicle during battle\n"
+"to apply Tile Packs on a tank."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "25"
+msgid ""
+"道具を使わず、そこにあるものだけで\n"
+"修理を行う。\n"
+"状態が悪化する可能性もある。"
+msgstr ""
+"Inprovised repair\n"
+"without tools.\n"
+"May damage the part."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "26"
+msgid ""
+"戦闘中にクルマから降りて\n"
+"大急ぎで道具を使い修理を行う。"
+msgstr ""
+"Exit vehicle during battle\n"
+"to repair parts with tools."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "27"
+msgid ""
+"修理用具を使いこなし\n"
+"大破したパーツをも修理する。"
+msgstr ""
+"Mastered use of tools\n"
+"that can even repair broken parts."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "28"
+msgid ""
+"機械動力のモンスターを\n"
+"パーツの状態まで徹底的に分解する。"
+msgstr ""
+"Attempt to dismantle machine\n"
+"Monsters into parts."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "29"
+msgid ""
+"薬の処方にアレンジを加えることで\n"
+"効果を最大限引き出す。"
+msgstr ""
+"Modify medicine's prescriptions\n"
+"to improve its effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "30"
+msgid ""
+"すばやい手さばきで\n"
+"仲間全員に投薬を行う。"
+msgstr ""
+"Quickly apply medicines\n"
+"to all party members."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "31"
+msgid ""
+"心からの献身で\n"
+"できたばかりの傷をふさいでしまう。"
+msgstr ""
+"Seal up recently opened\n"
+"wounds with a dedicated care."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "32"
+msgid ""
+"天使のようなやさしさで\n"
+"生物型のモンスターに真の安らぎを与える。"
+msgstr ""
+"Puts living Monsters to the rest\n"
+"with angel-like kindness."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "33"
+msgid ""
+"踏みこんだ応急処置を行うことで\n"
+"新しい傷のほぼ全てを治療してしまう。"
+msgstr ""
+"Carry out an in-depth first aid\n"
+"to heal up most injuries."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "34"
+msgid ""
+"ねむ気や体のしびれなど\n"
+"神経系を回復する薬を仲間に散布する。"
+msgstr ""
+"Remove neural conditions\n"
+"such as sleep or paralysis."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "35"
+msgid ""
+"熟練の看護で、どんな状況下でも\n"
+"体力を万全の状態に戻せる。"
+msgstr ""
+"Skillful nursing that\n"
+"restores HP to max in any situation."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "36"
+msgid ""
+"身の回りのもので\n"
+"むりやり電力を発生させ、\n"
+"新鮮な死体に蘇生術を行う。"
+msgstr ""
+"Improvise a defibrillator\n"
+"to revive a fresh corpse."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "37"
+msgid ""
+"体をほぐして、次の攻撃準備を\n"
+"ととのえる。"
+msgstr ""
+"Loosen up the body, and prepare\n"
+"for the next attack."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "38"
+msgid ""
+"一撃では終わらない\n"
+"エルボーの嵐をおみまいする。"
+msgstr ""
+"Unleash a storm of elbows\n"
+"that hits many times."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "39"
+msgid ""
+"台風のごとく手当たり次第に\n"
+"周囲を攻撃する。"
+msgstr ""
+"Attack like a typhoon,\n"
+"damaging random enemies."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "40"
+msgid ""
+"鍛えぬかれた体をぶつけ、\n"
+"敵を攻撃する肉弾戦術。"
+msgstr ""
+"Ram the enemy with your\n"
+"trained body, like a human bullet."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "41"
+msgid ""
+"強じんな肺活量を利用して\n"
+"あたり一面に炎をまきちらす。"
+msgstr ""
+"Spread fire through a use\n"
+"of powerful lung capacity."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "42"
+msgid ""
+"鋼のような筋肉につつまれた腕を\n"
+"相手の急所めがけてぶつける技。"
+msgstr ""
+"Strike the enemy's weak spots\n"
+"with arms as hard as steel."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "43"
+msgid ""
+"自分の肉体の可能性を信じ\n"
+"周囲の敵全てに肉弾戦をいどむ。"
+msgstr ""
+"Believe in your strength and\n"
+"attack all enemies at once."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "44"
+msgid ""
+"自分の体にかくれた力を\n"
+"限界まで引き出すことができる。"
+msgstr ""
+"Bring out the power hidden within\n"
+"your body to the limit."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "45"
+msgid ""
+"ゲージツ的な完成度で\n"
+"死体のフリをすることで\n"
+"モンスターにねらわれることがなくなる。"
+msgstr ""
+"Playing dead so perfectly\n"
+"that monsters will ignore you."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "46"
+msgid ""
+"着用した着ぐるみになりきり\n"
+"さまざまな攻撃を行う。"
+msgstr ""
+"Become what you wear,\n"
+"and use their abilities to attack."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "47"
+msgid ""
+"いくつかのな材料をくみあわせ\n"
+"さまざまな特殊砲弾を作成する。"
+msgstr ""
+"Combine some materials\n"
+"to make various special shells."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "48"
+msgid ""
+"修理用具を使って、破損パーツを復元し\n"
+"使用可能な状態にもどす。"
+msgstr ""
+"Use repair tools to\n"
+"restore damaged parts."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "49"
+msgid ""
+"深いめい想から繰り出す\n"
+"神秘的な動きで\n"
+"何度も敵を攻撃する。"
+msgstr ""
+"Attack the for many times\n"
+"with a set of mystical moves."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "50"
+msgid ""
+"流れるような動きで\n"
+"クルマの武器を操作し\n"
+"複数回攻撃を繰り出す。"
+msgstr ""
+"Fluid vehicle handling\n"
+"to fire its weapons several times."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "51"
+msgid ""
+"一味ちがうオリジナリティで\n"
+"常人では考えもつかない\n"
+"改造をクルマにほどこす。"
+msgstr ""
+"Perform an extraordinary\n"
+"modification on vehicle parts."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "52"
+msgid ""
+"芸術が爆発であることを\n"
+"身をもって証明する命がけの大技。"
+msgstr ""
+"They say art is an explosion.\n"
+"Let's make it literal."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "53"
+msgid ""
+"この場所が自分のナワバリであることを\n"
+"主張する。"
+msgstr ""
+"Mark the place as\n"
+"your own turf."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "54"
+msgid ""
+"大きく吼えてモンスターをすくませ、\n"
+"弱いものは追いはらってしまう。"
+msgstr ""
+"Loud bark that scares foes.\n"
+"Weak Monsters may flee."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "55"
+msgid ""
+"敵にじゃれつき\n"
+"他のことが手につかなくする。"
+msgstr ""
+"Cling to enemy, preventing\n"
+"them from doing things."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "56"
+msgid ""
+"野生のカンをたよりに地面を掘る。\n"
+"何が見つかるかは\n"
+"自身にもわからない。"
+msgstr ""
+"Dig the ground instinctively.\n"
+"No one knows what comes out."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "57"
+msgid ""
+"後先をかえりみず、\n"
+"敵に突進し体当たりをする。\n"
+"破壊力は、自らのがんじょうさ次第。"
+msgstr ""
+"Reckless charge at foes.\n"
+"Damage depends on your Defense."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "58"
+msgid ""
+"自分の男らしさを拳に乗せ\n"
+"最高に男らしいパンチをはなつ。\n"
+"男らしいほど、効果アップ！"
+msgstr ""
+"The manliest punch!\n"
+"More manly = stronger!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "59"
+msgid ""
+"男らしさのかぎり高々と足をふりあげ\n"
+"有無を言わせぬキックをくりだす。\n"
+"男らしいほど、効果アップ！"
+msgstr ""
+"A cool-looking, manly kick!\n"
+"More manly = stronger!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "60"
+msgid ""
+"セクシーなしぐさで\n"
+"敵をひきつけたところに、\n"
+"しびれるようなパンチをおみまいする。"
+msgstr ""
+"Seduce a foe and\n"
+"throw a punch!\n"
+"Less manly = stronger!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "61"
+msgid ""
+"女の武器を利用し敵のスキをつき、\n"
+"とても女らしいキックをはなつ。\n"
+"女らしいほど、効果アップ！"
+msgstr ""
+"The womanliest kick!\n"
+"Less manly = stronger!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "62"
+msgid ""
+"破損したクルマ用パーツを修理する。\n"
+"しかし、失敗することが多い。"
+msgstr ""
+"Repairs damaged parts,\n"
+"but has a high failure rate."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "63"
+msgid "予備弾層内の特殊砲弾を発射する。"
+msgstr ""
+"Fire a special shell\n"
+"from the reserve ammo rack."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "64"
+msgid "装備している、すべての大砲を発射する。"
+msgstr ""
+"Fire all Cannons equipped\n"
+"on the vehicle."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "65"
+msgid "装備している、すべての機銃を発射する。"
+msgstr ""
+"Fire all Aux Guns equipped\n"
+"on the vehicle."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "66"
+msgid ""
+"装備している\n"
+"すべてのＳ－Ｅを発射する。"
+msgstr ""
+"Fire all S-Es equipped\n"
+"on the vehicle."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "67"
+msgid "なりふりかまわず、体当たりをしかける。"
+msgstr ""
+"Ramming attack\n"
+"without minding the result."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "68"
+msgid "-"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "69"
+msgid "-"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "70"
+msgid "-"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "71"
+msgid "-"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "72"
+msgid "-"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "73"
+msgid "-"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "74"
+msgid "-"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "75"
+msgid "-"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "76"
+msgid "-"
+msgstr ""

@@ -1,0 +1,1998 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 21/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type2\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "0"
+msgid "<!empty>"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1"
+msgid "ダミー"
+msgstr "Dummy"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "2"
+msgid "ドリルローズ"
+msgstr "Drill Rose"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "3"
+msgid "トーストラプトル"
+msgstr "Toast Raptor"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "4"
+msgid "ソニクジャク"
+msgstr "Speakfowl"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "5"
+msgid "カニランチャー"
+msgstr "Crab Launcher"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "6"
+msgid "猪突砲"
+msgstr "Boar Cannon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "7"
+msgid "メロウィン"
+msgstr "Meloween"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "8"
+msgid "イモバルカン"
+msgstr "Worm Vulcan"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "9"
+msgid "うろつきポリタン"
+msgstr "Wild Polytank"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "10"
+msgid "からっポリタン"
+msgstr "Empty Polytank"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "11"
+msgid "バイトゾンビ"
+msgstr "Work Zombie"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "12"
+msgid "レーザーまいまい"
+msgstr "Laser Snail"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "13"
+msgid "ワルデムパ"
+msgstr "Bad Phone"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "14"
+msgid "強力労働神話"
+msgstr "Myth Exo Worker"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "15"
+msgid "ちゅうしゃどり"
+msgstr "Syringe Bird"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "16"
+msgid "人間キラー"
+msgstr "Man-Killer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "17"
+msgid "無差別偵察"
+msgstr "Aimless Recon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "18"
+msgid "いっぱつや"
+msgstr "One Shotter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "19"
+msgid "サイクロンコブラ"
+msgstr "Cyclo-Cobra"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "20"
+msgid "ソニックフラワー"
+msgstr "Sonic Flower"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "21"
+msgid "さつじんアメーバ"
+msgstr "Killer Amoeba"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "22"
+msgid "びんかんバニー"
+msgstr "Sensitive Bunny"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "23"
+msgid "巨大アリ"
+msgstr "Giant Ant"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "24"
+msgid "さつじんタクシー"
+msgstr "Killer Taxi"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "25"
+msgid "アイロンイーグル"
+msgstr "Iron Eagle"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "26"
+msgid "アシッドアント"
+msgstr "Acid Ant"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "27"
+msgid "虹虫"
+msgstr "Rainbow Bug"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "28"
+msgid "はちのすガン"
+msgstr "Beehive Gun"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "29"
+msgid "メガマウス"
+msgstr "Mega Mouse"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "30"
+msgid "警備ホール"
+msgstr "Secure Hole"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "31"
+msgid "メデューサホール"
+msgstr "Medusa Hole"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "32"
+msgid "キャノンホッパー"
+msgstr "Cannon Hopper"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "33"
+msgid "Ｂ５２アホウドリ♀"
+msgstr "B-52 Gull ♀"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "34"
+msgid "ブラッドヒル"
+msgstr "Bloodleech"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "35"
+msgid "エンジンカイマン"
+msgstr "Engine Caiman"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "36"
+msgid "幸せの青いワニ"
+msgstr "Happy Blue Gator"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "37"
+msgid "クルマカリ"
+msgstr "Hermit Car"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "38"
+msgid "Ｂ５２アホウドリ♂"
+msgstr "B-52 Gull ♂"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "39"
+msgid "ランチャークラブ"
+msgstr "Salvo Crab"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "40"
+msgid "なんたいキャノン"
+msgstr "Mollusc Cannon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "41"
+msgid "テロ貝"
+msgstr "Terror Clam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "42"
+msgid "まさかりクラン"
+msgstr "Axe Blood"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "43"
+msgid "でばクラン"
+msgstr "Knife Blood"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "44"
+msgid "クランバリケード"
+msgstr "CB Barricade"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "45"
+msgid "スナイパードッグ"
+msgstr "Sniper Dog"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "46"
+msgid "冷血ボイラー"
+msgstr "CB Boiler"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "47"
+msgid "暴走冷血"
+msgstr "Biker Blood"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "48"
+msgid "鋼の冷血"
+msgstr "Steel Blood"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "49"
+msgid "フライング・トム"
+msgstr "Flying Tom"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "50"
+msgid "ていさつＵＦＯ"
+msgstr "Recon UFO"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "51"
+msgid "ティラノドーザー"
+msgstr "Tyranodozer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "52"
+msgid "壊れかけのティラノ"
+msgstr "Broken Tyrano"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "53"
+msgid "ゾンビライダー"
+msgstr "Zombie Rider"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "54"
+msgid "ゾンビサポーター"
+msgstr "Z-Supporter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "55"
+msgid "警備スケルトン"
+msgstr "Guard Skeleton"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "56"
+msgid "クロックバード"
+msgstr "Clockbird"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "57"
+msgid "デスコール"
+msgstr "Death Call"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "58"
+msgid "ゾンビリーガー"
+msgstr "Z-Leaguer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "59"
+msgid "フライングナース"
+msgstr "Flying Nurse"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "60"
+msgid "ＤＮＡブロブ"
+msgstr "DNA Blob"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "61"
+msgid "ガンバルン"
+msgstr "Gun Balloon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "62"
+msgid "はちのすキャノン"
+msgstr "Beehive Cannon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "63"
+msgid "壊れかけのはちのす"
+msgstr "Broken Hive"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "64"
+msgid "バズーカドッグ"
+msgstr "Bazooka Dog"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "65"
+msgid "バイオニック・ハチ"
+msgstr "Bionic Bee"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "66"
+msgid "うたうパラボラ"
+msgstr "Singing Parabola"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "67"
+msgid "壊れかけのパラボラ"
+msgstr "Broken Parabola"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "68"
+msgid "９８ミリ自走砲"
+msgstr "98mm SPG"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "69"
+msgid "壊れかけの自走砲"
+msgstr "Broken SPG"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "70"
+msgid "デビルカー"
+msgstr "Devilcar"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "71"
+msgid "壊れかけデビルカー"
+msgstr "Broken Devilcar"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "72"
+msgid "おおづつ"
+msgstr "Culverin"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "73"
+msgid "壊れかけのおおづつ"
+msgstr "Broken Culverin"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "74"
+msgid "タンクキラー"
+msgstr "Tank Killer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "75"
+msgid "壊れかけのキラー"
+msgstr "Broken Killer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "76"
+msgid "騒音バニー"
+msgstr "Blaring Bunny"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "77"
+msgid "鉄コロガシ"
+msgstr "Iron Tumblebug"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "78"
+msgid "鉄の玉"
+msgstr "Iron Ball"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "79"
+msgid "バッサイダー"
+msgstr "Lumbersaw"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "80"
+msgid "壊れバッサイダー"
+msgstr "Broken Lumbersaw"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "81"
+msgid "プラズマビートル"
+msgstr "Plasma Beetle"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "82"
+msgid "レーザービー"
+msgstr "Laser Bee"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "83"
+msgid "びっくりフラワー"
+msgstr "Shock Flower"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "84"
+msgid "ブラッドローズ"
+msgstr "Blood Rose"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "85"
+msgid "ボムポポ"
+msgstr "Bombdelion"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "86"
+msgid "黒ぶたファイア"
+msgstr "Black Pig Fire"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "87"
+msgid "凶暴ウリ坊"
+msgstr "Brutal Piglet"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "88"
+msgid "ビームコック"
+msgstr "Beamcock"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "89"
+msgid "毒イモキャノン"
+msgstr "Poison Worm"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "90"
+msgid "メタルイーター"
+msgstr "Metal Eater"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "91"
+msgid "ゴールドアント"
+msgstr "Gold Ant"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "92"
+msgid "カバガン"
+msgstr "Hippogun"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "93"
+msgid "ビームコプター"
+msgstr "Beam Copter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "94"
+msgid "ガンタワー"
+msgstr "Gun Tower"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "95"
+msgid "壊れかけガンタワー"
+msgstr "Broken Gun Tower"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "96"
+msgid "くろいじゅうたん"
+msgstr "Black Carpet"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "97"
+msgid "ダークアイ"
+msgstr "Dark Eyes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "98"
+msgid "テロ人形"
+msgstr "Terror Doll"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "99"
+msgid "ドクワニ"
+msgstr "Poison Gator"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "100"
+msgid "メタルランチャー"
+msgstr "Metal Launcher"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "101"
+msgid "呪いのケータイ"
+msgstr "Cursed Cell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "102"
+msgid "ドラキュラフライ"
+msgstr "Dracula Fly"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "103"
+msgid "ロケットタワー"
+msgstr "RocketTower"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "104"
+msgid "ミサイルファントム"
+msgstr "Missile Phantom"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "105"
+msgid "ハイドラホール"
+msgstr "Hydra Hole"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "106"
+msgid "警備ホッパー"
+msgstr "Guard Hopper"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "107"
+msgid "ゴールデンバレット"
+msgstr "Gold Bullet"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "108"
+msgid "レーザーミミズ"
+msgstr "Laser Worm"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "109"
+msgid "ミラーまいまい"
+msgstr "Mirror Snail"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "110"
+msgid "パラライズアント"
+msgstr "Paralyze Ant"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "111"
+msgid "レーザーナマコ"
+msgstr "Laser Cumber"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "112"
+msgid "ボムガメ"
+msgstr "Bomb Turtle"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "113"
+msgid "ロボポリス"
+msgstr "Robo Police"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "114"
+msgid "さつじんヘルパー"
+msgstr "Killer Help"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "115"
+msgid "ムカデロン"
+msgstr "Centipedon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "116"
+msgid "ボムベル"
+msgstr "Bombell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "117"
+msgid "ドリルワーム"
+msgstr "Drillworm"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "118"
+msgid "バーナーアント"
+msgstr "Burner Ant"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "119"
+msgid "ニトロポリタン"
+msgstr "Nitro Tank"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "120"
+msgid "死神戦車"
+msgstr "Reaper Tank"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "121"
+msgid "壊れかけの死神戦車"
+msgstr "Broken Reap"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "122"
+msgid "ジェイソン・マシン"
+msgstr "Jason Machine"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "123"
+msgid "マヒトパス"
+msgstr "Stunopus"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "124"
+msgid "シャコタンク"
+msgstr "Mantis Tank"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "125"
+msgid "爆撃アルバトロス"
+msgstr "Bomb Albatros"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "126"
+msgid "パラサイトうみうし"
+msgstr "Paraste Slug"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "127"
+msgid "ストマックＸ"
+msgstr "Stomach X"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "128"
+msgid "さつりくギャング"
+msgstr "Massacre Mob"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "129"
+msgid "ヘルレスキュー"
+msgstr "Hell Rescue"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "130"
+msgid "スローウォーカー"
+msgstr "Slow Walker"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "131"
+msgid "キラークロゼット"
+msgstr "Kill Closet"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "132"
+msgid "暴走ゾンビ"
+msgstr "DUI Zombie"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "133"
+msgid "さつりくアメーバ"
+msgstr "Massacre Amoeba"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "134"
+msgid "暴走マッドマン"
+msgstr "Rampaging Nut"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "135"
+msgid "ハイウェイキラー"
+msgstr "Highway Killer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "136"
+msgid "ゴーストキャブ"
+msgstr "Ghost Cab"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "137"
+msgid "ハイウェイゾンビ"
+msgstr "Highway Zombie"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "138"
+msgid "強襲蜂"
+msgstr "Assault Bee"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "139"
+msgid "スナザメ"
+msgstr "Sand Shark"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "140"
+msgid "ディアブロ"
+msgstr "Diablo"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "141"
+msgid "人食いバラ"
+msgstr "Man Eater Rose"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "142"
+msgid "地雷モグラ"
+msgstr "Land Mine Mole"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "143"
+msgid "弾丸クリーナー"
+msgstr "Bullet Cleaner"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "144"
+msgid "デザートスイーパー"
+msgstr "Desert Sweeper"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "145"
+msgid "デザートモンロー"
+msgstr "Desert Munroe"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "146"
+msgid "ナイトシェイド"
+msgstr "Nightshade"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "147"
+msgid "サンドゴーレム"
+msgstr "Sand Golem"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "148"
+msgid "オカマンタ"
+msgstr "Hill Manta"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "149"
+msgid "リペアコプター"
+msgstr "Repair Copter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "150"
+msgid "地獄のストーブ"
+msgstr "Hell Heater"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "151"
+msgid "人間ジゴク"
+msgstr "Man-lion"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "152"
+msgid "マボロシマンタ"
+msgstr "Mirage Manta"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "153"
+msgid "オアシスピッグ"
+msgstr "Oasis Pig"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "154"
+msgid "アリゲリラ"
+msgstr "Alligera"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "155"
+msgid "クラシックジャック"
+msgstr "Classic Jack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "156"
+msgid "ガトリングワーム"
+msgstr "Gatling Worm"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "157"
+msgid "正義塔"
+msgstr "Justice Tower"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "158"
+msgid "ゆかしたコマンド"
+msgstr "Burrow Commando"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "159"
+msgid "ビームウナギノス"
+msgstr "Beam Eel Nest"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "160"
+msgid "せんめつスフィア"
+msgstr "Slaughter Sphere"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "161"
+msgid "パートタイムゾンビ"
+msgstr "Part-time Zombie"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "162"
+msgid "ファイヤーマン"
+msgstr "Fireman"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "163"
+msgid "ゾンビドッグ"
+msgstr "Zombie Dog"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "164"
+msgid "ゾンビミュータント"
+msgstr "Zombie Mutant"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "165"
+msgid "ゾンビパンサー"
+msgstr "Zombie Panther"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "166"
+msgid "ゾンビシャーク"
+msgstr "Zombie Shark"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "167"
+msgid "ゾンビモンキー"
+msgstr "Zombie Monkey"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "168"
+msgid "ゾンビフラワー"
+msgstr "Zombie Flower"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "169"
+msgid "もえフィギュア"
+msgstr "Hot Figure"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "170"
+msgid "ミミックボックス"
+msgstr "Mimic Box"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "171"
+msgid "メタルファルコン"
+msgstr "Metal Falcon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "172"
+msgid "クレイジーポリス"
+msgstr "Crazy Police"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "173"
+msgid "くさっポリタン"
+msgstr "Rot Polytank"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "174"
+msgid "ゴミダラボッチ"
+msgstr "Trash Giant"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "175"
+msgid "ゴミボックル"
+msgstr "Trash-pok-guru"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "176"
+msgid "パラボラサーカス"
+msgstr "Parabola Circus"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "177"
+msgid "ＡＴエレファント"
+msgstr "AT Elephant"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "178"
+msgid "Ｔ９９ゴリラ"
+msgstr "T99 Gorilla"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "179"
+msgid "ＡＴグリズリー"
+msgstr "AT Grizzly"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "180"
+msgid "砲丸スローター"
+msgstr "Shell Slaughter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "181"
+msgid "シザーカー"
+msgstr "Scissor Car"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "182"
+msgid "ゾンビメカニック"
+msgstr "Zombie Mechanic"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "183"
+msgid "プラチナアント"
+msgstr "Platinum Ant"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "184"
+msgid "あばれドーザー"
+msgstr "Runaway Dozer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "185"
+msgid "バーナーホッパー"
+msgstr "Burner Hopper"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "186"
+msgid "ステルスキート"
+msgstr "Stealth-quito"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "187"
+msgid "凶暴トースター"
+msgstr "Ferocious Toaster"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "188"
+msgid "４６億年タートル"
+msgstr "4.6B-Year Turtle"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "189"
+msgid "プラズマタンク"
+msgstr "Plasma Tank"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "190"
+msgid "解脱戦車"
+msgstr "Nirvana Tank"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "191"
+msgid "メーサー砲"
+msgstr "Maser Cannon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "192"
+msgid "ホルモン虫"
+msgstr "Hormone Bug"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "193"
+msgid "悪臭ダンス"
+msgstr "Stinky Closet"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "194"
+msgid "ＢＢＱマウス"
+msgstr "BBQ Mouse"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "195"
+msgid "ふうせんメロン"
+msgstr "Balloon Melon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "196"
+msgid "クランドッグ"
+msgstr "Clan Dog"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "197"
+msgid "冷血ブッチャ－"
+msgstr "Cold-Blood Butcher"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "198"
+msgid "冷血仮面"
+msgstr "Cold-Blood Mask"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "199"
+msgid "ふらつきクラン"
+msgstr "Wobble Clan"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "200"
+msgid "巡回クラン"
+msgstr "Patrol Clan"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "201"
+msgid "冷血ドクター"
+msgstr "Cold-Blood Doctor"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "202"
+msgid "あらくれクラン"
+msgstr "Rough Clan"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "203"
+msgid "献血コウモリ"
+msgstr "Blood-Donate Bat"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "204"
+msgid "ぶんなげゾンビ"
+msgstr "Throwing Zombie"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "205"
+msgid "かっさばゾンビ"
+msgstr "Cutting Zombie"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "206"
+msgid "ぶんなぐりゾンビ"
+msgstr "Beating Zombie"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "207"
+msgid "金のじゅうたん"
+msgstr "Gold Carpet"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "208"
+msgid "デスディゾン"
+msgstr "Death Dizon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "209"
+msgid "バキュームマンバ"
+msgstr "Vacuum Mamba"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "210"
+msgid "デビルフォン"
+msgstr "Devil Phone"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "211"
+msgid "モンスターベル"
+msgstr "Monster Bell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "212"
+msgid "極楽ボンバー"
+msgstr "Paradise Bomber"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "213"
+msgid "ミラーボール"
+msgstr "Mirror Ball"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "214"
+msgid "アントイーター"
+msgstr "Anteater"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "215"
+msgid "はぐれイーター"
+msgstr "Stray Eater"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "216"
+msgid "どくどくメイド"
+msgstr "Poison Maid"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "217"
+msgid "サクラン・パーコ"
+msgstr "Confuse Pako"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "218"
+msgid "ホルンワインダー"
+msgstr "Horn Winder"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "219"
+msgid "弾丸パラダイス"
+msgstr "Bullet Paradise"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "220"
+msgid "解体コプター"
+msgstr "Dismantle Copter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "221"
+msgid "ムハンドーフォー"
+msgstr "Recoil-less Quad"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "222"
+msgid "ヘルライダー"
+msgstr "Hell Rider"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "223"
+msgid "プラチナカーテン"
+msgstr "Platnium Curtain"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "224"
+msgid "臨界プラズマ砲"
+msgstr "Plasma Cannon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "225"
+msgid "トランスゴン"
+msgstr "Transgon "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "226"
+msgid "ちょびトランス"
+msgstr "Little Trans"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "227"
+msgid "プロト・ユムボマ"
+msgstr "Proto Backbomber"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "228"
+msgid "サルモネラ・プロト"
+msgstr "Salmonera Proto"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "229"
+msgid "セイバーヘーゲン"
+msgstr "Saber Hegen"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "230"
+msgid "ゴールデンフライ"
+msgstr "Golden Fly"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "231"
+msgid "ゴールドトータス"
+msgstr "Gold Tortoise"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "232"
+msgid "通り魔ホーク"
+msgstr "Killer Hawk"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "233"
+msgid "トーテムタワー"
+msgstr "Totem Tower"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "234"
+msgid "ミュータントＯＸ"
+msgstr "Mutant OX"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "235"
+msgid "ハイウェイマーリン"
+msgstr "Highway Marin"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "236"
+msgid "説教アシュラ"
+msgstr "Sermon Asura"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "237"
+msgid "メカマンタ"
+msgstr "Mecha Manta"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "238"
+msgid "火炎ダコ"
+msgstr "Flame Octopus"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "239"
+msgid "ビーナスエッグ"
+msgstr "Venus Egg"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "240"
+msgid "繁殖シェル"
+msgstr "Breed Shell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "241"
+msgid "もえもえヒッキー"
+msgstr "Blazing Monkey"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "242"
+msgid "ひあそびザル"
+msgstr "Piro Monkey"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "243"
+msgid "ボアエクスプレス"
+msgstr "Boar Express"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "244"
+msgid "ボアトレイン"
+msgstr "Boar Train"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "245"
+msgid "グレートカバガン"
+msgstr "Great Hippogun"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "246"
+msgid "クールダイル"
+msgstr "Coolodile"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "247"
+msgid "ムサベツムリ"
+msgstr "Indiscrimi-nail"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "248"
+msgid "パラセンチピード"
+msgstr "Para Centipede"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "249"
+msgid "充電ワーム"
+msgstr "Charge Worm"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "250"
+msgid "電撃レスラー"
+msgstr "Thunder Wrestler"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "251"
+msgid "デスミュージック"
+msgstr "Death Music"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "252"
+msgid "パトロールバチ"
+msgstr "Patrol Bee"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "253"
+msgid "波動ナマコ"
+msgstr "Wave Cucumber"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "254"
+msgid "パニックローズ"
+msgstr "Panic Rose"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "255"
+msgid "ハロゲンフラワー"
+msgstr "Hallogen Flower"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "256"
+msgid "ボムポポクイーン"
+msgstr "Queen Bombdelion"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "257"
+msgid "ボムポポベビー"
+msgstr "Heavy Bombdelion"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "258"
+msgid "悪魔のメロン"
+msgstr "Demon Melon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "259"
+msgid "メロンコロガシ"
+msgstr "Melon Tumblebug"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "260"
+msgid "実験体Ｘ"
+msgstr "Subject X"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "261"
+msgid "パニックツムリ"
+msgstr "Panic Snail"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "262"
+msgid "フラワーチャーム"
+msgstr "Flower Charm"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "263"
+msgid "ナマコダイル"
+msgstr "Cucumber Crocodile"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "264"
+msgid "パニックモンキー"
+msgstr "Panic Monkey"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "265"
+msgid "轟音ゴーゴン"
+msgstr "Buzz Gorgon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "266"
+msgid "地獄のノコギリ"
+msgstr "Hell Saw"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "267"
+msgid "さつじんパトロール"
+msgstr "Murder Patrol"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "268"
+msgid "サンダーモール"
+msgstr "Thunder Mole"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "269"
+msgid "ユニコーンヘッド"
+msgstr "Unicorn Head"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "270"
+msgid "ＡＴイフリート"
+msgstr "AT Ifrit"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "271"
+msgid "整備がいこつ"
+msgstr "Maintenance Skull"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "272"
+msgid "波動筒"
+msgstr "Wave Blaster"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "273"
+msgid "プラチナウォーカー"
+msgstr "Platinum Walker"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "274"
+msgid "ゲゲゲ砲"
+msgstr "Squeak Cannon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "275"
+msgid "キャサリン・ボーン"
+msgstr "Catherine Bone"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "276"
+msgid "ダイエットフロッグ"
+msgstr "Diet Frog"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "277"
+msgid "フラッシュタンス"
+msgstr "Flash Drawers"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "278"
+msgid "死二針"
+msgstr "Death Needle"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "279"
+msgid "極悪ケータイ"
+msgstr "Very Evil Phone"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "280"
+msgid "不安定ブロブ"
+msgstr "Unstable Blob"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "281"
+msgid "ちょうでんどうＸ"
+msgstr "Conductive X"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "282"
+msgid "一角タイガー"
+msgstr "One-Horn Tiger"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "283"
+msgid "チェンジタワー"
+msgstr "Change Tower"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "284"
+msgid "ガーディアンホール"
+msgstr "Guardian Hole"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "285"
+msgid "きまぐれゴーゴン"
+msgstr "Random Gorgon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "286"
+msgid "パーフェクトガード"
+msgstr "Perfect Guard"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "287"
+msgid "反射レーザー砲"
+msgstr "Reflect Laser"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "288"
+msgid "サタンＱ"
+msgstr "Satan Q"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "289"
+msgid "地獄の回転ドア"
+msgstr "Hell Door"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "290"
+msgid "コピードール"
+msgstr "Copy Doll"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "291"
+msgid "コピーブロブ"
+msgstr "Copy Blob"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "292"
+msgid "ガードゴーレム"
+msgstr "Guard Golem"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "293"
+msgid "満タンドクター"
+msgstr "Full Heal Doctor"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "294"
+msgid "ゾンビコフィン"
+msgstr "Zombie Coffin"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "295"
+msgid "重機レックス"
+msgstr "Heavy Rex"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "296"
+msgid "ビームハリケーン"
+msgstr "Beam Hurricane"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "297"
+msgid "メタモールゼリー"
+msgstr "Metamor Jelly"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "298"
+msgid "スナダイコン"
+msgstr "Sand Radish"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "299"
+msgid "デカメロウィン"
+msgstr "Giant Meloween"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "300"
+msgid "ぷちメロウィン"
+msgstr "Mini Meloween"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "301"
+msgid "ミニイモバルカン"
+msgstr "Mini Worm Vulcan"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "302"
+msgid "イカレタンク"
+msgstr "Crazy Tank"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "303"
+msgid "タンスゴン"
+msgstr "Closet Mimic"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "304"
+msgid "サメクマ"
+msgstr "Shark Bear"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "305"
+msgid "ガードウォール"
+msgstr "Guard Wall"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "306"
+msgid "シンデレラウォール"
+msgstr "Cinderella Wall"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "307"
+msgid "セキュリティスフィア"
+msgstr "Security Sphere"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "308"
+msgid "布教砲"
+msgstr "Propagate Cannon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "309"
+msgid "カジキータ"
+msgstr "Marleetah"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "310"
+msgid "グリーンデビル"
+msgstr "Green Devil"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "311"
+msgid "ゴエモンキー"
+msgstr "Goemonkey"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "312"
+msgid "パクリエル号"
+msgstr "Pacriel Mobile"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "313"
+msgid "クランパトロール"
+msgstr "Clan Patrol"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "314"
+msgid "ギガントマウス"
+msgstr "Giant Mouse"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "315"
+msgid "ダルマ砲"
+msgstr "Stacked Cannon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "316"
+msgid "回転ケルベロス"
+msgstr "Spin Cerberos"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "317"
+msgid "ゾンビギャンブラー"
+msgstr "Zombie Gambler"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "318"
+msgid "ヘルイレイザー"
+msgstr "Hell Eraser"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "319"
+msgid "絶望ブリンガ"
+msgstr "Despair Bringer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "320"
+msgid "チューブティターン"
+msgstr "Tube Titan"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "321"
+msgid "機動死刑台"
+msgstr "Mobile Gallows"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "322"
+msgid "ヘルゲイトガード"
+msgstr "Hell Gate Guard"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "323"
+msgid "ラウル"
+msgstr "Raul"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "324"
+msgid "カーロス"
+msgstr "Carlos"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "325"
+msgid "ハンフリー"
+msgstr "Humphrey"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "326"
+msgid "ディーゴ"
+msgstr "Diego"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "327"
+msgid "シエルタ兵"
+msgstr "Shelter Soldier"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "328"
+msgid "拷問兵"
+msgstr "Torture Soldier"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "329"
+msgid "牢番"
+msgstr "Prison Guard"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "330"
+msgid "サブロミオ"
+msgstr "Saburomeo"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "331"
+msgid "オルガ・モード"
+msgstr "Olga Mode"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "332"
+msgid "ドームのかべ"
+msgstr "Dome Wall"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "333"
+msgid "土のかべ"
+msgstr "Dirt Wall"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "334"
+msgid "岩のかべ"
+msgstr "Rock Wall"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "335"
+msgid "コンクリートのかべ"
+msgstr "Concrete Wall"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "336"
+msgid "牢屋のかべ"
+msgstr "Jail Wall"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "337"
+msgid "鍾乳石のかべ"
+msgstr "Stalactite Wall"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "338"
+msgid "絶望のかべ"
+msgstr "Despair Wall"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "339"
+msgid "最後のかべ"
+msgstr "Final Wall"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "340"
+msgid "ユムボマ"
+msgstr "BackBomber"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "341"
+msgid "ベヒムース"
+msgstr "Behemoose"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "342"
+msgid "ドミンゲス"
+msgstr "Dominguez"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "343"
+msgid "ドミンゲス号"
+msgstr "Dominguez Mobile"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "344"
+msgid "超流動デカプリン"
+msgstr "MegaPudding"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "345"
+msgid "サルモネラス"
+msgstr "Salmonella"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "346"
+msgid "クラウドゴン"
+msgstr "Cloudgon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "347"
+msgid "火星クラゲ"
+msgstr "Mars Medusa"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "348"
+msgid "バオーバーブンガー"
+msgstr "Baobabunga"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "349"
+msgid "ヨージンボーグ"
+msgstr "Yojimborg"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "350"
+msgid "アクアヒドラ"
+msgstr "Aqua hydra"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "351"
+msgid "マユラー"
+msgstr "Cocoonera"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "352"
+msgid "ガウーマン"
+msgstr "MothLady"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "353"
+msgid "アルメイダ"
+msgstr "Almeida"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "354"
+msgid "アルメイダ号"
+msgstr "Almeida Mobile"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "355"
+msgid "カジキエフ"
+msgstr "Kajikiev"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "356"
+msgid "ムガデス"
+msgstr "Sintipede"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "357"
+msgid "ムガデス号"
+msgstr "Sin Mobile"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "358"
+msgid "スピードキング"
+msgstr "Speed King"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "359"
+msgid "冥界エクスプレス"
+msgstr "Hell Express"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "360"
+msgid "カミカゼクイーン"
+msgstr "Kamikaze Queen"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "361"
+msgid "スクラヴードゥー"
+msgstr "Scrap Voodoo"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "362"
+msgid "ぷちブードゥ"
+msgstr "Mini-Voodoo"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "363"
+msgid "ジャック・アメーバ"
+msgstr "Jack Amoeba"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "364"
+msgid "トニー・アメーバ"
+msgstr "Tony Amoeba"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "365"
+msgid "ビル・アメーバ"
+msgstr "Bill Amoeba"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "366"
+msgid "オーロック"
+msgstr "Auroch"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "367"
+msgid "オーロック号"
+msgstr "Auroch Mobile"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "368"
+msgid "ゾンビオーロック"
+msgstr "Zombie Auroch"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "369"
+msgid "オクトパス・モード"
+msgstr "Octopus Mode"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "370"
+msgid "ダイコンデロガ"
+msgstr "Daikonderoga"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "371"
+msgid "ギガンテリオン"
+msgstr "Giganterion"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "372"
+msgid "凶鳥デスデモーナ"
+msgstr "Deathdemona"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "373"
+msgid "ルーシー"
+msgstr "Lucy"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "374"
+msgid "改造ルーシー"
+msgstr "Modded Lucy"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "375"
+msgid "ミグ"
+msgstr "Mig"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "376"
+msgid "改造ミグ"
+msgstr "Modded Mig"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "377"
+msgid "ミグ２号"
+msgstr "Mig 2.0"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "378"
+msgid "アトゥク"
+msgstr "Atuk"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "379"
+msgid "改造アトゥク"
+msgstr "Modded Atuk"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "380"
+msgid "アトゥク２号"
+msgstr "Atuk 2.0"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "381"
+msgid "ルーシーズ号"
+msgstr "Lucy Mobile"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "382"
+msgid "ルーシーズ車内待機"
+msgstr "Lucy In-Car"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "383"
+msgid "ＡＨ６６６バズズ"
+msgstr "AH666 Pazuzu"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "384"
+msgid "グラトノス"
+msgstr "Gratonos"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "385"
+msgid "破壊神座"
+msgstr "Destruction Relic"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "386"
+msgid "希望砲"
+msgstr "Hope Cannon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "387"
+msgid "絶望砲"
+msgstr "Despair Cannon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "388"
+msgid "グラトノサウルス"
+msgstr "Gratosaurus"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "389"
+msgid "ジャガン"
+msgstr "Jagan"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "390"
+msgid "ナート"
+msgstr "Nath"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "391"
+msgid "コーラ"
+msgstr "Cola"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "392"
+msgid "ダイコンデロガ２"
+msgstr "Daikonderoga 2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "393"
+msgid "アラモ＝ジャック"
+msgstr "Alamo Jack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "394"
+msgid "土星クラゲ"
+msgstr "Saturn Medusa"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "395"
+msgid "ギガンティーガー"
+msgstr "Gigantiger"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "396"
+msgid "作成ＷＡＮＴＥＤ１"
+msgstr "Create WANTED 1"

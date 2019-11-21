@@ -1,0 +1,7117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 21/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type2\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "0"
+msgid "<!empty>"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1"
+msgid "ダミー"
+msgstr "Dummy"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "2"
+msgid "何もしない"
+msgstr "Do Nothing"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "3"
+msgid "BSレーザー"
+msgstr "BS Laser"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "4"
+msgid "衛星からレーザーが照射された！！"
+msgstr ""
+"A Laser was fired\n"
+"from a satellite!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "5"
+msgid "りゅう弾"
+msgstr "Explosive Shell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "6"
+msgid "ナパームアタック"
+msgstr "Napalm Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "7"
+msgid ""
+"$BNは\n"
+"ナパーム弾を発射した！"
+msgstr ""
+"$BN fired\n"
+"a Napalm Shell!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "8"
+msgid "冷凍アタック"
+msgstr "Freeze Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "9"
+msgid ""
+"$BNは\n"
+"冷凍弾を発射した！"
+msgstr ""
+"$BN fired\n"
+"a Freeze Shell!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "10"
+msgid "毒ガス弾"
+msgstr "Poison Gas Shell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "11"
+msgid ""
+"$BNは\n"
+"毒ガス弾を発射した！"
+msgstr ""
+"$BN fired\n"
+"a Poison Gas Shell!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "12"
+msgid "催眠ガス弾"
+msgstr "Sleeping Gas Shell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "13"
+msgid ""
+"$BNは\n"
+"催眠ガス弾を発射した！"
+msgstr ""
+"$BN fired\n"
+"a Sleep Gas Shell!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "14"
+msgid "まひガス弾"
+msgstr "Nerve Gas Shell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "15"
+msgid ""
+"$BNは\n"
+"まひガス弾を発射した！"
+msgstr ""
+"$BN fired\n"
+"a Nerve Gas Shell!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "16"
+msgid "徹甲弾"
+msgstr "Armor Piercing Shell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "17"
+msgid ""
+"$BNは\n"
+"てっこう弾を発射した！"
+msgstr ""
+"$BN fired\n"
+"an AP Shell!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "18"
+msgid "ホローチャージ"
+msgstr "Hollow Charge"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "19"
+msgid ""
+"$BNは\n"
+"ホローチャージを発射した！"
+msgstr ""
+"$BN fired\n"
+"a Hollow Charge!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "20"
+msgid "ＡＰＦＳＤＳ弾"
+msgstr "APFSDS Shell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "21"
+msgid ""
+"$BNは\n"
+"ＡＰＦＳＤＳ弾を発射した！"
+msgstr ""
+"$BN fired\n"
+"an APFSDS shell!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "22"
+msgid "セメント弾"
+msgstr "Cement Shell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "23"
+msgid ""
+"$BNは\n"
+"セメント弾を発射した！"
+msgstr ""
+"$BN fired\n"
+"a Cement Shell!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "24"
+msgid "ドリル弾"
+msgstr "Drill Shell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "25"
+msgid ""
+"$BNは\n"
+"ドリル弾を発射した！"
+msgstr ""
+"$BN fired\n"
+"a Drill Shell!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "26"
+msgid "ロケット弾"
+msgstr "Rocket Shell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "27"
+msgid ""
+"$BNは\n"
+"ロケット弾を発射した！"
+msgstr ""
+"$BN fired\n"
+"a Rocket Shell!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "28"
+msgid "不発弾"
+msgstr "Unexploded Shell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "29"
+msgid ""
+"$BNは\n"
+"不発弾を発射した！"
+msgstr ""
+"$BN fired\n"
+"a Dud Shell!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "30"
+msgid "パニック弾"
+msgstr "Panic Shell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "31"
+msgid ""
+"$BNは\n"
+"パニック弾を発射した！"
+msgstr ""
+"$BN fired\n"
+"a Panic Shell!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "32"
+msgid "子供自爆"
+msgstr "Child Self-Destruct"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "33"
+msgid "我慢"
+msgstr "Holding Back"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "34"
+msgid "$BNは我慢している。"
+msgstr "$BN is holding back."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "35"
+msgid "叫ぶ"
+msgstr "Cry Out"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "36"
+msgid ""
+"$BNは叫んだ！\n"
+"「うおーーーーっ！"
+msgstr ""
+"$BN cried out!\n"
+"\"Whoa~~~~!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "37"
+msgid "わめく"
+msgstr "Shout"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "38"
+msgid ""
+"$BNはわめいた！\n"
+"「うわーーーーっ！"
+msgstr ""
+"$BN shouted!\n"
+"\"Ah~~~~!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "39"
+msgid "泣く"
+msgstr "Cry"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "40"
+msgid ""
+"$BNは泣いた！\n"
+"「えーーーーん！"
+msgstr ""
+"$BN cried!\n"
+"\"Waaaaaaah!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "41"
+msgid "吐く"
+msgstr "Throw Up"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "42"
+msgid ""
+"$BNは吐いた！\n"
+"「げろげろげーーっ！"
+msgstr ""
+"$BN threw up!\n"
+"\"Bleeeh~!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "43"
+msgid "混乱中"
+msgstr "Confusion"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "44"
+msgid ""
+"$BNは混乱して\n"
+"ぼーーーっとしている！"
+msgstr ""
+"$BN is spaced out\n"
+"in confusion!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "45"
+msgid "道具使う効果なし"
+msgstr "No Effect from Item"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "46"
+msgid ""
+"$BNは\n"
+"$BIを使った！"
+msgstr ""
+"$BN used a\n"
+"$BI!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "47"
+msgid "錯乱して寝る"
+msgstr "Confused, Asleep"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "48"
+msgid ""
+"$BNは\n"
+"混乱している。"
+msgstr ""
+"$BN is\n"
+"confused."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "49"
+msgid "錯乱して誘惑"
+msgstr "Confused, Charmed"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "50"
+msgid "錯乱してバーサク"
+msgstr "Confused, Berserk"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "51"
+msgid "武器はずす"
+msgstr "Unequip Weapon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "52"
+msgid "脱ぐ"
+msgstr "Strip"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "53"
+msgid "降りる"
+msgstr "Disembark"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "54"
+msgid "酸のダメージ"
+msgstr "Acid Damage"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "55"
+msgid ""
+"$BNは\n"
+"酸にむしばまれている！"
+msgstr ""
+"$BN is being\n"
+"eaten away by acid!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "56"
+msgid "大もえ"
+msgstr "Big Flame"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "57"
+msgid ""
+"$BNは\n"
+"炎につつまれている！"
+msgstr ""
+"$BN is\n"
+"engulfed in flame!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "58"
+msgid "大ひえ"
+msgstr "Big Chill"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "59"
+msgid ""
+"$BNは\n"
+"冷気につつまれている！"
+msgstr ""
+"$BN is\n"
+"wrapped in cold!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "60"
+msgid "猛毒ガスのダメージ"
+msgstr "Toxic Gas Damage"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "61"
+msgid ""
+"$BNは\n"
+"猛毒ガスにつつまれている！"
+msgstr ""
+"$BN is\n"
+"wrapped in toxic gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "62"
+msgid "もえ"
+msgstr "Flame"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "63"
+msgid "ひえ"
+msgstr "Chill"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "64"
+msgid "毒ガスのダメージ"
+msgstr "Poison Gas Damage"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "65"
+msgid ""
+"$BNは\n"
+"毒ガスにつつまれている！"
+msgstr ""
+"$BN is\n"
+"wrapped in poison gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "66"
+msgid "けむ１（猛毒ガス）"
+msgstr "Fumes 1 (Toxic Gas)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "67"
+msgid ""
+"$BNの車内で\n"
+"猛毒ガスが充満している！"
+msgstr ""
+"$BN's vehicle is\n"
+"filled with toxic gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "68"
+msgid "けむ２（毒ガス）"
+msgstr "Fumes 2 (Poison Gas)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "69"
+msgid ""
+"$BNの車内で\n"
+"毒ガスが充満している！"
+msgstr ""
+"$BN's vehicle is\n"
+"filled with poison gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "70"
+msgid "けむ３（まひガス）"
+msgstr "Fumes 3 (Nerve Gas)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "71"
+msgid ""
+"$BNの車内で\n"
+"まひガスが充満している！"
+msgstr ""
+"$BN's vehicle is\n"
+"filled with nerve gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "72"
+msgid "けむ４(催眠ガス）"
+msgstr "Fumes 4 (Sleep Gas)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "73"
+msgid ""
+"$BNの車内で\n"
+"催眠ガスが充満している！"
+msgstr ""
+"$BN's vehicle is\n"
+"filled with sleep gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "74"
+msgid "けむ５(混乱ガス）"
+msgstr "Fumes 5 (Confusion Gas)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "75"
+msgid ""
+"$BNの車内で\n"
+"混乱ガスが充満している！"
+msgstr ""
+"$BN's vehicle is\n"
+"filled with confusion gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "76"
+msgid "はりつけ吸血"
+msgstr "Crucified Bloodsucking"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "77"
+msgid ""
+"$BNは\n"
+"マユラーに血を吸われている！"
+msgstr ""
+"$BN has their\n"
+"blood sucked by Cocoonera!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "78"
+msgid "眠りを治す"
+msgstr "Cure Sleep"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "79"
+msgid "誘惑を治す"
+msgstr "Cure Charm"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "80"
+msgid "混乱を治す"
+msgstr "Cure Confusion"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "81"
+msgid "バーサクを直す"
+msgstr "Cure Berserk"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "82"
+msgid "目潰しを治す"
+msgstr "Cure Blind"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "83"
+msgid "変身解け"
+msgstr "Revert Transformation"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "84"
+msgid "車内汚染を治す"
+msgstr "Cure Fumes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "85"
+msgid "自然回復1"
+msgstr "Natural Heal 1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "86"
+msgid "自然回復2"
+msgstr "Natural Heal 2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "87"
+msgid "自然回復3"
+msgstr "Natural Heal 3"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "88"
+msgid "自然回復4"
+msgstr "Natural Heal 4"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "89"
+msgid "自然修理１"
+msgstr "Natural Repair 1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "90"
+msgid "自然修理2"
+msgstr "Natural Repair 2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "91"
+msgid "自然修理3"
+msgstr "Natural Repair 3"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "92"
+msgid "自然修理4"
+msgstr "Natural Repair 4"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "93"
+msgid "誘爆（小）"
+msgstr "Explosion (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "94"
+msgid "$BNは誘爆した！"
+msgstr "$BN exploded!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "95"
+msgid "誘爆（中）"
+msgstr "Explosion (Medium)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "96"
+msgid "誘爆（大）"
+msgstr "Explosion (Large)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "97"
+msgid "誘爆（特大）"
+msgstr "Explosion (Very Large)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "98"
+msgid "催眠ガス"
+msgstr "Sleeping Gas"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "99"
+msgid "$BNは催眠ガスを噴出した！"
+msgstr ""
+"$BN emmited\n"
+"sleeping gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "100"
+msgid "毒ガス"
+msgstr "Poison Gas"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "101"
+msgid "$BNは毒ガスを噴出した！"
+msgstr ""
+"$BN emmited\n"
+"poison gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "102"
+msgid "猛毒ガス"
+msgstr "Toxic Gas"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "103"
+msgid ""
+"$BNから\n"
+"猛毒ガスが噴出した！"
+msgstr ""
+"$BN emmited\n"
+"toxic gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "104"
+msgid "アシッドアタック"
+msgstr "Acid Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "105"
+msgid ""
+"$BNから\n"
+"酸が噴出した！"
+msgstr ""
+"$BN spewed\n"
+"acid!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "106"
+msgid "もえ誘爆"
+msgstr "Flame Explosion"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "107"
+msgid ""
+"$BNから\n"
+"炎が噴出した！"
+msgstr ""
+"$BN spewed\n"
+"flames!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "108"
+msgid "混乱ガス誘爆"
+msgstr "Confusion Gas Explosion"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "109"
+msgid ""
+"$BNから\n"
+"混乱ガスが噴出した！"
+msgstr ""
+"$BN spewed\n"
+"confusion gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "110"
+msgid "まひガス誘爆"
+msgstr "Nerve Gas Explosion"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "111"
+msgid ""
+"$BNから\n"
+"まひガスが噴出した！"
+msgstr ""
+"$BN spewed\n"
+"nerve gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "112"
+msgid "自滅呼び３"
+msgstr "Self-Destruct Call 3"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "113"
+msgid "$BNは破裂した！"
+msgstr "$BN exploded!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "114"
+msgid "自滅呼び４"
+msgstr "Self-Destruct Call 4"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "115"
+msgid "自滅呼び５"
+msgstr "Self-Destruct Call 5"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "116"
+msgid "自滅呼び６"
+msgstr "Self-Destruct Call 6"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "117"
+msgid "自滅呼び７"
+msgstr "Self-Destruct Call 7"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "118"
+msgid "ユンボラー壊れ変身"
+msgstr "Backbomber Broken Transform"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "119"
+msgid ""
+"$BNの\n"
+"ショベルを破壊した！"
+msgstr ""
+"$BN's shovel\n"
+"was destroyed!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "120"
+msgid "電気ショック（小）"
+msgstr "Electric Shock (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "121"
+msgid "$BNは放電した！"
+msgstr ""
+"$BN\n"
+"discharged electricity!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "122"
+msgid "電気ショック（中）"
+msgstr "Electric Shock (Medium)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "123"
+msgid "電気ショック（大）"
+msgstr "Electric Shock (Large)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "124"
+msgid "電気ショック（特大）"
+msgstr "Electric Shock (Very Large)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "125"
+msgid ""
+"$BNは\n"
+"はげしく放電した！"
+msgstr ""
+"$BN discharged\n"
+"violently!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "126"
+msgid "電気ショック（超特大）"
+msgstr "Electric Shock (Super Large)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "127"
+msgid "電磁バリア１"
+msgstr "EM Barrier 1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "128"
+msgid ""
+"$BNは\n"
+"バリアをはった！"
+msgstr ""
+"$BN put up\n"
+"a barrier!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "129"
+msgid "電磁バリア２"
+msgstr "EM Barrier 2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "130"
+msgid "電磁バリア３"
+msgstr "EM Barrier 3"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "131"
+msgid "ＢＳコントローラ"
+msgstr "BS Controller"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "132"
+msgid ""
+"$BNは\n"
+"人工衛星に信号を送った！"
+msgstr ""
+"$BN sent a signal\n"
+"to a satellite!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "133"
+msgid "ＨＰ回復（特大）"
+msgstr "HP Recovery (Very Large)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "134"
+msgid "ＨＰ回復（超特大）"
+msgstr "HP Recovery (Super Large)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "135"
+msgid "ＨＰ回復（超特大２）"
+msgstr "HP Recovery (Super Large 2)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "136"
+msgid "ＨＰ全快"
+msgstr "HP Full Recovery"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "137"
+msgid "ミュートの薬"
+msgstr "Mutes Medicine"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "138"
+msgid "料理（回復カプセル）"
+msgstr "Cooking (Healing Capsule)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "139"
+msgid ""
+"$BNは$BIを\n"
+"口にほうりこんだ！"
+msgstr ""
+"$BN crammed a\n"
+"$BI into their mouth!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "140"
+msgid "酸を中和する"
+msgstr "Neutralize Acid"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "141"
+msgid "全回復＋まひ"
+msgstr "Full Recover + Paralyze"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "142"
+msgid "戦闘不能の回復"
+msgstr "Restore Incapacitation"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "143"
+msgid "マヒをなおす"
+msgstr "Cure Paralyze"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "144"
+msgid "混乱アタック"
+msgstr "Confusion Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "145"
+msgid "催眠アタック"
+msgstr "Sleep Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "146"
+msgid "「ひえ/大ひえ」を解消"
+msgstr "\"Chill/Big Chill\" Restore"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "147"
+msgid "「もえ/大もえ」を解消"
+msgstr "\"Flame/Big Flame\" Restore"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "148"
+msgid "煙幕花火"
+msgstr "Smoke Fireworks"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "149"
+msgid "攻撃力アップ"
+msgstr "Attack Up"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "150"
+msgid "素早さアップ"
+msgstr "Speed Up"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "151"
+msgid ""
+"$BNは\n"
+"$BIを吹いた！"
+msgstr ""
+"$BN blew a\n"
+"$BI!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "152"
+msgid "ステータスアップ小"
+msgstr "Status Up Small"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "153"
+msgid "犬ステータスアップ"
+msgstr "Dog Status Up"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "154"
+msgid "女ステータスアップ"
+msgstr "Woman Status Up"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "155"
+msgid "攻撃力指定型通常アタック"
+msgstr "Strength-Type Normal Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "156"
+msgid "投げにくい石"
+msgstr "Hard-to-throw Stone"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "157"
+msgid ""
+"$BNは\n"
+"$BIを投げた！"
+msgstr ""
+"$BN threw\n"
+"a $BI!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "158"
+msgid "投げやすい石"
+msgstr "Easy-to-throw Stone"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "159"
+msgid "カトール系攻撃"
+msgstr "Kator-type Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "160"
+msgid "アシッド定数ダメージ"
+msgstr "Acid Constant Damage"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "161"
+msgid "ＤＤＴスプレー"
+msgstr "DDT Spray"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "162"
+msgid "ナパーム定数ダメージ（最小）"
+msgstr "Napalm Constant Damage (Lowest)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "163"
+msgid "モロトフのマッチ"
+msgstr "Molotov Matches"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "164"
+msgid "冷凍定数ダメージ（中）"
+msgstr "Freeze Constant Damage (Middle)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "165"
+msgid ""
+"$BNは\n"
+"ドーピング注射をした！"
+msgstr ""
+"$BN started\n"
+"doping!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "166"
+msgid ""
+"$BNは\n"
+"ボールを投げた！"
+msgstr ""
+"$BN threw\n"
+"a ball!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "167"
+msgid ""
+"$BNは\n"
+"てりゅうだんを投げた！"
+msgstr ""
+"$BN threw\n"
+"a grenade!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "168"
+msgid ""
+"$BNは\n"
+"ＤＤパイナップルを投げた！"
+msgstr ""
+"$BN threw\n"
+"a DD Pineapple!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "169"
+msgid ""
+"$BNは\n"
+"ＲＰＧ７を使った！"
+msgstr ""
+"$BN used\n"
+"an RPG7!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "170"
+msgid "ＨＰ回復（中）"
+msgstr "HP Healing (Middle)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "171"
+msgid ""
+"$BNは\n"
+"回復カプセルを使った！"
+msgstr ""
+"$BN used a\n"
+"Healing Capsule!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "172"
+msgid "ＨＰ回復（大）"
+msgstr "HP Healing (Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "173"
+msgid ""
+"$BNは\n"
+"回復ドリンクを使った！"
+msgstr ""
+"$BN used a\n"
+"Healing Drink!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "174"
+msgid "ニトロビール"
+msgstr "Nitro Beer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "175"
+msgid ""
+"$BNは\n"
+"ニトロビールを投げた！"
+msgstr ""
+"$BN threw a\n"
+"Nitro Beer!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "176"
+msgid "炎バリア"
+msgstr "Flame Barrier"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "177"
+msgid "冷気バリア"
+msgstr "Freeze Barrier"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "178"
+msgid "ビームバリア"
+msgstr "Beam Barrier"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "179"
+msgid "ガスバリア"
+msgstr "Gas Barrier"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "180"
+msgid "音波バリア"
+msgstr "Sonic Barrier"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "181"
+msgid "電気バリア"
+msgstr "Elec Barrier"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "182"
+msgid "ビーム反射バリア"
+msgstr "Beam Reflect Barrier"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "183"
+msgid "炎定数ＤＭ小"
+msgstr "Flame Const DM (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "184"
+msgid "音波定数ＤＭ小"
+msgstr "Sonic Const DM (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "185"
+msgid "ビーム定数ＤＭ小"
+msgstr "Beam Const DM (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "186"
+msgid "冷気定数DM小"
+msgstr "Freeze Const DM (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "187"
+msgid "ガス定数DM小"
+msgstr "Gas Const DM (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "188"
+msgid "電気定数DM小"
+msgstr "Elec Const DM (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "189"
+msgid "電気定数DM大全"
+msgstr "Elec Const DM (Big) (All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "190"
+msgid "音波定数DM大全"
+msgstr "Sonic Const DM (Big)(All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "191"
+msgid "冷気定数DM大全"
+msgstr "Freeze Const DM (Big)(All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "192"
+msgid "火炎系定数DM特大"
+msgstr "Flame-type Const DM (Special)(All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "193"
+msgid "ビーム定数ＤＭ特大"
+msgstr "Beam Const DM (Special)(All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "194"
+msgid "ガス定数DM特大"
+msgstr "Gas Const DM (Special)(All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "195"
+msgid "獲得金額アップ"
+msgstr "Money Gain Increase"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "196"
+msgid "獲得経験値アップ"
+msgstr "EXP Gain Increase"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "197"
+msgid "奇怪ワカメ"
+msgstr "Odd Seaweed"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "198"
+msgid "ブレードツゥース変身"
+msgstr "Bladetooth Transformation"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "199"
+msgid "$BNの体に異変が…。"
+msgstr ""
+"$BN's body\n"
+"is transforming..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "200"
+msgid "男気パンチ"
+msgstr "Manly Punch"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "201"
+msgid ""
+"$BNの\n"
+"男気を込めた気合いのパンチ！"
+msgstr ""
+"$BN throws a punch\n"
+"full of manliness!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "202"
+msgid "パンチラキック"
+msgstr "Panty Kick"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "203"
+msgid ""
+"$BNの\n"
+"お色気満点のパンチラキック！"
+msgstr ""
+"$BN gives a kick\n"
+"full of Erotism!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "204"
+msgid "ゴーストドリフト"
+msgstr "Ghost Drift"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "205"
+msgid ""
+"$BNの\n"
+"ゴーストドリフト！"
+msgstr ""
+"$BN performs\n"
+"Ghost Drift!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "206"
+msgid "ハデなカカシ"
+msgstr "Flashy Scarecrow"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "207"
+msgid ""
+"$BNは\n"
+"ハデなカカシになった！"
+msgstr ""
+"$BN\n"
+"becomes a flashy scarecrew!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "208"
+msgid "おたけび"
+msgstr "Roar"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "209"
+msgid ""
+"$BNは\n"
+"おたけびをあげた！"
+msgstr ""
+"$BN\n"
+"roared!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "210"
+msgid "ニンジャステップ"
+msgstr "Ninja Step"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "211"
+msgid ""
+"$BNの\n"
+"ニンジャステップ！"
+msgstr ""
+"$BN performs\n"
+"Ninja Step!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "212"
+msgid "ゆるめる"
+msgstr "Loosen"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "213"
+msgid ""
+"$BNは\n"
+"ネジをゆるめた！"
+msgstr ""
+"$BN\n"
+"loosened screws!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "214"
+msgid "スパナ乱舞"
+msgstr "Spanner Dance"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "215"
+msgid ""
+"$BNの\n"
+"スパナ乱舞！"
+msgstr ""
+"$BN performs\n"
+"Spanner Dance!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "216"
+msgid "最も危険な修理"
+msgstr "Danger Fix"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "217"
+msgid ""
+"$BNは\n"
+"修理をはじめた！"
+msgstr ""
+"$BN\n"
+"began repairing!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "218"
+msgid "解体"
+msgstr "Disassembly"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "219"
+msgid ""
+"$BNは\n"
+"スパナで解体をはじめた！"
+msgstr ""
+"$BN\n"
+"began disassembling with the spanner!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "220"
+msgid "禁断の注射器"
+msgstr "Forbidden Syringe"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "221"
+msgid ""
+"$BNは\n"
+"禁断の注射器を使った！"
+msgstr ""
+"$BN\n"
+"used the Forbidden Syringe!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "222"
+msgid "四股ふみ"
+msgstr "Sumo Legs"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "223"
+msgid ""
+"$BNの\n"
+"ドラムストレッチ！"
+msgstr ""
+"$BN performs\n"
+"Drum Stretch!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "224"
+msgid "がぶる"
+msgstr "Shove Around"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "225"
+msgid ""
+"$BNの\n"
+"エルボー乱気流！"
+msgstr ""
+"$BN performs\n"
+"Elbow Turbulence!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "226"
+msgid "台風チョップ"
+msgstr "Typhoon Chop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "227"
+msgid ""
+"$BNの\n"
+"台風チョップ！"
+msgstr ""
+"$BN performs\n"
+"Typhoon Chop!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "228"
+msgid "ぶちかまソニック"
+msgstr "Sonic Speed Charge"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "229"
+msgid ""
+"$BNの\n"
+"ジェットハット！"
+msgstr ""
+"$BN performs\n"
+"Jet Hat!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "230"
+msgid "噴火無双"
+msgstr "Eruption"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "231"
+msgid ""
+"$BNの\n"
+"火炎カブキ！"
+msgstr ""
+"$BN performs\n"
+"Flame Kabuki!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "232"
+msgid "音速張り手"
+msgstr "Sonic Slap"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "233"
+msgid ""
+"$BNの\n"
+"ニトロラリアット！"
+msgstr ""
+"$BN performs\n"
+"Nitro Lariat!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "234"
+msgid "肉塊グラインダー"
+msgstr "Meat Grinder"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "235"
+msgid ""
+"$BNの\n"
+"肉塊グラインダー！"
+msgstr ""
+"$BN's\n"
+"Meat Grinder!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "236"
+msgid "ヨコヅナオーラ"
+msgstr "Champ Aura"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "237"
+msgid ""
+"$BNは\n"
+"ヨコヅナオーラをまとった！"
+msgstr ""
+"$BN\n"
+"is wrapped in Champion Aura!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "238"
+msgid "死んだふり"
+msgstr "Feign Death"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "239"
+msgid ""
+"$BNは\n"
+"死んだふりをした！"
+msgstr ""
+"$BN\n"
+"played dead!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "240"
+msgid "暗黒舞踏"
+msgstr "Butoh"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "241"
+msgid ""
+"$BNの\n"
+"暗黒舞踏！"
+msgstr ""
+"$BN performs\n"
+"A deadly Butoh!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "242"
+msgid "爆発ゲージツ"
+msgstr "Explosion Art"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "243"
+msgid ""
+"$BNの\n"
+"爆発ゲージツ！"
+msgstr ""
+"$BN performs\n"
+"Explode Craft!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "244"
+msgid "おしっこ"
+msgstr "Number One"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "245"
+msgid ""
+"$BNは\n"
+"おしっこをした。"
+msgstr "$BN peed."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "246"
+msgid "吼える"
+msgstr "Howl"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "247"
+msgid "$BNはほえた！"
+msgstr ""
+"$BN\n"
+"howled!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "248"
+msgid "じゃれる"
+msgstr "Play"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "249"
+msgid "$BNはじゃれついた！"
+msgstr ""
+"$BN played\n"
+"with the enemy!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "250"
+msgid "掘る"
+msgstr "Dig"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "251"
+msgid ""
+"$BNは\n"
+"地面を掘った！"
+msgstr ""
+"$BN dug\n"
+"into the ground!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "252"
+msgid "ポチ突進"
+msgstr "Dog Charge"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "253"
+msgid "$BNは突進した！"
+msgstr ""
+"$BN\n"
+"charged!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "254"
+msgid "モーレツ看護"
+msgstr "Gung Ho Nurse"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "255"
+msgid ""
+"$BNの\n"
+"モーレツ看護！"
+msgstr ""
+"$BN performs\n"
+"Gung Ho Nurse!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "256"
+msgid "緊急手術"
+msgstr "Spot Surgery"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "257"
+msgid ""
+"$BNは\n"
+"緊急手術をはじめた！"
+msgstr ""
+"$BN begam\n"
+"Spot Surgery!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "258"
+msgid "気つけ薬"
+msgstr "Restorative"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "259"
+msgid ""
+"$BNは\n"
+"気つけ薬を使った！"
+msgstr ""
+"$BN used\n"
+"the Restorative!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "260"
+msgid "満タン看護"
+msgstr "Fill Up Nurse"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "261"
+msgid ""
+"$BNの\n"
+"満タン看護！"
+msgstr ""
+"$BN performs\n"
+"Fill Up Nurse!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "262"
+msgid "戦場のＡＥＤ"
+msgstr "Battle AED"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "263"
+msgid ""
+"$BNは\n"
+"ＡＥＤを使った！"
+msgstr ""
+"$BN used \n"
+"an AED!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "264"
+msgid "ドラム缶"
+msgstr "Drum Can"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "265"
+msgid ""
+"$BNはドラム缶になって\n"
+"ころがった！"
+msgstr ""
+"$BN turns into a drum can\n"
+"and rolls!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "266"
+msgid "ソプラノ歌手"
+msgstr "Soprano Singer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "267"
+msgid ""
+"$BNはソプラノ歌手になって\n"
+"歌った！"
+msgstr ""
+"$BN becomes a Soprano Singer\n"
+"and sings!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "268"
+msgid "殺人アメーバ"
+msgstr "Killer Amoeba"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "269"
+msgid ""
+"$BNは殺人アメーバになって\n"
+"酸を吐いた！"
+msgstr ""
+"$BN becomes a Killer Amoeba\n"
+"and spits acid!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "270"
+msgid "うろつきポリタン"
+msgstr "Wild Polytank"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "271"
+msgid ""
+"$BNはうろつきポリタンになって\n"
+"火炎を吹いた！"
+msgstr ""
+"$BN becomes a Wild Polytank\n"
+"and spits flames!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "272"
+msgid "裂鋼爪"
+msgstr "Metal Ripper"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "273"
+msgid ""
+"$BNの\n"
+"裂鋼爪！！"
+msgstr ""
+"$BN's\n"
+"Metal Ripper!!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "274"
+msgid "ＡTスラッシュ"
+msgstr "AT Slash"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "275"
+msgid ""
+"$BNの\n"
+"ＡTスラッシュ！！"
+msgstr ""
+"$BN's\n"
+"AT Slash!!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "276"
+msgid "ハンターキラー"
+msgstr "Hunter Killer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "277"
+msgid ""
+"$BNの\n"
+"ハンターキラー！！"
+msgstr ""
+"$BN's\n"
+"Hunter Killer!!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "278"
+msgid "ブレードトゥース咆哮"
+msgstr "Blade Tooth Roar"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "279"
+msgid "タイルパック１"
+msgstr "Tile Pack 1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "280"
+msgid ""
+"$BNは\n"
+"タイルパック１００を使った！"
+msgstr ""
+"$BN used\n"
+"a Tile Pack 100!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "281"
+msgid "タイルパック２"
+msgstr "Tile Pack 2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "282"
+msgid ""
+"$BNは\n"
+"タイルパック２５０を使った！"
+msgstr ""
+"$BN used\n"
+"a Tile Pack 250!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "283"
+msgid "タイルパック３"
+msgstr "Tile Pack 3"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "284"
+msgid ""
+"$BNは\n"
+"タイルパック５００を使った！"
+msgstr ""
+"$BN used\n"
+"a Tile Pack 500!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "285"
+msgid "タイルパック４"
+msgstr "Tile Pack 4"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "286"
+msgid ""
+"$BNは\n"
+"タイルパックLを使った！"
+msgstr ""
+"$BN used\n"
+"a Tile Pack L!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "287"
+msgid "タイルパック５"
+msgstr "Tile Pack 5"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "288"
+msgid ""
+"$BNは\n"
+"タイルパックLLを使った！"
+msgstr ""
+"$BN used\n"
+"a Tile Pack LL!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "289"
+msgid "シャシー体当たり"
+msgstr "Chassis Slam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "290"
+msgid ""
+"$BNは\n"
+"突撃した！"
+msgstr ""
+"$BN\n"
+"charged!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "291"
+msgid ""
+"$BNは\n"
+"ふわふわとたたずんでいる。"
+msgstr ""
+"$BNis \n"
+"floating around."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "292"
+msgid "モスキートーン"
+msgstr "Mosquito Tone"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "293"
+msgid ""
+"$BNが\n"
+"どこかをとんでいる。"
+msgstr ""
+"$BN is\n"
+"flying aimlessly."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "294"
+msgid "気づく"
+msgstr "Notice"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "295"
+msgid ""
+"$BNは\n"
+"こちらに気づいた。"
+msgstr ""
+"$BN\n"
+"noticed you."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "296"
+msgid "気づいていない"
+msgstr "Doesn't notice"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "297"
+msgid ""
+"$BNは\n"
+"こちらに気づいていない。"
+msgstr ""
+"$BN\n"
+"doesn't notice you."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "298"
+msgid "エネルギー貯め"
+msgstr "Charge Energy"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "299"
+msgid ""
+"$BNは\n"
+"エネルギーをためている。"
+msgstr ""
+"$BNis\n"
+"charging energy."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "300"
+msgid "クランザコ挑発"
+msgstr "Clan Mob Taunt"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "301"
+msgid ""
+"$BNは\n"
+"ガンをとばしている。"
+msgstr ""
+"$BN is\n"
+"glaring at you."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "302"
+msgid "回転ドア回転"
+msgstr "Turning Door Turn"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "303"
+msgid ""
+"$BNは\n"
+"回転した！"
+msgstr ""
+"$BN\n"
+"turned!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "304"
+msgid "武器変更"
+msgstr "Weapon Change"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "305"
+msgid ""
+"$BNは\n"
+"武器を変えた！"
+msgstr ""
+"$BN\n"
+"change the weapon!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "306"
+msgid "いやーん"
+msgstr "Oh noopes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "307"
+msgid "$BN「いやーーん。"
+msgstr "$BN: \"Oh noopes\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "308"
+msgid "おほほほほ"
+msgstr "Oh Hoh Hoh"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "309"
+msgid "$BN「おほほほほほ。"
+msgstr "$BN:\"Oh! Hoh! Hoh!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "310"
+msgid "死亡"
+msgstr "Death"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "311"
+msgid "$BNをたおした！"
+msgstr "$BN was defeated!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "312"
+msgid "弾がない"
+msgstr "Out of Ammo"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "313"
+msgid "$BNの攻撃！"
+msgstr "$BN attacks!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "314"
+msgid "空っぽ"
+msgstr "Empty"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "315"
+msgid ""
+"$BNは\n"
+"火炎を放射した？！"
+msgstr ""
+"$BN somehow\n"
+"spewed flame!?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "316"
+msgid "殴り小"
+msgstr "Bash (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "317"
+msgid "殴り中"
+msgstr "Bash (Middle)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "318"
+msgid "殴り大"
+msgstr "Bash (Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "319"
+msgid "かみつき"
+msgstr "Bite"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "320"
+msgid "$BNのかみつき攻撃！"
+msgstr "$BN attacked by biting!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "321"
+msgid "ノコギリ"
+msgstr "Saw"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "322"
+msgid "$BNのノコギリ攻撃！"
+msgstr "$BN's Saw Attack!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "323"
+msgid "しっぽ攻撃"
+msgstr "Tail Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "324"
+msgid ""
+"$BNは\n"
+"しっぽをふりまわした！"
+msgstr ""
+"$BN\n"
+"swung the tail!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "325"
+msgid "尾びれ攻撃"
+msgstr "Tail Fin Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "326"
+msgid ""
+"$BNは\n"
+"尾びれをふりまわした！"
+msgstr ""
+"$BN\n"
+"swung the tail fin!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "327"
+msgid "銃剣"
+msgstr "Bayonet"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "328"
+msgid ""
+"$BNは\n"
+"ずつきをしてきた！"
+msgstr ""
+"$BN rammed\n"
+"with its head!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "329"
+msgid "大砲小"
+msgstr "Cannon (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "330"
+msgid "大砲中"
+msgstr "Cannon (Middle)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "331"
+msgid "大砲大"
+msgstr "Cannon (Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "332"
+msgid "大砲特大"
+msgstr "Cannon (Extra-Large)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "333"
+msgid "大砲３連射"
+msgstr "Cannon 3 Burst"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "334"
+msgid "$BNは大砲を連射した！"
+msgstr "$BN fired the cannon in a row!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "335"
+msgid "$BNは全門発射した！"
+msgstr "$BN fired all cannons!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "336"
+msgid "ミサイル小全"
+msgstr "Missiles (Small) (All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "337"
+msgid ""
+"$BNは\n"
+"ミサイルを発射した！"
+msgstr ""
+"$BN fired\n"
+"missiles!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "338"
+msgid "ミサイル中全"
+msgstr "Missiles (Middle) (All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "339"
+msgid "ミサイル大全"
+msgstr "Missiles (Big) (All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "340"
+msgid "ミサイル円小"
+msgstr "Missiles (Circle)(Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "341"
+msgid "ミサイル円大"
+msgstr "Missiles (Circle)(Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "342"
+msgid "ミサイル大乱射"
+msgstr "Missiles (Random) (Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "343"
+msgid "ミサイル２発同時発射"
+msgstr "Missle (Double)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "344"
+msgid "きりもみミサイル小"
+msgstr "Tailspin Missile (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "345"
+msgid "きりもみミサイル中"
+msgstr "Tailspin Missile (Middle)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "346"
+msgid "きりもみミサイル大"
+msgstr "Tailspin Missile (Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "347"
+msgid "きりもみミサイル集中砲火"
+msgstr "Tailspin Missile (Concentrated Fire)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "348"
+msgid "爆撃大"
+msgstr "Bombing (Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "349"
+msgid "$BNは爆撃をした！"
+msgstr "$BN dropped bombs!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "350"
+msgid "爆撃大全"
+msgstr "Bombing (Big) (All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "351"
+msgid "一発大砲"
+msgstr "1-shot Cannon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "352"
+msgid "ローズドリル"
+msgstr "Rose Drill"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "353"
+msgid "$BNはトゲをとばした！"
+msgstr "$BN shot thorns!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "354"
+msgid "タンポポ爆弾"
+msgstr "Dandelion Bomb"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "355"
+msgid "$BNは種をとばした！"
+msgstr "$BN shot seeds!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "356"
+msgid "手オノ"
+msgstr "Hatchet"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "357"
+msgid "$BNはオノを投げた！"
+msgstr "$BN threw an axe!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "358"
+msgid "投げナイフ"
+msgstr "Toss Knife"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "359"
+msgid "$BNはナイフを投げた！"
+msgstr "$BN threw a knife!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "360"
+msgid "キック"
+msgstr "Kick"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "361"
+msgid "$BNのキック攻撃！"
+msgstr "$BN kicks!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "362"
+msgid "機銃"
+msgstr "Machinegun "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "363"
+msgid "機銃集中攻撃"
+msgstr "Machinegun (Concretated Attack)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "364"
+msgid "バルカン攻撃小"
+msgstr "Vulcan Gun Attack (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "365"
+msgid "バルカン攻撃大"
+msgstr "Vulcan Gun Attack (Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "366"
+msgid "バルカン攻撃全"
+msgstr "Vulcan Gun Attack (All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "367"
+msgid "機銃全体攻撃"
+msgstr "Machinegun Attack (All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "368"
+msgid "殴り大（会心）"
+msgstr "Hit (Big) (Crit)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "369"
+msgid "ドリル小"
+msgstr "Drill (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "370"
+msgid "$BNのドリル攻撃！"
+msgstr "$BN's Drill Attack!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "371"
+msgid "鉄球"
+msgstr "Iron Ball"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "372"
+msgid ""
+"$BNは\n"
+"鉄球をなげてきた！"
+msgstr ""
+"$BN\n"
+"threw an Iron Ball!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "373"
+msgid "メロン投げ"
+msgstr "Melon Throw"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "374"
+msgid ""
+"$BNは\n"
+"あくまのメロンをなげてきた！"
+msgstr ""
+"$BN\n"
+"threw the Demon Melon!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "375"
+msgid "殴り大（痛恨）"
+msgstr "Hit (Big) (Crit)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "376"
+msgid "ドリル大"
+msgstr "Drill (Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "377"
+msgid "大砲特大（痛恨）"
+msgstr "Cannon (Extra-Large) (Crit)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "378"
+msgid "アイロンプレス"
+msgstr "Iron Press"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "379"
+msgid ""
+"$BNの\n"
+"アイロンプレス！"
+msgstr ""
+"$BN's\n"
+"Iron Press!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "380"
+msgid "トースト弾"
+msgstr "Toast Bullets"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "381"
+msgid ""
+"$BNは\n"
+"トーストを発射した！"
+msgstr "$BN fired Toasts!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "382"
+msgid "電気系通常アタック"
+msgstr "Elec-Type Normal Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "383"
+msgid ""
+"$BNは\n"
+"プラズマ球を発した！"
+msgstr ""
+"$BN\n"
+"fired a Plasma Ball!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "384"
+msgid "衝撃アタック１"
+msgstr "Impact Attack 1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "385"
+msgid "$BNは衝撃波を発した！"
+msgstr "$BN emitted a Shockwave!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "386"
+msgid "衝撃アタック２"
+msgstr "Impact Attack 2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "387"
+msgid ""
+"$BNは\n"
+"ブーメランスパナをなげた！"
+msgstr ""
+"$BN\n"
+"threw a Boomerang Spanner!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "388"
+msgid "衝撃ドリル"
+msgstr "Impact Drill"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "389"
+msgid ""
+"$BNは\n"
+"解体作業をはじめた！"
+msgstr ""
+"$BN\n"
+"began dismantling!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "390"
+msgid "衝撃アタック３"
+msgstr "Impact Attack 3"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "391"
+msgid "攻撃＋けむまひ"
+msgstr "Attack + Smoke + Paralyze"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "392"
+msgid "$BNのまひ攻撃！"
+msgstr "$BN's paralyze attack!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "393"
+msgid "攻撃＋まひ"
+msgstr "Attack + Paralyze"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "394"
+msgid ""
+"$BNは\n"
+"酸をたらした！"
+msgstr ""
+"$BN\n"
+"spilled acid!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "395"
+msgid ""
+"$BNは\n"
+"酸を吐き出した！"
+msgstr ""
+"$BN\n"
+"spit acid!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "396"
+msgid ""
+"$BNは\n"
+"硫酸液を噴出した！"
+msgstr ""
+"$BN\n"
+"spouted sulfurice acid solution!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "397"
+msgid "アシッド定数ダメージ（小）"
+msgstr "Acid Const Damage (Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "398"
+msgid ""
+"$BNは\n"
+"強酸を吐き出した！"
+msgstr ""
+"$BN\n"
+"spit a strong acid!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "399"
+msgid "アシッド定数ダメージ（大）"
+msgstr "Acid Const Damage (Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "400"
+msgid "鉄かじり（極小）"
+msgstr "Iron Bite (Very Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "401"
+msgid "$BNの針にさされた！"
+msgstr ""
+"$BN's\n"
+"needles sting!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "402"
+msgid "鉄かじり（小）"
+msgstr "Iron Bite (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "403"
+msgid ""
+"$BNは\n"
+"かじりついてきた！"
+msgstr "$BN bites!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "404"
+msgid "鉄かじり（中）"
+msgstr "Iron Bite (Middle)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "405"
+msgid "鉄かじり（大）"
+msgstr "Iron Bite (Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "406"
+msgid "鉄かじり（特大）"
+msgstr "Iron Bite (Extra-Large)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "407"
+msgid "溶解液"
+msgstr "Dissolution Fluid"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "408"
+msgid ""
+"$BNは\n"
+"溶解液を吐き出した！"
+msgstr ""
+"$BN\n"
+"spit Dissolution Fluid!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "409"
+msgid ""
+"$BNは\n"
+"濃硫酸を吐き出した！"
+msgstr ""
+"$BN\n"
+"spit Concentrated Sulphuric Acid"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "410"
+msgid "ガラクタ飛ばし"
+msgstr "Throwing Junk"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "411"
+msgid ""
+"$BNは\n"
+"ガラクタをとばした！"
+msgstr ""
+"$BN\n"
+"tossed junk!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "412"
+msgid "定数ダメージ（中）"
+msgstr "Const Damage (Middle)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "413"
+msgid ""
+"$BNは\n"
+"泡をふきだした！"
+msgstr ""
+"$BN\n"
+"blew bubbles!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "414"
+msgid "定数ダメージ（大）"
+msgstr "Const Damage (Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "415"
+msgid "定数ダメージ（最小）"
+msgstr "Const Damage (Smallest)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "416"
+msgid ""
+"$BNは\n"
+"音波を発した！"
+msgstr ""
+"$BN emitted\n"
+"sound waves!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "417"
+msgid "定数ダメージ（小）"
+msgstr "Const Damage (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "418"
+msgid "定数ダメージ（特大）"
+msgstr "Const Damage (Extra-large)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "419"
+msgid "定数ダメージ（超特大）"
+msgstr "Const Damage (Super Extra-large)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "420"
+msgid "車内定数ダメージ（小）"
+msgstr "In-Vehicle Const Damage (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "421"
+msgid ""
+"$BNは\n"
+"怪音波を発した！"
+msgstr ""
+"$BN emitted\n"
+"odd sound waves!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "422"
+msgid "車内定数ダメージ（中）"
+msgstr "In-Vehicle Const Damage (Middle)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "423"
+msgid "車内定数ダメージ（大）"
+msgstr "In-Vehicle Const Damage (Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "424"
+msgid ""
+"$BNは\n"
+"火炎を放射した！"
+msgstr "$BN spew flames!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "425"
+msgid ""
+"$BNは\n"
+"熱波を放射した！"
+msgstr ""
+"$BN radiated\n"
+"heat wave!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "426"
+msgid ""
+"$BNは\n"
+"火炎を吹いた！"
+msgstr "$BN blew flames!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "427"
+msgid ""
+"$BNは\n"
+"火炎を吐いた！"
+msgstr "$BN spat flames!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "428"
+msgid ""
+"$BNの\n"
+"火炎攻撃！"
+msgstr "$BN's flame attack!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "429"
+msgid "定数ダメージ（超特大２）"
+msgstr "Const Damage (Super Extra-large 2)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "430"
+msgid "ナパーム定数ダメージ（中）"
+msgstr "Napalm Const Damage (Middle)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "431"
+msgid ""
+"$BNは\n"
+"火球を吐き出した！"
+msgstr ""
+"$BN\n"
+"spat a fireball!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "432"
+msgid "ナパーム定数ダメージ（大）"
+msgstr "Napalm Const Damage (Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "433"
+msgid ""
+"$BNは\n"
+"火球を発射した！"
+msgstr ""
+"$BN\n"
+"fired a fireball!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "434"
+msgid "大ナパーム定数ダメージ（特大）"
+msgstr "Napalm Const Damage (Extra-large)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "435"
+msgid "$BNのナパーム攻撃！"
+msgstr "$BN's Napalm Attack!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "436"
+msgid "大ナパーム定数ダメージ（超特大）"
+msgstr "Big Napalm Const Damage (Super Extra-large)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "437"
+msgid "$BNの熱光線！"
+msgstr "$BN's Heat Beam!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "438"
+msgid ""
+"$BNは\n"
+"ビームを発射した！"
+msgstr ""
+"$BN fired\n"
+"a beam!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "439"
+msgid ""
+"$BNは\n"
+"ビームを全方向に発射した！"
+msgstr ""
+"$BN fired\n"
+"a beam in all directions!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "440"
+msgid ""
+"$BNは\n"
+"ビームでなぎはらった！"
+msgstr ""
+"$BN fired\n"
+"a sweeping beam!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "441"
+msgid ""
+"$BNは\n"
+"拡散ビームを発射した！"
+msgstr ""
+"$BN fired\n"
+"a spreading beam!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "442"
+msgid ""
+"$BNは\n"
+"量子波動砲を発射した！"
+msgstr ""
+"$BN fired\n"
+"a Quantum wave cannon!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "443"
+msgid "$BNの冷凍ガス攻撃！"
+msgstr ""
+"$BN's\n"
+"freezing gas attack!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "444"
+msgid ""
+"$BNは\n"
+"冷凍ガスを噴射した！"
+msgstr ""
+"$BN sprayed\n"
+"freezing gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "445"
+msgid "冷凍定数ダメージ（超特大）"
+msgstr "Freeze Const Damage (Super Extra-large)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "446"
+msgid "$BNの冷凍光線！"
+msgstr "$BN's Freezing Beam!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "447"
+msgid "冷凍定数ダメージ（大）"
+msgstr "Freeze Const Damage (Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "448"
+msgid ""
+"$BNは\n"
+"冷凍ガスを吐いた！"
+msgstr ""
+"$BN spat\n"
+"freezing gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "449"
+msgid "冷凍定数ダメージ（特大）"
+msgstr "Freeze Const Damage (Extra-large)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "450"
+msgid ""
+"$BNは\n"
+"強烈な冷気を噴出した！"
+msgstr ""
+"$BN\n"
+"spout a powerful cold air!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "451"
+msgid "$BNは抱きついてきた！"
+msgstr "$BN hugged you!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "452"
+msgid ""
+"$BNは\n"
+"電撃を発した！"
+msgstr ""
+"$BN emitted\n"
+"electricity!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "453"
+msgid ""
+"$BNは\n"
+"はげしい電撃を発した！"
+msgstr ""
+"$BN emitted\n"
+"electricity violently!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "454"
+msgid "電気ショック（超特大２）"
+msgstr "Elec Shock (Super Extra-large 2)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "455"
+msgid "吸血定数ダメージ（小）"
+msgstr "Blood-sucking Const Damage (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "456"
+msgid "$BNは血を吸った！"
+msgstr "$BN sucked blood!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "457"
+msgid "吸血定数ダメージ（大）"
+msgstr "Blood-sucking Const Damage (Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "458"
+msgid "吸血定数ダメージ（中）"
+msgstr "Blood-sucking Const Damage (Middle)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "459"
+msgid "吸血定数ダメージ（特大）"
+msgstr "Blood-sucking Const Damage (Extra-large)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "460"
+msgid "吸血定数ダメージ（超特大）"
+msgstr "Blood-sucking Const Damage (Super Extra-large)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "461"
+msgid "$BNの吸血攻撃！"
+msgstr "$BN's blood-sucking attack!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "462"
+msgid ""
+"$BNは\n"
+"死体をかじっている。"
+msgstr ""
+"$BN is\n"
+"munching a corpse."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "463"
+msgid "インテリア投げ"
+msgstr "Throw interiors"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "464"
+msgid "$BNがとんできた！"
+msgstr "$BN flew in!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "465"
+msgid "カミカゼアタック２"
+msgstr "Kamikaze Attack 2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "466"
+msgid ""
+"$BNは\n"
+"大爆発した！！"
+msgstr ""
+"$BN\n"
+"blew up!!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "467"
+msgid "カミカゼアタック"
+msgstr "Kamikaze Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "468"
+msgid "$BNは突撃してきた！"
+msgstr "$BN rammed!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "469"
+msgid "カミカゼアタック（地中版）"
+msgstr "Kamikaze Attack (In-Ground Version)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "470"
+msgid ""
+"$BNは\n"
+"地面を進んでいる！"
+msgstr ""
+"$BN is moving\n"
+"beneath the ground!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "471"
+msgid "電気スタンド投げ"
+msgstr "Throw desk lamp"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "472"
+msgid "破裂[イモバルカン]"
+msgstr "Rupture (Worm Vulcan)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "473"
+msgid "混乱自爆"
+msgstr "Confusion Self-Destruct"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "474"
+msgid "$BNは自爆した！！"
+msgstr "$BN self-destructed!!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "475"
+msgid "突撃"
+msgstr "Charge"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "476"
+msgid ""
+"$BNは\n"
+"突撃してきた！"
+msgstr "$BN charged!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "477"
+msgid "突進"
+msgstr "Rush"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "478"
+msgid ""
+"$BNは\n"
+"突進してきた！"
+msgstr "$BN rushed in!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "479"
+msgid "スピードアタック"
+msgstr "Speed Attack!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "480"
+msgid ""
+"$BNは\n"
+"いきおいをつけて突進してきた！"
+msgstr ""
+"$BN charged\n"
+"with force!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "481"
+msgid ""
+"$BNは\n"
+"毒ガスを噴出した！"
+msgstr ""
+"$BN spewed\n"
+"poison gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "482"
+msgid "毒ガス全"
+msgstr "Poison Gas (All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "483"
+msgid ""
+"$BNは\n"
+"猛毒ガスを吐いた！"
+msgstr ""
+"$BN vomited\n"
+"deadly poison gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "484"
+msgid ""
+"$BNは\n"
+"猛毒ガスを噴出した！"
+msgstr ""
+"$BN spewed\n"
+"deadly poison gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "485"
+msgid "猛毒ガス全"
+msgstr "Deadly Poisonous Gas (All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "486"
+msgid ""
+"$BNが\n"
+"催眠針をさしてきた！"
+msgstr ""
+"$BN\n"
+"stabbed you with a sleeping needle!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "487"
+msgid ""
+"$BNは\n"
+"催眠音波を発した！"
+msgstr ""
+"$BN emitted\n"
+"sleeping waves!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "488"
+msgid "催眠花粉"
+msgstr "Sleeping Pollen"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "489"
+msgid ""
+"$BNは\n"
+"花粉をまきちらした！"
+msgstr ""
+"$BN\n"
+"spread pollen!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "490"
+msgid ""
+"$BNは\n"
+"催眠ガスを噴出した！"
+msgstr ""
+"$BN spewed\n"
+"sleeping gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "491"
+msgid ""
+"$BNは\n"
+"催眠ガスを吐いた！"
+msgstr ""
+"$BN vomited\n"
+"sleeping gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "492"
+msgid ""
+"$BNは\n"
+"混乱音波を発した！"
+msgstr ""
+"$BN emitted\n"
+"confusion waves!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "493"
+msgid ""
+"$BNは\n"
+"混乱ガスを吐いた！"
+msgstr ""
+"$BN vomited\n"
+"confusion gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "494"
+msgid ""
+"$BNは\n"
+"混乱ガスを噴出した！"
+msgstr ""
+"$BN spewed\n"
+"sleeping gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "495"
+msgid "まひアタック"
+msgstr "Paralyze Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "496"
+msgid ""
+"$BNは\n"
+"まひ針をさしてきた！"
+msgstr ""
+"$BN\n"
+"stabbed with paralyzing needles!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "497"
+msgid ""
+"$BNは\n"
+"まひガスを吐いた！"
+msgstr ""
+"$BN vomited\n"
+"nerve gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "498"
+msgid ""
+"$BNは\n"
+"まひガスを噴出した！"
+msgstr ""
+"$BN spewed\n"
+"nerve gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "499"
+msgid "誘惑アタック"
+msgstr "Temptation Attck"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "500"
+msgid ""
+"$BNは\n"
+"誘惑音波を発した！"
+msgstr ""
+"$BN emitted\n"
+"temptation waves!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "501"
+msgid ""
+"$BNは\n"
+"怪しいガスを吐いた！"
+msgstr ""
+"$BN spitted\n"
+"a mysterious gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "502"
+msgid "寄生チャーム"
+msgstr "Parasitic Charm"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "503"
+msgid "$BNはとりついてきた！"
+msgstr "$BN attached!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "504"
+msgid "バーサク状態化"
+msgstr "Becoming Berserk"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "505"
+msgid "$BNは挑発している。"
+msgstr "$BN is taunting."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "506"
+msgid "獣の咆哮"
+msgstr "Beast Roar"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "507"
+msgid "タコ墨アタック"
+msgstr "Octopus Ink Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "508"
+msgid ""
+"$BNは\n"
+"真っ黒いスミをはいた！"
+msgstr ""
+"$BN spit\n"
+"a pitch-black ink!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "509"
+msgid "ＨＰ回復（小）－他"
+msgstr "HP Healing (Small) - Others"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "510"
+msgid ""
+"$BNは\n"
+"注射をした！"
+msgstr ""
+"$BN injected\n"
+"medicine!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "511"
+msgid "ＨＰ回復（中）－他"
+msgstr "HP Healing (Middle) - Others"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "512"
+msgid "ＨＰ全快自"
+msgstr "Total Healing (Self)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "513"
+msgid ""
+"$BNの\n"
+"ＨＰがみるみる回復する。"
+msgstr ""
+"$BN is\n"
+"regenerating very fast."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "514"
+msgid "ＨＰ全快他"
+msgstr "Total Healing (Others)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "515"
+msgid ""
+"$BNは\n"
+"治療をはじめた！"
+msgstr ""
+"$BN began\n"
+"healing!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "516"
+msgid "まんたーんドリンク"
+msgstr "Full HP Drink"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "517"
+msgid ""
+"$BN\n"
+"「まんたーんドリーーンク！"
+msgstr ""
+"$BN:\n"
+"\"Full HP Drink!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "518"
+msgid "$BNのＨＰがみるみる回復する！"
+msgstr ""
+"$BN is quickly\n"
+"regenerating!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "519"
+msgid "ＨＰ回復（小）－自"
+msgstr "HP Healing (Small) - Self"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "520"
+msgid ""
+"$BNは\n"
+"何かをぼりぼり食べている。"
+msgstr ""
+"$BN is\n"
+"munching something."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "521"
+msgid "ＨＰ回復（中）－自"
+msgstr "HP Healing (Middle) - Self"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "522"
+msgid "合体回復"
+msgstr "Combined Healing"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "523"
+msgid "$BNは合体した！"
+msgstr "$BN combined!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "524"
+msgid "ＨＰ渡し"
+msgstr "HP Handover"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "525"
+msgid ""
+"$BNは\n"
+"エネルギーを注入した！"
+msgstr ""
+"$BN injected\n"
+"energy!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "526"
+msgid ""
+"$BNは\n"
+"仲間を呼んだ！"
+msgstr ""
+"$BN called\n"
+"for allies!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "527"
+msgid "ＳＰ回復１"
+msgstr "SP Healing 1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "528"
+msgid ""
+"$BNは\n"
+"装甲タイルをはりはじめた！"
+msgstr ""
+"$BN began\n"
+"applying Armor Tiles!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "529"
+msgid "修理１"
+msgstr "Repair 1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "530"
+msgid ""
+"$BNは\n"
+"修理を始めた！"
+msgstr ""
+"$BN began\n"
+"repairing!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "531"
+msgid "修理全"
+msgstr "Repair All"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "532"
+msgid "弾数アップ"
+msgstr "Increase Ammo Counts"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "533"
+msgid ""
+"$BNは\n"
+"弾を装填している。"
+msgstr ""
+"$BN is\n"
+"loading ammo."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "534"
+msgid ""
+"$BNは\n"
+"充電している。"
+msgstr ""
+"$BN is\n"
+"charging power."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "535"
+msgid ""
+"$BNは\n"
+"やすんでいる。"
+msgstr ""
+"$BN is\n"
+"resting."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "536"
+msgid ""
+"$BNは\n"
+"弾の補給をはじめた！"
+msgstr ""
+"$BN began\n"
+"resupplying ammo!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "537"
+msgid "鉄かじり（超特大）＋弾補給"
+msgstr "Iron Bite (Super EX large) + Ammo Refill"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "538"
+msgid "$BNは改造を始めた！"
+msgstr ""
+"$BN began\n"
+"modification!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "539"
+msgid "$BNはおたけびをあげた！"
+msgstr "$BN roared!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "540"
+msgid "命中率アップ"
+msgstr "Increase Accuracy"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "541"
+msgid ""
+"$BNは\n"
+"サーチ電波を発した！"
+msgstr ""
+"$BN emitted\n"
+"search radar wave!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "542"
+msgid "命中率アップ全"
+msgstr "Increase Accuracy (All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "543"
+msgid "耳を動かす"
+msgstr "Move ears"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "544"
+msgid ""
+"$BNは\n"
+"耳を動かしている。"
+msgstr ""
+"$BN is moving\n"
+"its ears."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "545"
+msgid "命中率ダウン全"
+msgstr "Lower Accuracy (All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "546"
+msgid ""
+"$BNは\n"
+"妨害電波を発した！"
+msgstr ""
+"$BN\n"
+"emitted Jamming wave!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "547"
+msgid "回避率アップ全"
+msgstr "Increase Evasion (All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "548"
+msgid "回避率アップ"
+msgstr "Increase Evasion"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "549"
+msgid ""
+"$BNは\n"
+"羽ばたいている。"
+msgstr ""
+"$BN is\n"
+"flapping."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "550"
+msgid "回避率ダウン全"
+msgstr "Decrease Evasion (All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "551"
+msgid "$BNは妨害電波を発した！"
+msgstr ""
+"$BN\n"
+"emitted Jamming wave!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "552"
+msgid "逃走"
+msgstr "Run away"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "553"
+msgid "$BNは逃げ出した…。"
+msgstr "$BN ran away..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "554"
+msgid "ひとり逃走"
+msgstr "Run away (Alone)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "555"
+msgid ""
+"$BNは\n"
+"ひとりだけ逃げ出した…。"
+msgstr "$BN ran away alone..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "556"
+msgid "混乱逃走"
+msgstr "Confusion Runaway"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "557"
+msgid "確率逃走"
+msgstr "Probable Runaway"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "558"
+msgid "受信逃走"
+msgstr "Reception Runaway"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "559"
+msgid ""
+"$BNは\n"
+"メールを受信した！"
+msgstr ""
+"$BN recieved\n"
+"a text message!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "560"
+msgid "完全逃走"
+msgstr "Total Runaway"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "561"
+msgid ""
+"$BNは\n"
+"逃げていった！"
+msgstr "$BN ran away!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "562"
+msgid "飛行逃走"
+msgstr "Flying Runaway"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "563"
+msgid ""
+"$BNは\n"
+"飛んでいった！"
+msgstr "$BN flew away!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "564"
+msgid "地中逃走"
+msgstr "In-Ground Runaway!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "565"
+msgid ""
+"$BNは\n"
+"地面の中に逃げていった！"
+msgstr ""
+"$BN escaped\n"
+"into the ground!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "566"
+msgid ""
+"$BNは\n"
+"さっていった！"
+msgstr "$BN fled!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "567"
+msgid ""
+"$BNは\n"
+"いなくなったようだ。"
+msgstr ""
+"$BN is\n"
+"seemingly gone."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "568"
+msgid "地雷アタック"
+msgstr "Land Mine Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "569"
+msgid "当て逃げ"
+msgstr "Hit & Run"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "570"
+msgid "ルーシーズ号に入っているルーシーズが全員車内に出る。"
+msgstr "All The Lucies in the Mobile jump out of their vehicle."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "571"
+msgid ""
+"$BNは\n"
+"クルマから脱出した！"
+msgstr ""
+"$BN Escaped\n"
+"from the vehicle!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "572"
+msgid "ルーシーズ号から出る。"
+msgstr "Exit Lucies Mobile"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "573"
+msgid ""
+"$BNの\n"
+"ハッチが開いた！"
+msgstr ""
+"$BN's hatch\n"
+"has opened!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "574"
+msgid "ルーシーズ号の車内へ"
+msgstr "Go into the Lucies Mobile"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "575"
+msgid "地雷モグラ（通常版）に変身＋地雷モグラ（通常版）を呼ぶ。"
+msgstr "Transform Land Mine Mole + Call for Land Mine Mole"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "576"
+msgid ""
+"$BNは\n"
+"仲間を呼んできた！"
+msgstr ""
+"$BN\n"
+"called for help!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "577"
+msgid "分裂"
+msgstr "Split"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "578"
+msgid "$BNは分裂した！"
+msgstr ""
+"$BN has\n"
+"split!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "579"
+msgid "吐き出し分裂"
+msgstr "Spit and split"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "580"
+msgid ""
+"$BNは\n"
+"何かを吐き出した！"
+msgstr ""
+"$BN spitted\n"
+"something!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "581"
+msgid "奇襲[レーザービー]"
+msgstr "Ambush (Laser Bee)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "582"
+msgid ""
+"$BNは\n"
+"８の字に飛んでいる！"
+msgstr ""
+"$BN is doing\n"
+"a figure-eight dance!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "583"
+msgid "奇襲[派遣ゾンビ]"
+msgstr "Ambush (Dispatched Zombie)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "584"
+msgid ""
+"$BNは\n"
+"空砲を撃った！"
+msgstr ""
+"$BN fired\n"
+"a blank shot!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "585"
+msgid "うろつきポリタンに変える。"
+msgstr "Turn into a Wild Polytank"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "586"
+msgid "$BNは給油した！"
+msgstr "$BN refueled!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "587"
+msgid "金のじゅうたんを呼ぶ。"
+msgstr "Call for Golden Carpet"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "588"
+msgid "ディアブロ（通常版）に変身"
+msgstr "Transform into Diablo (Normal)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "589"
+msgid "$BNはでてきた！"
+msgstr "$BN emerged!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "590"
+msgid "ディアブロ（もぐり版）に変身"
+msgstr "Transform into Diablo (Burrow)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "591"
+msgid "$BNはもぐった！"
+msgstr "$BN burrowed!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "592"
+msgid "地雷モグラ（通常版）に変身"
+msgstr "Transform into Land Mind Mole (Normal)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "593"
+msgid "地雷モグラ（もぐり版）に変身"
+msgstr "Transform into Land Mind Mole (Burrow)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "594"
+msgid "サンドゴーレム（通常版）に変身"
+msgstr "Transform into Sand Golen (Normal)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "595"
+msgid "サンドゴーレム（もぐり版）に変身"
+msgstr "Transform into Sand Golen (Burrow)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "596"
+msgid "ミミックボックス（通常版）に変身"
+msgstr "Transform into Mimic Box (Normal)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "597"
+msgid ""
+"$BNは\n"
+"箱からでてきた！"
+msgstr ""
+"$BN came\n"
+"out of the box!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "598"
+msgid "ミミックボックス（箱入り版）に変身"
+msgstr "Transform into Mimic Box (In-Box)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "599"
+msgid ""
+"$BNは\n"
+"箱にはいった！"
+msgstr ""
+"$BN went\n"
+"into the box!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "600"
+msgid "波動ナマコ（中）に変身"
+msgstr "Transform into Wave Cucumber (Middle)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "601"
+msgid "波動ナマコ（大）に変身"
+msgstr "Transform into Wave Cucumber (Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "602"
+msgid "波動ビーム砲（中）に変身"
+msgstr "Transform into Wave Beam Cannon (Middle)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "603"
+msgid "波動ビーム砲（大）に変身"
+msgstr "Transform into Wave Beam Cannon (Big)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "604"
+msgid "ゾンビコフィン（箱から出た後）に変身"
+msgstr "Transform into Zombie Coffin (Out-Of-Box)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "605"
+msgid "メタモールゼリー（メガマウス版）に変身"
+msgstr "Transform into Metamor Jelly (Mega Mouse)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "606"
+msgid ""
+"$BNは\n"
+"姿を変えようとしている。"
+msgstr ""
+"$BN is\n"
+"transforming."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "607"
+msgid "メタモールゼリー（サメクマ版）に変身"
+msgstr "Transform into Metamor Jelly (Shark Bear)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "608"
+msgid "メタモールゼリー（カジキータ版）に変身"
+msgstr "Transform into Metamor Jelly (Marleetah)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "609"
+msgid "メタモールゼリー（スナザメ版）に変身"
+msgstr "Transform into Metamor Jelly (Sand Shark)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "610"
+msgid "メタモールゼリー（コードゴーレム版）に変身"
+msgstr "Transform into Metamor Jelly (Cord Golem)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "611"
+msgid "メタモールゼリーに変身"
+msgstr "Transform into Metamor Jelly "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "612"
+msgid "回転ケルベロスＢに変身"
+msgstr "Transform into Spin Cerberos B"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "613"
+msgid "回転ケルベロスＣに変身"
+msgstr "Transform into Spin Cerberos C"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "614"
+msgid "地獄の回転ドアＡへ。"
+msgstr "To the Hell Rotating Door A."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "615"
+msgid "地獄の回転ドアＢへ。"
+msgstr "To the Hell Rotating Door B."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "616"
+msgid "地獄の回転ドアＣへ。"
+msgstr "To the Hell Rotating Door C."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "617"
+msgid "プロト・ユンボラーへトランスフォーム。"
+msgstr "Transform into Proto Backbomber"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "618"
+msgid ""
+"$BNは\n"
+"変身した！"
+msgstr "$BN transformed!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "619"
+msgid "サルモネラ・プロトへトランスフォーム。"
+msgstr "Transform into Salmonera Proto"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "620"
+msgid "ブラックタイガーへトランスフォーム。"
+msgstr "Transform into Black Tiger"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "621"
+msgid "からっポリタンに変身"
+msgstr "Transform into Empty Polytank"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "622"
+msgid ""
+"$BNは\n"
+"からっポリタンになった！"
+msgstr ""
+"$BN\n"
+"became an Empty Polytank"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "623"
+msgid "ミニスクラップ元頭に変身。"
+msgstr "Transform into Mini Scrap (Ex-Head)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "624"
+msgid "ミニスクラップ元右手に変身。"
+msgstr "Transform into Mini Scrap (Ex-RHand)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "625"
+msgid "ミニスクラップ元左手に変身。"
+msgstr "Transform into Mini Scrap (Ex-LHand)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "626"
+msgid "スクラップゴンの頭に戻る。"
+msgstr "Return to Scrap Monster (Head)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "627"
+msgid ""
+"$BNは\n"
+"本体にもどった！"
+msgstr ""
+"$BN returned\n"
+"to the core body!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "628"
+msgid "スクラップゴンの右手に戻る。"
+msgstr "Return to Scrap Monster (Right)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "629"
+msgid "スクラップゴンの左手に戻る。"
+msgstr "Return to Scrap Monster (Left)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "630"
+msgid "ドミンゲスのクルマ→ドミンゲス"
+msgstr "Dominguez out of his Mobile"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "631"
+msgid ""
+"$BNを\n"
+"破壊した！"
+msgstr "$BN was destroyed!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "632"
+msgid "アルメイダのクルマ→アルメイダ"
+msgstr "Almeida out of her Mobile"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "633"
+msgid "ムカデ男のクルマ→ムカデ男"
+msgstr "Sintipede out of his Mobile"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "634"
+msgid "ウシ男のクルマ→ウシ男"
+msgstr "Auroch out of his Mobile"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "635"
+msgid "タコ女に変身"
+msgstr "Transform into Octopus Mode"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "636"
+msgid ""
+"$BNは\n"
+"変身をはじめた！"
+msgstr ""
+"$BN began\n"
+"transforming!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "637"
+msgid "タコ女クロム状態に変化"
+msgstr "Change into Octopus Mode (Chrome)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "638"
+msgid ""
+"$BNの\n"
+"体が硬質化した！"
+msgstr ""
+"$BN's body\n"
+"has hardened!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "639"
+msgid "タコ女通常状態にもどる"
+msgstr "Return to Octopus Woman (Normal)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "640"
+msgid ""
+"$BNの\n"
+"体が元にもどった！"
+msgstr ""
+"$BN's body\n"
+"returned to normal!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "641"
+msgid "スナダイコン出る"
+msgstr "Sand Radish Eemerge"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "642"
+msgid ""
+"$BNは\n"
+"地面から出てきた！"
+msgstr ""
+"$BN emerged\n"
+"from the ground!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "643"
+msgid "スナダイコン潜る"
+msgstr "Sand Radish Burrow"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "644"
+msgid ""
+"$BNは\n"
+"地面に体をかくした！"
+msgstr ""
+"$BN hid into\n"
+"the ground!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "645"
+msgid "巨大ロボチャージモードへ。"
+msgstr "Switch to Giant Robot Charge Mode"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "646"
+msgid ""
+"$BNは\n"
+"チャージモードに切り替わった！"
+msgstr ""
+"$BN switched\n"
+"to Charge Mode!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "647"
+msgid "巨大ロボアタックモードへ。"
+msgstr "Switch to Giant Robot Attack Mode"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "648"
+msgid ""
+"$BNは\n"
+"アタックモードに切り替わった！"
+msgstr ""
+"$BN switched\n"
+"to Attack Mode!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "649"
+msgid "グラトノス人間体２に変身"
+msgstr "Transform Gratonos Human Body 2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "650"
+msgid "グラトノス首だけに変身"
+msgstr "Transform Gratonos Head-only"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "651"
+msgid ""
+"なんと！\n"
+"$BNは首だけになった！"
+msgstr ""
+"Whoa!\n"
+"$BN only has the head left!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "652"
+msgid "変身ビーム１"
+msgstr "Transformation Beam 1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "653"
+msgid "$BNはビームを発射した！"
+msgstr "$BN fired a beam!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "654"
+msgid "変身ビーム２"
+msgstr "Transformation Beam 2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "655"
+msgid "変身ビーム３"
+msgstr "Transformation Beam 3"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "656"
+msgid "変身ビーム４"
+msgstr "Transformation Beam 4"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "657"
+msgid "うろつき火炎"
+msgstr "Wandering Flames"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "658"
+msgid "$BNの火炎放射！"
+msgstr "$BN spewed fire!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "659"
+msgid "再生待機１"
+msgstr "Regeneration Standby 1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "660"
+msgid "再生１"
+msgstr "Regeneration 1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "661"
+msgid ""
+"$BNは\n"
+"再生した！"
+msgstr ""
+"$BN\n"
+"regenerated!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "662"
+msgid "もぐる１"
+msgstr "Burrow 1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "663"
+msgid "もぐる２"
+msgstr "Burrow 2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "664"
+msgid "でる１"
+msgstr "Emerge 1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "665"
+msgid "でる属性変化"
+msgstr "Emerge Element Change"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "666"
+msgid "でる変身１"
+msgstr "Emerge Transformation 1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "667"
+msgid "でる変身２"
+msgstr "Emerge Transformation 2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "668"
+msgid "でる変身３"
+msgstr "Emerge Transformation 3"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "669"
+msgid "でる変身４"
+msgstr "Emerge Transformation 4"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "670"
+msgid "でる＋同種モンスターを呼ぶ。"
+msgstr "Emerge + Call Fellow Monsters"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "671"
+msgid "貝とじる"
+msgstr "Close Shell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "672"
+msgid "$BNは貝をとじた！"
+msgstr ""
+"$BN closed\n"
+"its shell!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "673"
+msgid "貝あける"
+msgstr "Open Shell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "674"
+msgid "$BNは貝をあけた！"
+msgstr ""
+"$BN opened\n"
+"its shell!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "675"
+msgid "殻とじる"
+msgstr "Close Husk"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "676"
+msgid ""
+"$BNは\n"
+"殻の中に入った！"
+msgstr ""
+"$BN went\n"
+"into its husk!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "677"
+msgid "殻あける"
+msgstr "Open Husk"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "678"
+msgid ""
+"$BNは\n"
+"殻から出てきた！"
+msgstr ""
+"$BN exited\n"
+"its husk!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "679"
+msgid "貝入りビーム反射ＯN"
+msgstr "Shell Enter Beam Reflection ON"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "680"
+msgid "貝出るビーム反射ＯＦＦ"
+msgstr "Shell Exit Beam Reflection OFF"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "681"
+msgid "貝あけ大砲"
+msgstr "Shell Open Cannon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "682"
+msgid "貝あけミサイル"
+msgstr "Shell Open Missiles"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "683"
+msgid "貝とじはさむ"
+msgstr "Shell Close Sandwich "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "684"
+msgid ""
+"$BNは\n"
+"貝ではさんできた！"
+msgstr ""
+"$BN bit with\n"
+"its shell!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "685"
+msgid "貝とじ体当たり"
+msgstr "Shell Closed Slam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "686"
+msgid "ふわふわと浮遊"
+msgstr "Float around"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "687"
+msgid ""
+"$BNは\n"
+"ふわふわしている。"
+msgstr ""
+"$BN is\n"
+"floating around."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "688"
+msgid "ステルス"
+msgstr "Stealth"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "689"
+msgid "$BNは姿を消した！"
+msgstr "$BN hid!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "690"
+msgid "高く飛ぶ"
+msgstr "Fly High"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "691"
+msgid ""
+"$BNは\n"
+"上空に飛んでいった！"
+msgstr ""
+"$BN flew\n"
+"up high!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "692"
+msgid "殻にとじこもる"
+msgstr "Reclude in Husk"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "693"
+msgid "$BNはとじこもった！"
+msgstr ""
+"$BN recluded\n"
+"in the husk!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "694"
+msgid "殻から出る"
+msgstr "Exit Husk"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "695"
+msgid "うろつき"
+msgstr "Roam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "696"
+msgid "$BNはうろついている。"
+msgstr "$BN is roaming."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "697"
+msgid "はねる"
+msgstr "Jump Around"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "698"
+msgid "$BNは跳ねている。"
+msgstr ""
+"$BN is\n"
+"jumping around."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "699"
+msgid "充電１"
+msgstr "Charging 1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "700"
+msgid "$BNは充電している。"
+msgstr "$BN is charging."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "701"
+msgid "充電２"
+msgstr "Charging 2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "702"
+msgid "充電３"
+msgstr "Charging 3"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "703"
+msgid "充電４"
+msgstr "Charging 4"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "704"
+msgid "充電５"
+msgstr "Charging 5"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "705"
+msgid "同時攻撃１"
+msgstr "Simultaneous Attack 1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "706"
+msgid ""
+"$BNは\n"
+"仲間に何かを伝えた！"
+msgstr ""
+"$BN told\n"
+"something to others!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "707"
+msgid "警告"
+msgstr "Warning"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "708"
+msgid ""
+"$BNは\n"
+"警告している。"
+msgstr ""
+"$BN sent out\n"
+"a warning."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "709"
+msgid "盾でガード"
+msgstr "Shield Defense"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "710"
+msgid ""
+"$BNは\n"
+"盾でガードしている。"
+msgstr ""
+"$BN is\n"
+"defending with a shield."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "711"
+msgid "とりのふん"
+msgstr "Bird Feces"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "712"
+msgid ""
+"$BNは\n"
+"ふんを落とした。"
+msgstr ""
+"$BN dropped\n"
+"feces."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "713"
+msgid "スパム攻撃"
+msgstr "Spam Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "714"
+msgid ""
+"$BNは\n"
+"メール爆弾を送信した！"
+msgstr ""
+"$BN sent\n"
+"a mail bomb!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "715"
+msgid "偵察"
+msgstr "Scouting"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "716"
+msgid "$BNは偵察している。"
+msgstr "$BN is scouting."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "717"
+msgid "ねらいつけ"
+msgstr "Aim"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "718"
+msgid ""
+"$BNは\n"
+"襲う対象を指示した。"
+msgstr ""
+"$BN indicated\n"
+"the target to attack."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "719"
+msgid "コピー"
+msgstr "Copy"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "720"
+msgid ""
+"$BNは\n"
+"こちらをスキャンしている。"
+msgstr ""
+"$BN is\n"
+"scanning the party."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "721"
+msgid "クルマから出す"
+msgstr "Exit the vehicle"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "722"
+msgid ""
+"$BNは\n"
+"ツノをふりあげた！"
+msgstr ""
+"$BN brandished\n"
+"its antlers!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "723"
+msgid "吸った弾を発射"
+msgstr "Fire Absorbed Bullets"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "724"
+msgid ""
+"$BNは\n"
+"吸い込んだ弾を吐き出した！"
+msgstr ""
+"$BN spat out\n"
+"the absorbed shots!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "725"
+msgid "ショベルでなぐる"
+msgstr "Shovel Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "726"
+msgid ""
+"$BNは\n"
+"ショベルをふりまわした！"
+msgstr ""
+"$BN brandished\n"
+"its shovel!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "727"
+msgid "ショベルでなげる"
+msgstr "Shovel Grab"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "728"
+msgid ""
+"$BNは\n"
+"ショベルでつかんできた！"
+msgstr ""
+"$BN grabbed\n"
+"with its shovel!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "729"
+msgid "ユンボラー火炎"
+msgstr "Backbomber Fire"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "730"
+msgid "サーチライト"
+msgstr "Searchlight"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "731"
+msgid ""
+"$BNは\n"
+"サーチライトを照らした！"
+msgstr ""
+"$BN lit up\n"
+"its searchlight!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "732"
+msgid "マチルシャンクリッパー"
+msgstr "Matil Shank Ripper"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "733"
+msgid ""
+"$BNの\n"
+"マチルシャンクリッパー攻撃！"
+msgstr ""
+"$BN's Matil\n"
+"Shank Ripper Attack!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "734"
+msgid "ふぶき"
+msgstr "Blizzard"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "735"
+msgid ""
+"$BNは\n"
+"凍てつく息を吐いた！"
+msgstr ""
+"$BN exhaled\n"
+"freezing air!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "736"
+msgid "ヘラジカビーム"
+msgstr "Moose Beam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "737"
+msgid ""
+"$BNは\n"
+"目からビームをだした！"
+msgstr ""
+"$BN shot\n"
+"beams from its eyes!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "738"
+msgid "ツノミサイル"
+msgstr "Antler Missile"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "739"
+msgid ""
+"$BNは\n"
+"ツノからミサイルを発射した！"
+msgstr ""
+"$BN fired\n"
+"its antler missiles!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "740"
+msgid "はじき飛ばす"
+msgstr "Blow Away"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "741"
+msgid "グーでなぐる"
+msgstr "Punch"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "742"
+msgid ""
+"$BNは\n"
+"グーでなぐってきた！"
+msgstr ""
+"$BN punched\n"
+"with Rock!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "743"
+msgid "パーでなぐる"
+msgstr "Slap"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "744"
+msgid ""
+"$BNは\n"
+"パーでビンタをしてきた！"
+msgstr ""
+"$BN slapped\n"
+"with Paper!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "745"
+msgid "挑発ポーズ"
+msgstr "Taunt Pose"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "746"
+msgid ""
+"$BNは\n"
+"挑発してきた！"
+msgstr ""
+"$BN is\n"
+"taunting!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "747"
+msgid "デコピン"
+msgstr "Forehead Flick"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "748"
+msgid ""
+"$BNは\n"
+"デコピンをしてきた！"
+msgstr ""
+"$BN did\n"
+"a forehead flick!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "749"
+msgid "冷気を吐く"
+msgstr "Spit Cold Air"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "750"
+msgid "ゴミを吐く"
+msgstr "Spit Gargabe"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "751"
+msgid ""
+"$BNは\n"
+"ゴミを吐き出した！"
+msgstr "$BN spat garbages!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "752"
+msgid "サルモネラス機銃"
+msgstr "Salmoneras Machinegun"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "753"
+msgid ""
+"$BNは\n"
+"機銃を乱射した！"
+msgstr ""
+"$BN sprayedt\n"
+"its machinegun around!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "754"
+msgid "サルモネラス体当たり"
+msgstr "Salmoneras Slam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "755"
+msgid "サルモネラスミサイル"
+msgstr "Salmoneras Missile"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "756"
+msgid "サルモネラス変形"
+msgstr "Salmoneras Transformation"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "757"
+msgid ""
+"$BNの\n"
+"荷台のパーツが宙をまった！"
+msgstr ""
+"$BN's parts on the rack\n"
+"float in the air!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "758"
+msgid "サルモネラス殴り"
+msgstr "Salmoneras Hit"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "759"
+msgid ""
+"$BNは\n"
+"地面をなぐりつけた！"
+msgstr ""
+"$BN slammed\n"
+"the ground!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "760"
+msgid "サルモネラスホーミングミサイル"
+msgstr "Salmoneras Homing Missiles"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "761"
+msgid ""
+"$BNは\n"
+"ホーミングミサイルを発射した！"
+msgstr ""
+"$BN fired\n"
+"homing missiles!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "762"
+msgid "サルモネラス大砲"
+msgstr "Salmoneras Cannon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "763"
+msgid ""
+"$BNは\n"
+"大砲を発射した！"
+msgstr ""
+"$BN fired\n"
+"the cannon!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "764"
+msgid "豪雨"
+msgstr "Downpour"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "765"
+msgid ""
+"$BNは\n"
+"豪雨を降らした！"
+msgstr ""
+"$BN dropped\n"
+"a downpour!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "766"
+msgid "雹"
+msgstr "Hail"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "767"
+msgid ""
+"$BNは\n"
+"雹を降らした！"
+msgstr ""
+"$BNdropped\n"
+"hail!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "768"
+msgid "霧"
+msgstr "Fog"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "769"
+msgid ""
+"$BNは\n"
+"霧を発生させた！"
+msgstr ""
+"$BN generated\n"
+"thick fog!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "770"
+msgid "雷撃"
+msgstr "Thunder"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "771"
+msgid ""
+"$BNは\n"
+"雷を発生させた！"
+msgstr ""
+"$BN created\n"
+"lightning!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "772"
+msgid "集中雷撃ビーム"
+msgstr "Concentrated Thunder Beam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "773"
+msgid ""
+"$BNは\n"
+"雷撃ビームを発した！"
+msgstr ""
+"$BN fired\n"
+"a thunder beam!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "774"
+msgid "竜巻"
+msgstr "Tornado"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "775"
+msgid ""
+"$BNは\n"
+"竜巻を発生させた！"
+msgstr ""
+"$B generated\n"
+"a tornado!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "776"
+msgid "火星大砲"
+msgstr "Mars Cannon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "777"
+msgid "火星ビーム"
+msgstr "Mars Beam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "778"
+msgid "火星ミサイル"
+msgstr "Mars Missiles"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "779"
+msgid "火星ホーミング"
+msgstr "Mars Homing"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "780"
+msgid "火星火炎"
+msgstr "Mars Flames"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "781"
+msgid "火星変身１"
+msgstr "Mars Transformation 1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "782"
+msgid ""
+"$BNは\n"
+"武器を回転させた！"
+msgstr ""
+"$BN spun\n"
+"its turret!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "783"
+msgid "火星変身２"
+msgstr "Mars Transformation 2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "784"
+msgid "火星変身３"
+msgstr "Mars Transformation 3"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "785"
+msgid "火星変身４"
+msgstr "Mars Transformation 4"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "786"
+msgid "爆弾の実"
+msgstr "Bomb Fruit"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "787"
+msgid ""
+"$BNは\n"
+"爆弾の実を落とした！"
+msgstr ""
+"$BN dropped\n"
+"Bomb Fruits!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "788"
+msgid "根っこ攻撃"
+msgstr "Root Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "789"
+msgid ""
+"$BNは\n"
+"根っこをつきだした！"
+msgstr ""
+"$BN stuck out\n"
+"its roots!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "790"
+msgid "まひガス自分以外"
+msgstr "Paralyze Gas (All except self)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "791"
+msgid ""
+"$BNは\n"
+"まひガスを辺りに噴出した！"
+msgstr ""
+"$BN spouted\n"
+"Paralyzing Gas over the area!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "792"
+msgid "体をゆする１"
+msgstr "Shake Body 1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "793"
+msgid ""
+"$BNは\n"
+"体をおおきくゆすった！"
+msgstr ""
+"$BN largely\n"
+"shook its body!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "794"
+msgid "体をゆする２"
+msgstr "Shake Body 2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "795"
+msgid "Ｂ５２アホウドリは爆撃をした！"
+msgstr "B52 Gull bombed!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "796"
+msgid "ミニバルカン"
+msgstr "Mini Vulcan"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "797"
+msgid ""
+"$BNは\n"
+"バルカン砲を乱射した！"
+msgstr ""
+"$BN strafed\n"
+"with its Vulcan Cannon!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "798"
+msgid "火炎剣"
+msgstr "Flame Sword"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "799"
+msgid ""
+"$BNは\n"
+"火炎剣でなぎはらった！"
+msgstr ""
+"$BN swept away\n"
+"with the Flame Sword!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "800"
+msgid ""
+"$BNは\n"
+"グレネード弾を発射した！"
+msgstr ""
+"$BN shot\n"
+"a grenade!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "801"
+msgid "スタンビーム"
+msgstr "Stun Beam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "802"
+msgid ""
+"$BNは\n"
+"スタンビームを発射した！"
+msgstr ""
+"$BN fired\n"
+"a Stun Beam!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "803"
+msgid "わっかビーム"
+msgstr "Ring Beam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "804"
+msgid ""
+"$BNは\n"
+"わっかビームを発射した！"
+msgstr ""
+"$BN fired\n"
+"a Ring Beam!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "805"
+msgid "爆裂水球"
+msgstr "Exploding Water Ball"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "806"
+msgid ""
+"$BNは\n"
+"水のかたまりを吐いた！"
+msgstr ""
+"$BN Spat\n"
+"a bubble of water!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "807"
+msgid "ウォーターカッター"
+msgstr "Water Cutter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "808"
+msgid ""
+"$BNは\n"
+"水のビームのように吐いた！"
+msgstr ""
+"$BN spat water\n"
+"like a beam!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "809"
+msgid "霧を吐く"
+msgstr "Spit fog"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "810"
+msgid ""
+"$BNは\n"
+"霧を吐いた！"
+msgstr "$BN spat fog!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "811"
+msgid "酸の水"
+msgstr "Acid Water"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "812"
+msgid ""
+"$BNは\n"
+"酸の水を吐いた！"
+msgstr ""
+"$BN spat\n"
+"acid water!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "813"
+msgid "高圧放水"
+msgstr "High-pressure Spray"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "814"
+msgid ""
+"$BNは\n"
+"高圧な水を吐いた！"
+msgstr ""
+"$BN spat\n"
+"high-pressure water!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "815"
+msgid "毒の水"
+msgstr "Poison Water"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "816"
+msgid ""
+"$BNは\n"
+"毒の水を吐いた！"
+msgstr ""
+"$BN spat\n"
+"poisonous water!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "817"
+msgid "ヒドラ変身"
+msgstr "Hydra Transformation"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "818"
+msgid ""
+"$BNは\n"
+"正体をあらわした！"
+msgstr ""
+"$BN revealed\n"
+"its true form!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "819"
+msgid "魚雷"
+msgstr "Torpedo"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "820"
+msgid ""
+"$BNは\n"
+"魚雷を発射した！"
+msgstr ""
+"$BN fired\n"
+"torpedoes!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "821"
+msgid "アスロックミサイル"
+msgstr "ASROC Missiles"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "822"
+msgid ""
+"$BNは\n"
+"背びれからミサイルを発射した！"
+msgstr ""
+"$BN fired\n"
+"missiles from its fin!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "823"
+msgid "真空波"
+msgstr "Vacuum Waves"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "824"
+msgid ""
+"$BNは\n"
+"背びれから真空波を発した！"
+msgstr ""
+"$BN fired\n"
+"Vacuum Waves from its fin!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "825"
+msgid "エラビーム"
+msgstr "Gills Beam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "826"
+msgid ""
+"$BNは\n"
+"エラからビームを連射した！"
+msgstr ""
+"$BN fired\n"
+"a beam from its gills!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "827"
+msgid "ロケットランチャー"
+msgstr "Rocket Launcher"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "828"
+msgid ""
+"$BNは\n"
+"真空波を発した！"
+msgstr ""
+"$BN fired\n"
+"rockets!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "829"
+msgid "冥界第２部"
+msgstr "Hades 2nd Part"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "830"
+msgid "冥界第３部"
+msgstr "Hades 3rd Part"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "831"
+msgid ""
+"$BNは\n"
+"巨大大砲を発射した！"
+msgstr ""
+"$BN fired\n"
+"a huge cannon!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "832"
+msgid ""
+"$BNは\n"
+"ヒールでふんずけにきた！"
+msgstr ""
+"$BN stepped\n"
+"with the heels!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "833"
+msgid "誘惑ウインク"
+msgstr "Temptation Wink"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "834"
+msgid ""
+"$BNは\n"
+"ぶきみなウインクをした！"
+msgstr ""
+"$BN did\n"
+"a creepy wink!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "835"
+msgid "キッス"
+msgstr "Kiss"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "836"
+msgid "$BNのキッス！"
+msgstr "$BN kissed!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "837"
+msgid "巨大ドリル"
+msgstr "Giant Drill"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "838"
+msgid ""
+"$BNは\n"
+"巨大ドリルを発射した！"
+msgstr ""
+"$BN fired\n"
+"a giant drill!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "839"
+msgid ""
+"$BNは\n"
+"爆弾を投下した！"
+msgstr ""
+"$BN dropped\n"
+"a bomb!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "840"
+msgid "定数怪音波４"
+msgstr "Constant Odd Soundwave 4"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "841"
+msgid ""
+"$BNは\n"
+"衝撃波を発した！"
+msgstr ""
+"$BN emitted\n"
+"a shockwave!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "842"
+msgid "ヘリ上昇"
+msgstr "Chooper Ascent"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "843"
+msgid ""
+"$BNは\n"
+"空高く上昇した！"
+msgstr ""
+"$BN rose\n"
+"high into the sky!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "844"
+msgid "ヘリ再登場"
+msgstr "Chopper Reappears"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "845"
+msgid ""
+"$BNは\n"
+"再び、あらわれた！"
+msgstr "$BN reappears!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "846"
+msgid "死体なぎ払い"
+msgstr "Mow down corpses"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "847"
+msgid ""
+"$BNは\n"
+"触手でなぎはらった！"
+msgstr ""
+"$BN mowed down\n"
+"with its tentacles!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "848"
+msgid ""
+"$BNは\n"
+"触手からビームを発射した！"
+msgstr ""
+"$BN fired beams\n"
+"from its tentacles!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "849"
+msgid "はりつけ"
+msgstr "Entangle"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "850"
+msgid ""
+"$BNは\n"
+"糸を伸ばしてきた！"
+msgstr ""
+"$BN stretched\n"
+"strings!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "851"
+msgid "毒燐ぷん"
+msgstr "Poison Scales"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "852"
+msgid ""
+"$BNは\n"
+"りんぷんをばらまいた！"
+msgstr ""
+"$BN spread\n"
+"scales!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "853"
+msgid "チェーンソー"
+msgstr "Chainsaw"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "854"
+msgid ""
+"$BNの攻撃！\n"
+"「ドミンゲスチェーンソーーーっ！"
+msgstr ""
+"$BN attacks!\n"
+"\"Dominguez Saaaaw!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "855"
+msgid "アッパー"
+msgstr "Uppercut"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "856"
+msgid ""
+"$BNの攻撃！\n"
+"「ドミンゲスアッパーーーっ！"
+msgstr ""
+"$BN attacks!\n"
+"\"Dominguez Uppercut!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "857"
+msgid "上からチェーンソー"
+msgstr "Chainsaw from Above"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "858"
+msgid ""
+"$BNの攻撃！\n"
+"「ドミンゲスダイビーーーングっ！"
+msgstr ""
+"$BN attacks!\n"
+"\"Dominguez Diiive!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "859"
+msgid "回転チェーンソー"
+msgstr "Spin Chainsaw"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "860"
+msgid ""
+"$BNの攻撃！\n"
+"「ドミンゲスデンジャラスアターーックっ！"
+msgstr ""
+"$BN attacks!\n"
+"\"Danger Attaaack!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "861"
+msgid "ドミンゲスドリルミサイル"
+msgstr "Dominguez Drill Missile"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "862"
+msgid ""
+"$BNの攻撃！\n"
+"「ドミンゲスドリルミサーーイルっ！"
+msgstr ""
+"$BN attacks!\n"
+"\"Drill Missiiile!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "863"
+msgid "ドミンゲスドリルアタック"
+msgstr "Dominguez Drill Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "864"
+msgid ""
+"$BNの攻撃！\n"
+"「ドミンゲスドリルアターーーックっ！"
+msgstr ""
+"$BN attacks!\n"
+"\"Drill Attaaaack!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "865"
+msgid "アルメイダ通常攻撃"
+msgstr "Almedia Normal Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "866"
+msgid ""
+"$BNの攻撃！\n"
+"「きゃはははははっ！"
+msgstr ""
+"$BN attacks!\n"
+"\"Kyah, hah, haaahhh!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "867"
+msgid "アルメイダ回転攻撃"
+msgstr "Almeida Spin Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "868"
+msgid ""
+"$BNの攻撃！\n"
+"「死ね死ね死ね死ねーーっ！"
+msgstr ""
+"$BN's attack!\n"
+"\"Die, Die, DIEEEEE!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "869"
+msgid "アルメイダツメを研ぐ"
+msgstr "Almeida sharpens claws"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "870"
+msgid ""
+"$BNは\n"
+"ツメをといだ！"
+msgstr ""
+"$BN sharpened\n"
+"his claws!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "871"
+msgid "アルメイダ振り下ろし"
+msgstr "Almeida swinging down"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "872"
+msgid ""
+"$BNの攻撃！\n"
+"「けけけけけけっ！"
+msgstr ""
+"$BN attacks!\n"
+"\"Heh, heh, heeehh!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "873"
+msgid "アルメイダ毒攻撃"
+msgstr "Almeida poison attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "874"
+msgid ""
+"$BNの攻撃！\n"
+"「死ぬまで苦しめーーーっ！"
+msgstr ""
+"$BN attacks!\n"
+"\"Suffer 'till you DIEEEE!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "875"
+msgid "アルメイダ火炎"
+msgstr "Almeida's flames"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "876"
+msgid ""
+"$BNの攻撃！\n"
+"「燃えろ燃えろ燃えろーーっ！"
+msgstr ""
+"$BN attacks!\n"
+"\"Burn, burn, BURRRNNNN!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "877"
+msgid "小型拳銃みだれ"
+msgstr "Magnum Rapid Fire"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "878"
+msgid ""
+"$BNの攻撃！\n"
+"「ムカデ乱れ撃ち！"
+msgstr ""
+"$BN attacks!\n"
+"\"Sintipede Rapid Shot!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "879"
+msgid "ムカデ火だるま攻撃"
+msgstr "Sintipede Flame Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "880"
+msgid ""
+"$BNの攻撃！\n"
+"「ムカデ火炎車！"
+msgstr ""
+"$BN attacks!\n"
+"\"Sintipede Flame wheel!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "881"
+msgid "ムカデ毒針攻撃"
+msgstr "Sintipede Poison Needle Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "882"
+msgid ""
+"$BNは\n"
+"しっぽでさしてきた！"
+msgstr ""
+"$BN stabbed\n"
+"with his tail!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "883"
+msgid "ムカデ触覚放電"
+msgstr "Sintipede Touch Discharge"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "884"
+msgid ""
+"$BNは\n"
+"触覚から放電した！"
+msgstr ""
+"$BN discharged\n"
+"from his antennae!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "885"
+msgid "ウシ男体当たり"
+msgstr "Auroch Slam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "886"
+msgid "ウシ男頭突き"
+msgstr "Auroch Headbutt"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "887"
+msgid ""
+"$BNの\n"
+"強烈な頭突き攻撃！"
+msgstr ""
+"$BN's powerful\n"
+"headbutt attack!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "888"
+msgid "ウシ男号ビーム"
+msgstr "Auroch Mobile Beam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "889"
+msgid "ウシ男号前面ミサイル"
+msgstr "Auroch Mobile Front Missiles"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "890"
+msgid "ウシ男号側面ミサイル"
+msgstr "Auroch Mobile Side Missiles"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "891"
+msgid "タコ女電撃"
+msgstr "Octopus Shock"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "892"
+msgid "タコ女ホーミング"
+msgstr "Octopus Homing"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "893"
+msgid "タコ女まひガス"
+msgstr "Octopus Paralyze Gas"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "894"
+msgid "タコ女プラズマ球"
+msgstr "Octopus Plasma Ball"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "895"
+msgid ""
+"$BNは\n"
+"プラズマ球を投げた！"
+msgstr ""
+"$BN tossed\n"
+"a plasma ball!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "896"
+msgid "タコ女ビーム"
+msgstr "Octopus Beam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "897"
+msgid "タコ女タコ殴り"
+msgstr "Octopus Tentacle Hit"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "898"
+msgid "$BNのタコなぐり！"
+msgstr "$BN's tentacle hit!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "899"
+msgid "タコ女チャーム"
+msgstr "Octopus Charm"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "900"
+msgid ""
+"$BNは\n"
+"誘惑してきた！"
+msgstr ""
+"$BN attempts\n"
+"to seduce!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "901"
+msgid "ダイコング栄養補給"
+msgstr "Radish Refill Nutrient"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "902"
+msgid ""
+"$BNは地面にしっぽをさして\n"
+"栄養を補給した！"
+msgstr ""
+"$BN planted tail into\n"
+"the ground for nutrients!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "903"
+msgid "ダイコング殴り連打"
+msgstr "Radish Multi-blow"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "904"
+msgid "ダイコングテールアタック"
+msgstr "Radish Tail Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "905"
+msgid "ダイコング大根おろし"
+msgstr "Radish Grate Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "906"
+msgid ""
+"$BNは\n"
+"大根おろしを吐きだした！"
+msgstr ""
+"$BN spat\n"
+"grated radish!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "907"
+msgid "透明人間連続皿投げ"
+msgstr "Invisible Man Multi Dish Throw"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "908"
+msgid ""
+"$BNは\n"
+"皿を投げた！"
+msgstr ""
+"$BN threw\n"
+"dishes!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "909"
+msgid "透明人間イス投げ"
+msgstr "Invisible Man Chair Throw"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "910"
+msgid ""
+"$BNは\n"
+"イスを投げた！"
+msgstr ""
+"$BN threw\n"
+"chairs!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "911"
+msgid "透明人間水をかぶる"
+msgstr "Invisible Man Covered in Water"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "912"
+msgid ""
+"$BNは\n"
+"水をかぶった！"
+msgstr ""
+"$BN is covered\n"
+"in water!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "913"
+msgid "失敗逃走"
+msgstr "Failure - runaway"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "914"
+msgid ""
+"$BNは\n"
+"逃げ出した・・・。"
+msgstr "$BN runs away..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "915"
+msgid "巨大ロボミサイル"
+msgstr "Giant Robot Missiles"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "916"
+msgid "巨大ロボ目からビーム"
+msgstr "Giant Robot Eyes Beam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "917"
+msgid ""
+"$BNは\n"
+"目からビームを発射した！"
+msgstr ""
+"$BN fired\n"
+"a beam from the eyes!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "918"
+msgid "巨大ロボ攻撃レーザー"
+msgstr "Giant Robot Attack Laser"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "919"
+msgid ""
+"$BNは\n"
+"胸部からビームを発射した！"
+msgstr ""
+"$BN fired\n"
+"a beam from the chest!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "920"
+msgid "巨大ロボ最終ビーム"
+msgstr "Giant Robot Final Beam "
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "921"
+msgid ""
+"$BNは\n"
+"腹部から巨大なビームを発射した！"
+msgstr ""
+"$BN fired\n"
+"a huge beam from the stomach!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "922"
+msgid "巨大ロボチャージ"
+msgstr "Giant Robot Charge"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "923"
+msgid ""
+"$BNは\n"
+"エネルギーをチャージしている。"
+msgstr ""
+"$BN is charging\n"
+"energy."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "924"
+msgid "ルーシーズ女刀"
+msgstr "Lucies Woman Sword"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "925"
+msgid ""
+"$BNは\n"
+"刀をふりおろした！"
+msgstr ""
+"$BN swung\n"
+"down the sword!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "926"
+msgid "ルーシーズ女目からビーム"
+msgstr "Lucies Woman Beam from the Eyes"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "927"
+msgid "ルーシーズ女拡散ビーム"
+msgstr "Lucies Woman Spreading Beam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "928"
+msgid ""
+"$BNは\n"
+"腹部から拡散ビームを発射した！"
+msgstr ""
+"$BN fired\n"
+"a spreading beam from her stomach!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "929"
+msgid "ルーシーズ若男ネクタイ攻撃"
+msgstr "Lucies Young Man Necktie Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "930"
+msgid ""
+"$BNは\n"
+"ネクタイソードをふりおろした！"
+msgstr ""
+"$BN swung\n"
+"down the necktie sword!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "931"
+msgid "ルーシーズ若男両腕から火炎"
+msgstr "Lucies Young Man Flames from the Arms"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "932"
+msgid ""
+"$BNは\n"
+"腕から火炎を放射した！"
+msgstr ""
+"$BN spread\n"
+"fire from the arms!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "933"
+msgid "ルーシーズ若男帽子カッター"
+msgstr "Lucies Young Man Hat Cutter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "934"
+msgid ""
+"$BNは\n"
+"帽子カッターを投げた！"
+msgstr ""
+"$BN threw\n"
+"the Hat Cutter!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "935"
+msgid "ルーシーズ老人ビーム"
+msgstr "Lucies Old Man Beam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "936"
+msgid "ルーシーズ老人ロケットパンチ"
+msgstr "Lucies Old Man Rocket Punch"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "937"
+msgid ""
+"$BNは\n"
+"ロケットパンチを発射した！"
+msgstr ""
+"$BN fired\n"
+"a rocket punch!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "938"
+msgid "グラトノス髪攻撃"
+msgstr "Gratonos Hair Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "939"
+msgid "グラトノス火炎"
+msgstr "Gratonos Flames"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "940"
+msgid ""
+"$BN\n"
+"「地獄の炎に焼きつくされるがよい！"
+msgstr ""
+"$BN:\"Let the flames of hell\n"
+"burn you up!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "941"
+msgid "グラトノス竜巻"
+msgstr "Gratonos Tornado"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "942"
+msgid ""
+"$BN「この程度で死なないでくれよ、\n"
+"実験体１３１３号！"
+msgstr ""
+"$BN:\"Don't die so easily,\n"
+"Subject 1313!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "943"
+msgid "グラトノス回復"
+msgstr "Gratonos Healing"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "944"
+msgid "$BN「効かぬ！効かぬ！"
+msgstr "$BN:\"You cannot hurt me!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "945"
+msgid "グラトノスハサミ"
+msgstr "Gratonos Scissors"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "946"
+msgid ""
+"$BNの腕が\n"
+"巨大なハサミと化した！"
+msgstr ""
+"$BN's arms\n"
+"transformed into huge scissors!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "947"
+msgid "グラトノスクモの足"
+msgstr "Gratonos Spider Feet"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "948"
+msgid ""
+"$BNの体から\n"
+"クモの足が生えた！"
+msgstr ""
+"Spider feet emerged\n"
+"from $BN's legs"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "949"
+msgid "グラトノス首毛攻撃"
+msgstr "Gratonos Neck Hair Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "950"
+msgid "グラトノス首ビーム"
+msgstr "Gratonos Neck Beam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "951"
+msgid ""
+"$BNは\n"
+"目からビームを発した。"
+msgstr ""
+"$BN fired\n"
+"a beam from the eyes."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "952"
+msgid "サウルス炎ブレス"
+msgstr "Gratonos Flame Breath"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "953"
+msgid ""
+"$BNは\n"
+"炎を吹いた！"
+msgstr "$BN spat flames!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "954"
+msgid "サウルスふみつけ"
+msgstr "Saurus stepping"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "955"
+msgid ""
+"$BNは\n"
+"体を大きくゆらした！"
+msgstr ""
+"$BN bigly\n"
+"shook its body!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "956"
+msgid "サウルスかみつき"
+msgstr "Saurus bite"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "957"
+msgid "サウルス３つ首ブレス１"
+msgstr "Saurus 3-head Breath 1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "958"
+msgid "サウルス３つ首ブレス２"
+msgstr "Saurus 3-head Breath 2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "959"
+msgid "サウルス３つ首ブレス３"
+msgstr "Saurus 3-head Breath 3"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "960"
+msgid "サウルス同時攻撃命令"
+msgstr "Saurus Focus Attack Order"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "961"
+msgid ""
+"$BNは\n"
+"３つの首からブレスを吹いた！"
+msgstr ""
+"$BN spat\n"
+"breath from all 3 heads!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "962"
+msgid "サウルス吹雪"
+msgstr "Saurus Blizzard"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "963"
+msgid ""
+"$BNは\n"
+"凍てつく息を吹いた！"
+msgstr ""
+"$BN spat\n"
+"freezing breath!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "964"
+msgid "サウルス回復ガス"
+msgstr "Saurus Healing Gas"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "965"
+msgid ""
+"$BNは\n"
+"回復ガスを吐きだした！"
+msgstr ""
+"$BN spat\n"
+"healing gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "966"
+msgid "サウルス電撃"
+msgstr "Saurus Elec Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "967"
+msgid "ジャガン連射"
+msgstr "Jagan Multishot"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "968"
+msgid ""
+"$BNは\n"
+"エネルギー弾を連射した！"
+msgstr ""
+"$BN shot\n"
+"energy balls in a row!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "969"
+msgid "ジャガンビーム"
+msgstr "Jagan Beam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "970"
+msgid ""
+"$BNは\n"
+"ビームを発した！"
+msgstr ""
+"$BN fired\n"
+"a beam!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "971"
+msgid "ファイアウォール"
+msgstr "Firewall"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "972"
+msgid ""
+"$BNの攻撃！\n"
+"「ファイアウォーーーーールっ！"
+msgstr ""
+"$BN attacks!\n"
+"\"Firewaalll!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "973"
+msgid "ジャガン合体ビーム"
+msgstr "Jagan Combined Beam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "974"
+msgid ""
+"$BNの合体攻撃！\n"
+"「超電磁量子力ビーーーーームっ！"
+msgstr ""
+"$BN's Combined Attack!\n"
+"\"Super EM Quantum Beeeammm!!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "975"
+msgid "ジャガンカミナリ"
+msgstr "Jagan Thunder"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "976"
+msgid "ジャガンレンズビーム"
+msgstr "Jagan Lens Beam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "977"
+msgid ""
+"$BNの合体攻撃！\n"
+"「超電磁ワイドビーーーーームっ！"
+msgstr ""
+"$BN's Combined Attack!\n"
+"\"Super Magnetic Wide Beeaaammm!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "978"
+msgid "ジャガン姉再生"
+msgstr "Jagan Sis Revival"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "979"
+msgid ""
+"$BN\n"
+"「お姉さま、生き返ってっ！"
+msgstr ""
+"$BN:\n"
+"\"Sis! Get up!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "980"
+msgid "ジャガンヒール"
+msgstr "Jagan Heal"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "981"
+msgid ""
+"$BNは\n"
+"手から光を放った！"
+msgstr ""
+"$BN emitted\n"
+"light from her hands!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "982"
+msgid "ジャガン冷気"
+msgstr "Jagan Cold Air"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "983"
+msgid ""
+"$BNは\n"
+"吹雪を発生させた！"
+msgstr ""
+"$BN created\n"
+"a blizzard!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "984"
+msgid "ジャガン押しつぶし"
+msgstr "Jagan Crush"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "985"
+msgid ""
+"$BNは\n"
+"強烈な重力を発生させた！"
+msgstr ""
+"$BN triggered\n"
+"powerful gravity!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "986"
+msgid "ジャガン立方体"
+msgstr "Jagan Cube"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "987"
+msgid ""
+"$BNは\n"
+"巨大な立方体を投げた！"
+msgstr ""
+"$BN tossed\n"
+"a giant cube!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "988"
+msgid "ジャガン怪音波"
+msgstr "Jagan Odd Soundwave"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "989"
+msgid "毒ガス弾全"
+msgstr "Poison Gas Shot(All)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "990"
+msgid ""
+"$BNは\n"
+"毒ガス弾を乱射した！"
+msgstr ""
+"$BN shot\n"
+"poison gas bullets at random!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "991"
+msgid "タンポポ毒ガス弾"
+msgstr "Dandelion Poison Gas Shot"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "992"
+msgid "混乱ガス注入"
+msgstr "Inject Confusion Gas"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "993"
+msgid ""
+"$BNは\n"
+"混乱ガスを注入した！"
+msgstr ""
+"$BN\n"
+"injected Confusion Gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "994"
+msgid ""
+"$BNは\n"
+"まひガス弾を乱射した！"
+msgstr ""
+"$BN\n"
+"shot paralyze gas at random!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "995"
+msgid "仲間を呼ぶ（同種）"
+msgstr "Call for help (fellows)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "996"
+msgid "$BNは遠吠えした！"
+msgstr "$BN howled!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "997"
+msgid "カバガンを１体呼ぶ。"
+msgstr "Call for 1 Hippogun"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "998"
+msgid "メール送信[派遣ゾンビ]"
+msgstr "Mail Sent [Dispatched Zombie]"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "999"
+msgid ""
+"$BNは\n"
+"メールを送信した！"
+msgstr ""
+"$BN sent a\n"
+"text message!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1000"
+msgid "うろつきポリタンAを１体呼ぶ。"
+msgstr "Call for 1 Wandering Plastic Tank A"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1001"
+msgid "メール送信[ナイチンゲリラ]"
+msgstr "Mail Sent [Nightinguerrila]"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1002"
+msgid "騒音バニー（呼ばれ版）を２体呼ぶ。"
+msgstr "Call for 2 Noisy Bunnies (Summoned)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1003"
+msgid ""
+"$BNから\n"
+"何か出てきた！"
+msgstr ""
+"Something came out\n"
+"from $BN"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1004"
+msgid "レーザービーを１体呼ぶ。"
+msgstr "Call for 1 Laser Bee"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1005"
+msgid "黒ぶたファイア（奇襲版）を１体呼ぶ。"
+msgstr "Call for 1 Black Pig Fire (Striker)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1006"
+msgid "メタルイーターを１体呼ぶ。"
+msgstr "Call for 1 Metal Eater"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1007"
+msgid "ゴールドアントを１体呼ぶ。"
+msgstr "Call for 1 Gold Ant"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1008"
+msgid "パラライズアントを１体呼ぶ。"
+msgstr "Call for 1 Paralyze Ant"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1009"
+msgid "ロボポリス（呼ばれ版）を１体呼ぶ。"
+msgstr "Call for 1 Robopolice (Summoned)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1010"
+msgid ""
+"$BNは\n"
+"警報を鳴らした！"
+msgstr ""
+"$BN rang\n"
+"an alarm!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1011"
+msgid "ビームコプターを１体呼ぶ。"
+msgstr "Call for 1 Beam Copter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1012"
+msgid "アシッドアントを１体呼ぶ。"
+msgstr "Call for 1 Acid Ant"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1013"
+msgid "巨大アリを１体呼ぶ。"
+msgstr "Call for 1 Giant Ant"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1014"
+msgid "ヘルレスキュー（通常版）を１体呼ぶ。"
+msgstr "Call for 1 Hell Rescue (Normal)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1015"
+msgid "ていさつUFOを１体呼ぶ。"
+msgstr "Call for 1 Recon UFO"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1016"
+msgid "リペアコプターを１体呼ぶ。"
+msgstr "Call for 1 Repair Copter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1017"
+msgid "デザートスイーパーを１体呼ぶ。"
+msgstr "Call for 1 Dessert Sweper"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1018"
+msgid "暴走ゾンビを呼ぶ。"
+msgstr "Call for a Berserk Zombie"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1019"
+msgid "メタルファルコンを呼ぶ。"
+msgstr "Call for a Metal Falcon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1020"
+msgid "クレイジーポリスを呼ぶ。"
+msgstr "Call for a Crazy Police"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1021"
+msgid "くさっポリタンを呼ぶ。"
+msgstr "Call for a Rot Polytank"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1022"
+msgid ""
+"$BNは\n"
+"体をゆすった！"
+msgstr ""
+"$BN shook\n"
+"the body!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1023"
+msgid "もえフィギュアを呼ぶ。"
+msgstr "Call for Burn Figure"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1024"
+msgid "ミミックボックス（箱入り版）を呼ぶ。"
+msgstr "Call for a Mimic Box (in the Box)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1025"
+msgid "ＡＴエレファントを呼ぶ。"
+msgstr "Call for a AT Elephant"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1026"
+msgid "Ｔ９９ゴリラを呼ぶ。"
+msgstr "Call for a T99 Gorilla"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1027"
+msgid "ＡＴグリズリーを呼ぶ。"
+msgstr "Call for a AT Grizzly"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1028"
+msgid "バキュームマンバを呼ぶ。"
+msgstr "Call for a BBQ Man"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1029"
+msgid "モンスターベルを呼ぶ。"
+msgstr "Call for a Monster Bell"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1030"
+msgid "凶暴トースターを呼ぶ。"
+msgstr "Call for a Violent Toaster"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1031"
+msgid "デビルフォンを呼ぶ。"
+msgstr "Call for a Devil Phone"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1032"
+msgid "ヘルレスキュー（呼ばれ版）を３体呼ぶ。"
+msgstr "Call for 3 Hell Rescue (Summon)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1033"
+msgid "満タンドクターを呼ぶ。"
+msgstr "Call for a Refill Doctor"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1034"
+msgid "パーフェクトガードを呼ぶ。"
+msgstr "Call for a Perfect Guard"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1035"
+msgid ""
+"$BNは\n"
+"サイレンをならした！"
+msgstr ""
+"$BN sounded\n"
+"the siren!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1036"
+msgid "ボムポポベビーを呼ぶ。"
+msgstr "Call for a Bomb PawPaw Heavy"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1037"
+msgid ""
+"$BNは\n"
+"種をまきちらした！"
+msgstr ""
+"$BN spread\n"
+"its seeds!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1038"
+msgid "解体コプターを呼ぶ。"
+msgstr "Call for a Dismantle Copter"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1039"
+msgid "ＢＢＱマウスを３体呼ぶ。"
+msgstr "Call for 3 BBQ Mouses"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1040"
+msgid "通り魔ホークを１体呼ぶ。"
+msgstr "Call for 1 Random Killer Hawk"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1041"
+msgid ""
+"$BNは\n"
+"電波を発信した！"
+msgstr ""
+"$BN transmitted\n"
+"radio waves!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1042"
+msgid "クランザコＡ１を１体呼ぶ。"
+msgstr "Call for 1 Clan Mob A"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1043"
+msgid "クランザコＢ１を１体呼ぶ。"
+msgstr "Call for 1 Clan Mob B"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1044"
+msgid "クランザコＡ２を１体呼ぶ。"
+msgstr "Call for 1 Clan Mob A2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1045"
+msgid "クランザコＢ２を１体呼ぶ。"
+msgstr "Call for 1 Clan Mob B2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1046"
+msgid "クランザコＣ２を６体呼ぶ。"
+msgstr "Call for 6 Clan Mob C2"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1047"
+msgid "クランザコＤを１体呼ぶ。"
+msgstr "Call for 1 Clan Mob D1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1048"
+msgid "クランザコＥを１体呼ぶ。"
+msgstr "Call for 1 Clan Mob E1"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1049"
+msgid "死神注射を１体呼ぶ。"
+msgstr "Call for 1 Grim Reaper Syring"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1050"
+msgid "はぐれイーターを１体呼ぶ。"
+msgstr "Call for 1 Loose Eater"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1051"
+msgid "スナザメをケータイで呼ぶ。"
+msgstr "Call for a Sand Shark through the Cellphone"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1052"
+msgid "ヘルレスキュー（呼ばれ版）をケータイで呼ぶ。"
+msgstr "Call a Hell Rescue (Summoned) through the Cellphone"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1053"
+msgid "暴走ゾンビをケータイで呼ぶ。"
+msgstr "Call a Berserk Zombie through the Cellphone"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1054"
+msgid "デザートスイーパーをケータイで呼ぶ。"
+msgstr "Call a Desert Sweeper through the Cellphone"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1055"
+msgid "スローウォーカー（呼ばれ版）をケータイで呼ぶ。"
+msgstr "Call a Slow Walker (Summoned) through the Cellphone"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1056"
+msgid "コーラツメ攻撃"
+msgstr "Cola Claws Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1057"
+msgid "コーラ威嚇"
+msgstr "Cola Threat"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1058"
+msgid ""
+"$BNは\n"
+"威嚇をしている！"
+msgstr ""
+"$BN is\n"
+"threatening!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1059"
+msgid "コーラしっぽ"
+msgstr "Cola Tail"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1060"
+msgid "コーラ誘惑"
+msgstr "Cola Temptation"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1061"
+msgid ""
+"$BNは\n"
+"魅惑のポーズをした！"
+msgstr ""
+"$BN made\n"
+"a tempting pose!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1062"
+msgid ""
+"$BNの攻撃！\n"
+"「わたしを女王さまとおよびっ！"
+msgstr ""
+"$BN attacks!\n"
+"\"Call me \"Queen\"!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1063"
+msgid ""
+"$BNのキック攻撃！\n"
+"「このうすぎたないブタめっ！"
+msgstr ""
+"$BN kicks!\n"
+"\"You dirty pig!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1064"
+msgid "$BNはまんたん注射をした！"
+msgstr ""
+"$BN used\n"
+"a refill syringe!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1065"
+msgid "艦内砲主砲"
+msgstr "In-ship Main Cannon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1066"
+msgid "艦内砲副砲"
+msgstr "In-ship Sub-Cannon"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1067"
+msgid ""
+"$BNは\n"
+"エネルギーを充電している。"
+msgstr ""
+"$BN is\n"
+"charging energy."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1068"
+msgid "拷問終了"
+msgstr "Torture End"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1069"
+msgid ""
+"$BN\n"
+"「今日はここまでにしてやる、ふん！"
+msgstr ""
+"$BN\n"
+"\"We'll leave it at here for today! Hmpf!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1070"
+msgid ""
+"$BN\n"
+"「はけーーーっ！コーラはどこにいるっ？"
+msgstr ""
+"$BN\n"
+"\"Confess!! Where's Cola!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1071"
+msgid ""
+"$BN\n"
+"「言わぬと、命はないぞっ！！"
+msgstr ""
+"$BN\n"
+"\"Confess! Or you'll die!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1072"
+msgid ""
+"$BN\n"
+"「しぶといヤツだっ！はくんだっ！"
+msgstr ""
+"$BN\n"
+"\"How stubborn! Spit it out!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1073"
+msgid ""
+"$BN\n"
+"「はけーーーっ！"
+msgstr ""
+"$BN\n"
+"\"CONFESS!!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1074"
+msgid ""
+"$BN\n"
+"「おまえはブレードトゥースだろっ！"
+msgstr ""
+"$BN\n"
+"\"You're Bladetooth, right!?\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1075"
+msgid ""
+"$BN\n"
+"「さっさと変身しろっ！！"
+msgstr ""
+"$BN\n"
+"\"Transform at once!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1076"
+msgid "ドミンゲス「これで終わりだぜぇっ！"
+msgstr "Dominguez:\"This is it for you!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1077"
+msgid "主人公生き返る"
+msgstr "Protagonist Revives"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1078"
+msgid "主人公倒れる"
+msgstr "Protagonist Collapses"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1079"
+msgid "カーロス攻撃"
+msgstr "Carlos Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1080"
+msgid ""
+"$BNの攻撃！\n"
+"「オレの出番だぜ！"
+msgstr ""
+"$BN attacked!\n"
+"\"My turn!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1081"
+msgid "ズシオー攻撃"
+msgstr "Zushio Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1082"
+msgid ""
+"$BNの攻撃！\n"
+"「これでもくらえ！"
+msgstr ""
+"$BN attacked!\n"
+"\"Eat this!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1083"
+msgid "アンジー攻撃"
+msgstr "Angie Attack"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1084"
+msgid ""
+"$BNの攻撃！\n"
+"「ひとあばれするわよ！"
+msgstr ""
+"$BN attacked!\n"
+"\"Let's Rock!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1085"
+msgid "洗車モップ"
+msgstr "Car Washing Mop"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1086"
+msgid ""
+"$BNは\n"
+"$BIでなぐった！"
+msgstr ""
+"$BN hit\n"
+"with $BI!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1087"
+msgid "弾でない"
+msgstr "Dud shot"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1088"
+msgid "サーチライト失敗"
+msgstr "Searchlight fail"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1089"
+msgid ""
+"$BNは\n"
+"サーチライトを照らした？！"
+msgstr ""
+"$BN lit up\n"
+"its searchlight!?"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1090"
+msgid "クランザコＡを１体呼ぶ。"
+msgstr "Call 1 Clan Mob A"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1091"
+msgid "クランザコＢを１体呼ぶ。"
+msgstr "Call 1 Clan Mob B"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1092"
+msgid "クランバイクを１体呼ぶ。"
+msgstr "Call 1 Clan Bike"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1093"
+msgid "応援"
+msgstr "Cheer"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1094"
+msgid ""
+"$BNは\n"
+"おうえんをした！"
+msgstr "$BN cheered!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1095"
+msgid "催涙弾"
+msgstr "Tear Gas"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1096"
+msgid ""
+"$BNは\n"
+"催涙弾を使った！"
+msgstr ""
+"$BN shot\n"
+"a Tear Gas shot!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1097"
+msgid "変身５９"
+msgstr "Transform 59"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1098"
+msgid "変身６０"
+msgstr "Transform 60"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1099"
+msgid ""
+"$BN「アンギャアァーーーっ！\n"
+"$BNは奇怪な声をあげた！"
+msgstr ""
+"$BN Screamed!\n"
+"$BN:\"Angyaahh!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1100"
+msgid "死亡処理"
+msgstr "Death Process"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1101"
+msgid "ていさつスコープ"
+msgstr "Scout Scope"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1102"
+msgid "様子見スコープ"
+msgstr "Check Scope"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1103"
+msgid "ヒドラエキス"
+msgstr "Hydra Extract"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1104"
+msgid "男気キック"
+msgstr "Manly Kick"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1105"
+msgid ""
+"$BNの\n"
+"男気を込めた気合いのキック！"
+msgstr ""
+"$BN gives a kick\n"
+"full of manliness!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1106"
+msgid "セクシーパンチ"
+msgstr "Sexy Punch"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1107"
+msgid ""
+"$BNの\n"
+"お色気満点のセクシーパンチ！"
+msgstr ""
+"$BN throws a punch\n"
+"full of Erotism!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1108"
+msgid "ポチボーン"
+msgstr "Pochibone"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1109"
+msgid "砂の中"
+msgstr "In the Sand"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1110"
+msgid ""
+"$BNは\n"
+"砂の中をおよいでいる。"
+msgstr ""
+"$BN is swimming\n"
+"inside the sand"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1111"
+msgid "メール爆弾"
+msgstr "Mail Bomb"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1112"
+msgid ""
+"$BNが$BIを\n"
+"使おうとしたら、爆発した！"
+msgstr ""
+"$BN tried to use \n"
+"$BI but it exploded!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1113"
+msgid "ヒール爆弾"
+msgstr "Heal Bomb"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1114"
+msgid ""
+"$BNが$BIを\n"
+"使おうとしたら、ガスが噴出した！"
+msgstr ""
+"$BN tried to use \n"
+"$BI but it sprayed gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1115"
+msgid "パニック爆弾"
+msgstr "Panic Bomb"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1116"
+msgid "変身６１"
+msgstr "Transform 61"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1117"
+msgid "ビームを波動ナマコ（小）に戻る。"
+msgstr "Return the Beam to the Wave Cucumber (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1118"
+msgid ""
+"$BNは\n"
+"エネルギーを使い切った！"
+msgstr ""
+"$BN has\n"
+"ran out of energy!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1119"
+msgid "波動ビーム砲（小）に戻る。"
+msgstr "Return to the Wave Beam Cannon (Small)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1120"
+msgid "定数ダメージ（超特大３）"
+msgstr "Constant Damage (Super Extra-large 3)"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1121"
+msgid "土星ビーム"
+msgstr "Saturn Beam"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1122"
+msgid "マヒ解消"
+msgstr "Remove Paralyze"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1123"
+msgid "万能薬"
+msgstr "Super Medicine"

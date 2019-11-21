@@ -1,0 +1,3876 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 21/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type2\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "0"
+msgid ""
+"１発で、広範囲のモンスターを\n"
+"同時に攻撃できる特殊砲弾。\n"
+"ただし、威力は通常弾の約半分。"
+msgstr ""
+"Hits a wide area.\n"
+"However, has around\n"
+"1/2 normal power."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1"
+msgid ""
+"一定範囲のモンスターを\n"
+"燃えさかる炎で包みこむ。\n"
+"その炎はしばらく燃えつづける。"
+msgstr ""
+"Hits 1 enemy, lighting it on fire.\n"
+"Burns for a short while."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "2"
+msgid ""
+"一定範囲のモンスターを\n"
+"冷凍ガスで包みこみ、しばらくの間\n"
+"ダメージを与えつづける。"
+msgstr ""
+"Hits 1 enemy with freezing gas.\n"
+"Damages for a short while."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "3"
+msgid ""
+"一定範囲のモンスターを毒ガスで\n"
+"包み込む。\n"
+"クルマは毒ガスで車内汚染。"
+msgstr ""
+"Hits 1 enemy with poison gas.\n"
+"Gas will enter vehicles."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "4"
+msgid ""
+"一定範囲のモンスターを眠らせる。\n"
+"クルマはさいみんガスで\n"
+"車内が汚染される。"
+msgstr ""
+"Hits 1 enemy with sleeping gas.\n"
+"Gas will enter vehicles."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "5"
+msgid ""
+"一定範囲のモンスターをまひさせる。\n"
+"クルマはまひガスで\n"
+"車内が汚染される。"
+msgstr ""
+"Hits 1 enemy with paralyzing gas.\n"
+"Gas will enter vehicles."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "6"
+msgid ""
+"戦車の分厚い装甲をぶち抜き、\n"
+"内部から大ダメージを与える。\n"
+"敵の兵器を破壊することもある。"
+msgstr ""
+"Penetrates heavy vehicle armor.\n"
+"May break enemy weapons."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "7"
+msgid ""
+"より強力な撤甲弾。\n"
+"高温のジェット噴流で、\n"
+"敵の装甲を溶解させる。"
+msgstr ""
+"Stronger piercing ammo.\n"
+"Hot jet of water melts enemy armor."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "8"
+msgid ""
+"超高速で飛ぶ重金属の弾芯が、\n"
+"敵の分厚い装甲を貫く。\n"
+"ホローチャージよりもさらに強力！"
+msgstr ""
+"High-speed bullet pierces armor.\n"
+"Stronger than HollowCharge!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "9"
+msgid ""
+"モンスターをセメントで固める。\n"
+"固まったモンスターは\n"
+"動きがにぶくなる。"
+msgstr ""
+"Traps enemy in cement.\n"
+"Trapped enemies' movement is dulled."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "10"
+msgid ""
+"対地中用てっこう弾。\n"
+"地中にもぐった敵も\n"
+"攻撃することができる。"
+msgstr ""
+"Ground-to-ground piercing ammo.\n"
+"Can hit underground enemies."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "11"
+msgid ""
+"スパルク砲専用の特殊砲弾。\n"
+"攻撃力は通常弾をしのぎ、\n"
+"飛行している敵にも確実に命中する。"
+msgstr ""
+"Spark guns only.\n"
+"Stronger than normal,\n"
+"always hits flyers."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "12"
+msgid ""
+"もはや古びてしまって、\n"
+"使いものにならなさそうな砲弾。"
+msgstr ""
+"Old, unexploded shell.\n"
+"Doesn't seem like it can be used."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "13"
+msgid ""
+"一定範囲のモンスターを\n"
+"混乱させる。"
+msgstr "Hits 1 enemy and causes confusion."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "14"
+msgid ""
+"モンスターが送ってきたメール。\n"
+"何か危険な香りがする。"
+msgstr ""
+"Mail dropped by a monster.\n"
+"Feels somehow dangerous."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "15"
+msgid ""
+"モンスターが送ってきたメール。\n"
+"何か危険な香りがする。"
+msgstr ""
+"Mail dropped by a monster.\n"
+"Feels somehow dangerous."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "16"
+msgid ""
+"モンスターが送ってきたメール。\n"
+"何か危険な香りがする。"
+msgstr ""
+"Phone bill dropped by a monster.\n"
+"Feels somehow dangerous."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "17"
+msgid ""
+"やたらと栄養分にあふれた植物の葉。\n"
+"食べると元気全快になる。"
+msgstr ""
+"Excessively nutritious plant leaf.\n"
+"Eat to restore full HP."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "18"
+msgid ""
+"最強のＨＰ回復薬。\n"
+"ＨＰを、完全に回復してくれる。"
+msgstr ""
+"The strongest HP medicine.\n"
+"Completely restores all HP."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "19"
+msgid ""
+"回復ドリンクを最高密度で濃縮。\n"
+"ＨＰを２０００以上回復する。"
+msgstr ""
+"The most concentrated healing drink.\n"
+"Heals up to 2000HP."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "20"
+msgid ""
+"使い捨て注射器タイプの、ＨＰ回復薬。\n"
+"いちどに１５００ポイント前後の\n"
+"ＨＰを回復できる。"
+msgstr ""
+"Medicine in a disposable syringe.\n"
+"Heals around 1500HP."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "21"
+msgid ""
+"回復ドリンクよりも、\n"
+"さらに強力なＨＰ回復薬。"
+msgstr ""
+"Healing medicine.\n"
+"Even stronger than a healing drink."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "22"
+msgid ""
+"呪術的に人を魅了する\n"
+"悪魔のクスリ。"
+msgstr ""
+"Magical, charming,\n"
+"demonic medicine."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "23"
+msgid ""
+"ＨＰを回復してくれる、ドリンク剤。\n"
+"回復カプセルよりも強力。"
+msgstr ""
+"HP restoring tonic.\n"
+"Stronger than a healing pill."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "24"
+msgid ""
+"大破壊以前に発売された\n"
+"どんな病人もゲンキになるという\n"
+"ふれこみの薬品。"
+msgstr ""
+"Sold before the Destruction.\n"
+"Supposedly heals all ills."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "25"
+msgid ""
+"ビーカップで精製された水。\n"
+"浄水装置を通しているので\n"
+"飲んでも死ぬことはない。"
+msgstr ""
+"Water purified in Beacap.\n"
+"Purified so you don't die from it."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "26"
+msgid ""
+"エルルースでくみ上げられた地下水。\n"
+"汚染度や安全性については\n"
+"ほぼ何もわからない。"
+msgstr ""
+"Water drawn underground in Elurus.\n"
+"Who knows if it's safe."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "27"
+msgid ""
+"飲むと気持ちがハッピーに\n"
+"なるだけでなく、\n"
+"体力まで回復する飲料。"
+msgstr ""
+"Drinking will not only make you\n"
+"happy, but restore strength!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "28"
+msgid ""
+"１００ポイント前後のＨＰを\n"
+"回復してくれる、飲み薬。"
+msgstr ""
+"Healing capsule, taken orally.\n"
+"Restores around 100HP."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "29"
+msgid ""
+"ハッピー教団が売っているアメ玉。\n"
+"砂糖は貴重なものなので\n"
+"あまり使用されていない。"
+msgstr ""
+"Candy sold by the Happy Cult.\n"
+"Sugar is rare; eat sparingly."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "30"
+msgid ""
+"神経をマヒさせて\n"
+"あらゆる痛みを抑える強力な薬品。\n"
+"すごく元気になるが、副作用がある。"
+msgstr ""
+"Stops pain by numbing nerves.\n"
+"Heals, but has side effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "31"
+msgid ""
+"アホウささみを材料にした、\n"
+"たんぱくながら栄養のある料理。"
+msgstr ""
+"Hot pot made with seagull tenders.\n"
+"Nutritious but bland."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "32"
+msgid ""
+"ぬめぬめ細胞を\n"
+"絶妙の火かげんで焼きあげた逸品。"
+msgstr ""
+"This gem consists of slimy cells,\n"
+"exquisitely fried."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "33"
+msgid ""
+"男の食欲に完全に応えるための\n"
+"はちきれんばかりのタコス。"
+msgstr ""
+"A heaping pile of tacos,\n"
+"enough to satisfy a man's appetite."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "34"
+msgid ""
+"いろいろな具材をパンではさみ\n"
+"彩りにも気を配った\n"
+"かわいいサンドイッチ。"
+msgstr ""
+"A cute sandwich with many\n"
+"ingredients and sliced in half."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "35"
+msgid ""
+"小さく持ち運びやすい弁当。\n"
+"誰かとのピクニックに最適。"
+msgstr ""
+"A small, easy-to-carry lunch.\n"
+"Go on a picnic with someone!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "36"
+msgid ""
+"ねずみのしっぽを\n"
+"材料にした高タンパク料理。"
+msgstr ""
+"A high-protein dish,\n"
+"made from the tail of a rat."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "37"
+msgid ""
+"ちゅうしゃどりの手羽を\n"
+"揚げた料理。"
+msgstr ""
+"The deep-fried wings\n"
+"of a Syringe Bird."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "38"
+msgid ""
+"ワラの町の特産品。\n"
+"汚染度の低い農作物。"
+msgstr ""
+"Wara's specialty.\n"
+"A crop with low contamination levels."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "39"
+msgid ""
+"大きすぎず、にくめないサイズの\n"
+"かわいいかぼちゃ。"
+msgstr "A huge, lovably large, cute pumpkin."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "40"
+msgid ""
+"死んだ人間が生き返ってしまうほど\n"
+"過剰な栄養をためこんだ\n"
+"植物の一部。"
+msgstr ""
+"Root of a plant with enough\n"
+"nutrients to revive the dead."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "41"
+msgid ""
+"死んでしまった仲間を\n"
+"生き返らせることができる、\n"
+"まさかの医薬品。"
+msgstr ""
+"Unbelievable medicine that can\n"
+"revive dead comrades."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "42"
+msgid ""
+"アクアヒドラの目から流れ出た体液。\n"
+"体のマヒを消してしまうほどの\n"
+"強い刺激のある液体。"
+msgstr ""
+"Fluid from the AquaHydra's eye.\n"
+"Stimulus cures paralysis."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "43"
+msgid ""
+"マヒノンの強力版。\n"
+"微量で同じ効果を発揮できるため、\n"
+"何度使っても、なくならない。"
+msgstr ""
+"Stronger Para-Non.\n"
+"Very little needed;\n"
+"many uses possible."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "44"
+msgid ""
+"心臓病の薬であり、\n"
+"また非常に爆発性の高い薬品でもある。"
+msgstr ""
+"Used for heart disease,\n"
+"but also a high-explosive chemical."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "45"
+msgid ""
+"アクアヒドラの傷口から出た体液。\n"
+"強い刺激臭で、体のマヒが\n"
+"とれてしまうという。"
+msgstr ""
+"Extract from the AquaHydra.\n"
+"Strong odor, cures paralysis."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "46"
+msgid ""
+"マヒしてしまった仲間を\n"
+"正常にもどす薬。"
+msgstr ""
+"Medicine that returns\n"
+"paralyzed comrades to normal."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "47"
+msgid ""
+"酸におかされたクルマに使用すると、\n"
+"酸を中和し、正常にもどしてくれる。"
+msgstr ""
+"Neutralizes acid on vehicles,\n"
+"returning them to normal."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "48"
+msgid ""
+"酸を中和する薬。（人間用）\n"
+"アルカリクリームとちがって、\n"
+"何度でも使える！"
+msgstr ""
+"Acid neutralizing medicine.\n"
+"(Human Use)\n"
+"Usable many times!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "49"
+msgid ""
+"酸を中和する薬。（人間用）\n"
+"酸におかされたら、\n"
+"このクリームを塗って、中和しよう。"
+msgstr ""
+"Acid neutralizing medicine.\n"
+"(Human Use)\n"
+"Use to treat acid."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "50"
+msgid ""
+"アクアヒドラの体内に\n"
+"たまっていた地下水。\n"
+"どんな眠気も覚める強烈なにおい。"
+msgstr ""
+"Water from inside the AquaHydra.\n"
+"Strong smell cures sleep."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "51"
+msgid ""
+"あらゆる眠気をふきとばす\n"
+"刺激のつまった錠剤。"
+msgstr ""
+"Pill packed with caffeine\n"
+"to blow away drowsiness."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "52"
+msgid "相手の出方をさぐりたい時はこれ。"
+msgstr ""
+"Use this when checking\n"
+"someone's attitude."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "53"
+msgid ""
+"歴戦のハンターのように\n"
+"モンスターのさまざまな情報を\n"
+"知ることのできる道具。"
+msgstr ""
+"Tool to let you check monster info\n"
+"like a veteran Hunter."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "54"
+msgid ""
+"ガウーマンの羽の一部。\n"
+"可燃性のりん粉をまきちらし、\n"
+"敵に炎をふきつけることができる。"
+msgstr ""
+"Mothman's wing.\n"
+"Spreads flammable powder that burns easily."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "55"
+msgid ""
+"毒ガスを吹き付け攻撃する\n"
+"護身用のスプレー缶。"
+msgstr ""
+"Poison gas spray,\n"
+"for self-defense."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "56"
+msgid ""
+"何度でも使える、攻撃用アイテム。\n"
+"もともとは、危険な有毒化合物を、\n"
+"安全に棄てるために作られたらしい。"
+msgstr ""
+"Multi-use attack item.\n"
+"Toxic, but created safe to discard."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "57"
+msgid ""
+"フリーズビールを更に高い密度で\n"
+"圧縮したもの。\n"
+"敵に投げつけ凍えさせることができる。"
+msgstr ""
+"Highly concentrated Freeze Beer.\n"
+"Freezes when thrown."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "58"
+msgid ""
+"液体窒素を更に圧縮して\n"
+"ビールびんにつめたもの。\n"
+"敵に投げつけ凍えさせることができる。"
+msgstr ""
+"Liquid nitrogen in a beer bottle.\n"
+"Freezes when thrown."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "59"
+msgid ""
+"燃焼性の高い液体をブレンドして\n"
+"ビール瓶につめたもの。\n"
+"投げつけ、敵を燃やしつくす。"
+msgstr ""
+"Mixed volatile liquids in a bottle.\n"
+"Burns when thrown."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "60"
+msgid ""
+"燃焼性の高い液体を\n"
+"ビール瓶につめたもの。\n"
+"敵に投げつけ火ダルマにする。"
+msgstr ""
+"Volatile liquid in a bottle.\n"
+"Turns enemies into firemen."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "61"
+msgid ""
+"攻撃用の人間道具。\n"
+"敵を炎で包み、数ターンにわたって\n"
+"ダメージを与えつづける。"
+msgstr ""
+"Attack item. Burns enemy,\n"
+"damaging them for multiple turns."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "62"
+msgid ""
+"服用すれば\n"
+"頭の中に花火が上がり、\n"
+"一時的に筋力が増強される。"
+msgstr ""
+"Launches fireworks in your head,\n"
+"briefly buffing strength."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "63"
+msgid ""
+"一時的に、神経の反射速度を高める、\n"
+"生体加速剤。\n"
+"すばやさがアップする。"
+msgstr ""
+"Briefly raises nervous system\n"
+"reflex rate, increasing speed."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "64"
+msgid ""
+"戦闘中に周囲の炎を\n"
+"すばやく消すことができる\n"
+"携帯型の消火器。"
+msgstr ""
+"Portable fire extinguisher;\n"
+"quickly removes fire in battle."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "65"
+msgid ""
+"戦闘中、消えない炎に包まれて\n"
+"ダメージを受け続けるとき、\n"
+"これを使って火を消そう！"
+msgstr ""
+"Use when recieving damage\n"
+"from fire in battle to put it out!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "66"
+msgid ""
+"戦闘中に周囲の冷気を\n"
+"すばやく緩和するできる携帯型ボンベ。\n"
+"使っても、なくならない。"
+msgstr ""
+"Portable, reusable gas\n"
+"to quickly heal freeze in battle."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "67"
+msgid ""
+"冷気に包まれた仲間たちの体を\n"
+"一瞬で暖めることができる\n"
+"日常には、あまりに強力なカイロ。"
+msgstr ""
+"Excessively good hand-warmer;\n"
+"instantly warms cold allies."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "68"
+msgid ""
+"小型だが超高速で回転し\n"
+"まさつ熱による炎で\n"
+"周囲をつつんでしまう装置。"
+msgstr ""
+"Small, high-RPS device that\n"
+"burns the area with friction."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "69"
+msgid ""
+"自分自身と、乗車するクルマにも\n"
+"強力な電磁バリアを展開できる\n"
+"スゴイモノ。"
+msgstr ""
+"Creates a strong barrier\n"
+"on one's body or vehicle.\n"
+"Amazing."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "70"
+msgid ""
+"自分自身と、乗車するクルマにも\n"
+"電磁バリアを展開できる\n"
+"スグレモノ。"
+msgstr ""
+"Creates a barrier\n"
+"on one's body or vehicle.\n"
+"Brilliant."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "71"
+msgid "服用者を混乱させる効果がある薬。"
+msgstr ""
+"A drug that makes\n"
+"the recipient confused."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "72"
+msgid ""
+"睡眠誘発物質を散布し\n"
+"生体モンスターを\n"
+"眠らせることができる。"
+msgstr ""
+"Puts enemies to sleep by\n"
+"spreading sleep-inducing substance."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "73"
+msgid ""
+"目の前に巨大な雲を発生させ\n"
+"敵の目をくらますことのできる\n"
+"不思議なモノ。"
+msgstr ""
+"Wondrous object that makes\n"
+"a giant cloud to blind enemies."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "74"
+msgid ""
+"周囲に煙を立ちのぼらせ\n"
+"敵の攻撃の命中率を\n"
+"下げることができる。"
+msgstr ""
+"Fills the area with smoke\n"
+"to lower enemy accuracy."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "75"
+msgid ""
+"火花と煙をふきだしながら\n"
+"辺りを飛び回る不思議なモノ。"
+msgstr ""
+"Wondrous object that flies around\n"
+"emitting smoke and sparks."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "76"
+msgid ""
+"モンスターを煙幕で包みこみ、\n"
+"攻撃を妨げる効果を持つ。\n"
+"長期戦に有効な道具だ。"
+msgstr ""
+"Makes a smokescreen, blinding enemy.\n"
+"Good for long battles."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "77"
+msgid ""
+"使い勝手のいい、手軽な無反動砲。\n"
+"日用品を利用して作られたものも多い。"
+msgstr ""
+"Simple, recoilless gun.\n"
+"For everyday home use."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "78"
+msgid ""
+"てりゅうだんの火薬分量に手を加えた\n"
+"爆発力の高いハンドグレネード。\n"
+"食べられません。"
+msgstr ""
+"Grenade with more power\n"
+"than a frag grenade.\n"
+"Do not eat."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "79"
+msgid ""
+"昔から、戦争などで広く使われてきた、\n"
+"由緒ある手投げ爆弾。\n"
+"破壊力はかなりのもの。"
+msgstr ""
+"Used extensively in past wars.\n"
+"Has considerable power."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "80"
+msgid ""
+"一手間で作れるペン型のミサイル。\n"
+"てりゅうだんが手に入りにくい時は\n"
+"これ。"
+msgstr ""
+"One-touch, pen-shaped missile.\n"
+"Use when cannot use grenades."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "81"
+msgid ""
+"火薬の量をふやし\n"
+"武器としても使えるようにした\n"
+"ちょっと危険な花火。"
+msgstr ""
+"Use around lots of gunpowder\n"
+"for some dangerous fireworks."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "82"
+msgid ""
+"もっとも原始的な武器のひとつ。\n"
+"文明が崩壊する前の時代には、\n"
+"デモ隊などが使用していたらしい。"
+msgstr ""
+"First weapon.\n"
+"Used by protestors\n"
+"before the Destruction."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "83"
+msgid ""
+"戦闘中、モンスターに向かって\n"
+"投げることもできる。\n"
+"投げにくいので、当たりそうにない。"
+msgstr ""
+"Can be thrown at enemy.\n"
+"Tough to throw, so unlikely to hit."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "84"
+msgid ""
+"水に浮くほど軽い石。\n"
+"水面であれば、かんたんに\n"
+"見つけることができる。"
+msgstr ""
+"A rock light enough to float.\n"
+"Easy to find in water."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "85"
+msgid ""
+"異常な成長をとげ\n"
+"水死体とまちがえられやすい\n"
+"気味の悪いワカメ。"
+msgstr ""
+"Weird, creepy seaweed,\n"
+"easily mistaken for a drowned corpse."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "86"
+msgid ""
+"かつて誰かが海に捨てたピストル。\n"
+"中にフジツボがつまっており\n"
+"武器としては使い物にならない。"
+msgstr ""
+"A pistol from the sea.\n"
+"Filled with barnacles; can't be used."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "87"
+msgid ""
+"仲間全員の体力をかなり回復する\n"
+"一発逆転のアイテム。\n"
+"犬にしか使うことができない。"
+msgstr ""
+"Miraculously heals the entire party.\n"
+"Only usable by dogs."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "88"
+msgid ""
+"仲間全員の体力を回復する\n"
+"起死回生のアイテム。\n"
+"犬にしか使うことができない。"
+msgstr ""
+"Wonderfully heals the entire party.\n"
+"Only usable by dogs."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "89"
+msgid ""
+"戦闘中にかじれば、体力が回復する\n"
+"犬の大好物。"
+msgstr ""
+"Restores strength when\n"
+"chewed in battle.\n"
+"Loved by dogs."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "90"
+msgid ""
+"軍用犬のために開発された、回復薬。\n"
+"その効力は、\n"
+"エナジーカプセルに匹敵。"
+msgstr ""
+"Medicine made for war dogs.\n"
+"Equivalent to an energy capsule."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "91"
+msgid "犬の栄養ドリンクらしい。"
+msgstr ""
+"Sort of like an\n"
+"energy drink for dogs."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "92"
+msgid ""
+"いろいろと、ヤラしいことが\n"
+"書いてあるらしい。"
+msgstr ""
+"Various dirty things\n"
+"are written inside."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "93"
+msgid "高機能な精密機械のつまったゴーグル。"
+msgstr ""
+"A pair of goggles filled with\n"
+"sophisticated technology."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "94"
+msgid ""
+"軌道上の人工衛星に信号を送り\n"
+"操作をする装置。"
+msgstr ""
+"Equipment that sends a signal\n"
+"to an orbital satellite."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "95"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "96"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "97"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "98"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "99"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "100"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "101"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "102"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "103"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "104"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "105"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "106"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "107"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "108"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "109"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "110"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "111"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "112"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "113"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "114"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "115"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "116"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "117"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "118"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "119"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "120"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "121"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "122"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "123"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "124"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "125"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "126"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "127"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "128"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "129"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "130"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "131"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "132"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "133"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "134"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "135"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "136"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "137"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "138"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "139"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "140"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "141"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "142"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "143"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "144"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "145"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "146"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "147"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "148"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "149"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "150"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "151"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "152"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "153"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "154"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "155"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "156"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "157"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "158"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "159"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "160"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "161"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "162"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "163"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "164"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "165"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "166"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "167"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "168"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "169"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "170"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "171"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "172"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "173"
+msgid ""
+"量子力学による特殊な人形型の装置。\n"
+"構成部品を組み変えることで\n"
+"さまざまな効果を発揮する。"
+msgstr ""
+"A special quantum doll.\n"
+"Change parts for different effects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "174"
+msgid ""
+"周囲の金属を探知できる装置。\n"
+"より広い範囲の探知が行える。"
+msgstr ""
+"Detects metal in the\n"
+"surrounding area.\n"
+"Wider range."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "175"
+msgid ""
+"冒険の旅に欠かせない\n"
+"探知機のひとつ。\n"
+"地面の下に埋もれた金属を感知する。"
+msgstr ""
+"Indispensable on a journey.\n"
+"Finds metal buried underground."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "176"
+msgid ""
+"あらゆる電子ロックを解除できる、\n"
+"万能カギあけ装置。\n"
+"原始的なカギは、あけられないらしい。"
+msgstr ""
+"Skeleton key for electronic locks.\n"
+"Not for normal locks."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "177"
+msgid ""
+"あの名作ゲーム「戦車でワンワン」が\n"
+"いつでもプレイできるように！"
+msgstr ""
+"You can play the masterpiece,\n"
+"\"Doggy Tanks\", anytime!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "178"
+msgid ""
+"いつでもどこでも\n"
+"「ブラックジャック」で\n"
+"勝負のスリルにひたることができる。"
+msgstr ""
+"You can dive into a thrilling\n"
+"game of \"Blackjack\", anytime!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "179"
+msgid ""
+"ペットフード。\n"
+"犬はこれが大好きらしい。"
+msgstr ""
+"Gourmet pet food.\n"
+"Dogs seem to love it."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "180"
+msgid ""
+"人間の限界を越えるための扉を開く\n"
+"悪魔の発明。"
+msgstr ""
+"A demonic invention that allows\n"
+"one to exceed human limits."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "181"
+msgid ""
+"体に貼りつけてからはがすと、\n"
+"まるで入れ墨をしたかのように見える\n"
+"おしゃれアイテム。"
+msgstr ""
+"Stick on, peel off.\n"
+"Just like getting\n"
+"a stylish tattoo."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "182"
+msgid ""
+"空気の乾いた荒野では\n"
+"お肌の手入れが、かかせない。"
+msgstr ""
+"Vital for skin care\n"
+"in the dry wasteland."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "183"
+msgid ""
+"幸運を呼び寄せるという。\n"
+"旅人たちが、占いや賭け事に\n"
+"使っているらしい。"
+msgstr ""
+"A good-luck coin.\n"
+"Used for fortunes and bets\n"
+"by travelers."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "184"
+msgid ""
+"誰かが落としたサイフ。\n"
+"重みがあり、中身は空ではない。"
+msgstr ""
+"A wallet someone dropped.\n"
+"Not empty, so must be important."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "185"
+msgid ""
+"クルマのパーツを\n"
+"渋い緑色に塗ることができる。"
+msgstr ""
+"Can paint vehicle parts\n"
+"a dull green."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "186"
+msgid ""
+"クルマのパーツを\n"
+"真紅に塗ることができる。"
+msgstr ""
+"Can paint vehicle parts\n"
+"a deep crimson."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "187"
+msgid ""
+"クルマのパーツを\n"
+"真っ青に塗ることができる。"
+msgstr ""
+"Can paint vehicle parts\n"
+"a bright blue."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "188"
+msgid ""
+"クルマのパーツを\n"
+"目立つ黄色に塗ることができる。"
+msgstr ""
+"Can paint vehicle parts\n"
+"a conspicuous yellow."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "189"
+msgid ""
+"クルマのパーツを\n"
+"ショッキングなピンク色に\n"
+"塗ることができる。"
+msgstr ""
+"Can paint vehicle parts\n"
+"a shocking pink."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "190"
+msgid ""
+"クルマのパーツを\n"
+"漆黒に塗ることができる。"
+msgstr ""
+"Can paint vehicle parts\n"
+"a jet black."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "191"
+msgid ""
+"クルマのパーツを\n"
+"きらめく金色に\n"
+"塗ることができる。"
+msgstr ""
+"Can paint vehicle parts\n"
+"a glittering gold."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "192"
+msgid ""
+"クルマのパーツを\n"
+"かがやくプラチナ色に\n"
+"塗ることができる。"
+msgstr ""
+"Can paint vehicle parts\n"
+"a sparkling platinum."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "193"
+msgid ""
+"クルマにまさかのペイントを\n"
+"ほどこすことができる。"
+msgstr ""
+"Can apply an unexpected paint\n"
+"to your vehicle."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "194"
+msgid ""
+"クルマにまさかのペイントを\n"
+"ほどこすことができる。"
+msgstr ""
+"Can apply an unexpected paint\n"
+"to your vehicle."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "195"
+msgid ""
+"クルマの色を\n"
+"鮮やかに変えることができる。"
+msgstr ""
+"Can change your vehicle to\n"
+"a vivid new color."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "196"
+msgid ""
+"クルマの色を\n"
+"鮮やかに変えることができる。"
+msgstr ""
+"Can change your vehicle to\n"
+"a vivid new color."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "197"
+msgid ""
+"クルマの色を\n"
+"鮮やかに変えることができる。"
+msgstr ""
+"Can change your vehicle to\n"
+"a vivid new color."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "198"
+msgid ""
+"クルマの色を\n"
+"鮮やかに変えることができる。"
+msgstr ""
+"Can change your vehicle to\n"
+"a vivid new color."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "199"
+msgid ""
+"クルマの色を\n"
+"鮮やかに変えることができる。"
+msgstr ""
+"Can change your vehicle to\n"
+"a vivid new color."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "200"
+msgid ""
+"クルマの色を\n"
+"鮮やかに変えることができる。"
+msgstr ""
+"Can change your vehicle to\n"
+"a vivid new color."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "201"
+msgid ""
+"クルマの色を\n"
+"鮮やかに変えることができる。"
+msgstr ""
+"Can change your vehicle to\n"
+"a vivid new color."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "202"
+msgid ""
+"クルマの色を\n"
+"鮮やかに変えることができる。"
+msgstr ""
+"Can change your vehicle to\n"
+"a vivid new color."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "203"
+msgid ""
+"クルマの色を\n"
+"鮮やかに変えることができる。"
+msgstr ""
+"Can change your vehicle to\n"
+"a vivid new color."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "204"
+msgid ""
+"愛車の洗車はもちろん\n"
+"戦闘で使うことも可能。"
+msgstr ""
+"Of course you can wash\n"
+"your sweet ride during battle."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "205"
+msgid ""
+"アンティークな楽器。\n"
+"大昔の軍隊で使っていたものらしい。"
+msgstr ""
+"Antique trumpet.\n"
+"Like ones used by\n"
+"soldiers, long ago."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "206"
+msgid ""
+"蚊をやっつける薬。\n"
+"カトールの強力版。\n"
+"何度使っても、なくならない。"
+msgstr ""
+"Mosquito killer.\n"
+"Stronger version of the M-Toll.\n"
+"Multi-use."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "207"
+msgid ""
+"蚊をやっつける薬。\n"
+"これを持っていれば、寝床に\n"
+"蚊があらわれても撃退できる。"
+msgstr ""
+"Mosquito killer.\n"
+"Use this to keep them away\n"
+"while sleeping."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "208"
+msgid ""
+"ていねいに洗たくされ\n"
+"たたんであるタオル。"
+msgstr "A carefully laundered towel."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "209"
+msgid ""
+"ネイサンという男がくれた\n"
+"女物のタオル。"
+msgstr ""
+"A woman's towel,\n"
+"given by a man named Nathan."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "210"
+msgid ""
+"ワラのスタンプ屋に\n"
+"入会したことを証明するカード。"
+msgstr ""
+"A member's card for\n"
+"the Stamp Shop in Wara."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "211"
+msgid ""
+"福袋以上の福がつまった\n"
+"夢のような袋。"
+msgstr ""
+"A dream-like bag\n"
+"packed with more luck\n"
+"than a grab bag."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "212"
+msgid ""
+"壊れたクルマのパーツを\n"
+"修理するための部品セット。"
+msgstr ""
+"A parts set for fixing\n"
+"broken vehicle components."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "213"
+msgid ""
+"メカニックだけが使え、\n"
+"何度でも使うことのできる\n"
+"修理用の工具セット。"
+msgstr ""
+"A reusable tool set,\n"
+"only usable by Mechanics."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "214"
+msgid ""
+"シンプルな同軸ケーブルを\n"
+"内蔵したチューブ。"
+msgstr ""
+"A simple tube with a\n"
+"built in coaxial cable."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "215"
+msgid ""
+"乙女チックな外装の\n"
+"ケーブルチューブ。"
+msgstr ""
+"A cable tube with a\n"
+"girly exterior."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "216"
+msgid ""
+"二重にコーティングされた\n"
+"頑丈なチューブ。"
+msgstr "A solid, double-coated tube."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "217"
+msgid ""
+"内部を３本のケーブルが走る\n"
+"太目のチューブ。"
+msgstr ""
+"A thick tube with\n"
+"three cables running through it."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "218"
+msgid ""
+"内部を金の導線が通っている\n"
+"豪華なチューブ。"
+msgstr ""
+"An extravagant tube with a\n"
+"gold wire running through it."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "219"
+msgid ""
+"いくつかの導線が交差して\n"
+"通っている頑丈なチューブ。"
+msgstr ""
+"A solid tube with many\n"
+"crossing wires running through it."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "220"
+msgid ""
+"断面がハート型になる\n"
+"おしゃれなチューブ。"
+msgstr ""
+"A stylish tube with a\n"
+"heart-shaped cross-section."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "221"
+msgid ""
+"表面が赤くペイントされ\n"
+"耐火性のある素材で\n"
+"コーティングされたチューブ。"
+msgstr ""
+"A tube with a red,\n"
+"fire-resistant exterior."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "222"
+msgid ""
+"表面に数々のネコの姿を\n"
+"あしらった、いやし系チューブ。"
+msgstr ""
+"A soothing tube with many\n"
+"cat pictures on the exterior."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "223"
+msgid ""
+"断面図が笑顔のように見える\n"
+"個性的なチューブ。"
+msgstr ""
+"A personal tube with a\n"
+"cross-section that looks like a face."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "224"
+msgid ""
+"特殊な人形を飾るための、\n"
+"かわいいリボン。"
+msgstr ""
+"Special doll ornament.\n"
+"A cute ribbon."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "225"
+msgid ""
+"特殊な人形を飾るための、\n"
+"小粋な冠。"
+msgstr ""
+"Special doll ornament.\n"
+"A stylish cap."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "226"
+msgid ""
+"特殊な人形を飾るための、\n"
+"紳士的な帽子。"
+msgstr ""
+"Special doll ornament.\n"
+"A gentlemanly top hat."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "227"
+msgid ""
+"特殊な人形を飾るための、\n"
+"メルヘンチックな帽子。"
+msgstr ""
+"Special doll ornament.\n"
+"A fairytale chic hat."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "228"
+msgid ""
+"特殊な人形を飾るための、\n"
+"威圧的なパーツ。"
+msgstr ""
+"Special doll ornament.\n"
+"An intimidating accessory."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "229"
+msgid ""
+"特殊な人形を飾るための、\n"
+"野生的なパーツ。"
+msgstr ""
+"Special doll ornament.\n"
+"A wild accessory."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "230"
+msgid ""
+"極楽谷の木を小さく砕いたもの。\n"
+"燃料として必要としている人間は\n"
+"意外と多い。"
+msgstr ""
+"Small wood from Paradise Valley.\n"
+"Surprisingly used by many."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "231"
+msgid ""
+"ロケットブースターを使うために必要な\n"
+"非常に爆発力の高い燃料。"
+msgstr ""
+"High-explosive fuel,\n"
+"needed for the Rocket Booster."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "232"
+msgid ""
+"めったに見ることは\n"
+"できないと言われる、幻の希少金属。"
+msgstr ""
+"Said to be a seldom-seen,\n"
+"phantasmic super rare metal."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "233"
+msgid ""
+"ごくたまにしか\n"
+"見ることができないと言われる、\n"
+"希少な金属。"
+msgstr "Said to be a seldom-seen rare metal."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "234"
+msgid ""
+"ごく少量しか\n"
+"存在しないと言われる貴重な金属。"
+msgstr ""
+"Said to be a precious metal\n"
+"with a limited amount."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "235"
+msgid ""
+"ありふれた、\n"
+"なんということもない金属。"
+msgstr ""
+"An ordinary metal,\n"
+"not talked about by anyone."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "236"
+msgid ""
+"砲弾の部品。\n"
+"技術があれば組み合わせて\n"
+"特殊砲弾を作ることができる。"
+msgstr ""
+"Can be used to make special shells,\n"
+"with the right skills."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "237"
+msgid ""
+"砲弾の部品。\n"
+"技術があれば組み合わせて\n"
+"特殊砲弾を作ることができる。"
+msgstr ""
+"Can be used to make special shells,\n"
+"with the right skills."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "238"
+msgid ""
+"砲弾の部品。\n"
+"技術があれば組み合わせて\n"
+"特殊砲弾を作ることができる。"
+msgstr ""
+"Can be used to make special shells,\n"
+"with the right skills."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "239"
+msgid ""
+"砲弾の部品。\n"
+"技術があれば組み合わせて\n"
+"特殊砲弾を作ることができる。"
+msgstr ""
+"Can be used to make special shells,\n"
+"with the right skills."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "240"
+msgid ""
+"砲弾の部品。\n"
+"技術があれば組み合わせて\n"
+"特殊砲弾を作ることができる。"
+msgstr ""
+"Can be used to make special shells,\n"
+"with the right skills."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "241"
+msgid ""
+"砲弾の部品。\n"
+"技術があれば組み合わせて\n"
+"特殊砲弾を作ることができる。"
+msgstr ""
+"Can be used to make special shells,\n"
+"with the right skills."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "242"
+msgid ""
+"砲弾の部品。\n"
+"技術があれば組み合わせて\n"
+"特殊砲弾を作ることができる。"
+msgstr ""
+"Can be used to make special shells,\n"
+"with the right skills."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "243"
+msgid ""
+"砲弾の部品。\n"
+"技術があれば組み合わせて\n"
+"特殊砲弾を作ることができる。"
+msgstr ""
+"Can be used to make special shells,\n"
+"with the right skills."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "244"
+msgid ""
+"技術があれば\n"
+"弾薬の起爆剤として使い\n"
+"特殊砲弾を作ることができる。"
+msgstr ""
+"Can be used to make explosive\n"
+"shells, with the right skills."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "245"
+msgid ""
+"ナパーム燃料のつまった缶。\n"
+"技術があれば、混合して\n"
+"特殊砲弾を作ることができる。"
+msgstr ""
+"Napalm canister.\n"
+"Used to make ammo,\n"
+"with the right skills."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "246"
+msgid ""
+"液体窒素のつまった缶。\n"
+"技術があれば、混合して\n"
+"特殊砲弾を作ることができる。"
+msgstr ""
+"Liquid nitrogen.\n"
+"Used to make ammo,\n"
+"with the right skills."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "247"
+msgid ""
+"毒性ガスのつまった缶。\n"
+"技術があれば、混合して\n"
+"特殊砲弾を作ることができる。"
+msgstr ""
+"Toxic gas.\n"
+"Used to make ammo,\n"
+"with the right skills."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "248"
+msgid ""
+"さいみんガスのつまった缶。\n"
+"技術があれば、混合して\n"
+"特殊砲弾を作ることができる。"
+msgstr ""
+"Sleeping gas.\n"
+"Used to make ammo,\n"
+"with the right skills."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "249"
+msgid ""
+"体をマヒさせるガスのつまった缶。\n"
+"技術があれば、混合して\n"
+"特殊砲弾を作ることができる。"
+msgstr ""
+"Nerve gas.\n"
+"Used to make ammo,\n"
+"with the right skills."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "250"
+msgid ""
+"特殊接着剤のつまった缶。\n"
+"技術があれば、混合して\n"
+"特殊砲弾を作ることができる。"
+msgstr ""
+"Special adhesive.\n"
+"Used to make ammo,\n"
+"with the right skill."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "251"
+msgid ""
+"混乱を誘発するガスのつまった缶。\n"
+"技術があれば、混合して\n"
+"特殊砲弾を作ることができる。"
+msgstr ""
+"Confusion gas.\n"
+"Used to make ammo,\n"
+"with the right skills."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "252"
+msgid ""
+"対象との距離を感知し\n"
+"起爆する敏感な信管装置。"
+msgstr ""
+"Sensitive fuse that activates\n"
+"based on proximity."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "253"
+msgid ""
+"衝撃を感知して起爆する\n"
+"シンプルな信管装置。"
+msgstr ""
+"Simple fuse that activates\n"
+"on impact."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "254"
+msgid ""
+"磁気を非接触で感知して起爆する\n"
+"信管装置。"
+msgstr ""
+"A fuse that activates when\n"
+"the internal magnet disconnects."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "255"
+msgid ""
+"モンロー効果を大胆に応用し\n"
+"爆発力を高めた爆薬。"
+msgstr ""
+"Powerful blasting powder that\n"
+"boldly uses the Munroe Effect."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "256"
+msgid ""
+"少しだけ液体を\n"
+"入れておくことのできる\n"
+"プラスチック容器。"
+msgstr ""
+"A plastic bottle which can hold\n"
+"only a little liquid."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "257"
+msgid ""
+"ちょうどいい量の液体を\n"
+"入れておくことのできる\n"
+"プラスチック容器。"
+msgstr ""
+"A plastic bottle which can hold\n"
+"a decent amount of liquid."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "258"
+msgid ""
+"持ち運びには重い位の液体を\n"
+"入れておくことのできる\n"
+"プラスチック容器。"
+msgstr ""
+"A plastic bottle which can hold\n"
+"a heavy amount of liquid."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "259"
+msgid ""
+"おつまみとして\n"
+"調理されることもある\n"
+"塩気のきつい海草。"
+msgstr ""
+"Hard, salty seaweed.\n"
+"Often used in snacks."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "260"
+msgid ""
+"高度な技術で\n"
+"薄さと強度の両立を実現。\n"
+"大破壊前の、技術の結晶。"
+msgstr ""
+"Hi-tech balloon.\n"
+"Made by skill from\n"
+"before the Destruction."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "261"
+msgid ""
+"具体的な理由はないが\n"
+"独特のありがたさを感じさせる。"
+msgstr ""
+"Seems to have a peculiar value\n"
+"for no particular reason."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "262"
+msgid ""
+"まばゆいプラチナでできた、のべ棒。\n"
+"とてつもない値段で売れそうだ。"
+msgstr ""
+"A dazzling platinum bar.\n"
+"Can be sold for an absurd price."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "263"
+msgid ""
+"純度の高い金の、のべ棒。\n"
+"かなりの値段で売れそうだ。"
+msgstr ""
+"A high-purity gold bar.\n"
+"Can be sold for a very high price."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "264"
+msgid ""
+"純度の高い銀の、のべ棒。\n"
+"なかなかの値段で売れそうだ。"
+msgstr ""
+"A high-purity silver bar.\n"
+"Can be sold for a very good price."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "265"
+msgid ""
+"超流動デカプリンの\n"
+"心臓部にあったコア。\n"
+"未知の材質で構成されている。"
+msgstr ""
+"Superfluid Decapudding's heart.\n"
+"Made of unknown material."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "266"
+msgid ""
+"純度の高い銅の、のべ棒。\n"
+"良い値段で売れそうだ。"
+msgstr ""
+"A high-purity bronze bar.\n"
+"Can be sold for a good price."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "267"
+msgid ""
+"この世界では貴重な\n"
+"大破壊前の技術で作られた電子部品。"
+msgstr ""
+"Precious electronic parts\n"
+"made before the Destruction."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "268"
+msgid ""
+"大破壊前に使われていた、\n"
+"立ち入り禁止区域に\n"
+"置いておくための目印。"
+msgstr ""
+"Used before the Great Destruction\n"
+"to mark restricted areas."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "269"
+msgid ""
+"マユラーのマユの構成物質。\n"
+"ちょっとやそっとでは\n"
+"切れることはない。"
+msgstr ""
+"Fibre from Cocoonera's cocoon.\n"
+"Not easily cut."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "270"
+msgid ""
+"ずいぶん昔のものだが\n"
+"まだ酢にはなっていないワイン。"
+msgstr ""
+"Very old wine which\n"
+"hasn't yet become vinegar."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "271"
+msgid ""
+"ずいぶん昔のものだが\n"
+"まだタルの香りが消えていない\n"
+"ウィスキー。"
+msgstr ""
+"Very old whiskey from which\n"
+"you can still smell the barrel."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "272"
+msgid ""
+"ずいぶん昔のものだが\n"
+"あたためればまだまだ\n"
+"においがたちそうなブランデー。"
+msgstr ""
+"Very old brandy which\n"
+"doesn't yet smell when heated."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "273"
+msgid ""
+"ずいぶん昔のものだが\n"
+"まだまだガツンときそうな\n"
+"テキーラ。"
+msgstr ""
+"Very old tequila which\n"
+"still has lots of impact."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "274"
+msgid ""
+"ずいぶん昔のものだが\n"
+"まだまだ色々なことを\n"
+"忘れさせてくれそうなウォッカ。"
+msgstr ""
+"Very old vodka which\n"
+"makes you forget various things."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "275"
+msgid ""
+"ずいぶん昔のものだが\n"
+"まだ香りを失っていない\n"
+"リキュール。"
+msgstr ""
+"Very old liqueur which\n"
+"still hasn't lost its aroma."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "276"
+msgid ""
+"煮ても焼いても\n"
+"つかみどころのない味がするイモ。"
+msgstr ""
+"Sweet potato which has an\n"
+"elusive taste, boiled or baked."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "277"
+msgid "食い意地のはったカエル。"
+msgstr "A gluttonous frog."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "278"
+msgid ""
+"においでエサをかぎわける、\n"
+"奇妙な魚。"
+msgstr ""
+"Strange fish which\n"
+"uses smell to find prey."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "279"
+msgid ""
+"ぬめりのある奇妙な細胞組織。\n"
+"珍味として取引される。"
+msgstr ""
+"Strange, slimy cell tissue.\n"
+"Traded as a delicacy."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "280"
+msgid ""
+"常にひんやりしている\n"
+"奇妙な細胞組織。\n"
+"珍味として取引される。"
+msgstr ""
+"Strange cell tissue, always cold.\n"
+"Traded as a delicacy."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "281"
+msgid "どことなく、うさぎを思い出させる肉。"
+msgstr ""
+"Meat, vaguely similar\n"
+"to that of a rabbit."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "282"
+msgid "どことなく、ぶたを思い出させる肉。"
+msgstr ""
+"Meat, vaguely similar\n"
+"to that of a pig."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "283"
+msgid "どことなく、へびを思い出させる肉。"
+msgstr ""
+"Meat, vaguely similar\n"
+"to that of a snake."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "284"
+msgid ""
+"巨大なアリの足っぽいモノ。\n"
+"鉄のようにかたいが、軽い。"
+msgstr ""
+"The leg of a giant antlike monster.\n"
+"Hard as iron, but light."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "285"
+msgid "どことなく、かめを思い出させる肉。"
+msgstr ""
+"Meat, vaguely similar\n"
+"to that of a turtle."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "286"
+msgid "深く考えてはいけない、なぞの肉。"
+msgstr ""
+"Mystery meat which you\n"
+"shouldn't think too hard about."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "287"
+msgid "どことなく、ねずみを思い出させる肉。"
+msgstr ""
+"Meat, vaguely similar\n"
+"to that of a mouse."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "288"
+msgid ""
+"ぶ厚いカラにおおわれたテロ貝の身。\n"
+"入手が困難のため、おつまみとしては\n"
+"高級品。"
+msgstr ""
+"Body of a Terror Clam.\n"
+"Hard to get, so a high-class dish."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "289"
+msgid ""
+"脂肪のほとんどない\n"
+"必要以上にヘルシーなささみ。"
+msgstr ""
+"Very healthy bird tender\n"
+"with almost no fat."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "290"
+msgid ""
+"異常にひきしまった巨大な手羽。\n"
+"素人には料理できそうにない。"
+msgstr ""
+"An oddly lean giant wing.\n"
+"Amateurs are unable to cook it."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "291"
+msgid "どことなく、ワニを思わせる足。"
+msgstr ""
+"A foot, vaguely similar\n"
+"to that of an alligator."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "292"
+msgid ""
+"黒コゲになった\n"
+"ちゅうしゃどりの手羽。"
+msgstr ""
+"The wing of a Syringe Bird,\n"
+"burnt black."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "293"
+msgid ""
+"時代が時代なら、超高額で取引される\n"
+"巨大なフカヒレ。\n"
+"荒廃した大地による突然変異の賜物。"
+msgstr ""
+"Huge shark fin.\n"
+"Costly in every era.\n"
+"Gift of the wasteland."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "294"
+msgid ""
+"持っている者に幸せを運ぶという\n"
+"青いワニのしっぽ。"
+msgstr ""
+"A blue alligator tail, said to\n"
+"make you happy by owning it."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "295"
+msgid ""
+"細胞核が金色に輝く細胞。\n"
+"人間には感知不能な匂いを発する。"
+msgstr ""
+"Cell with a gold nucelus.\n"
+"Emits a scent humans can't smell."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "296"
+msgid ""
+"金色に輝くウサギっぽい肉。\n"
+"人間には感知不能な匂いを発する。"
+msgstr ""
+"Gold, rabbit-like meat.\n"
+"Emits a scent humans can't smell."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "297"
+msgid ""
+"金色に輝くぶたっぽい肉。\n"
+"人間には感知不能な匂いを発する。"
+msgstr ""
+"Gold, pig-like meat.\n"
+"Emits a scent humans can't smell."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "298"
+msgid ""
+"金色に輝くへびっぽい肉。\n"
+"人間には感知不能な匂いを発する。"
+msgstr ""
+"Gold, snake-like meat.\n"
+"Emits a scent humans can't smell."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "299"
+msgid ""
+"金色に輝くアリの足っぽいモノ。\n"
+"人間には感知不能な匂いを発する。"
+msgstr ""
+"Gold, ant-like leg.\n"
+"Emits a scent humans can't smell."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "300"
+msgid ""
+"金色に輝くかめっぽい肉。\n"
+"人間には感知不能な匂いを発する。"
+msgstr ""
+"Gold, turtle-like meat.\n"
+"Emits a scent humans can't smell."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "301"
+msgid ""
+"大破壊前に流行していた\n"
+"野球選手の写真カード。"
+msgstr ""
+"Card with a photo of a\n"
+"pre-Destruction baseball player."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "302"
+msgid ""
+"大破壊前に活躍した\n"
+"野球選手のサイン入りボール。"
+msgstr ""
+"Ball signed by an active\n"
+"pre-Destruction baseball player."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "303"
+msgid ""
+"小さくて、丸いモノ。\n"
+"なんだか、やわらかい。"
+msgstr ""
+"Small round object.\n"
+"Somehow soft."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "304"
+msgid ""
+"小さくて、丸いモノ。\n"
+"かなり、ボロボロになっている。"
+msgstr ""
+"Small round object.\n"
+"Considerably worn-out."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "305"
+msgid ""
+"小さくて、丸いモノ。\n"
+"かたいが、やたらと軽い。"
+msgstr ""
+"Small round object.\n"
+"Hard, but excessively light."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "306"
+msgid ""
+"小さくて、丸いモノ。\n"
+"なんだか、こげている。"
+msgstr ""
+"Small round object.\n"
+"Somehow burnt."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "307"
+msgid ""
+"エルルースのタワーで\n"
+"手に入れたカード。"
+msgstr "A card, obtained in Elurus Tower."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "308"
+msgid ""
+"エルルースのタワーで\n"
+"手に入れたカード。"
+msgstr "A card, obtained in Elurus Tower."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "309"
+msgid ""
+"エルルースのタワーで\n"
+"手に入れたカード。"
+msgstr "A card, obtained in Elurus Tower."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "310"
+msgid ""
+"ある場所のセキュリティを\n"
+"解除するためのカード。"
+msgstr ""
+"A card which lifts the\n"
+"security in a certain place."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "311"
+msgid ""
+"グレートキャノンで手に入れた\n"
+"ＩＤカード。"
+msgstr ""
+"An ID Card,\n"
+"obtained in Great Cannon."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "312"
+msgid "「煮えカカシ」の緊急連絡用ビーコン。"
+msgstr ""
+"Emergency contact beacon\n"
+"for the Boiled Scarecrow."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "313"
+msgid ""
+"特殊な洗浄液をしみこませた\n"
+"目の粗い布地。"
+msgstr ""
+"A coarse cloth,\n"
+"soaked in a special\n"
+"cleaning solution."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "314"
+msgid ""
+"小型ボートの\n"
+"エンジンを動かす\n"
+"イグニション・キーだ。"
+msgstr ""
+"Ignition key to start the\n"
+"engine of a small boat."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "315"
+msgid ""
+"強烈な密度を持った謎の薬品。\n"
+"人体に及ぼす影響には\n"
+"まだ不明な点が多い。"
+msgstr ""
+"Dense mystery chemical.\n"
+"Has unknown effects on one's body."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "316"
+msgid "真の権力者だけが持つ金製の指輪。"
+msgstr ""
+"A gold ring which could\n"
+"only be owned by a true VIP."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "317"
+msgid ""
+"真の権力者だけが持つ\n"
+"巨大なダイヤをあしらった指輪。"
+msgstr ""
+"A diamond ring which could\n"
+"only be owned by a true VIP."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "318"
+msgid ""
+"真の権力者だけが持つ\n"
+"銀のネックレス。"
+msgstr ""
+"A silver necklace which could\n"
+"only be owned by a true VIP."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "319"
+msgid ""
+"真の権力者だけが持つ\n"
+"巨大なルビーをあしらった指輪。"
+msgstr ""
+"A large ruby ring which could\n"
+"only be owned by a true VIP."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "320"
+msgid ""
+"これをにぎって心からの祈りを\n"
+"ささげたことがわかる\n"
+"汗のしみたお守り。"
+msgstr ""
+"A sweat-soaked charm, once\n"
+"clasped to one's heart in prayer."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "321"
+msgid ""
+"大きさのわりに重みのある、\n"
+"ていねいに包まれた荷物。"
+msgstr ""
+"A very important,\n"
+"carefully wrapped package."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "322"
+msgid ""
+"人間にはほとんどわからないが\n"
+"特定のモンスターをひきつける\n"
+"においを出す袋。"
+msgstr ""
+"Bag with an unsmellable scent\n"
+"that draws a specific monster."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "323"
+msgid ""
+"切実な思いがこめられたことがわかる\n"
+"ほころびだらけの汚れた袋。"
+msgstr ""
+"A dirty, frayed bag,\n"
+"clearly filled with many memories."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "324"
+msgid "まだ幼く、あどけない少女の写真。"
+msgstr ""
+"A photo of a young,\n"
+"innocent girl."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "325"
+msgid ""
+"地味だがしっかりとした細工の\n"
+"金製のアクセサリー。"
+msgstr ""
+"A plain but well-made\n"
+"golden accessory."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "326"
+msgid ""
+"地味だがしっかりとした細工の\n"
+"金製のアクセサリー。"
+msgstr ""
+"A plain but well-made\n"
+"golden accessory."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "327"
+msgid ""
+"必死に何かを書きつけたような、\n"
+"なぐりがきのメモ。"
+msgstr ""
+"A scrawled note,\n"
+"frantically written."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "328"
+msgid ""
+"ブイの下に、箱のようなものが、\n"
+"ナイロンのヒモで、しっかりと\n"
+"くくりつけられている。"
+msgstr ""
+"A buoy with a box tied to\n"
+"the bottom with a nylon string."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "329"
+msgid "工場遺跡で手に入れたメモ。"
+msgstr "A note found in the Factory Ruins."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "330"
+msgid ""
+"ラスティメイデンで手に入れた\n"
+"数字が書きつけられた紙切れ。"
+msgstr ""
+"A scrap of paper with numbers\n"
+"on it, found in Rusty Maiden."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "331"
+msgid ""
+"ある場所で手に入れた、\n"
+"数字の書きつけられた紙切れ。"
+msgstr ""
+"A scrap of paper with numbers\n"
+"on it, found somewhere."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "332"
+msgid ""
+"ネツィブ・メラハで手に入れた\n"
+"重要なヒントの記された紙切れ。"
+msgstr ""
+"A scrap of paper with a hint\n"
+"on it, found in Nezib Melach."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "333"
+msgid ""
+"超戦術兵器、ジャガンナートの艦長を\n"
+"務めていた人物が残した手記。"
+msgstr ""
+"A note left by the captain\n"
+"of the superweapon, Jagannath."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "334"
+msgid ""
+"ルーシーズのミグに\n"
+"手渡されたメモ。"
+msgstr ""
+"A note handed over\n"
+"by Mig of the Lucys."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "335"
+msgid ""
+"ずいぶん長い間\n"
+"保管されていたらしい手紙の束。"
+msgstr ""
+"A bundle of letters,\n"
+"kept safe for a long time."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "336"
+msgid "いかめしい装丁の日記帳。"
+msgstr "A strictly bound diary."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "337"
+msgid "古ぼけたぼろぼろの写真。"
+msgstr "An old, worn-out photo."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "338"
+msgid ""
+"劣化のあまり一部しか\n"
+"読むことができない日誌。"
+msgstr ""
+"A mostly deteriorated,\n"
+"unreadable journal."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "339"
+msgid "ある男の絶望がつづられた手記。"
+msgstr ""
+"A memorandum, bound by\n"
+"a certain man's despair."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "340"
+msgid ""
+"真実の愛に殉じた\n"
+"あるカップルの手記。"
+msgstr ""
+"The suicide note of a couple\n"
+"who died for true love."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "341"
+msgid "何かのコードが記された紙切れ。"
+msgstr ""
+"A scrap of paper with\n"
+"some kind of code written on it."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "342"
+msgid "ある薬の調合法を記したレシピ。"
+msgstr ""
+"A recipe with how to make\n"
+"a certain medicine written in it."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "343"
+msgid ""
+"名もない男が誰かのために\n"
+"書き残した手記。"
+msgstr ""
+"A note, left for someone\n"
+"by a nameless man."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "344"
+msgid ""
+"工場遺跡のさまざまなカギを\n"
+"管理のため、まとめて束にしたもの。"
+msgstr ""
+"Keys for many things in the\n"
+"Factory Ruins, all in one ring."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "345"
+msgid ""
+"シエルタのマンホールに\n"
+"かけられたカギを\n"
+"開けることができる。"
+msgstr "The key to a manhole in Shelter."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "346"
+msgid ""
+"プエルト・モリの地下に\n"
+"かけられたカギを\n"
+"開けることができる。"
+msgstr ""
+"A key for the\n"
+"Puerto Mori underground."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "347"
+msgid "工場遺跡で手に入れたカギ。"
+msgstr "A key found in the Factory Ruins."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "348"
+msgid ""
+"ワナナバニ研究所の\n"
+"コントロールルームのカギ。"
+msgstr ""
+"The Wananabani Institute\n"
+"control room key."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "349"
+msgid ""
+"非常に強いエネルギーを\n"
+"内蔵している特殊な電池。"
+msgstr ""
+"A battery with extraordinarily\n"
+"strong energy inside."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "350"
+msgid ""
+"巨大兵器「ジャガンナート」起動に\n"
+"必要な一対のバイオディスクの一枚。"
+msgstr ""
+"One of a pair of biodiscs\n"
+"needed to start the Jagannath."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "351"
+msgid ""
+"旅には不可欠の、クルマ用道具。\n"
+"あらゆる場所から、一瞬にして脱出し、\n"
+"帰還することができる！"
+msgstr ""
+"Instantly escape from\n"
+"or return to any location.\n"
+"Necessary."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "352"
+msgid ""
+"いつでもどこでも\n"
+"大きなケガの治療に対応できる\n"
+"専門的なキット。"
+msgstr ""
+"Professional kit to treat\n"
+"large wounds anytime, anywhere."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "353"
+msgid ""
+"手軽に本格医療を行える\n"
+"サバイバル治療キット。"
+msgstr ""
+"A simple, full-scale\n"
+"medical survival kit."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "354"
+msgid ""
+"バルーンを利用し\n"
+"エンジンへの負担なく携帯できる\n"
+"１００枚の装甲タイルパック。"
+msgstr ""
+"A portable pack of\n"
+"100 armor tiles for vehicles."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "355"
+msgid ""
+"バルーンを利用し\n"
+"エンジンへの負担なく携帯できる\n"
+"２５０枚の装甲タイルパック。"
+msgstr ""
+"A portable pack of\n"
+"250 armor tiles for vehicles."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "356"
+msgid ""
+"バルーンを利用し\n"
+"エンジンへの負担なく携帯できる\n"
+"５００枚の装甲タイルパック。"
+msgstr ""
+"A portable pack of\n"
+"500 armor tiles for vehicles."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "357"
+msgid ""
+"バルーンを利用し\n"
+"エンジンへの負担なく携帯できる\n"
+"大量の装甲タイルのパック。"
+msgstr ""
+"A portable pack of\n"
+"many armor tiles for vehicles."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "358"
+msgid ""
+"バルーンを利用し\n"
+"エンジンへの負担なく携帯できる\n"
+"超大量の装甲タイルのパック。"
+msgstr ""
+"A portable pack of\n"
+"lots of armor tiles for vehicles."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "359"
+msgid ""
+"いつでもどこでも宿泊できる\n"
+"サバイバルお泊りキット。"
+msgstr ""
+"A survival camp kit that\n"
+"lets you sleep anytime, anywhere."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "360"
+msgid ""
+"圧倒的な推進力で\n"
+"クルマを加速させることができる\n"
+"最強の補助動力。"
+msgstr ""
+"Auxiliary power that allows\n"
+"for overwhelming acceleration."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "361"
+msgid ""
+"スイッチを入れれば\n"
+"敵の目をあざむきながら\n"
+"荒野を突っ走ることができる。"
+msgstr ""
+"Switch on to evade foes while\n"
+"dashing through the wastes."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "362"
+msgid ""
+"どんなに強い酸も中和して、\n"
+"車体の腐食を防いでくれる\n"
+"特殊なコーティング剤。"
+msgstr ""
+"Neutralizes any acid.\n"
+"Special coating that blocks corrosion."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "363"
+msgid ""
+"ビーム（光線）を反射して\n"
+"車体を守ってくれる、\n"
+"特殊なコーティング剤。"
+msgstr ""
+"Special coating that\n"
+"blocks beams by reflecting them."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "364"
+msgid ""
+"音波を吸収し、車体を守ってくれる\n"
+"特殊なコーティング剤。"
+msgstr ""
+"Special coating that\n"
+"absorbs sound waves."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "365"
+msgid ""
+"断熱効果によって\n"
+"火炎の熱から車体を守ってくれる、\n"
+"特殊なコーティング剤。"
+msgstr ""
+"Special coating that\n"
+"insulates from fire."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "366"
+msgid ""
+"遠赤外線を発することにより、\n"
+"冷気から車体を守ってくれる\n"
+"特殊なコーティング剤。"
+msgstr ""
+"Special coating that\n"
+"blocks cold with far infrared rays."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "367"
+msgid ""
+"電流を外部に逃がすことにより、\n"
+"電気から車体を守ってくれる\n"
+"クルマ用のチェーン。"
+msgstr ""
+"Chain that stops electricity\n"
+"by releasing it outside."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "368"
+msgid ""
+"周囲の電気をすべて吸い取る、\n"
+"底知れぬ力を秘めた漆黒の鎖。"
+msgstr ""
+"Jet-black chain that\n"
+"absorbs all electricity."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "369"
+msgid ""
+"クルマ用のアクセサリー。\n"
+"よく揺れる。"
+msgstr ""
+"Vehicle accessory.\n"
+"Shakes pleasantly."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "370"
+msgid "交通安全と書かれたお守り。"
+msgstr ""
+"A charm with \"Drive Safely!\"\n"
+"written on it."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "371"
+msgid ""
+"戦車の中でフタを開けると\n"
+"あら不思議！\n"
+"ナマリタケが生えにくくなる！"
+msgstr ""
+"Open it in your tank and presto!\n"
+"No more lead mushrooms!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "372"
+msgid ""
+"戦車の中でフタを開けると\n"
+"あら不思議！\n"
+"やたらとナマリタケが生えてくる！"
+msgstr ""
+"Open it in your tank and presto!\n"
+"Lead mushrooms!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "373"
+msgid ""
+"クズ鉄のかたまり。\n"
+"再生して利用できるらしい。\n"
+"重いが、貴重な資源。"
+msgstr ""
+"A lump of scrap iron.\n"
+"Can be recycled.\n"
+"Heavy, but valuable."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "374"
+msgid ""
+"クズ鉄のかたまり。\n"
+"再生して利用できるらしい。\n"
+"重いが、貴重な資源。"
+msgstr ""
+"A lump of scrap iron.\n"
+"Can be recycled.\n"
+"Heavy, but valuable."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "375"
+msgid ""
+"クズ鉄のかたまり。\n"
+"再生して利用できるらしい。\n"
+"重いが、貴重な資源。"
+msgstr ""
+"A lump of scrap iron.\n"
+"Can be recycled.\n"
+"Heavy, but valuable."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "376"
+msgid ""
+"クズ鉄のかたまり。\n"
+"再生して利用できるらしい。\n"
+"重いが、貴重な資源。"
+msgstr ""
+"A lump of scrap iron.\n"
+"Can be recycled.\n"
+"Heavy, but valuable."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "377"
+msgid ""
+"クズ鉄のかたまり。\n"
+"再生して利用できるらしい。\n"
+"重いが、貴重な資源。"
+msgstr ""
+"A lump of scrap iron.\n"
+"Can be recycled.\n"
+"Heavy, but valuable."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "378"
+msgid ""
+"クズ鉄のかたまり。\n"
+"再生して利用できるらしい。\n"
+"重いが、貴重な資源。"
+msgstr ""
+"A lump of scrap iron.\n"
+"Can be recycled.\n"
+"Heavy, but valuable."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "379"
+msgid ""
+"クズ鉄のかたまり。\n"
+"再生して利用できるらしい。\n"
+"重いが、貴重な資源。"
+msgstr ""
+"A lump of scrap iron.\n"
+"Can be recycled.\n"
+"Heavy, but valuable."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "380"
+msgid ""
+"クズ鉄のかたまり。\n"
+"再生して利用できるらしい。\n"
+"重いが、貴重な資源。"
+msgstr ""
+"A lump of scrap iron.\n"
+"Can be recycled.\n"
+"Heavy, but valuable."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "381"
+msgid ""
+"クズ鉄のかたまり。\n"
+"再生して利用できるらしい。\n"
+"重いが、貴重な資源。"
+msgstr ""
+"A lump of scrap iron.\n"
+"Can be recycled.\n"
+"Heavy, but valuable."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "382"
+msgid ""
+"クズ鉄のかたまり。\n"
+"再生して利用できるらしい。\n"
+"重いが、貴重な資源。"
+msgstr ""
+"A lump of scrap iron.\n"
+"Can be recycled.\n"
+"Heavy, but valuable."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "383"
+msgid ""
+"無限の可能性を秘めた\n"
+"巨大な鉄くず。"
+msgstr ""
+"A huge lump of scrap iron\n"
+"hiding infinite potential."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "384"
+msgid ""
+"ホホアナの鉱床で採掘される\n"
+"めずらしい鉱石。"
+msgstr ""
+"An unusual ore,\n"
+"mined in Hohohole."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "385"
+msgid ""
+"さまざまな金属を取り出すことができる\n"
+"雑多な精密機械のカタマリ。"
+msgstr ""
+"Pile of machines from which\n"
+"various metals can be retrieved."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "386"
+msgid ""
+"さまざまな金属を取り出すことができる\n"
+"雑多な精密機械のカタマリ。"
+msgstr ""
+"Pile of machines from which\n"
+"various metals can be retrieved."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "387"
+msgid ""
+"さまざまな金属を取り出すことができる\n"
+"雑多な精密機械のカタマリ。"
+msgstr ""
+"Pile of machines from which\n"
+"various metals can be retrieved."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "388"
+msgid ""
+"さまざまな金属を取り出すことができる\n"
+"雑多な精密機械のカタマリ。"
+msgstr ""
+"Pile of machines from which\n"
+"various metals can be retrieved."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "389"
+msgid ""
+"さまざまな金属を取り出すことができる\n"
+"雑多な精密機械のカタマリ。"
+msgstr ""
+"Pile of machines from which\n"
+"various metals can be retrieved."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "390"
+msgid ""
+"まともに運ぶことはできない、\n"
+"圧倒的な重量を持つ巨大な車輪。"
+msgstr ""
+"Enourmously heavy wheel,\n"
+"which honestly can't move anything."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "391"
+msgid ""
+"まばゆいばかりの金色に輝く、\n"
+"巨大な鳥のトサカ。"
+msgstr ""
+"A giant bird crest with\n"
+"a dazzling gold shine."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "392"
+msgid ""
+"何がはいっているのか興味をそそる、\n"
+"夢のある箱。"
+msgstr ""
+"A dreamy box that makes you\n"
+"excited about what's inside."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "393"
+msgid ""
+"ときおり、クルマに生えることがある、\n"
+"迷惑なキノコ。鉛のように重い。\n"
+"洗車屋で削ってもらおう！"
+msgstr ""
+"An annoying mushroom,\n"
+"as heavy as lead.\n"
+"Get to a car wash!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "394"
+msgid ""
+"ときおり、クルマに生えることがある、\n"
+"迷惑なキノコ。鉛のように重い。\n"
+"洗車屋で削ってもらおう！"
+msgstr ""
+"An annoying mushroom,\n"
+"as heavy as lead.\n"
+"Get to a car wash!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "395"
+msgid ""
+"ときおり、鳥が落としていく。\n"
+"頑固にこびりつくので、\n"
+"洗車しないと洗い落とせない。"
+msgstr ""
+"Bird droppings.\n"
+"Sticks stubbornly,\n"
+"so get to a car wash!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "396"
+msgid ""
+"いつのまにか車体につく\n"
+"何の役にも立たない物体。\n"
+"洗車しないと、とりのぞけない。"
+msgstr ""
+"A useless object,\n"
+"put on unnoticed.\n"
+"Get to a car wash!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "397"
+msgid ""
+"見かけほど重くない、\n"
+"正体不明の何かが入ったドラム缶。"
+msgstr ""
+"An outwardly heavy drum can,\n"
+"with unidentifiable contents."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "398"
+msgid ""
+"比重の重い水のつまった\n"
+"非常に重いドラム缶。"
+msgstr ""
+"Extra heavy drum can,\n"
+"filled with water equally important."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "399"
+msgid ""
+"ある男が心血を注いで作りあげた\n"
+"芸術的かつ神秘的な像。"
+msgstr ""
+"Mystical statue a certain man\n"
+"poured heart and soul into."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "400"
+msgid ""
+"イービル不動産を片付けた際に\n"
+"いらなくなったもの。"
+msgstr ""
+"Unnecessary junk from the\n"
+"Evil Real Estate, to be tidied up."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "401"
+msgid ""
+"生体的でありながら機械的でもある\n"
+"正体不明の何かのパーツ。"
+msgstr ""
+"An unidentifiable part,\n"
+"equally biological and mechanical."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "402"
+msgid ""
+"生体的でありながら機械的でもある\n"
+"正体不明の何かのパーツ。"
+msgstr ""
+"An unidentifiable part,\n"
+"equally biological and mechanical."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "403"
+msgid ""
+"生体的でありながら機械的でもある\n"
+"正体不明の何かのパーツ。"
+msgstr ""
+"An unidentifiable part,\n"
+"equally biological and mechanical."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "404"
+msgid ""
+"生体的でありながら機械的でもある\n"
+"正体不明の何かのパーツ。"
+msgstr ""
+"An unidentifiable part,\n"
+"equally biological and mechanical."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "405"
+msgid ""
+"生体的でありながら機械的でもある\n"
+"正体不明の何かのパーツ。"
+msgstr ""
+"An unidentifiable part,\n"
+"equally biological and mechanical."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "406"
+msgid ""
+"生体的でありながら機械的でもある\n"
+"正体不明の何かのパーツ。"
+msgstr ""
+"An unidentifiable part,\n"
+"equally biological and mechanical."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "407"
+msgid ""
+"生体的でありながら機械的でもある\n"
+"正体不明の何かのパーツ。"
+msgstr ""
+"An unidentifiable part,\n"
+"equally biological and mechanical."

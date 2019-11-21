@@ -1,0 +1,1250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metal Max 3\n"
+"Report-Msgid-Bugs-To: unknown@metalmax.com\n"
+"POT-Creation-Date: 21/11/2019\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Metal Max 3 English fantranslation\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-1: Type2\n"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "0"
+msgid "<!empty>"
+msgstr ""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "1"
+msgid "$BNの攻撃！"
+msgstr "$BN attacks!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "2"
+msgid ""
+"$BNの攻撃！\n"
+"$BI 発射！"
+msgstr ""
+"$BN attacks!\n"
+"$BI is fired!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "3"
+msgid "しかし、弾がなかった！"
+msgstr "But there is no ammo left!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "4"
+msgid "しかし、武器がこわれていた！"
+msgstr "But the weapon is broken!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "5"
+msgid ""
+"$BNは 装備していない武器を\n"
+"使おうとしてしまった！"
+msgstr ""
+"$BN tried to use\n"
+"an unequipped weapon!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "6"
+msgid "しかし、弾が出なかった！"
+msgstr ""
+"But bullets\n"
+"didn't come out!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "7"
+msgid "$BNは 逃げ出した…。"
+msgstr "$BN ran away..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "8"
+msgid "$BNは うまく　逃げきった！"
+msgstr ""
+"$BN successfully\n"
+"escaped!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "9"
+msgid ""
+"しかし、モンスターたちに\n"
+"まわりこまれた！"
+msgstr ""
+"But enemies\n"
+"surrounded the party!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "10"
+msgid "$BNが 奇襲してきた！"
+msgstr "$BN launched an ambush!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "11"
+msgid ""
+"$BNのまわりに\n"
+"火炎バリアを張った！"
+msgstr ""
+"$BN is protected by\n"
+"a fire barrier!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "12"
+msgid ""
+"$BNのまわりに\n"
+"ビームバリアを張った！"
+msgstr ""
+"$BN is protected by\n"
+"a beam barrier!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "13"
+msgid ""
+"$BNのまわりに\n"
+"電気バリアを張った！"
+msgstr ""
+"$BN is protected by\n"
+"an electric barrier!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "14"
+msgid ""
+"$BNのまわりに\n"
+"音波バリアを張った！"
+msgstr ""
+"$BN is protected by\n"
+"a sonic barrier!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "15"
+msgid ""
+"$BNのまわりに\n"
+"ガスバリアを張った！"
+msgstr ""
+"$BN is protected by\n"
+"a gas barrier!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "16"
+msgid ""
+"$BNのまわりに\n"
+"冷気バリアを張った！"
+msgstr ""
+"$BN is protected by\n"
+"an ice barrier!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "17"
+msgid ""
+"しかし、ここからでは\n"
+"信号はとどかなかった！"
+msgstr ""
+"But the signal didn't\n"
+"reach from here!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "18"
+msgid "しかし、圏外だったようだ！"
+msgstr "But it seems to be out of range!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "19"
+msgid ""
+"$BIは\n"
+"なくなった！"
+msgstr "$BI disappeared!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "20"
+msgid ""
+"しかし、$BIを\n"
+"もっていなかった。"
+msgstr ""
+"But $BI didn't\n"
+"have anything."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "21"
+msgid ""
+"$BNは\n"
+"乗り物から 降りた！"
+msgstr ""
+"$BN dismounted\n"
+"from their vehicle!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "22"
+msgid ""
+"経験値がいつもより多く\n"
+"獲得できるようになった！"
+msgstr ""
+"You will recieve more\n"
+"EXP than usual!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "23"
+msgid ""
+"お金がいつもより多く\n"
+"獲得できるようになった！"
+msgstr ""
+"You will recieve more\n"
+"money than usual!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "24"
+msgid "$BNを破壊した！"
+msgstr "$BN was destroyed!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "25"
+msgid "$BNは ぼーっとしている。"
+msgstr "$BN is spacing out."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "26"
+msgid "特技は現在作成中です。"
+msgstr "A special skill is being prepared."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "27"
+msgid "全滅ボタンを押しました！"
+msgstr ""
+"The annihilation button\n"
+"was pressed!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "28"
+msgid ""
+"だが、バリアが\n"
+"ダメージを吸収した！"
+msgstr ""
+"But the barrier\n"
+"absorbed the damage!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "29"
+msgid "バリアが 消滅した！"
+msgstr "The barrier disappeared!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "30"
+msgid "$BNに $BD ダメージ！"
+msgstr "$BN took $BD damage!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "31"
+msgid ""
+"痛恨の一発！！！\n"
+"$BNに $BD ダメージ！"
+msgstr ""
+"Crunch!!!\n"
+"$BN took $BD damage!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "32"
+msgid ""
+"会心の一発！！！\n"
+"$BNに $BD ダメージ！"
+msgstr ""
+"Smash!!!\n"
+"$BN took $BD damage!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "33"
+msgid ""
+"$BNは\n"
+"ダメージをうけない！"
+msgstr "$BN took damage!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "34"
+msgid ""
+"しかし、$BNに\n"
+"ダメージを与えられない！"
+msgstr "But $BN took no damage!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "35"
+msgid ""
+"$BNの\n"
+"$BIが破損した！"
+msgstr ""
+"$BN's $BI\n"
+"took damage!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "36"
+msgid ""
+"$BNの\n"
+"$BIが大破した！"
+msgstr ""
+"$BN's $BI\n"
+"took serious damage!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "37"
+msgid ""
+"$BNの\n"
+"パーツを破壊した"
+msgstr ""
+"$BN's parts\n"
+"were destroyed"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "38"
+msgid ""
+"$BNは\n"
+"分裂した！"
+msgstr "$BN divided!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "39"
+msgid ""
+"$BNは\n"
+"攻撃をかわした！"
+msgstr "$BN dodged the attack!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "40"
+msgid ""
+"ミス！\n"
+"$BNに攻撃をかわされた！"
+msgstr ""
+"Miss!\n"
+"$BN dodged the attack!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "41"
+msgid ""
+"$BNには\n"
+"攻撃があたらない！"
+msgstr "$BN was not hit!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "42"
+msgid ""
+"ダメだ！ $BNには\n"
+"攻撃があたらない！"
+msgstr ""
+"It's no use!\n"
+"$BN was not hit!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "43"
+msgid "$BNは死んだ！"
+msgstr "$BN died!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "44"
+msgid "$BNをたおした！"
+msgstr "$BN was defeated!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "45"
+msgid ""
+"$BNは\n"
+"乗り物から脱出した！"
+msgstr ""
+"$BN escaped\n"
+"from their vehicle!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "46"
+msgid ""
+"しかし、とても\n"
+"逃げられそうもない！"
+msgstr ""
+"But it doesn't seem\n"
+"like you can escape!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "47"
+msgid ""
+"なんと！ $BNは\n"
+"怪物に変身した！"
+msgstr ""
+"What! $BN\n"
+"transformed into a monster!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "48"
+msgid ""
+"$BNは\n"
+"はりつけにされた！"
+msgstr ""
+"$BN was\n"
+"crucified!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "49"
+msgid ""
+"$BNは\n"
+"即死した！"
+msgstr ""
+"$BN was\n"
+"killed instantly!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "50"
+msgid ""
+"$BNは\n"
+"まひした！"
+msgstr ""
+"$BN was\n"
+"paralyzed!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "51"
+msgid ""
+"$BNは\n"
+"眠った！"
+msgstr ""
+"$BN was\n"
+"put to sleep!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "52"
+msgid ""
+"$BNは\n"
+"気絶した！"
+msgstr ""
+"$BN was\n"
+"knocked unconscious!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "53"
+msgid ""
+"$BNは\n"
+"はさまれた！"
+msgstr ""
+"$BN was\n"
+"sandwiched!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "54"
+msgid ""
+"$BNは\n"
+"混乱した！"
+msgstr ""
+"$BN was\n"
+"confused!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "55"
+msgid ""
+"$BNは\n"
+"誘惑された！"
+msgstr ""
+"$BN was\n"
+"charmed!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "56"
+msgid ""
+"$BNは\n"
+"興奮状態になった！"
+msgstr ""
+"$BN was\n"
+"made excited!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "57"
+msgid ""
+"$BNは\n"
+"酸に犯された！"
+msgstr ""
+"$BN was\n"
+"doused with acid!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "58"
+msgid ""
+"$BNは\n"
+"炎につつまれた！"
+msgstr ""
+"$BN was\n"
+"engulfed in flame!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "59"
+msgid ""
+"$BNは\n"
+"はげしい炎につつまれた！"
+msgstr ""
+"$BN was\n"
+"engulfed in terrible flame!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "60"
+msgid ""
+"$BNは\n"
+"冷気につつまれた！"
+msgstr ""
+"$BN was\n"
+"wrapped in cold!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "61"
+msgid ""
+"$BNは\n"
+"凍てつく冷気につつまれた！"
+msgstr ""
+"$BN was\n"
+"wrapped in freezing cold!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "62"
+msgid ""
+"$BNは\n"
+"毒ガスにつつまれた！"
+msgstr ""
+"$BN was\n"
+"wrapped in poison gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "63"
+msgid ""
+"$BNは\n"
+"猛毒のガスにつつまれた！"
+msgstr ""
+"$BN was\n"
+"wrapped in toxic gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "64"
+msgid ""
+"$BNは\n"
+"セメントで固まった！"
+msgstr ""
+"$BN was\n"
+"hardened by cement!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "65"
+msgid ""
+"$BNは\n"
+"目がみえなくなった！"
+msgstr ""
+"$BN was\n"
+"blinded!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "66"
+msgid ""
+"$BNの車内は\n"
+"猛毒のガスで汚染された！"
+msgstr ""
+"$BN's vehicle was\n"
+"filled with toxic gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "67"
+msgid ""
+"$BNの車内は\n"
+"毒ガスで汚染された！"
+msgstr ""
+"$BN's vehicle was\n"
+"filled with poison gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "68"
+msgid ""
+"$BNの車内は\n"
+"まひガスで汚染された！"
+msgstr ""
+"$BN's vehicle was\n"
+"filled with nerve gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "69"
+msgid ""
+"$BNの車内は\n"
+"催眠ガスで汚染された！"
+msgstr ""
+"$BN's vehicle was\n"
+"filled with sleeping gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "70"
+msgid ""
+"$BNの車内は\n"
+"混乱ガスで汚染された！"
+msgstr ""
+"$BN's vehicle was\n"
+"filled with confusion gas!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "71"
+msgid ""
+"$BNは\n"
+"なんともなかった！"
+msgstr "$BN was unaffected!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "72"
+msgid ""
+"$BNはおどろいて\n"
+"ぼうぜんとしている。"
+msgstr ""
+"$BN is\n"
+"astonished in surprise!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "73"
+msgid "$BNを解体した！"
+msgstr ""
+"$BN has been\n"
+"disassembled!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "74"
+msgid ""
+"$BNは\n"
+"いやがっている。"
+msgstr ""
+"$BN is\n"
+"annoyed."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "75"
+msgid ""
+"$BNに\n"
+"$BIが　ついた！"
+msgstr ""
+"$BN got\n"
+"$BI attached to it!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "76"
+msgid ""
+"$BIが\n"
+"ふくろに はいった！"
+msgstr ""
+"$BI went\n"
+"into the bag!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "77"
+msgid ""
+"$BNの\n"
+"注意をひいた！"
+msgstr ""
+"$BN's\n"
+"attention was caught!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "78"
+msgid "勝利ボタンを押しました！"
+msgstr ""
+"The victory button\n"
+"was pressed!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "79"
+msgid ""
+"レンタルタンクが\n"
+"帰ってしまった！"
+msgstr ""
+"The rental tank\n"
+"is returned!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "80"
+msgid ""
+"なんと！\n"
+"$BNは 生き返った！"
+msgstr ""
+"Wow! $BN\n"
+"came back to life!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "81"
+msgid ""
+"$BNは\n"
+"まひが治った！"
+msgstr ""
+"$BN's\n"
+"paralysis was cured!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "82"
+msgid ""
+"$BNは\n"
+"目をさました！"
+msgstr ""
+"$BN\n"
+"woke up!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "83"
+msgid ""
+"$BNは\n"
+"正気にもどった！"
+msgstr ""
+"$BN came back\n"
+"to their senses!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "84"
+msgid ""
+"$BNの\n"
+"酸は中和された！"
+msgstr ""
+"$BN's\n"
+"acid is neutralized!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "85"
+msgid ""
+"$BNの\n"
+"まわりの炎が消えた！"
+msgstr ""
+"Fire surrounding\n"
+"$BN is gone!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "86"
+msgid ""
+"$BNの\n"
+"まわりの冷気が消えた！"
+msgstr ""
+"Cold surrounding\n"
+"$BN is gone!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "87"
+msgid ""
+"$BNの\n"
+"まわりの毒ガスが消えた！"
+msgstr ""
+"Gas surrounding\n"
+"$BN is gone!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "88"
+msgid ""
+"$BNは\n"
+"セメントから脱出した！"
+msgstr ""
+"$BN is no longer\n"
+"stuck in the cement!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "89"
+msgid ""
+"$BNは\n"
+"目が見えるようになった！"
+msgstr ""
+"$BN can see\n"
+"things again!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "90"
+msgid ""
+"$BNの車内から\n"
+"ガスが消えた！"
+msgstr ""
+"Gas filling $BN's\n"
+"vehicle is gone!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "91"
+msgid ""
+"$BNは\n"
+"正常にもどった！"
+msgstr ""
+"$BN has\n"
+"returned to normal state!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "92"
+msgid "しかし、効果がなかった！"
+msgstr "But there was no effect!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "93"
+msgid ""
+"$BNは\n"
+"マユから　脱出した！"
+msgstr ""
+"$BN escaped\n"
+"from the cocoon!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "94"
+msgid ""
+"$BNは\n"
+"人間の姿に戻った！"
+msgstr ""
+"$BN returned\n"
+"to human form!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "95"
+msgid ""
+"$BN「ルーシー！\n"
+"あぶないっ！"
+msgstr ""
+"$BN:\"Lucy!\n"
+"Look out!\""
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "96"
+msgid ""
+"$BNが\n"
+"ルーシーをかばった！"
+msgstr ""
+"$BN protected\n"
+"Lucy!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "97"
+msgid ""
+"しかし、$BNには\n"
+"まったく効果がなかった！"
+msgstr ""
+"But there was no\n"
+"effect on $BN!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "98"
+msgid "しかし、すでに敵はいなかった！"
+msgstr ""
+"But the enemy\n"
+"was already gone!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "99"
+msgid "$BDのエネルギーを 吸収した！"
+msgstr ""
+"$BD's energy\n"
+"was absorbed!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "100"
+msgid "しかし、何もおこらなかった！"
+msgstr "But nothing happened!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "101"
+msgid ""
+"$BNは\n"
+"自爆した！"
+msgstr ""
+"$BN\n"
+"self-destructed!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "102"
+msgid ""
+"$BNの\n"
+"攻撃力があがった！"
+msgstr ""
+"$BN's\n"
+"attack increased!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "103"
+msgid ""
+"$BNの\n"
+"攻撃力がさがった！"
+msgstr ""
+"$BN's\n"
+"attack decreased!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "104"
+msgid ""
+"$BNの\n"
+"守備力があがった！"
+msgstr ""
+"$BN's\n"
+"defence increased!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "105"
+msgid ""
+"$BNの\n"
+"守備力がさがった！"
+msgstr ""
+"$BN's\n"
+"defence decreased!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "106"
+msgid ""
+"$BNの\n"
+"すばやさがあがった！"
+msgstr ""
+"$BN's\n"
+"speed increased!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "107"
+msgid ""
+"$BNの\n"
+"すばやさがさがった！"
+msgstr ""
+"$BN's\n"
+"speed decreased!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "108"
+msgid ""
+"$BNの\n"
+"命中率があがった！"
+msgstr ""
+"$BN's\n"
+"accuracy increased!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "109"
+msgid ""
+"$BNの\n"
+"命中率がさがった！"
+msgstr ""
+"$BN's\n"
+"accuracy decreased!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "110"
+msgid ""
+"$BNの\n"
+"回避率があがった！"
+msgstr ""
+"$BN's\n"
+"evasion increased!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "111"
+msgid ""
+"$BNの\n"
+"回避率がさがった！"
+msgstr ""
+"$BN's\n"
+"evasion decreased!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "112"
+msgid ""
+"$BNの\n"
+"弾倉が満タンになった！"
+msgstr ""
+"$BN's magazine\n"
+"was refilled!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "113"
+msgid ""
+"$BNは\n"
+"弾が補給された！"
+msgstr ""
+"$BN's ammo\n"
+"was replenished!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "114"
+msgid ""
+"$BNは\n"
+"ＨＰが $BD 回復した！"
+msgstr ""
+"$BN was\n"
+"healed by $BD!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "115"
+msgid ""
+"しかし、$BNは\n"
+"回復しなかった！"
+msgstr ""
+"But $BN was\n"
+"not healed!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "116"
+msgid ""
+"$BNが\n"
+"とんできた！"
+msgstr ""
+"$BN\n"
+"came in flying!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "117"
+msgid ""
+"$BNが\n"
+"あらわれた！"
+msgstr ""
+"$BN\n"
+"appeared!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "118"
+msgid "しかし、だれもこなかった！"
+msgstr "But no one came!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "119"
+msgid ""
+"$BNは\n"
+"こわれたパーツが修理された！"
+msgstr ""
+"$BN's broken parts\n"
+"were repaired!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "120"
+msgid ""
+"$BNは\n"
+"乗り物から放り出された！"
+msgstr ""
+"$BN was\n"
+"thrown from their vehicle!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "121"
+msgid ""
+"$BNは\n"
+"ＳＰが $BD枚　ふえた！"
+msgstr ""
+"$BN's SP\n"
+"increased by $BD tiles!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "122"
+msgid ""
+"しかし、$BNには\n"
+"効果がなかった！"
+msgstr ""
+"But there was no\n"
+"effect on $BN!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "123"
+msgid ""
+"$BNは\n"
+"とんでもなくふきとばされた！"
+msgstr ""
+"$BN was\n"
+"unexpectedly blown away!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "124"
+msgid ""
+"$BNの\n"
+"最大ＨＰが一時的に増えた！"
+msgstr ""
+"$BN's max HP\n"
+"temporarily increased!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "125"
+msgid ""
+"$BNの\n"
+"攻撃力が一時的にあがった！"
+msgstr ""
+"$BN's attack\n"
+"temporarily increased!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "126"
+msgid ""
+"$BNの\n"
+"守備力が一時的にあがった！"
+msgstr ""
+"$BN's defence\n"
+"temporarily increased!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "127"
+msgid ""
+"$BNの\n"
+"すばやさが一時的にあがった！"
+msgstr ""
+"$BN's speed\n"
+"temporarily increased!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "128"
+msgid ""
+"$BNが\n"
+"中から出てきた！"
+msgstr ""
+"$BN came\n"
+"out from inside!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "129"
+msgid ""
+"$BNが\n"
+"ふってきた！"
+msgstr "$BN fell!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "130"
+msgid "$BNになった！"
+msgstr "They became $BN!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "131"
+msgid ""
+"$BNが\n"
+"クルマから出てきた！"
+msgstr ""
+"$BN came\n"
+"out from their vehicle!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "132"
+msgid ""
+"$BNが\n"
+"クルマに乗り込んだ！"
+msgstr ""
+"$BN went\n"
+"into their vehicle!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "133"
+msgid ""
+"なんと！\n"
+"$BIを　みつけた！"
+msgstr ""
+"Wow!\n"
+"$BI was found!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "134"
+msgid ""
+"なんと！\n"
+"$BDＧ　みつけた！"
+msgstr ""
+"Look!\n"
+"$BDG was found!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "135"
+msgid ""
+"しかし！\n"
+"何も見つからなかった！"
+msgstr "But nothing was found!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "136"
+msgid ""
+"$BNは\n"
+"ひとりだけ　逃げていった・・・。"
+msgstr ""
+"$BN\n"
+"ran away alone..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "137"
+msgid ""
+"$BNは\n"
+"武器を ぜんぶ はずしてしまった！"
+msgstr ""
+"$BN\n"
+"removed all their weapons!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "138"
+msgid ""
+"$BNは\n"
+"防具を ぜんぶ　脱いでしまった！"
+msgstr ""
+"$BN\n"
+"removed all their armor!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "139"
+msgid ""
+"$BNを\n"
+"ていさつした！"
+msgstr "$BN did recon!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "140"
+msgid "しかし、弾がなかった…。"
+msgstr "But there was no ammo..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "141"
+msgid "しかし、失敗した！"
+msgstr "But it failed!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "142"
+msgid "しかし、メールを無視した！"
+msgstr "But the mail was ignored!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "143"
+msgid "誰かに呼ばれて、飛んでいった…。"
+msgstr ""
+"It flew away\n"
+"by someone's call..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "144"
+msgid "しかし、燃料は からっぽだった…。"
+msgstr "But there was no fuel..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "145"
+msgid "騒音バニーたちは 一斉に攻撃してきた！"
+msgstr ""
+"The Blaring Bunnies\n"
+"all attacked at once!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "146"
+msgid "セキュリティシステムが作動した！"
+msgstr ""
+"The security system\n"
+"was activated!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "147"
+msgid "そのまま、走りさっていった…。"
+msgstr "It ran away..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "148"
+msgid "そのまま、飛んでいった…。"
+msgstr "It flew away..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "149"
+msgid ""
+"$BNは\n"
+"おびえて 逃げていった…。"
+msgstr ""
+"$BN got\n"
+"scared and ran away..."
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "150"
+msgid ""
+"$BNに\n"
+"びちゃっと はりついた！"
+msgstr "They clung to $BN!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "151"
+msgid ""
+"しかし、サーチライトは\n"
+"こわれていた！"
+msgstr ""
+"But the searchlight\n"
+"was broken!"
+
+#. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
+msgctxt "152"
+msgid ""
+"$BNは\n"
+"ようすをみている…。"
+msgstr "$BN is looking around..."
