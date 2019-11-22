@@ -3588,7 +3588,7 @@ msgid ""
 msgstr ""
 "Go meet Carol, the Trader\n"
 "in the grassland of\n"
-"the dried lake Surth West\n"
+"the dried lake South West\n"
 "of Jump Camp, and listen to\n"
 "what she says to say. "
 
