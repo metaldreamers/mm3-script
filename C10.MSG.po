@@ -451,7 +451,7 @@ msgid ""
 "　聞こえないのか～～っ！"
 msgstr ""
 "\"Partneeer!\n"
-" Can't you hear my voice...?!\""
+" Can't you hear my voice...!?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// C01_ARIARI_MSG34"

@@ -339,7 +339,7 @@ msgid ""
 "　生きて帰れると思うなよぉぉっ！"
 msgstr ""
 "\"Bastard!\n"
-" Some crazy Hunter, huh?!\"{END TEXTBOX}\n"
+" Some crazy Hunter, huh!?\"{END TEXTBOX}\n"
 "\"You're not leaving \n"
 " this place alive!!\""
 

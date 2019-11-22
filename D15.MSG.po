@@ -109,7 +109,7 @@ msgid ""
 "　また　おまえか\n"
 "　しつこいヤツめ、死ね！"
 msgstr ""
-"\"Huh?! What!?\n"
+"\"Huh? What!?\n"
 " You again!?\n"
 " You're such a jerk! DIE!\""
 
