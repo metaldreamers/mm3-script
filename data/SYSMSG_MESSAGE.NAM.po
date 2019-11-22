@@ -662,7 +662,7 @@ msgid ""
 "攻撃用武器ではないので 使えません！$WW"
 msgstr ""
 "$_I\n"
-"isn't a weapon,k\n"
+"isn't a weapon,\n"
 "so you can't use it!$WW"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
