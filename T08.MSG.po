@@ -454,7 +454,7 @@ msgid ""
 "　ハンターか？"
 msgstr ""
 "\"Are you...\n"
-" a Hunter?\"\""
+" a Hunter?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T08_KOUSOKU_SEL1"

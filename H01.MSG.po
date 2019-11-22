@@ -470,7 +470,7 @@ msgstr ""
 "Rough Man:\"You just love\n"
 " diggin' yerself deeper,\n"
 " huh kid?\"{END TEXTBOX}\n"
-"Rough Man:\"\"Keep yer nose\n"
+"Rough Man:\"Keep yer nose\n"
 " outta this!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -737,8 +737,7 @@ msgid ""
 msgstr ""
 "Toledo:\"Whirrr...\n"
 " Beep beep...\"{END TEXTBOX}\n"
-"Toledo:\"Farewell,!\"\n"
-" $_0!\"\"{END TEXTBOX}\n"
+"Toledo:\"Farewell, $_0!\"{END TEXTBOX}\n"
 "Toledo:\"We'll meet again,\n"
 " if destiny wills it!\""
 
