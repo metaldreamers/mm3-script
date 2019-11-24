@@ -1063,7 +1063,7 @@ msgstr "Give him your name"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H03_MAROW_SELL2"
 msgid "名乗らない"
-msgstr "Don't give hime your name"
+msgstr "Don't give him your name"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H03_MAROW_MSG04"
