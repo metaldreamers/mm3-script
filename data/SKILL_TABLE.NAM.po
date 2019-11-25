@@ -105,7 +105,7 @@ msgstr "Double Attack"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "18"
 msgid "みだれなげ"
-msgstr "Disorder Thorw"
+msgstr "Disorder Throw"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "19"
