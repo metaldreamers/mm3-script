@@ -957,7 +957,7 @@ msgstr ""
 "\"As expected, my dear \n"
 " comrade, $np0!\n"
 " I've heard rumors about you!\"{END TEXTBOX}\n"
-"\"I figured it'd be you\n"
+"\"I figured you'd be\n"
 " the one to buy this tank.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -973,7 +973,7 @@ msgid ""
 msgstr ""
 "\"Alright, I got the pay.\"\n"
 " The tank is now yours.\"{END TEXTBOX}\n"
-"\"Yours to do as you please.\n"
+"\"Yours to do with as you please.\n"
 " I shall devote this\n"
 " money to the god of Happy.\""
 
