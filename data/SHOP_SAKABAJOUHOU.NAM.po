@@ -127,8 +127,9 @@ msgid ""
 "　いるらしいぜ！$WP「あれから、そいつを見たやつは\n"
 "　いないがな・・・。$WW"
 msgstr ""
-"\"It'd seem there's\n"
-" someone who saw a bike in Paradise Valley!\"$WP\"But no-one has seen them\n"
+"\"It'd seem there's someone \n"
+" who saw a bike in Paradise Valley!\"$WP"
+" \"But no-one has seen them\n"
 " ever since...\"$WW"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
