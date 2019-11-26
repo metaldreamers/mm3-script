@@ -1246,9 +1246,9 @@ msgstr ""
 "$np decided to\n"
 "scout out the area\n"
 "together with Marlowe.{END TEXTBOX}\n"
-"Marlowe:\"First thing: we need to\n"
-" hold our breath\n"
-" and wait patiently.\""
+"Marlowe:\"Now, we need to\n"
+" hold our breath and wait\n"
+" patiently.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H03_MAROW_SELL9"
