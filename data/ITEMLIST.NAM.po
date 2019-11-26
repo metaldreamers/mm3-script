@@ -1890,7 +1890,7 @@ msgstr "Kevlar Wig"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "375"
 msgid "ドミン毛"
-msgstr "Domingez Hair"
+msgstr "Dominguez Hair"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "376"
