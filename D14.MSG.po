@@ -343,7 +343,7 @@ msgstr ""
 "\"The plans are angry.\n"
 " Since humans have\n"
 " messed up with them.\"{END TEXTBOX}\n"
-"\"THis is a revolt by them.\n"
+"\"This is a revolt by them.\n"
 " A natural payback.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
