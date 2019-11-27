@@ -106,7 +106,7 @@ msgid ""
 "　強力な大砲に、機銃、Ｓ－Ｅを\n"
 "　各２門搭載。パーフェクトな一品です。$WP"
 msgstr ""
-"\"A tank with the best tunning up EVER!\n"
+"\"A tank with the best tuning EVER!\n"
 " 2 powerful cannons, machine-guns\n"
 " and S-Es! A PERFECT item!\"$WP"
 
