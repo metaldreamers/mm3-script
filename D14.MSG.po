@@ -340,10 +340,10 @@ msgid ""
 "「これは植物の反乱さ。\n"
 "　当然の報いだよ。"
 msgstr ""
-"\"The plans are angry.\n"
+"\"The plants are angry.\n"
 " Since humans have\n"
-" messed up with them.\"{END TEXTBOX}\n"
-"\"This is a revolt by them.\n"
+" toyed with them.\"{END TEXTBOX}\n"
+"\"This is their uprising.\n"
 " A natural payback.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
