@@ -2030,7 +2030,7 @@ msgstr "Wife's Gown"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "403"
 msgid "仕立てのいい服"
-msgstr "Tailord Suit"
+msgstr "Tailored Suit"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "404"
