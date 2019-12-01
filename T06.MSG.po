@@ -1883,7 +1883,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T06_TATEC_B1_N2_SEL5"
 msgid "どく"
-msgstr "Step asides"
+msgstr "Step aside"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T06_TATEC_B1_N2_SEL6"

@@ -2783,7 +2783,7 @@ msgstr "Good job"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_TIKAA_N1_SEL2"
 msgid "どいてくれ"
-msgstr "Step asides"
+msgstr "Step aside"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_TIKAA_N1_MSG12"
@@ -4650,7 +4650,7 @@ msgid ""
 msgstr ""
 "\"Gotta clean or...\n"
 " Mr. Cook, you're in the way.\n"
-" Step asides!\""
+" Step aside!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_D_1F_N2_MSG2"
