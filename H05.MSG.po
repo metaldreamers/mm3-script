@@ -421,8 +421,8 @@ msgid ""
 "　近づかぬほうが\n"
 "　よさそうですぞ。"
 msgstr ""
-"\"We btter not\n"
-" to get close \n"
+"\"We'd better not\n"
+" get too close \n"
 " to the Clan right now.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
