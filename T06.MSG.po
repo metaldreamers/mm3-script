@@ -3798,7 +3798,7 @@ msgid ""
 "　殺されちまうからさ。"
 msgstr ""
 "\"Hurry it up.\"{END TEXTBOX}\n"
-"\"Else\n"
+"\"Or else\n"
 " the Happy Cult guys\n"
 " gonna kill me.\""
 

@@ -507,8 +507,8 @@ msgid ""
 msgstr ""
 "\"When you want to quit playing\n"
 " store the records here.\" {END TEXTBOX}\n"
-"\"Else, all the\n"
-" effort will have been in vain.\" {END TEXTBOX}\n"
+"\"Or else all your efforts\n"
+" will have been in vain.\" {END TEXTBOX}\n"
 "\"Or so my sis said.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -2469,8 +2469,8 @@ msgid ""
 "　苦労がみずのあわよ！"
 msgstr ""
 "\"When you stop playing\n"
-" store your memories here!\"  {END TEXTBOX}\n"
-"\"Else all of your efforts\n"
+" store your memories here!\" {END TEXTBOX}\n"
+"\"Or all of your efforts\n"
 " will have been in vain!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
