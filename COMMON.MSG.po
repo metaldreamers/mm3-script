@@ -2220,7 +2220,7 @@ msgstr ""
 " Where's your vehicle?\"{END TEXTBOX}\n"
 "\"If you don't bring one\n"
 " then we can't\n"
-" cleanse it!\""
+" clean it!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SENSHA_MSG06"
