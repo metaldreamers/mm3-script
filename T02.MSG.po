@@ -3949,7 +3949,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_D_UE_N5"
 msgid "「ヒヒーーン！"
-msgstr "Horse's cry"
+msgstr "*Neigh*"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_D_UE_TAN_MSG1"
@@ -4003,7 +4003,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_D_UMA_N2"
 msgid "「ヒヒーーン！"
-msgstr "Horse's cry"
+msgstr "*Neigh*"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_D_KANRI_N1_MSG1"
