@@ -7199,7 +7199,7 @@ msgstr ""
 "drank up the $_I! {END TEXTBOX}\n"
 "\"You sure\n"
 " did drink a lot.\n"
-" Would you like another more?\""
+" Would you like another?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SAKABAOYAJI_MSG14"
