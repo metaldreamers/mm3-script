@@ -694,7 +694,7 @@ msgid ""
 msgstr ""
 "\"Well then, I'll collect $_3.\n"
 " Will equip $_I into\n"
-" the $_N, OK?\""
+" the $_N, okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SHOP_KURUMA13"
@@ -910,7 +910,7 @@ msgid ""
 msgstr ""
 "\"Oh? $_0 of them, huh?\n"
 " $_0 of $_I,\n"
-" that'll be $_MＧ! OK?\""
+" that'll be $_MＧ! Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SHOP_HOUDAN08"
@@ -1035,7 +1035,7 @@ msgid ""
 msgstr ""
 "\"$_0 of $_I\n"
 " will be $_MＧ.\n"
-" OK?\""
+" Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SHOP_HOUDAN19"
@@ -1818,8 +1818,8 @@ msgstr ""
 " $_I is\n"
 " in $_0 state, no?\"{END TEXTBOX}\n"
 "\"You wanna fix it?\n"
-" It'll cose $_MＧ.\n"
-" That OK?\""
+" It'll cost $_MＧ.\n"
+" That okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// REPAIR_MSG12"
@@ -1834,10 +1834,9 @@ msgid ""
 "　無茶な乗りかた\n"
 "　しねぇようにな！"
 msgstr ""
-"\"OK! Fixed!\"{END TEXTBOX}\n"
-"\"Don't do\n"
-" any more\n"
-" reckless stuff, OK?\""
+"\"Okay! Fixed!\"{END TEXTBOX}\n"
+"\"Don't do any more\n"
+" reckless stuff, okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// REPAIR_MSG14"
@@ -1887,7 +1886,7 @@ msgid ""
 msgstr ""
 "\"If you want to fix all,\n"
 " it'll cost $_MＧ!\n"
-" OK?\""
+" Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// REPAIR_MSG18"
@@ -1907,7 +1906,7 @@ msgid ""
 "　すぐ修理してやるからな！\n"
 "　ちょっと待ってな！"
 msgstr ""
-"\"OK!\n"
+"\"Okay!\n"
 " I'll fix it at once!\n"
 " Wait a bit!\""
 
@@ -1921,7 +1920,7 @@ msgid ""
 "$npは\n"
 "$ni036をもらった。"
 msgstr ""
-"\"OK! Fixed!\"{END TEXTBOX}\n"
+"\"Okay! Fixed!\"{END TEXTBOX}\n"
 "\"Ah! And this is\n"
 " a service to\n"
 " interesting clients!\"{END TEXTBOX}\n"
@@ -1970,7 +1969,7 @@ msgid ""
 msgstr ""
 "\"Fix $_I?\n"
 " It'll cost $_MＧ.\n"
-" OK?\""
+" Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// REPAIR_MSG25"
@@ -1990,7 +1989,7 @@ msgctxt "// REPAIR_MSG26"
 msgid ""
 "「よし！\n"
 "　なおったぜ！"
-msgstr "\"OK! Fixed!\""
+msgstr "\"Okay! Fixed!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// REPAIR_MSG27"
@@ -2145,7 +2144,7 @@ msgstr ""
 " This is\n"
 " the Tank Shop!\"{END TEXTBOX}\n"
 "\"1 tank is\n"
-" 55G, OK?\""
+" 55G, okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SENSHA_MSG02a"
@@ -2173,7 +2172,7 @@ msgid ""
 msgstr ""
 "\"$_K vehicles\n"
 " will $_MＧ.\n"
-" OK?\""
+" Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SENSHA_MSG03"
@@ -2744,7 +2743,7 @@ msgid ""
 msgstr ""
 "\"$_I?\n"
 " That'll be $_MＧ.\n"
-" OK?\""
+" Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// OTUMAMIONNA_MSG05"
@@ -2901,7 +2900,7 @@ msgstr ""
 " I'll have...\"{END TEXTBOX}\n"
 "\"A $_I!\n"
 " That's my choice.\n"
-" OK?\""
+" Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// OTUMAMIONNA_MSG18"
@@ -3437,7 +3436,7 @@ msgid ""
 "「どれ、\n"
 "　ちょいと$nn326を拝見。"
 msgstr ""
-"\"OK.\n"
+"\"Okay.\n"
 " Let me have a look at the Tube.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -3716,7 +3715,7 @@ msgstr "Check Tube"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// RYOUSIDOLL_QC01"
 msgid "ＯＫ！"
-msgstr "OK!"
+msgstr "Okay!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// RYOUSIDOLL_QC02"
@@ -3992,7 +3991,7 @@ msgstr ""
 " good, yeah.\"{END TEXTBOX}\n"
 "\"It's drying.\n"
 " Wait a bit\n"
-" longer, OK?\""
+" longer, okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// PAINTYA_MSG07"
@@ -4230,7 +4229,7 @@ msgid ""
 "　で、材料になりそうなものは\n"
 "　どのクルマに積んであるんだ？"
 msgstr ""
-"\"OK!\n"
+"\"Okay!\n"
 " In which vehicle do your carry\n"
 " those materials, huh?\""
 
@@ -4262,7 +4261,7 @@ msgid ""
 "「さぁて、どの材料から\n"
 "　メタルを抽出するね？"
 msgstr ""
-"\"OK. From which materials\n"
+"\"Okay. From which materials\n"
 " do you want me \n"
 " to extract the metals?\""
 
@@ -4292,7 +4291,7 @@ msgstr ""
 " it'll produce some good metal...\"{END TEXTBOX}\n"
 "\"However...\n"
 " This $_I will melt\n"
-" and be unusable. OK?\""
+" and be unusable, okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// RAREMETALYA_MSG10"
@@ -4420,7 +4419,7 @@ msgstr ""
 " have stuff that works as \n"
 " materials on it anymore.\"{END TEXTBOX}\n"
 "\"Show me another\n"
-" vehicle, OK?\""
+" vehicle, okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// RAREMETALYA_MSG15"
@@ -4499,7 +4498,7 @@ msgstr ""
 " the metals I need.\"{END TEXTBOX}\n"
 "\"I'll combine $_1 of $_0\n"
 " to make $_I.\n"
-" OK?\""
+" Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// RAREMETALYA_MSG20"
@@ -6134,7 +6133,7 @@ msgid ""
 "「じゃあ、何からぁ\n"
 "　始めるぅ？"
 msgstr ""
-"\"OK. Where do\n"
+"\"Okay. Where do\n"
 " we start from?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -6154,7 +6153,7 @@ msgid ""
 msgstr ""
 "\"To make a tank, I need\n"
 " schematics, see.\n"
-" But it's OK.\"{END TEXTBOX}\n"
+" But it's okay.\"{END TEXTBOX}\n"
 "\"You only have to decide\n"
 " chassis type, color and personality\n"
 " and that's it.\"{END TEXTBOX}\n"
@@ -6274,7 +6273,7 @@ msgid ""
 "「次は、色を決めてねぇ。"
 msgstr ""
 "\"$_0, then.\n"
-" OK, OK.\"{END TEXTBOX}\n"
+" Okay, okay.\"{END TEXTBOX}\n"
 "\"Next! Decide the color!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -6305,7 +6304,7 @@ msgstr ""
 "\"Well then... $_0 and\n"
 " $_1 and\n"
 " $_2, huh.\"{END TEXTBOX}\n"
-"\"Is that OK?\""
+"\"Is that okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// BIOTANKFC_MSG21"
@@ -6472,7 +6471,7 @@ msgstr ""
 "\"Inject Bio Gel X!\"{END TEXTBOX}\n"
 "\"Inject Bio Gel Z!\"{END TEXTBOX}\n"
 "\"Charge the energy!!\"{END TEXTBOX}\n"
-"Meat:\"Charge is OK!\"{END TEXTBOX}\n"
+"Meat:\"Charge is okay!\"{END TEXTBOX}\n"
 "\"Shoot the energy!\"{END TEXTBOX}\n"
 "\"Go! Biotank!\""
 
@@ -6526,7 +6525,7 @@ msgstr "Quit"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// BIOTANKFC_QC01"
 msgid "ＯＫ！"
-msgstr "OK!"
+msgstr "Okay!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// BIOTANKFC_QC02"
@@ -6536,7 +6535,7 @@ msgstr "This won't do"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// BIOTANKFC_QD01"
 msgid "これでＯＫ"
-msgstr "That's OK"
+msgstr "That's okay"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// BIOTANKFC_QD02"
@@ -6657,7 +6656,7 @@ msgstr ""
 "\"You have $_0t\n"
 " of Scrap Iron.\"{END TEXTBOX}\n"
 "\"I'll keep it all.\n"
-" That OK?\""
+" That okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// TETUKUZUYA_MSG09"
@@ -6836,7 +6835,7 @@ msgid ""
 msgstr ""
 "\"You have $_0\n"
 " of $ni038.\n"
-" I'll keep them all. OK?\""
+" I'll keep them all. Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SAIBOUYA_MSG09"
@@ -6917,7 +6916,7 @@ msgstr ""
 "\"Sure, no problem!\"{END TEXTBOX}\n"
 "\"I'm going to dispose of\n"
 " the Biotank $_N!\n"
-" OK?\""
+" Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SAIBOUYA_MSG16"
@@ -7551,7 +7550,7 @@ msgstr ""
 " to lack water.\"{END TEXTBOX}\n"
 "\"Ask for the details\n"
 " to the Shelter gate soldiers,\n"
-" OK?\""
+" Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// HUNTEROFFICE_MSG36"
@@ -7566,7 +7565,7 @@ msgstr ""
 " to be hiring mercenaries.\"{END TEXTBOX}\n"
 "\"Ask for the details\n"
 " to the Shelter gate soldiers,\n"
-" OK?\""
+" Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// HUNTEROFFICE_MSG37"
@@ -7780,7 +7779,7 @@ msgid ""
 msgstr ""
 "\"Then... $_1 of them\n"
 " is $_MＧ.\n"
-" That OK?\""
+" That okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// DDPINEAPPLE_MSG10"
@@ -8750,8 +8749,7 @@ msgstr ""
 "\"If you load $_I\n"
 " into $_N,\n"
 " it'll become overload!\"{END TEXTBOX}\n"
-"\"Is that\n"
-" OK, though?\""
+"\"Is that okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// STANPYA_MSG12"
@@ -9056,7 +9054,7 @@ msgstr ""
 "\"$_N, huh?\n"
 " Good name, man.\n"
 " I like it!\"{END TEXTBOX}\n"
-"\"OK! Where do we begin from?\n"
+"\"Okay! Where do we begin from?\n"
 " Let's begin by\n"
 " deciding what to sell.\""
 
@@ -9169,7 +9167,7 @@ msgid ""
 msgstr ""
 "\"Hm?\n"
 " You quitting?\"{END TEXTBOX}\n"
-"\"OK, then.\n"
+"\"Okay, then.\n"
 " Sell something else.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -9418,7 +9416,7 @@ msgid ""
 msgstr ""
 "You must save the game\n"
 "to sell $_I.\n"
-"Is it OK?\""
+"Is that okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// ADHOCKSHOP_MSG34"
@@ -9504,7 +9502,7 @@ msgstr ""
 "\"You want to\n"
 " go shopping\n"
 " to another world.\"{END TEXTBOX}\n"
-"\"OK. I'll search\n"
+"\"Okay. I'll search\n"
 " for open stores\n"
 " so wait a min.\""
 
@@ -9572,7 +9570,7 @@ msgid ""
 msgstr ""
 "\"$_I\n"
 " is $_MＧ.\n"
-" OK?\""
+" Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// ADHOCKSHOP_MSG47"
@@ -9725,7 +9723,7 @@ msgid ""
 msgstr ""
 "You need to save the game\n"
 "to buy $_I.\n"
-"OK?"
+"Okay?"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// ADHOCKSHOP_MSG60"
@@ -11658,7 +11656,7 @@ msgid ""
 msgstr ""
 "\"If you mod the specs\n"
 " of $_I,\n"
-" It'll be $_MＧ! OK?\""
+" It'll be $_MＧ! Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// HEIKIKAIZOU_MSG11"
@@ -12266,7 +12264,7 @@ msgid ""
 msgstr ""
 "\"Increasing\n"
 " $_I's horsepower\n"
-" will be $_MＧ! OK!?\""
+" will be $_MＧ! Okay!?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// ENGINE_KAIZOU_MSG25"
@@ -12281,7 +12279,7 @@ msgstr ""
 " one last time!\"{END TEXTBOX}\n"
 "\"I'll mod $_I\n"
 " and increase the horsepower!\n"
-" That OK!?\""
+" That okay!?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// ENGINE_KAIZOU_MSG26"
@@ -14148,9 +14146,9 @@ msgid ""
 "ＯＫ！\n"
 "扉を解除します。"
 msgstr ""
-"You help up ID Card\n"
+"You held up ID Card\n"
 "to the touch panel!{END TEXTBOX}\n"
-"OK!\n"
+"Okay!\n"
 "Door will open."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -14161,9 +14159,9 @@ msgid ""
 "ＯＫ！\n"
 "扉を解除します。"
 msgstr ""
-"You help up $ni091\n"
+"You held up $ni091\n"
 "to the touch panel!{END TEXTBOX}\n"
-"OK!\n"
+"Okay!\n"
 "Door will open."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -14176,7 +14174,7 @@ msgid ""
 msgstr ""
 "You help up $ni092\n"
 "to the touch panel!{END TEXTBOX}\n"
-"OK!\n"
+"Okay!\n"
 "Door will open."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -14189,7 +14187,7 @@ msgid ""
 msgstr ""
 "You help up $ni093\n"
 "to the touch panel!{END TEXTBOX}\n"
-"OK!\n"
+"Okay!\n"
 "Door will open."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0

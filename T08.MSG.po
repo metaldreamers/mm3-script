@@ -1093,7 +1093,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T08_HC_N1_SELL9"
 msgid "ＯＫ！"
-msgstr "OK!"
+msgstr "Okay!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T08_HC_N1_SELL10"
@@ -1107,7 +1107,7 @@ msgid ""
 "　あかいサメを\n"
 "　はやく、たおしてきてよ。"
 msgstr ""
-"$_3:\"OK, then go\n"
+"$_3:\"Okay, then go\n"
 " and beat the red shark\n"
 " in the desert ASAP.\""
 
