@@ -1579,6 +1579,7 @@ msgstr ""
 " I can destroy Shelter in the blink\n"
 " of an eye... Heh, heh, heh!\""
 
+# TODO: is revenge the right word?
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H08_EVENT6_MSG11"
 msgid ""
@@ -1603,7 +1604,7 @@ msgstr ""
 " loathsome giant robot!\n"
 " Hah, hah, hah!\"{END TEXTBOX}\n"
 "Gratonos:\"And the world will bow\n"
-" to me, who's earnt such\n"
+" to me, who's earned such\n"
 " great power!\"{END TEXTBOX}\n"
 "Gratonos:\"Then I will\n"
 " be freed from this\n"
