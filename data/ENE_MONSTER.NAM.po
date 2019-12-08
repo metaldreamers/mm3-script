@@ -950,7 +950,7 @@ msgstr "Stealth-quito"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "187"
 msgid "凶暴トースター"
-msgstr "Ferocious Toaster"
+msgstr "Feral Toaster"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "188"
