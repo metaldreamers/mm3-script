@@ -180,7 +180,7 @@ msgid ""
 "　$_MＧで買い取るけど\n"
 "　いいかい？"
 msgstr ""
-"\"$_I, $K of 'em?\n"
+"\"$_I, $_K of 'em?\n"
 " I'll buy 'em for $_MG.\n"
 " OK?\""
 
