@@ -347,7 +347,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B1_1F_N11_SEL7"
 msgid "そんな男がなぜボートを？"
-msgstr "Why did he want a oat?"
+msgstr "Why did he want a boat?"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B1_1F_N11_SEL8"
