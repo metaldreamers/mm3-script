@@ -157,7 +157,7 @@ msgid ""
 msgstr ""
 "\"Oh, it never hurts to ask.\" {END TEXTBOX}\n"
 "\"Oops!\n"
-" I got somethind to do.\" {END TEXTBOX}\n"
+" I got something to do.\" {END TEXTBOX}\n"
 "\"Boss is calling.\" {END TEXTBOX}\n"
 "\"Bye!\""
 
