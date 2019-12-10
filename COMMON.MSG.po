@@ -2933,9 +2933,8 @@ msgstr ""
 "\"Gulp,\n"
 " gulp,\n"
 " gulp...\"{END TEXTBOX}\n"
-" The girl drank\n"
-" the drink\n"
-" deliciously."
+"The girl eagerly\n"
+"downed the drink."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// OTUMAMIONNA_MSG20"
