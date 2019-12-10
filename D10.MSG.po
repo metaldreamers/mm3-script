@@ -340,11 +340,9 @@ msgid ""
 "「$nn096って名の、\n"
 "　大男ですよ。"
 msgstr ""
-"\"Always\n"
-" drunk, and infamously \n"
+"\"Always drunk, and infamously\n"
 " roughneck...\"{END TEXTBOX}\n"
-"\"A huge man\n"
-" named Tuko...\""
+"\"A huge man named Tuko...\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B1_1F_N11_SEL7"
