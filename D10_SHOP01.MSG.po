@@ -53,7 +53,7 @@ msgid ""
 "　いいかい？"
 msgstr ""
 "\"$_I, huh?\n"
-" That'll be $M_G!\n"
+" That'll be $_MG!\n"
 " OK?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
