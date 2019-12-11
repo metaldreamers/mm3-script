@@ -4487,7 +4487,7 @@ msgstr ""
 "a silent manner.{END TEXTBOX}\n"
 "Kasumi hugged her\n"
 "like a mother hugging\n"
-"her daugther."
+"her daughter."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_NIGHT_MSG5"
