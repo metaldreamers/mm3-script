@@ -662,7 +662,7 @@ msgid ""
 "　あんた、知ってるかい？"
 msgstr ""
 "\"Hey.\n"
-" Did you know?\""
+" Did ya know?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DOUC1_N5_SEL1"
@@ -672,7 +672,7 @@ msgstr "I know"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DOUC1_N5_SEL2"
 msgid "知らない"
-msgstr "I don't know"
+msgstr "I dunno"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DOUC1_N5_MSG2"
@@ -706,7 +706,7 @@ msgstr ""
 "\"They say that a famed Hunter\n"
 " hid it there but...\"{END TEXTBOX}\n"
 "\"But it reeks of being\n"
-" no more than lie.\""
+" no more than a lie.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DOUC1_N6A_MSG"
@@ -2141,7 +2141,7 @@ msgstr ""
 " $nw015 recently\" {END TEXTBOX}\n"
 "\"It happened in \n"
 " the blink of an eye.\n"
-" Town's on ruins.\" {END TEXTBOX}\n"
+" Town's in ruins.\" {END TEXTBOX}\n"
 "\"Well, I said in ruins but\n"
 " the Clan aren't idiots.\" {END TEXTBOX}\n"
 "\"Stores and people\n"
