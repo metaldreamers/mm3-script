@@ -4305,7 +4305,7 @@ msgstr "225mm Hydra"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "858"
 msgid "デスデモナ振動砲"
-msgstr "Desdemona Wave Gun"
+msgstr "Deathdemona Wave Gun"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "859"
