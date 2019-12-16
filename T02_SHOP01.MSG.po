@@ -215,7 +215,7 @@ msgid ""
 msgstr ""
 "\"$_K of $_I?\n"
 " I will buy them\n"
-" for $M_G, OK?\""
+" for $_MG, OK?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SHOP_NINGEN21"
