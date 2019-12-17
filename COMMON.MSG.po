@@ -2783,8 +2783,8 @@ msgid ""
 "　$_Iよ。\n"
 "　あ～～～ん、してぇ♪"
 msgstr ""
-"\"Yes! $_I!\n"
-" Open the mouth♪\""
+"\"Oh! $_I!\n"
+" Open up wide♪\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// OTUMAMIONNA_MSG09"
@@ -2812,7 +2812,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// OTUMAMIONNA_MSG11"
 msgid "「あ～ん‥‥"
-msgstr "\"Open the mouth...\""
+msgstr "\"Open up wide...\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// OTUMAMIONNA_MSG12"
@@ -2821,9 +2821,8 @@ msgid ""
 "　もうひとつ。\n"
 "　あ～～～ん、してぇ♪"
 msgstr ""
-"\"Here!\n"
-" One more!\n"
-" Open the mouth♪\""
+"\"Here!@w30 One more!\n"
+" Open up wide♪\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// OTUMAMIONNA_MSG13"
@@ -2956,7 +2955,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// OTUMAMIONNA_SEL_A"
 msgid "あ～ん"
-msgstr "Open mouth"
+msgstr "Open wide"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// OTUMAMIONNA_SEL_B"
