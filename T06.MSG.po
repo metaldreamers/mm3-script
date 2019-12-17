@@ -3870,7 +3870,7 @@ msgid ""
 msgstr ""
 "\"This won't do!\n"
 " If I load on it there'll \n"
-" be an overload of $_0t!\""
+" be overloaded by $_0t!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T06_DOUZOU_MSG8B"
