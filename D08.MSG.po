@@ -3656,9 +3656,7 @@ msgid ""
 "　ごく･･･@w30\n"
 "　ごく･･･"
 msgstr ""
-"\"Gulp...@w30\n"
-" Gulp... @w30\n"
-" Gulp...\""
+"\"Gulp...@w30Gulp...@w30Gulp...\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SAKABAOYAJI_MSG10"
