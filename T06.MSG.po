@@ -3567,8 +3567,8 @@ msgid ""
 "「このマユラー騒ぎで\n"
 "　みんな、逃げちまいやがった。"
 msgstr ""
-"\"Everyone's run aways\n"
-" because of the monster fuss.\""
+"\"Everyone's run away just\n"
+" because of this monster fuss.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T06_DOG5_N5A_MSG2"
