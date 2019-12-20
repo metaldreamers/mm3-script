@@ -4881,7 +4881,7 @@ msgid ""
 "$BNは\n"
 "竜巻を発生させた！"
 msgstr ""
-"$B generated\n"
+"$BN generated\n"
 "a tornado!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
