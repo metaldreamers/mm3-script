@@ -1252,7 +1252,7 @@ msgid ""
 "お色気満点のパンチラキック！"
 msgstr ""
 "$BN gives a kick\n"
-"full of Erotism!"
+"full of ardor!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "204"
@@ -7018,7 +7018,7 @@ msgid ""
 "お色気満点のセクシーパンチ！"
 msgstr ""
 "$BN throws a punch\n"
-"full of Erotism!"
+"full of ardor!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1108"
