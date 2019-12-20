@@ -1694,7 +1694,7 @@ msgid ""
 "　声をかけてくれ！"
 msgstr ""
 "\"When you want to\n"
-" fixa  vehicle.\n"
+" fix a  vehicle.\n"
 " give us a call!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
