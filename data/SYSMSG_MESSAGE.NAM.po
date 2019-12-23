@@ -118,7 +118,7 @@ msgid ""
 "よろしいですか？$WSB(はい,いいえ)$WZ"
 msgstr ""
 "Dropping\n"
-"$_K $_Is.\n"
+"$_K $_I.\n"
 "Are you sure?$WSB(Yes,No   )$WZ"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -127,7 +127,7 @@ msgid ""
 "$_Iを\n"
 "$_Kコ すてました。$WW"
 msgstr ""
-"$_K $_Is\n"
+"$_K $_I\n"
 "dropped.$WW"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
