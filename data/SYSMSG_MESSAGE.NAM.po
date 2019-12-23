@@ -1063,12 +1063,12 @@ msgstr "The monsters were defeated!$WW$WZ"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "114"
 msgid "$_Kの けいけんちを 得た！$WW$WZ"
-msgstr "$_K EXP acquired!$WW$WZ"
+msgstr "$_KEXP acquired!$WW$WZ"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "115"
 msgid "$_KＧ てにいれた！$WW$WZ"
-msgstr "$_K G found!$WW$WZ"
+msgstr "$_KG found!$WW$WZ"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "116"
@@ -2509,7 +2509,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "253"
 msgid "$_Kの経験値を得た！$WW$WZ"
-msgstr "$_K EXP earned!$WW$WZ"
+msgstr "$_KEXP earned!$WW$WZ"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "254"
