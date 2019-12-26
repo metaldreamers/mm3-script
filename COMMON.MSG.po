@@ -266,7 +266,7 @@ msgid ""
 "　よろしいですか？"
 msgstr ""
 "\"$_I?\n"
-" That'll be $_MＧ.\n"
+" That'll be $_MG.\n"
 " Is that alright?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -474,7 +474,7 @@ msgid ""
 "　なりますが　よろしいですか？"
 msgstr ""
 "\"One $_I, huh!\n"
-" That'll be $_MＧ,\n"
+" That'll be $_MG,\n"
 " is that alright?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -910,7 +910,7 @@ msgid ""
 msgstr ""
 "\"Oh? $_0 of them, huh?\n"
 " $_0 of $_I,\n"
-" that'll be $_MＧ! Okay?\""
+" that'll be $_MG! Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SHOP_HOUDAN08"
@@ -1346,7 +1346,7 @@ msgid ""
 "　なりますが、よろしいですか？"
 msgstr ""
 "\"Now, if you want to fill up\n"
-" everything, that'll be $_MＧ.\n"
+" everything, that'll be $_MG.\n"
 " Is that alright?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -1431,7 +1431,7 @@ msgid ""
 msgstr ""
 "\"You'd like the $_I's\n"
 " $_0 filled up?\"{END TEXTBOX}\n"
-"\"That'll be $_MＧ,\n"
+"\"That'll be $_MG,\n"
 " is that alright?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -1547,7 +1547,7 @@ msgstr ""
 "\"Certainly.\n"
 " That's $_1 shells\n"
 " for the $_I.\"{END TEXTBOX}\n"
-"\"That'll be $_MＧ,\n"
+"\"That'll be $_MG,\n"
 " is that alright?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -1585,7 +1585,7 @@ msgstr ""
 "\"Certainly.\n"
 " That's $_1 armor tiles\n"
 " for the $_I.\"{END TEXTBOX}\n"
-"\"That'll be $_MＧ,\n"
+"\"That'll be $_MG,\n"
 " is that alright?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -2742,7 +2742,7 @@ msgid ""
 "　い～ぃ？"
 msgstr ""
 "\"$_I?\n"
-" That'll be $_MＧ.\n"
+" That'll be $_MG.\n"
 " Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -8107,7 +8107,7 @@ msgid ""
 "　よろしいですか？"
 msgstr ""
 "\"$_1?\n"
-" That'll be $_MＧ.\n"
+" That'll be $_MG.\n"
 " Is that alright?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
