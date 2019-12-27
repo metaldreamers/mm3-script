@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
-"POT-Creation-Date: 21/11/2019\n"
+"POT-Creation-Date: 26/12/2019\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Metal Max 3 English fantranslation\n"
@@ -133,7 +133,7 @@ msgid ""
 "　よろしいでしょうか？"
 msgstr ""
 "\"For a party of $_K,\n"
-" that will be $_MＧ, alright?\""
+" that will be $_MG, alright?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// INN_MSG06"
@@ -396,7 +396,7 @@ msgid ""
 "　よろしいですか？"
 msgstr ""
 "\"I'll buy $_K $_I\n"
-" for　$_MＧ.\n"
+" for　$_MG.\n"
 " Is that alright?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -541,7 +541,7 @@ msgstr ""
 "\"$_I?\n"
 " I'll take it for $_2G...\"{END TEXTBOX}\n"
 "\"And by subtraction\n"
-" I'll be taking $_MＧ.\n"
+" I'll be taking $_MG.\n"
 " Is it alright?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -567,7 +567,7 @@ msgstr ""
 "\"$_I?\n"
 " I'll take it for $_2G...\"{END TEXTBOX}\n"
 "\"And by subtraction\n"
-" I'll be returning $_MＧ.\n"
+" I'll be returning $_MG.\n"
 " Is it alright?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -797,7 +797,7 @@ msgid ""
 "　よろしいですか？"
 msgstr ""
 "\"I can buy that $_I\n"
-" from you for $_MＧ.\n"
+" from you for $_MG.\n"
 " Is that alright?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -1034,7 +1034,7 @@ msgid ""
 "　それでいいか？"
 msgstr ""
 "\"$_0 of $_I\n"
-" will be $_MＧ.\n"
+" will be $_MG.\n"
 " Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -1818,7 +1818,7 @@ msgstr ""
 " $_I is\n"
 " in $_0 state, no?\"{END TEXTBOX}\n"
 "\"You wanna fix it?\n"
-" It'll cost $_MＧ.\n"
+" It'll cost $_MG.\n"
 " That okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -1885,7 +1885,7 @@ msgid ""
 "　いいのか？"
 msgstr ""
 "\"If you want to fix all,\n"
-" it'll cost $_MＧ!\n"
+" it'll cost $_MG!\n"
 " Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -1968,7 +1968,7 @@ msgid ""
 "　いいのか？"
 msgstr ""
 "\"Fix $_I?\n"
-" It'll cost $_MＧ.\n"
+" It'll cost $_MG.\n"
 " Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -2054,7 +2054,7 @@ msgstr ""
 "\"The $_N, huh.\n"
 " Hmmm...\"{END TEXTBOX}\n"
 "\"Retrieving that will\n"
-" cost you $_MＧ,\n"
+" cost you $_MG,\n"
 " is that alright?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -2171,7 +2171,7 @@ msgid ""
 "　よろしいですか～？"
 msgstr ""
 "\"$_K vehicles\n"
-" will $_MＧ.\n"
+" will $_MG.\n"
 " Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -2435,9 +2435,9 @@ msgid ""
 "　前金でもらうぜ！"
 msgstr ""
 "\"Oho!\n"
-" So you'll put up $_MＧ!\"{END TEXTBOX}\n"
+" So you'll put up $_MG!\"{END TEXTBOX}\n"
 "\"Then I'll take that\n"
-" $_MＧ in advance!\""
+" $_MG in advance!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SAKABAOYAJI_MSG20"
@@ -2480,7 +2480,7 @@ msgstr ""
 " I've got great news!\"{END TEXTBOX}\n"
 "\"This guy over here,\n"
 " $np...\"{END TEXTBOX}\n"
-"\"He just put up $_MＧ\n"
+"\"He just put up $_MG\n"
 " for everyone!\"{END TEXTBOX}\n"
 "\"Now\n"
 " everyone can party\n"
@@ -2531,7 +2531,7 @@ msgid ""
 "　いいか？"
 msgstr ""
 "\"$_0 $_I, huh.\n"
-" I can give you $_MＧ.\n"
+" I can give you $_MG.\n"
 " Sound good?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -2588,7 +2588,7 @@ msgstr ""
 " a qigong massage to get rid of\n"
 " paralysis and numbness?{END TEXTBOX}\n"
 "\"Right now it's only\n"
-" $_MＧ per person!\""
+" $_MG per person!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// MASSAGE_MSG02"
@@ -2912,7 +2912,6 @@ msgstr ""
 " $np,\n"
 " you're actually stingy!\""
 
-# TODO
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// OTUMAMIONNA_MSG19"
 msgid ""
@@ -3962,7 +3961,7 @@ msgid ""
 "　塗る？"
 msgstr ""
 "\"$_I, huh...\n"
-" $_MＧ.\n"
+" $_MG.\n"
 " Will you paint?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -4086,7 +4085,7 @@ msgid ""
 msgstr ""
 "\"I dug this\n"
 " $_I up today.\n"
-" How about $_MＧ for it?\""
+" How about $_MG for it?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// HORIDASIMONOYA_MSG04"
@@ -4810,7 +4809,7 @@ msgid ""
 msgstr ""
 "\"Wanna mod\n"
 " $_N, then\n"
-" it'lls be $_MＧ! OK?\""
+" it'lls be $_MG! OK?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SHASIKAIZOUYA_MSG11"
@@ -5021,7 +5020,7 @@ msgid ""
 msgstr ""
 "\"To mod $_N\n"
 " into $_1\n"
-" it'll cost $_MＧ! OK?\""
+" it'll cost $_MG! OK?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SHASIKAIZOUYA_QA01"
@@ -5517,7 +5516,7 @@ msgid ""
 "　買うかい？"
 msgstr ""
 "\"A chilly $_I.\n"
-" $_MＧ.\n"
+" $_MG.\n"
 " Gonna buy it?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -5643,7 +5642,7 @@ msgid ""
 msgstr ""
 "\"Great!\n"
 " $_I, then.\n"
-" $_MＧ! Buying?\""
+" $_MG! Buying?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// KANISHOP_ATANS_MSG05"
@@ -5751,11 +5750,11 @@ msgid ""
 "　また来ておくれ！"
 msgstr ""
 "\"...or so you say,\n"
-" but you don't have $_MＧ!\"{END TEXTBOX}\n"
+" but you don't have $_MG!\"{END TEXTBOX}\n"
 "\"I don't sell to\n"
 " people without money.{END TEXTBOX}\n"
 "\"Come back when\n"
-" you have $_MＧ!\""
+" you have $_MG!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// KANISHOP_MIZUURI_MSG04"
@@ -5958,7 +5957,7 @@ msgid ""
 "　どうだい？"
 msgstr ""
 "Vulcan:\"I'll buy it\n"
-" for $_MＧ, then.\n"
+" for $_MG, then.\n"
 " OK?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -7097,7 +7096,7 @@ msgid ""
 "　お受けとりになりますか？"
 msgstr ""
 "\"$_N's bounty\n"
-" is $_MＧ!\n"
+" is $_MG!\n"
 " Do you want to claim it now?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -7184,7 +7183,7 @@ msgstr ""
 " $_1 $_Ns, huh?\"{END TEXTBOX}\n"
 "\"Congratulations.\"{END TEXTBOX}\n"
 "\"Here's your\n"
-" reward, $_MＧ.\""
+" reward, $_MG.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// HUNTEROFFICE_MSG14B"
@@ -7772,7 +7771,7 @@ msgid ""
 "　なるけど、いいのかい？"
 msgstr ""
 "\"Then... $_1 of them\n"
-" is $_MＧ.\n"
+" is $_MG.\n"
 " That okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -7933,7 +7932,7 @@ msgid ""
 "　本当に　買ってくれますか？"
 msgstr ""
 "\"Huh... $_1 of them, yes.\n"
-" It'll be $_MＧ.\n"
+" It'll be $_MG.\n"
 " Will you really buy them?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -8270,7 +8269,7 @@ msgid ""
 "　おカネ持ってるよね？"
 msgstr ""
 "\"$_1 of them\n"
-" will be $_MＧ!\n"
+" will be $_MG!\n"
 " Do you have the money?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -8456,7 +8455,7 @@ msgid ""
 msgstr ""
 "\"Umm...\n"
 " For $_1...\"{END TEXTBOX}\n"
-"\"That's $_MＧ, but...\n"
+"\"That's $_MG, but...\n"
 " Will you really buy them?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -8777,7 +8776,7 @@ msgid ""
 "　よろしいですか？"
 msgstr ""
 "\"We can buy $_I\n"
-" for $_MＧ!\n"
+" for $_MG!\n"
 " Is that alright?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -8834,7 +8833,7 @@ msgid ""
 "　よろしいですか？"
 msgstr ""
 "\"$_K $_Is?\n"
-" We can give you $_MＧ,\n"
+" We can give you $_MG,\n"
 " is that alright?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -9182,7 +9181,7 @@ msgid ""
 msgstr ""
 "\"Will you sell\n"
 " $_I\n"
-" for $_MＧ?\""
+" for $_MG?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// ADHOCKSHOP_MSG15"
@@ -9399,7 +9398,7 @@ msgid ""
 msgstr ""
 "$_N\n"
 "chose $_I.\n"
-"Sell it for $_MＧ?"
+"Sell it for $_MG?"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// ADHOCKSHOP_MSG33"
@@ -9419,7 +9418,7 @@ msgid ""
 "$_MＧで売りました。"
 msgstr ""
 "$_I was\n"
-"sold for $_MＧ."
+"sold for $_MG."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// ADHOCKSHOP_MSG34B"
@@ -9429,7 +9428,7 @@ msgid ""
 "すべての商品が売れました。"
 msgstr ""
 "$_I\n"
-"was sold for $_MＧ.{END TEXTBOX}\n"
+"was sold for $_MG.{END TEXTBOX}\n"
 "All products were sold."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -9563,7 +9562,7 @@ msgid ""
 "　よろしいですか？"
 msgstr ""
 "\"$_I\n"
-" is $_MＧ.\n"
+" is $_MG.\n"
 " Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -9988,7 +9987,7 @@ msgstr ""
 " your vehicle\n"
 " so it can carry 2 engines!\"{END TEXTBOX}\n"
 "\"I'll be taking\n"
-" $_MＧ\n"
+" $_MG\n"
 " for the job!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -11324,7 +11323,7 @@ msgid ""
 msgstr ""
 "\"The $_I, huh?\"{END TEXTBOX}\n"
 "\"We can give you\n"
-" $_MＧ for it.\n"
+" $_MG for it.\n"
 " Is that alright?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -11338,7 +11337,7 @@ msgstr ""
 "\"Understood.\"{END TEXTBOX}\n"
 "\"The $_I\n"
 " has been sold\n"
-" for $_MＧ.\""
+" for $_MG.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// TRUNKROOM_MSG41"
@@ -11367,7 +11366,7 @@ msgid ""
 "　$_MＧになりますが、\n"
 "　よろしいですか？"
 msgstr ""
-"\"We can give you $_MＧ\n"
+"\"We can give you $_MG\n"
 " for $_2 $_Is,\n"
 " is that alright?\""
 
@@ -11381,7 +11380,7 @@ msgid ""
 msgstr ""
 "\"Understood.\"{END TEXTBOX}\n"
 "\"$_2 $_Is have been\n"
-" sold for $_MＧ.\""
+" sold for $_MG.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// TRUNKROOM_MSG45"
@@ -11650,7 +11649,7 @@ msgid ""
 msgstr ""
 "\"If you mod the specs\n"
 " of $_I,\n"
-" It'll be $_MＧ! Okay?\""
+" It'll be $_MG! Okay?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// HEIKIKAIZOU_MSG11"
@@ -12256,7 +12255,7 @@ msgid ""
 msgstr ""
 "\"Increasing\n"
 " $_I's horsepower\n"
-" will be $_MＧ! Okay!?\""
+" will be $_MG! Okay!?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// ENGINE_KAIZOU_MSG25"
@@ -12692,10 +12691,10 @@ msgid ""
 "　賞金$_M Ｇで　登録します。\n"
 "　よろしいですか？"
 msgstr ""
-"\"$_MＧ, is it?\n"
+"\"$_MG, is it?\n"
 " Understood.\"{END TEXTBOX}\n"
 "\"The name is $_N\n"
-" and the reward is $_MＧ.\n"
+" and the reward is $_MG.\n"
 " Is this correct?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -12743,10 +12742,10 @@ msgid ""
 "「ポンポンポンと・・・"
 msgstr ""
 "\"We will take\n"
-" $_MＧ, then.\"{END TEXTBOX}\n"
+" $_MG, then.\"{END TEXTBOX}\n"
 "\"Alright.\n"
 " Name: $_N,\n"
-" Reward: $_MＧ.{END TEXTBOX}\n"
+" Reward: $_MG.{END TEXTBOX}\n"
 "\"Pon-pon-pon...\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0

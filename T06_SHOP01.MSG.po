@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
-"POT-Creation-Date: 18/11/2019\n"
+"POT-Creation-Date: 26/12/2019\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Metal Max 3 English fantranslation\n"
@@ -11,7 +11,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-1: Type1\n"
-"X-Generator: Poedit 2.2\n"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SHOP_NINGEN01"
@@ -45,7 +44,7 @@ msgid ""
 "　いいかい？"
 msgstr ""
 "\"$_? \n"
-" It'll cost $_MＧ. \n"
+" It'll cost $_MG. \n"
 " OK?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -181,7 +180,7 @@ msgid ""
 "　いいか？"
 msgstr ""
 "\"In that case... $_K $_I\n"
-" I'll buy them for $_MＧ.\n"
+" I'll buy them for $_MG.\n"
 " OK?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -214,7 +213,7 @@ msgstr ""
 " items?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}
-#. is \0
+#.  is \0
 msgctxt "//===[NAMES]==="
 msgid "<!empty>"
 msgstr ""
