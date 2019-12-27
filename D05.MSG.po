@@ -1104,7 +1104,7 @@ msgid ""
 "　じゃあ、火をつけるぜ！"
 msgstr ""
 "\"OK!\n"
-" I'll turn on the fire!\""
+" I'll start the fire!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D05_STAND_N2A_MSG45"
