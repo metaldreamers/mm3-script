@@ -1025,7 +1025,7 @@ msgctxt "108"
 msgid ""
 "$WT$_Nは\n"
 "こちらに 気づいていない！$WW"
-msgstr "$WT$_N\hasn't noticed you!$WW"
+msgstr "$WT$_N hasn't noticed you!$WW"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "109"
