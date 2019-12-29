@@ -1765,7 +1765,7 @@ msgstr "Yojimborg"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "350"
 msgid "アクアヒドラ"
-msgstr "Aqua hydra"
+msgstr "Aqua Hydra"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "351"
