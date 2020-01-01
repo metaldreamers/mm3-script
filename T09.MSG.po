@@ -1223,7 +1223,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T09_TED_2F_N1_SEL1"
 msgid "似合うよ"
-msgstr "It fits you"
+msgstr "It suits you"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T09_TED_2F_N1_SEL2"
