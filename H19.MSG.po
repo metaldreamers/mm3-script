@@ -482,9 +482,8 @@ msgid ""
 "　あら、ハンターさん。\n"
 "　調子はどう？"
 msgstr ""
-"Professor:\"Hmmm?\n"
-" Oh, jt's you.\n"
-" How's it going like?\""
+"Professor:\"Hmm?@w30 Oh, it's you.\n"
+" How's it going?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H19_UNDER_N2_SEL15"
