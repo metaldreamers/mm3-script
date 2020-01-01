@@ -2387,14 +2387,13 @@ msgid ""
 "　畑の草むしりを\n"
 "　おねがいね！"
 msgstr ""
-"Cola:\"Anyway!\n"
-" Get rid of the weed in the field!\n"
-" OK?\""
+"Cola:\"Anyways, get rid of those\n"
+" weeds in the field! OK?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_NAKA_N3_SEL4"
 msgid "引きうけよう"
-msgstr "I'll undertake it"
+msgstr "I'll do it"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_NAKA_N3_SEL5"
@@ -3332,7 +3331,7 @@ msgid ""
 "$nn008「誰！？\n"
 "　誰なのっ！？"
 msgstr ""
-"Cola:\"Whos is it!?\n"
+"Cola:\"Who is it!?\n"
 " Who's there!?"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -4198,8 +4197,7 @@ msgstr ""
 "Cola:\"Right?\n"
 " There's a drum can on the opposite\n"
 " side of the house, so...\"{END TEXTBOX}\n"
-"Cola:\"Carry these\n"
-" until there\n"
+"Cola:\"Carry these over there\n"
 " and line them up. OK?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -4389,9 +4387,8 @@ msgid ""
 "　こんな毎日だったら@w60\n"
 "　よかったのに‥‥。"
 msgstr ""
-"Cola:\"I wish that@w60@w60\n"
-" these days@w60\n"
-" go on forever...\""
+"Cola:\"I wish@w60 these days\n"
+" would last@w60 forever...\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_NIGHT_MSG1"
@@ -4483,11 +4480,9 @@ msgid ""
 "母親のように、$nn049は\n"
 "$nn008を抱きしめた。"
 msgstr ""
-"Cola cried in\n"
-"a silent manner.{END TEXTBOX}\n"
-"Kasumi hugged her\n"
-"like a mother hugging\n"
-"her daughter."
+"Cola wept softly.{END TEXTBOX}\n"
+"Kasumi hugged her like a mother\n"
+"hugging her daughter."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_NIGHT_MSG5"
