@@ -7053,7 +7053,7 @@ msgid ""
 "「おや、おやめになるんですか。\n"
 "　ご用のときは、また来てください。"
 msgstr ""
-"\"Oh, none of them, huh.\"{END TEXTBOX}\n"
+"\"Oh, none of them, huh?\"{END TEXTBOX}\n"
 "\"Come on back if you\n"
 " need anything, then.\""
 
