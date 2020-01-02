@@ -2453,7 +2453,7 @@ msgid ""
 msgstr ""
 "Vicente:\"What a catastrophe...\n"
 " And you're the only survivor...!\"{END TEXTBOX}\n"
-"Vicente \"Damn it!@w60\n"
+"Vicente:\"Damn it!@w60\n"
 " That damn Clan!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
