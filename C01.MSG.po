@@ -206,12 +206,10 @@ msgstr ""
 "\"The Components Shop\n"
 " sells materials that Artists\n"
 " can use to craft shells.\"{END TEXTBOX}\n"
-"\"The Rare Metal Shop \n"
-" sells Rare Metal\n"
-" and Good Metal,\"{END TEXTBOX}\n"
+"\"The Metallurgist sells\n"
+" Rare Metal and Good Metal,\"{END TEXTBOX}\n"
 "\"And extracts it from stuff like\n"
-" Scrap Iron and\n"
-" Hohohole Ore!\""
+" Scrap Iron and Hohohole Ore!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}
 #.  is \0
@@ -235,7 +233,7 @@ msgstr "Components Shop"
 #.  is \0
 msgctxt "//===[NAMES]==="
 msgid "レアメタル屋"
-msgstr "Metallurgy"
+msgstr "Metallurgist"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}
 #.  is \0

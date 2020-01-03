@@ -4189,4 +4189,4 @@ msgstr ""
 #.  is \0
 msgctxt "//===[NAMES]==="
 msgid "レアメタル屋"
-msgstr "Metallurgy"
+msgstr "Metallurgist"
