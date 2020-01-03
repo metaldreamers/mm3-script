@@ -263,10 +263,8 @@ msgid ""
 "　来てしまったのね、\n"
 "　この日が。"
 msgstr ""
-"\"Huh‥‥！@w20\n"
-" I see...\"{END TEXTBOX}\n"
-"\"Finally,\n"
-" the day has come.\""
+"\"Huh‥.!@w20 I see...\"{END TEXTBOX}\n"
+"\"Finally,@w20 the day has come.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// C05_SOTO_N2_SELL3"

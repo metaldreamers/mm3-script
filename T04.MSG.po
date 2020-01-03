@@ -2534,7 +2534,7 @@ msgid ""
 "$npは、\n"
 "$nw002を\n"
 "手にいれた！"
-msgstr "$np obtained Hit Metal!"
+msgstr "$np obtained Good Metal!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T04_MERRYAN_MSG23"

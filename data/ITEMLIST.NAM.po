@@ -1215,12 +1215,12 @@ msgstr "Rare Metal"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "240"
 msgid "あたりメタル"
-msgstr "Hit Metal"
+msgstr "Good Metal"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "241"
 msgid "はずれメタル"
-msgstr "Miss Metal"
+msgstr "Poor Metal"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "242"
