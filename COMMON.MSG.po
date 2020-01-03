@@ -3057,8 +3057,7 @@ msgid ""
 "「どこに\n"
 "　セーブしますか？"
 msgstr ""
-"\"Where would you\n"
-" like to save?\""
+"\"Where would you like to save?\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// MEMORYCENTER_MSG11"
@@ -3097,8 +3096,7 @@ msgstr ""
 msgctxt "// MC2_MSG00"
 msgid "どこにセーブしますか？"
 msgstr ""
-"Where would you\n"
-"like to save?"
+"Where would you like to save?"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// MC2_MSG01"
