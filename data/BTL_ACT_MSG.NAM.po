@@ -3617,7 +3617,7 @@ msgstr "Hit & Run"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "570"
 msgid "ルーシーズ号に入っているルーシーズが全員車内に出る。"
-msgstr "All The Lucies in the Mobile jump out of their vehicle."
+msgstr "All The Lucys in the Mobile jump out of their vehicle."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "571"
@@ -3631,7 +3631,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "572"
 msgid "ルーシーズ号から出る。"
-msgstr "Exit Lucies Mobile"
+msgstr "Exit Lucys Mobile"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "573"
@@ -3645,7 +3645,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "574"
 msgid "ルーシーズ号の車内へ"
-msgstr "Go into the Lucies Mobile"
+msgstr "Go into the Lucys Mobile"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "575"
@@ -5873,7 +5873,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "924"
 msgid "ルーシーズ女刀"
-msgstr "Lucies Woman Sword"
+msgstr "Lucys Woman Sword"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "925"
@@ -5887,12 +5887,12 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "926"
 msgid "ルーシーズ女目からビーム"
-msgstr "Lucies Woman Beam from the Eyes"
+msgstr "Lucys Woman Beam from the Eyes"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "927"
 msgid "ルーシーズ女拡散ビーム"
-msgstr "Lucies Woman Spreading Beam"
+msgstr "Lucys Woman Spreading Beam"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "928"
@@ -5906,7 +5906,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "929"
 msgid "ルーシーズ若男ネクタイ攻撃"
-msgstr "Lucies Young Man Necktie Attack"
+msgstr "Lucys Young Man Necktie Attack"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "930"
@@ -5920,7 +5920,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "931"
 msgid "ルーシーズ若男両腕から火炎"
-msgstr "Lucies Young Man Flames from the Arms"
+msgstr "Lucys Young Man Flames from the Arms"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "932"
@@ -5934,7 +5934,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "933"
 msgid "ルーシーズ若男帽子カッター"
-msgstr "Lucies Young Man Hat Cutter"
+msgstr "Lucys Young Man Hat Cutter"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "934"
@@ -5948,12 +5948,12 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "935"
 msgid "ルーシーズ老人ビーム"
-msgstr "Lucies Old Man Beam"
+msgstr "Lucys Old Man Beam"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "936"
 msgid "ルーシーズ老人ロケットパンチ"
-msgstr "Lucies Old Man Rocket Punch"
+msgstr "Lucys Old Man Rocket Punch"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "937"

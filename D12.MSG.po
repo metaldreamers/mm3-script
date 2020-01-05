@@ -242,7 +242,7 @@ msgid ""
 msgstr ""
 "Lucy:\"I was waiting for you, $np!\"{END TEXTBOX}\n"
 "Lucy:\"Today's the day\n"
-" In which I, Lucy's,\n"
+" In which I, Lucy,\n"
 " will finish you off!\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -347,7 +347,7 @@ msgstr ""
 "Lucy:\"You super-evil\n"
 " inhuman freak,\n"
 " Bladetooth...\"{END TEXTBOX}\n"
-"Lucy:\"I, Lucy's.\n"
+"Lucy:\"I, Lucy,\n"
 " will finish you off\n"
 " instead of Heaven!\""
 

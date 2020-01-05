@@ -1167,10 +1167,10 @@ msgstr ""
 " wouldn't know\n"
 " about us... I'm shocked!\"{END TEXTBOX}\n"
 "Lucy:\"I'm\n"
-" the leader of Lucy's.\n"
+" the leader of The Lucys.\n"
 " Lucy.\"{END TEXTBOX}\n"
 "Ozma:\"I see.\n"
-" The Lucy's,\n"
+" The Lucys,\n"
 " known to be crooks.\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
