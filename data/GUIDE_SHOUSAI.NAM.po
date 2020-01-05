@@ -1170,7 +1170,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "142"
 msgid "サブロミオの銅像を受け取る"
-msgstr "Accept the statue of Sabromeo"
+msgstr "Accept the statue of Saburomeo"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "143"
@@ -1180,7 +1180,7 @@ msgid ""
 "ハッピー教団のシンボル、\n"
 "サブロミオの銅像を受け取ってくる。"
 msgstr ""
-"Receive the Sabromeo statue from\n"
+"Receive the Saburomeo statue from\n"
 "a man called Vulcan in Puerto\n"
 "Mori. "
 
@@ -1196,7 +1196,7 @@ msgid ""
 "ラスティメイデンにいる\n"
 "サブロミオ本人に届ける。"
 msgstr ""
-"Deliver the statue of Sabromeo\n"
+"Deliver the statue of Saburomeo\n"
 "to the man himself in Rusty\n"
 "Maiden."
 
