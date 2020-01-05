@@ -1197,8 +1197,7 @@ msgstr ""
 msgctxt "129"
 msgid "$WC$_Nは レベルが あがった！$WW$WZ"
 msgstr ""
-"$WC$_N\n"
-"gained a level!$WW$WZ"
+"$WC$_N gained a level!$WW$WZ"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "130"
