@@ -22,4 +22,4 @@ msgstr ""
 #.  is \0
 msgctxt "//===[NAMES]==="
 msgid "ショップ「赤」"
-msgstr "Shop \"Red\""
+msgstr "Shop \"Red”"

@@ -15,7 +15,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D11_N1_MSG1"
 msgid "「ハイキブツ　デスカ？"
-msgstr "\"IS IS TRASH?\""
+msgstr "“IS IS TRASH?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D11_N1_SEL1"
@@ -34,9 +34,9 @@ msgid ""
 "　ベルトコンベア　カラ\n"
 "　ステテ　クダサイ。"
 msgstr ""
-"\"TRASH MUST BE PLACED\n"
+"“TRASH MUST BE PLACED\n"
 " ON THAT BELT CONVEYOR\n"
-" AND TOSSED AWAY!\""
+" AND TOSSED AWAY!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D11_N1_MSG3"
@@ -44,8 +44,8 @@ msgid ""
 "「ソウデナイ　モノハ\n"
 "　オカエリ　クダサイ。"
 msgstr ""
-"\"DO NOT COME UNLESS\n"
-" YOU HAVE TRASH.\""
+"“DO NOT COME UNLESS\n"
+" YOU HAVE TRASH.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D11_SEQ_WALL_MSG1"
@@ -56,11 +56,11 @@ msgid ""
 "タイキョ　シナイ　モノハ\n"
 "ハイジョ　スル！"
 msgstr ""
-"\"INTRUDER DETECTED!\n"
-" INTRUDER DETECTED!\"{END TEXTBOX}\n"
-"\"LEAVE AT ONCE!\n"
+"“INTRUDER DETECTED!\n"
+" INTRUDER DETECTED!”{END TEXTBOX}\n"
+"“LEAVE AT ONCE!\n"
 " ELSE YOU WILL BE\n"
-" ELIMINATED!\""
+" ELIMINATED!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D11_SEQ_WALL_MSG2"
@@ -68,8 +68,8 @@ msgid ""
 "シンニュシャ　ハイジョ！\n"
 "シンニュシャ　ハイジョ！"
 msgstr ""
-"\"ELIMINATE INTRUDERS!\n"
-" ELIMINATE INTRUDERS!\""
+"“ELIMINATE INTRUDERS!\n"
+" ELIMINATE INTRUDERS!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D11_LIFT_MSG1"

@@ -253,7 +253,7 @@ msgid ""
 "「うおーーーーっ！"
 msgstr ""
 "$BN cried out!\n"
-"\"Whoa~~~~!\""
+"“Whoa~~~~!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "37"
@@ -267,7 +267,7 @@ msgid ""
 "「うわーーーーっ！"
 msgstr ""
 "$BN shouted!\n"
-"\"Ah~~~~!\""
+"“Ah~~~~!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "39"
@@ -281,7 +281,7 @@ msgid ""
 "「えーーーーん！"
 msgstr ""
 "$BN cried!\n"
-"\"Waaaaaaah!\""
+"“Waaaaaaah!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "41"
@@ -295,7 +295,7 @@ msgid ""
 "「げろげろげーーっ！"
 msgstr ""
 "$BN threw up!\n"
-"\"Bleeeh~!\""
+"“Bleeeh~!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "43"
@@ -1968,7 +1968,7 @@ msgstr "Oh noopes"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "307"
 msgid "$BN「いやーーん。"
-msgstr "$BN: \"Oh noopes\""
+msgstr "$BN: \"Oh noopes”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "308"
@@ -1978,7 +1978,7 @@ msgstr "Oh Hoh Hoh"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "309"
 msgid "$BN「おほほほほほ。"
-msgstr "$BN:\"Oh! Hoh! Hoh!\""
+msgstr "$BN:\"Oh! Hoh! Hoh!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "310"
@@ -3274,7 +3274,7 @@ msgid ""
 "「まんたーんドリーーンク！"
 msgstr ""
 "$BN:\n"
-"\"Full HP Drink!!\""
+"“Full HP Drink!!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "518"
@@ -5413,7 +5413,7 @@ msgid ""
 "「ドミンゲスチェーンソーーーっ！"
 msgstr ""
 "$BN attacks!\n"
-"\"Dominguez Saaaaw!!\""
+"“Dominguez Saaaaw!!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "855"
@@ -5427,7 +5427,7 @@ msgid ""
 "「ドミンゲスアッパーーーっ！"
 msgstr ""
 "$BN attacks!\n"
-"\"Dominguez Uppercut!\""
+"“Dominguez Uppercut!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "857"
@@ -5441,7 +5441,7 @@ msgid ""
 "「ドミンゲスダイビーーーングっ！"
 msgstr ""
 "$BN attacks!\n"
-"\"Dominguez Diiive!\""
+"“Dominguez Diiive!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "859"
@@ -5455,7 +5455,7 @@ msgid ""
 "「ドミンゲスデンジャラスアターーックっ！"
 msgstr ""
 "$BN attacks!\n"
-"\"Danger Attaaack!\""
+"“Danger Attaaack!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "861"
@@ -5469,7 +5469,7 @@ msgid ""
 "「ドミンゲスドリルミサーーイルっ！"
 msgstr ""
 "$BN attacks!\n"
-"\"Drill Missiiile!\""
+"“Drill Missiiile!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "863"
@@ -5483,7 +5483,7 @@ msgid ""
 "「ドミンゲスドリルアターーーックっ！"
 msgstr ""
 "$BN attacks!\n"
-"\"Drill Attaaaack!\""
+"“Drill Attaaaack!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "865"
@@ -5497,7 +5497,7 @@ msgid ""
 "「きゃはははははっ！"
 msgstr ""
 "$BN attacks!\n"
-"\"Kyah, hah, haaahhh!\""
+"“Kyah, hah, haaahhh!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "867"
@@ -5511,7 +5511,7 @@ msgid ""
 "「死ね死ね死ね死ねーーっ！"
 msgstr ""
 "$BN's attack!\n"
-"\"Die, Die, DIEEEEE!!\""
+"“Die, Die, DIEEEEE!!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "869"
@@ -5539,7 +5539,7 @@ msgid ""
 "「けけけけけけっ！"
 msgstr ""
 "$BN attacks!\n"
-"\"Heh, heh, heeehh!\""
+"“Heh, heh, heeehh!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "873"
@@ -5553,7 +5553,7 @@ msgid ""
 "「死ぬまで苦しめーーーっ！"
 msgstr ""
 "$BN attacks!\n"
-"\"Suffer 'till you DIEEEE!!\""
+"“Suffer 'till you DIEEEE!!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "875"
@@ -5567,7 +5567,7 @@ msgid ""
 "「燃えろ燃えろ燃えろーーっ！"
 msgstr ""
 "$BN attacks!\n"
-"\"Burn, burn, BURRRNNNN!!\""
+"“Burn, burn, BURRRNNNN!!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "877"
@@ -5581,7 +5581,7 @@ msgid ""
 "「ムカデ乱れ撃ち！"
 msgstr ""
 "$BN attacks!\n"
-"\"Sintipede Rapid Shot!\""
+"“Sintipede Rapid Shot!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "879"
@@ -5595,7 +5595,7 @@ msgid ""
 "「ムカデ火炎車！"
 msgstr ""
 "$BN attacks!\n"
-"\"Sintipede Flame wheel!\""
+"“Sintipede Flame wheel!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "881"
@@ -5981,7 +5981,7 @@ msgid ""
 "「地獄の炎に焼きつくされるがよい！"
 msgstr ""
 "$BN:\"Let the flames of hell\n"
-"burn you up!\""
+"burn you up!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "941"
@@ -5995,7 +5995,7 @@ msgid ""
 "実験体１３１３号！"
 msgstr ""
 "$BN:\"Don't die so easily,\n"
-"Subject 1313!\""
+"Subject 1313!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "943"
@@ -6005,7 +6005,7 @@ msgstr "Gratonos Healing"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "944"
 msgid "$BN「効かぬ！効かぬ！"
-msgstr "$BN:\"You cannot hurt me!\""
+msgstr "$BN:\"You cannot hurt me!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "945"
@@ -6187,7 +6187,7 @@ msgid ""
 "「ファイアウォーーーーールっ！"
 msgstr ""
 "$BN attacks!\n"
-"\"Firewaalll!\""
+"“Firewaalll!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "973"
@@ -6201,7 +6201,7 @@ msgid ""
 "「超電磁量子力ビーーーーームっ！"
 msgstr ""
 "$BN's Combined Attack!\n"
-"\"Super EM Quantum Beeeammm!!!\""
+"“Super EM Quantum Beeeammm!!!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "975"
@@ -6220,7 +6220,7 @@ msgid ""
 "「超電磁ワイドビーーーーームっ！"
 msgstr ""
 "$BN's Combined Attack!\n"
-"\"Super Magnetic Wide Beeaaammm!!\""
+"“Super Magnetic Wide Beeaaammm!!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "978"
@@ -6234,7 +6234,7 @@ msgid ""
 "「お姉さま、生き返ってっ！"
 msgstr ""
 "$BN:\n"
-"\"Sis! Get up!\""
+"“Sis! Get up!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "980"
@@ -6717,7 +6717,7 @@ msgid ""
 "「わたしを女王さまとおよびっ！"
 msgstr ""
 "$BN attacks!\n"
-"\"Call me \"Queen\"!\""
+"“Call me \"Queen\"!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1063"
@@ -6726,7 +6726,7 @@ msgid ""
 "「このうすぎたないブタめっ！"
 msgstr ""
 "$BN kicks!\n"
-"\"You dirty pig!\""
+"“You dirty pig!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1064"
@@ -6766,7 +6766,7 @@ msgid ""
 "「今日はここまでにしてやる、ふん！"
 msgstr ""
 "$BN\n"
-"\"We'll leave it at here for today! Hmph!\""
+"“We'll leave it at here for today! Hmph!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1070"
@@ -6775,7 +6775,7 @@ msgid ""
 "「はけーーーっ！コーラはどこにいるっ？"
 msgstr ""
 "$BN\n"
-"\"Confess!! Where's Cola!?\""
+"“Confess!! Where's Cola!?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1071"
@@ -6784,7 +6784,7 @@ msgid ""
 "「言わぬと、命はないぞっ！！"
 msgstr ""
 "$BN\n"
-"\"Confess! Or you'll die!\""
+"“Confess! Or you'll die!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1072"
@@ -6793,7 +6793,7 @@ msgid ""
 "「しぶといヤツだっ！はくんだっ！"
 msgstr ""
 "$BN\n"
-"\"How stubborn! Spit it out!\""
+"“How stubborn! Spit it out!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1073"
@@ -6802,7 +6802,7 @@ msgid ""
 "「はけーーーっ！"
 msgstr ""
 "$BN\n"
-"\"CONFESS!!\""
+"“CONFESS!!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1074"
@@ -6811,7 +6811,7 @@ msgid ""
 "「おまえはブレードトゥースだろっ！"
 msgstr ""
 "$BN\n"
-"\"You're Bladetooth, right!?\""
+"“You're Bladetooth, right!?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1075"
@@ -6820,12 +6820,12 @@ msgid ""
 "「さっさと変身しろっ！！"
 msgstr ""
 "$BN\n"
-"\"Transform at once!\""
+"“Transform at once!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1076"
 msgid "ドミンゲス「これで終わりだぜぇっ！"
-msgstr "Dominguez:\"This is it for you!\""
+msgstr "Dominguez:\"This is it for you!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1077"
@@ -6849,7 +6849,7 @@ msgid ""
 "「オレの出番だぜ！"
 msgstr ""
 "$BN attacked!\n"
-"\"My turn!\""
+"“My turn!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1081"
@@ -6863,7 +6863,7 @@ msgid ""
 "「これでもくらえ！"
 msgstr ""
 "$BN attacked!\n"
-"\"Eat this!\""
+"“Eat this!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1083"
@@ -6877,7 +6877,7 @@ msgid ""
 "「ひとあばれするわよ！"
 msgstr ""
 "$BN attacked!\n"
-"\"Let's Rock!\""
+"“Let's Rock!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1085"
@@ -6970,7 +6970,7 @@ msgid ""
 "$BNは奇怪な声をあげた！"
 msgstr ""
 "$BN Screamed!\n"
-"$BN:\"Angyaahh!\""
+"$BN:\"Angyaahh!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1100"

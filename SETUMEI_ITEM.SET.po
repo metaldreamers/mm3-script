@@ -1753,7 +1753,7 @@ msgid ""
 "いつでもプレイできるように！"
 msgstr ""
 "You can play the masterpiece,\n"
-"\"Doggy Tanks\", anytime!"
+"“Doggy Tanks\", anytime!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "178"

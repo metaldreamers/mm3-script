@@ -1714,7 +1714,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "211"
 msgid "＜双子の蓮＞について聞く"
-msgstr "Ask about the \"Twin Lotus\""
+msgstr "Ask about the \"Twin Lotus”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "212"
@@ -1779,7 +1779,7 @@ msgid ""
 msgstr ""
 "Lure Gratonos out to where\n"
 "the information will lead him\n"
-"to find the \"Twin Lotus\""
+"to find the \"Twin Lotus”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "219"
@@ -3446,7 +3446,7 @@ msgid ""
 "２０本集め、エリカに届ける。"
 msgstr ""
 "Gather 20 pieces of\n"
-"\"Odd dried wood\"\n"
+"“Odd dried wood\"\n"
 "in the Paradise Valley\n"
 "and bring to Erika to make\n"
 "innovative interior furniture."

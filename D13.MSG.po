@@ -19,9 +19,9 @@ msgid ""
 "　ドリルでもあれば\n"
 "　壊せそうなんだが・・・。"
 msgstr ""
-"\"This sturdy boulder\n"
+"“This sturdy boulder\n"
 " looks like it could be\n"
-" broken with a drill...\""
+" broken with a drill...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D13_GAKE_O1_MSG"

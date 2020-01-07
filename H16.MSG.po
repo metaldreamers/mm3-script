@@ -19,9 +19,9 @@ msgid ""
 "　ＷＡＮＴＥＤモンスターの情報が\n"
 "　手にはいるのさ。"
 msgstr ""
-"\"If you come here,\n"
+"“If you come here,\n"
 " you'll get info on most \n"
-" of the WANTED Monsters.\""
+" of the WANTED Monsters.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H17_N6"
@@ -29,9 +29,9 @@ msgid ""
 "「モンスターを退治に行く前の\n"
 "　一杯は、最高さ。"
 msgstr ""
-"\"Having a cup before\n"
+"“Having a cup before\n"
 " going to beat a monster\n"
-" feels great.\""
+" feels great.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}
 #.  is \0
