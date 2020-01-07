@@ -2586,7 +2586,7 @@ msgid ""
 msgstr ""
 "“Would you like\n"
 " a qigong massage to get rid of\n"
-" paralysis and numbness?{END TEXTBOX}\n"
+" paralysis and numbness?”{END TEXTBOX}\n"
 "“Right now it's only\n"
 " $_MG per person!”"
 
