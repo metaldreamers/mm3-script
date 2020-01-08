@@ -13983,7 +13983,7 @@ msgstr ""
 "YOU WOULD LIKE TO\n"
 "CHANGE THE DESTINATION?{END TEXTBOX}\n"
 "PLEASE CHOOSE\n"
-"HE NEW DESTINATION."
+"THE NEW DESTINATION."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// ODAIJIN_MSG01"
