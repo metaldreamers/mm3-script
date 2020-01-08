@@ -947,7 +947,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T06_CLAN_MSG16"
 msgid "$nn025「覚悟しろっ！"
-msgstr "Sharkbear:\"Get ready!”"
+msgstr "Sharkbear:“Get ready!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T06_CLAN_MSG21"
@@ -1518,7 +1518,7 @@ msgstr "“Hmph! Do as you like!”"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T06_GOUMON_MSG31"
 msgid "拷問兵「今日は、ここまでだ！"
-msgstr "Torturer:\"That's enough for today!”"
+msgstr "Torturer:“That's enough for today!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T06_GOUMON_MSG41"
@@ -2736,7 +2736,7 @@ msgstr "Give him the money"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T06_COC_N3_MSG24"
 msgid "$nn026「たのんだぜ！"
-msgstr "Red:\"Counting on ya!”"
+msgstr "Red:“Counting on ya!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T06_COC_N3_MSG25"
@@ -4059,7 +4059,7 @@ msgstr "Hmmm, I see"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SYUGEKI_GOUMON3_MSG10"
 msgid "$nn088「ほっといてくれ！"
-msgstr "Nickman:\"Leave me alone!”"
+msgstr "Nickman:“Leave me alone!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SYUGEKI_GOUMON3_MSG11"
@@ -4283,7 +4283,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SYUGEKI_GOUMON4_MSG9"
 msgid "$nn086「おい！"
-msgstr "Sintipede:\"Hey!”"
+msgstr "Sintipede:“Hey!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SYUGEKI_GOUMON4_MSG10"

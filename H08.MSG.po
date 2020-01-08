@@ -619,7 +619,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H08_TOUSENBO_MSG3"
 msgid "ポチ「わんわん、わんっ！"
-msgstr "Pochi:\"Woof, woof!”"
+msgstr "Pochi:“Woof, woof!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H08_TOUSENBO_MSG4"
@@ -698,7 +698,7 @@ msgctxt "// H08_EVENT1_MSG5"
 msgid ""
 "$nn008「あっ！\n"
 "　$npっ！"
-msgstr "Cola:\"Ah! It's you, $np!”"
+msgstr "Cola:“Ah! It's you, $np!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H08_EVENT1_SEL1"
@@ -1711,7 +1711,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H08_EVENT6_MSG17"
 msgid "$nn042「‥‥‥‥！"
-msgstr "Gratonos:\"...!”"
+msgstr "Gratonos:“...!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H08_EVENT6_MSG18"
@@ -2189,7 +2189,7 @@ msgctxt "// H08_CORA_MSG8"
 msgid ""
 "$nn008「だと\n"
 "　いいんだけど‥‥。"
-msgstr "Cola:\"Hope so...”"
+msgstr "Cola:“Hope so...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H08_CORA_MSG9"

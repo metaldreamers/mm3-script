@@ -685,7 +685,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D04_AJITO_N6A_MSG2"
 msgid "$nn065「さ、行こう。"
-msgstr "Little Jockey:\"Now, let's go.”"
+msgstr "Little Jockey:“Now, let's go.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D04_AJITO_N6A_MSG3"
@@ -2692,7 +2692,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D04_VS_ARUME_MSG31"
 msgid "$nn079「いいとも～♪"
-msgstr "Almeida:\"Sure~♪”"
+msgstr "Almeida:“Sure~♪”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D04_VS_ARUME_MSG32"
@@ -3454,17 +3454,17 @@ msgstr "　DA@w10, MN@w10, RIGHT@w10, OH YEAH!!”"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D04_VS_ARUME_MSG70"
 msgid "$nn065「イェ～ッ！"
-msgstr "Little Jockey:\"YEAAAAHHH!”"
+msgstr "Little Jockey:“YEAAAAHHH!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D04_VS_ARUME_MSG71"
 msgid "$nn061「ヒューヒューッ！"
-msgstr "Tambourine:\"OOOHHH YEEAHHH!”"
+msgstr "Tambourine:“OOOHHH YEEAHHH!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D04_VS_ARUME_MSG72"
 msgid "$nn063「きょうは、飲むぞ～っ！"
-msgstr "Guitar:\"Let's DRINK!!”"
+msgstr "Guitar:“Let's DRINK!!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D04_VS_ARUME_MSG73"
@@ -3478,7 +3478,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D04_VS_ARUME_MSG74"
 msgid "$nn062「乾杯～っ！"
-msgstr "Middle Jockey:\"CHEERS!”"
+msgstr "Middle Jockey:“CHEERS!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D04_VS_ARUME_MSG75"

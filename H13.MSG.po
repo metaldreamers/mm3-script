@@ -1073,7 +1073,7 @@ msgctxt "// H13_SOTO_N3_MSG7"
 msgid ""
 "$nn008「本当！？\n"
 "　うれしいっ！"
-msgstr "Cola:\"Really!? Thanks!!”"
+msgstr "Cola:“Really!? Thanks!!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_SOTO_N3_MSG7_2"
@@ -3402,7 +3402,7 @@ msgstr "Ignore her"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_SAIKAI_MSG6"
 msgid "$nn008「‥‥？？？"
-msgstr "Cola:\"...???”"
+msgstr "Cola:“...???”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_SAIKAI_MSG7"
@@ -4608,7 +4608,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_NIGHT_MSG11"
 msgid "$nn008「‥‥。"
-msgstr "Cola:\"...”"
+msgstr "Cola:“...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_NIGHT_MSG12"
@@ -4686,7 +4686,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_NIGHT_MSG15"
 msgid "$nn008「うん‥‥。"
-msgstr "Cola:\"Yes...”"
+msgstr "Cola:“Yes...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_NIGHT_MSG16"
@@ -5420,7 +5420,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_2_RAIHOU_MSG10"
 msgid "$nn016「ふざけるなぁっ！"
-msgstr "Ozma:\"Don't screw me!!”"
+msgstr "Ozma:“Don't screw me!!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_2_RAIHOU_SEL7"
@@ -5881,7 +5881,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_SYUGEKI1_MSG8"
 msgid "$nn048「でも、姉さん‥‥。"
-msgstr "Mig:\"But... Sis...”"
+msgstr "Mig:“But... Sis...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_SYUGEKI1_MSG9"
@@ -5935,12 +5935,12 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_SYUGEKI1_MSG12"
 msgid "$nn047「ふふふ！"
-msgstr "Lucy:\"Heh, heh, heh!”"
+msgstr "Lucy:“Heh, heh, heh!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_SYUGEKI1_MSG13"
 msgid "$nn046「わははは！"
-msgstr "Attuk:\"Wah, hah, hah, hah!!”"
+msgstr "Attuk:“Wah, hah, hah, hah!!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H13_SYUGEKI1_MSG14"

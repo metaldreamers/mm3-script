@@ -3509,7 +3509,7 @@ msgstr ""
 msgctxt "370"
 msgid "交通安全と書かれたお守り。"
 msgstr ""
-"A charm with \"Drive Safely!\"\n"
+"A charm with “Drive Safely!”\n"
 "written on it."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0

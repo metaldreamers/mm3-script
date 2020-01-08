@@ -270,7 +270,7 @@ msgstr "Why do I have to?"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D02_EVENT2_MSG8"
 msgid "$nn056「まぁ、すてき！"
-msgstr "Adel:\"Ah, so cool!”"
+msgstr "Adel:“Ah, so cool!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D02_EVENT2_MSG8_2"

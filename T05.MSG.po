@@ -552,12 +552,12 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DOUA_EV4_MSG7"
 msgid "$nn021「どりゃりゃりゃりゃーーー！"
-msgstr "John:\"Doryaryaryahh!”"
+msgstr "John:“Doryaryaryahh!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DOUA_EV4_MSG8"
 msgid "$nn021「どっしゃーーーっ！"
-msgstr "John:\"Dosshaahh!”"
+msgstr "John:“Dosshaahh!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DOUA_EV4_MSG9"
@@ -571,7 +571,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DOUA_EV4_MSG9B"
 msgid "$nn021「$nn022、大丈夫かっ！"
-msgstr "John:\"Mary, are you OK!?”"
+msgstr "John:“Mary, are you OK!?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DOUA_EV4_MSG9A"
@@ -901,7 +901,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DEKASEGI_EV1_MSG7"
 msgid "$nn024「そろそろ仕事を、しねーとな。"
-msgstr "Drunk:\"Gotta get back to work.”"
+msgstr "Drunk:“Gotta get back to work.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DEKASEGI_EV1_MSG8"
@@ -1246,7 +1246,7 @@ msgstr "Can't today..."
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DEKASEGI_EV6_MSG2"
 msgid "$nn024「そうこなくちゃな。"
-msgstr "Drunk:\"OK, let's go”"
+msgstr "Drunk:“OK, let's go”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DEKASEGI_EV6_MSG3"
@@ -1399,7 +1399,7 @@ msgstr "Leave it to me"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DEKASEGI_EV3_MSG6"
 msgid "$nn024「なら、大丈夫だ…"
-msgstr "Drunk:\"Then it'll be OK...”"
+msgstr "Drunk:“Then it'll be OK...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DOUF_N1_MSG1"
@@ -1888,7 +1888,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DOUG_EV5_MSG1"
 msgid "$nn021「$nn022、調子はどうだい？"
-msgstr "John:\"Mary, are you okay?”"
+msgstr "John:“Mary, are you okay?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DOUG_EV5_MSG1_1"
@@ -2348,7 +2348,7 @@ msgstr "See you"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DEKASEGI_EV2_MSG10"
 msgid "$nn024「あぁ、またな。"
-msgstr "Drunk:\"Yeah, see you.”"
+msgstr "Drunk:“Yeah, see you.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DEKASEGI_EV2_MSG11"

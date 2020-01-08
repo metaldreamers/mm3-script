@@ -1289,12 +1289,12 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_01_1F_N1_MSG4"
 msgid "$nn014「はっ、かしこまりました。"
-msgstr "Paul:\"Yes, sir. Roger, sir.”"
+msgstr "Paul:“Yes, sir. Roger, sir.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_01_1F_N1_MSG5"
 msgid "$nn014「では、さっそく向かうぞ！"
-msgstr "Paul:\"Let's go, then!”"
+msgstr "Paul:“Let's go, then!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_01_1F_N1_MSG6"
@@ -5250,7 +5250,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_GOEI2_1F_N1_MSGA3"
 msgid "$nn009「話はわかったか？"
-msgstr "Nadar:\"Do you understand?"
+msgstr "Nadar:“Do you understand?"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_GOEI2_1F_N1_SEL1"
@@ -5774,7 +5774,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_GOEI3_MSG1"
 msgid "$nn009「うむ！"
-msgstr "Nadar:\"Good!”"
+msgstr "Nadar:“Good!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_GOEI3_MSG2"
@@ -5789,7 +5789,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_GOEI3_MSG3"
 msgid "$nn009「出発だ！"
-msgstr "Nadar:\"Now we're off!”"
+msgstr "Nadar:“Now we're off!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_FLAG_ONESAN"

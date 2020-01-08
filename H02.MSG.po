@@ -1744,7 +1744,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H02_TUMESYO_N5_MSG14"
 msgid "$nn008「‥‥。"
-msgstr "Cola:\"...”"
+msgstr "Cola:“...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H02_GOEI5_MSG1"

@@ -2616,7 +2616,7 @@ msgctxt "// T04_MERRYAN_MSG15"
 msgid ""
 "$nn059「助けてくれて\n"
 "　ありがとう！"
-msgstr "Marian:\"Thank you for your help!”"
+msgstr "Marian:“Thank you for your help!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T04_MERRYAN_SEL7"
@@ -2660,7 +2660,7 @@ msgctxt "// T04_MERRYAN_MSG17"
 msgid ""
 "$nn105「そっ‥‥、\n"
 "　そんな、ごむたいなっ！"
-msgstr "Vicente:\"Th-there's no way!”"
+msgstr "Vicente:“Th-there's no way!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T04_MERRYAN_MSG18"
@@ -2703,7 +2703,7 @@ msgid ""
 "$nn059「ホントに\n"
 "　ありがとう！\n"
 "　おじさん！"
-msgstr "Marian:\"Thank you so much!”"
+msgstr "Marian:“Thank you so much!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T04_SYUKAI_A_MSG1"
@@ -2776,7 +2776,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T04_SYUKAI_A_MSG4"
 msgid "$nn018「ハッピーーーーーーっ！！！"
-msgstr "Saburomeo:\"HAPPY！！！”"
+msgstr "Saburomeo:“HAPPY！！！”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T04_SYUKAI_A_MSG5"
@@ -2859,7 +2859,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T04_SYUKAI_B_MSG4"
 msgid "$nn018「ハッピーーーーーーっ！！！"
-msgstr "Saburomeo:\"HAPPY！！！”"
+msgstr "Saburomeo:“HAPPY！！！”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T04_SYUKAI_B_MSG5"

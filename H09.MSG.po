@@ -404,7 +404,7 @@ msgid ""
 "$nn048「$nn046！\n"
 "　ここはいったん引こう！"
 msgstr ""
-"Mig:Mig:\"Hmph!\n"
+"Mig:“Hmph!\n"
 " Pretty tough guy(s)!”{END TEXTBOX}\n"
 "Mig:“Attuk! Let's flee!”"
 

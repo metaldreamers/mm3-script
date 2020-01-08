@@ -1315,7 +1315,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_SOTO_SISE_A_INT2"
 msgid "$nn000「（インテリアごとに指定の、感謝メッセージ）"
-msgstr "Shise:\"(Furniture Thank-you Message)"
+msgstr "Shise:“(Furniture Thank-you Message)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_SOTO_SISE_A_MSG6"
@@ -1621,7 +1621,7 @@ msgstr "No way"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_CAVE_SISE_B_MSG2"
 msgid "$nn000「じゃ、なんて呼べば？"
-msgstr "Shise:\"Then what should I call you?”"
+msgstr "Shise:“Then what should I call you?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_CAVE_SISE_B_SEL3"
@@ -2869,7 +2869,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_HIKIAGE_MSG6"
 msgid "$nn000「きゃぁっ！"
-msgstr "Shise:\"Kyaahh!”"
+msgstr "Shise:“Kyaahh!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_HIKIAGE_MSG7"
@@ -2902,7 +2902,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_HIKIAGE_MSG9"
 msgid "$nn000「・・・・・・。"
-msgstr "Shise:\"......”"
+msgstr "Shise:“......”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_HIKIAGE_MSG10"
@@ -3016,7 +3016,7 @@ msgctxt "// T01_COOK_MSG5"
 msgid ""
 "$nn000「はい。\n"
 "　お茶。"
-msgstr "Shise:\"Here you go, tea.”"
+msgstr "Shise:“Here you go, tea.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_COOK_MSG6"
@@ -3191,7 +3191,7 @@ msgstr "I'm that stupidly strong guy"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_MYBIKE_MSG10"
 msgid "$nn001「はぁ？？？"
-msgstr "Belmont:\"Huh???”"
+msgstr "Belmont:“Huh???”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_MYBIKE_MSG11"
@@ -3544,7 +3544,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_HOAKIN_DUMP_MSG6"
 msgid "$nn000「‥‥‥‥。"
-msgstr "Shise:\"...”"
+msgstr "Shise:“...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_HOAKIN_DUMP_MSG7"
@@ -3593,12 +3593,12 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_HOAKIN_DUMP_MSG10"
 msgid "$nn006「‥‥‥‥！@w60@w60"
-msgstr "Joaquin:\".@w30.@w30.@w30!”"
+msgstr "Joaquin:“.@w30.@w30.@w30!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_HOAKIN_DUMP_MSG11"
 msgid "$nn006「なんだよ！"
-msgstr "Joaquin:\"What the hell!”"
+msgstr "Joaquin:“What the hell!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_HOAKIN_DUMP_MSG11_2"
@@ -3612,7 +3612,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_HOAKIN_DUMP_MSG12"
 msgid "$nn001「やれやれ‥‥。"
-msgstr "Belmont:\"Huff...”"
+msgstr "Belmont:“Huff...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_MON_MSG1"
@@ -8144,7 +8144,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_MERRYAN_MSG01"
 msgid "$nn059「‥‥@w60‥‥。"
-msgstr "Marian:\"...@w60...”"
+msgstr "Marian:“...@w60...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_MERRYAN_MSG13"
@@ -8638,7 +8638,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// ENDING_MSG6"
 msgid "$nn000「‥‥‥‥。"
-msgstr "Shise:\"......"
+msgstr "Shise:“......"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// FAKE_ENDING"
@@ -8972,7 +8972,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_REV_HOAKIN_MSG11_2"
 msgid "$nn006「わかったかい？"
-msgstr "Joaquin:\"Did you get that?”"
+msgstr "Joaquin:“Did you get that?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_REV_HOAKIN_SELL8"
@@ -9080,7 +9080,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_REV_HOAKIN_MSG16"
 msgid "$nn006「やぁ、$np。"
-msgstr "Joaquin:\"Here, $np.”"
+msgstr "Joaquin:“Here, $np.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_REV_HOAKIN_MSG17"

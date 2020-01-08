@@ -92,7 +92,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B1_1F_N1_MSG5"
 msgid "宿屋「えっ、本当ですか？"
-msgstr "Inn:\"Huh? Really?”"
+msgstr "Inn:“Huh? Really?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B1_1F_N1_MSG6"
@@ -154,7 +154,7 @@ msgstr "I came to stay"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B1_1F_N1_MSG12"
 msgid "宿屋「おぉ、本当ですか！？"
-msgstr "Inn:\"Oh! Is that true, sir!?”"
+msgstr "Inn:“Oh! Is that true, sir!?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B1_1F_N1_MSG13"
@@ -179,7 +179,7 @@ msgstr "I can't"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B1_1F_N1_MSG14"
 msgid "宿屋「では、無事を祈っております。"
-msgstr "Inn:\"I hope you stay safe.”"
+msgstr "Inn:“I hope you stay safe.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B1_1F_N1_MSG15"
@@ -1663,12 +1663,12 @@ msgstr "8F"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B5_GOEMON_MSG1"
 msgid "$nn045「うっきーーーーっ！"
-msgstr "Goemonkey:\"Squeeakkk!”"
+msgstr "Goemonkey:“Squeeakkk!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B5_GOEMON_MSG2"
 msgid "$nn045「うっき・・・。"
-msgstr "Goemonkey:\"Squeak...”"
+msgstr "Goemonkey:“Squeak...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B5_GOEMON_SEL1"
@@ -1692,12 +1692,12 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B5_GOEMON_MSG4"
 msgid "$nn045「うっ・・・き・・・。"
-msgstr "Goemonkey:\"Squ...eak...”"
+msgstr "Goemonkey:“Squ...eak...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B5_GOEMON_MSG5"
 msgid "$nn045「うっききーーっ！"
-msgstr "Goemonkey:\"Squueeeakkk!”"
+msgstr "Goemonkey:“Squueeeakkk!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B5_GOEMON_MSG6"
@@ -1711,12 +1711,12 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B5_GOEMON_MSG7"
 msgid "$nn045「うっきーっ！"
-msgstr "Goemonkey:\"Squeaaakkk!”"
+msgstr "Goemonkey:“Squeaaakkk!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B5_GOEMON_MSG8"
 msgid "$nn045「うっき・・・。"
-msgstr "Goemonkey:\"Squeak...”"
+msgstr "Goemonkey:“Squeak...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B5_GOEMON_MSG9"

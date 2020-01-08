@@ -434,7 +434,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D08_2F_N1_MSG10"
 msgid "$nn028「何なりと。"
-msgstr "Svenson:\"Do as you like.”"
+msgstr "Svenson:“Do as you like.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D08_2F_N2_MSG1"
@@ -941,7 +941,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_LV1_1F_N1_MSG4"
 msgid "$nn027「ああ、またな！"
-msgstr "Matt:\"Sure, bye!”"
+msgstr "Matt:“Sure, bye!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_LV1_1F_N1_MSG5"
@@ -1138,7 +1138,7 @@ msgctxt "// T07_LV1_2F_N3_MSG1_2"
 msgid ""
 "$nn029「あらまあ！\n"
 "　あなたは！"
-msgstr "Erika:\"Oh my! It's you!”"
+msgstr "Erika:“Oh my! It's you!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_LV1_2F_N3_MSGA"
@@ -1887,7 +1887,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D08_SVENSON_MSG17"
 msgid "$nn028「よろこんで！"
-msgstr "Svenson:\"But of course!”"
+msgstr "Svenson:“But of course!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D08_SVENSON_SEL12"
@@ -2028,7 +2028,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D08_SVENSON_MSG24"
 msgid "$nn028「お待ちくだされ！"
-msgstr "Svenson:\"Hold on!”"
+msgstr "Svenson:“Hold on!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D08_SVENSON_MSGG"
@@ -4523,7 +4523,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_LV2_1F_N1_MSG4"
 msgid "$nn27「ああ、またな！"
-msgstr "Matt:\"OK! See you!”"
+msgstr "Matt:“OK! See you!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_LV2_1F_N1_SEL4"
@@ -4547,7 +4547,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_LV2_1F_N1_MSG6"
 msgid "$nn27「ま、そういうことよ。"
-msgstr "Matt:\"Well, that's it.”"
+msgstr "Matt:“Well, that's it.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_LV2_1F_N1_MSG7"
@@ -4757,7 +4757,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_SCOUT_MSG3"
 msgid "$nn27「だろー。"
-msgstr "Matt:\"Obviously...”"
+msgstr "Matt:“Obviously...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_SCOUT_MSGZ"
@@ -5112,7 +5112,7 @@ msgstr "Let's make a casino"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_WOOD_MSG7"
 msgid "$nn29「そう思うでしょっ！"
-msgstr "Erika:\"You think the same, no?”"
+msgstr "Erika:“You think the same, no?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_WOOD_MSG8"
@@ -5155,7 +5155,7 @@ msgstr "Tell me already?"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_WOOD_MSG10"
 msgid "$nn29「変わった木がほしくて・・。"
-msgstr "Erika:\"I want fancy wood...”"
+msgstr "Erika:“I want fancy wood...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_WOOD_SEL10"
@@ -5664,7 +5664,7 @@ msgstr "Why?"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_ARTIST_MSG4"
 msgid "$nn27「あー、そうなんだ。"
-msgstr "Matt:\"Yeah, that's it.”"
+msgstr "Matt:“Yeah, that's it.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_ARTIST_MSG4_2"
@@ -5965,7 +5965,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_KIRA2_MSG11"
 msgid "$nn29「でしょっでしょう。"
-msgstr "Erika:\"Right, right?”"
+msgstr "Erika:“Right, right?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_KIRA2_SEL10"

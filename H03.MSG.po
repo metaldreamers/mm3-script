@@ -191,7 +191,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H03_GOEI6_MSG10"
 msgid "$nn038「な‥‥にっ‥‥！？"
-msgstr "Sukamodo:\"Wh...at...!?”"
+msgstr "Sukamodo:“Wh...at...!?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H03_GOEI6_MSG10_2"
@@ -398,7 +398,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H03_GOEI6_MSG18"
 msgid "$nn008「！！！"
-msgstr "Cola:\"!!!”"
+msgstr "Cola:“!!!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H03_GOEI6_MSG18_2"
@@ -1130,7 +1130,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H03_MAROW_MSG08_1"
 msgid "$nn107「聞いたことねぇーなぁ。"
-msgstr "Marlowe:\"Never heard of you.”"
+msgstr "Marlowe:“Never heard of you.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H03_MAROW_MSG08_2"
@@ -1385,7 +1385,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H03_MAROW_MSG24"
 msgid "$nn107「はぁ、よく寝た。"
-msgstr "Marlowe:\"Ah, I slept great.”"
+msgstr "Marlowe:“Ah, I slept great.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H03_MAROW_MSG27"
@@ -1662,7 +1662,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H03_TCG_MSG49"
 msgid "$nn107「じゃあなっ！"
-msgstr "Marlowe:\"See ya!”"
+msgstr "Marlowe:“See ya!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H03_TCG_MSG21"
@@ -1903,7 +1903,7 @@ msgctxt "// H03_TCG_MSG37"
 msgid ""
 "$nn034兵「１００Ｇで\n"
 "　どうだ！？"
-msgstr "Clan Soldier:\"How about 100G!?”"
+msgstr "Clan Soldier:“How about 100G!?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H03_TCG_MSG38"

@@ -539,7 +539,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// C02_AOWANI_MSG36"
 msgid "$nn125「あーーいーー。"
-msgstr "Laquina:\"Ohhhh, youuuuu!”"
+msgstr "Laquina:“Ohhhh, youuuuu!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// C02_AOWANI_MSG37"
