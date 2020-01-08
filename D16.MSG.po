@@ -158,7 +158,7 @@ msgstr "That's OK"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D16_1F_N1_DRUMKAN"
 msgid "$_0「じゃぁ、たたくぜ！"
-msgstr "$_0:\"OK! I'll hit it!”"
+msgstr "$_0:“OK! I'll hit it!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D16_1F_N1_OTOKO"
@@ -167,7 +167,7 @@ msgid ""
 "　こういうこと、\n"
 "　マネしちゃダメだぞ！"
 msgstr ""
-"$_0:\"Good kids\n"
+"$_0:“Good kids\n"
 " mustn't do\n"
 " this at home!”"
 
@@ -178,14 +178,14 @@ msgid ""
 "　こういうこと、\n"
 "　マネしちゃダメよ！"
 msgstr ""
-"$_0:\"Good children\n"
+"$_0:“Good children\n"
 " mustn't do\n"
 " this at home!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D16_1F_N1_INU"
 msgid "$_0「わん！"
-msgstr "$_0:\"Woof!”"
+msgstr "$_0:“Woof!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D16_SEL_PC1"
