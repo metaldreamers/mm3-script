@@ -2144,8 +2144,8 @@ msgid ""
 "完全に破壊されている。{END TEXTBOX}\n"
 "修理するのは難しいだろう。"
 msgstr ""
-"It's getting completely wrecked.”{END TEXTBOX}\n"
-"“Repairs would be arduous.”"
+"It's getting completely wrecked.{END TEXTBOX}\n"
+"Repairs would be arduous."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T04_SONOKORO_MSG1"
