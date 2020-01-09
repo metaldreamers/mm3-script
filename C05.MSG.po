@@ -214,9 +214,8 @@ msgstr ""
 "“Aah.\n"
 " I want to taste\n"
 " that meat again.”{END TEXTBOX}\n"
-"“That fresh gravy.\n"
-" That texture.\n"
-" Aahh...”"
+"“That fresh gravy. That texture.\n"
+" Ahh...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// C05_SOTO_N2_MSG2"
@@ -230,9 +229,8 @@ msgstr ""
 "“Aah.\n"
 " I can taste\n"
 " that meat again.”{END TEXTBOX}\n"
-"“That fresh gravy.\n"
-" That texture.\n"
-" Aahh...., I want more.”"
+"“That fresh gravy. That texture.\n"
+" Ahh... I want more.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// C05_SOTO_N2_MSG3"
