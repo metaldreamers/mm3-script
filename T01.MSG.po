@@ -3475,10 +3475,8 @@ msgid ""
 "　ってことさ。"
 msgstr ""
 "Joaquin:“Cola...?@w60\n"
-" Already...\n"
-" Gave up, man.”{END TEXTBOX}\n"
-"Joaquin:“It was an\n"
-" inevitable\n"
+" I'm over her, man.”{END TEXTBOX}\n"
+"Joaquin:“It was a foregone\n"
 " conclusion.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
