@@ -532,9 +532,8 @@ msgstr ""
 " do it, dad.”{END TEXTBOX}\n"
 "John:“I drink this drug\n"
 " I turn strong! As 100 men!”{END TEXTBOX}\n"
-"John took out $ni040\n"
-"from the pocket\n"
-"and drank it!"
+"John took out a $ni040\n"
+"from his pocket and drank it!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DOUA_EV4_MSG6"
