@@ -1832,8 +1832,7 @@ msgid ""
 "$nn028「‥‥ありがとう！\n"
 "　$np0！"
 msgstr ""
-"Svenson:“... Thank you!\n"
-" $np0!”"
+"Svenson:“...Thank you, $np0!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D08_SVENSON_MSG15_2"
@@ -1842,9 +1841,8 @@ msgid ""
 "　あの$nw009も\n"
 "　倒してくださったとか‥‥"
 msgstr ""
-"Svenson:“From what I've heard\n"
-" that you also\n"
-" beat the $nw009...”"
+"Svenson:“From what I've heard,\n"
+" you also beat $nw009...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D08_SVENSON_MSG15_3"
