@@ -1663,7 +1663,7 @@ msgstr "Yes, sir!"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_02_1F_N1_SEL6"
 msgid "サー、もう１回説明、サー！"
-msgstr "Sir, explain again, Sir!"
+msgstr "Sir, explain again, sir!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_02_1F_N1_MSG23"
