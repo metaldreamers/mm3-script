@@ -2439,7 +2439,7 @@ msgid ""
 msgstr ""
 "Drunk:“I see...\n"
 " So you met Mom.”{END TEXTBOX}\n"
-"Drunk:“BTW,\n"
+"Drunk:“By the way,\n"
 " you're a Hunter.\n"
 " Can I ask a favor?”"
 
