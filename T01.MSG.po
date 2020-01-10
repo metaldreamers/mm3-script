@@ -7717,12 +7717,12 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_YASI_2F_N6_SEL15"
 msgid "正義の味方"
-msgstr "In the side of justice"
+msgstr "On the side of justice"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_YASI_2F_N6_SEL16"
 msgid "美人の味方"
-msgstr "In the side of beauties"
+msgstr "On the side of beauties"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_YASI_2F_N6_SEL17"
