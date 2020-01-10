@@ -266,7 +266,7 @@ msgid ""
 msgstr ""
 "Ozma:“To tell the truth,\n"
 " I'm not sure.”{END TEXTBOX}\n"
-"Ozma:“Just that It's a\n"
+"Ozma:“Just that it's a\n"
 " frightening weapon of\n"
 " mass destruction.”"
 
