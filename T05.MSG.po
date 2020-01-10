@@ -1756,9 +1756,8 @@ msgid ""
 "　あなたのおかげだよ。"
 msgstr ""
 "Father:“You're from back then.”{END TEXTBOX}\n"
-"Father:“Thanks.\n"
-" Her happines is\n"
-" thanks to you too”"
+"Father:“Thank you. Her happiness is\n"
+" thanks to you, too.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_DOUG_N1A_MSG3"
