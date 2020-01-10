@@ -469,9 +469,8 @@ msgstr ""
 "“Up there\n"
 " a bit after exiting the city\n"
 " there's the Hunger Desert.”{END TEXTBOX}\n"
-"“It's a frightful desert\n"
-" full of roaming\n"
-" with hungry $ne013...”"
+"“It's a frightful desert teeming\n"
+" with hungry $ne013s...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D10_B1_1F_N5_MSG2"
