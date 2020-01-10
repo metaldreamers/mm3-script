@@ -537,7 +537,7 @@ msgstr ""
 " Mass Driver Lab.”{END TEXTBOX}\n"
 "Professor:“It's a long name\n"
 " so you can shorten it to\n"
-" \"Mass Driver\" and that's it.”"
+" ‘Mass Driver’ and that's it.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H19_UNDER_N2_SEL18"
