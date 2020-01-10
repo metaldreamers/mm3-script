@@ -4507,7 +4507,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T09_DAFUNE_SEL21"
 msgid "かんべんしてください"
-msgstr "Please don't do that"
+msgstr "Please don't"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T09_DAFUNE_SEL22"
