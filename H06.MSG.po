@@ -34,9 +34,8 @@ msgid ""
 msgstr ""
 "“I can't let any strangers\n"
 " come in.”{END TEXTBOX}\n"
-"“But if you\n"
-" help me out, then\n"
-" I'll let you in. Well?”"
+"“But if you help me out, then\n"
+" I'll let you in. Deal?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H06_SOTO_N2A_SEL1"
