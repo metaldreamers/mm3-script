@@ -21,7 +21,7 @@ msgid ""
 msgstr ""
 "“Welcome!\n"
 " This is the famed\n"
-" trading post of Hawk!”"
+" trading post of Hoc!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H17_N2_MSG1"
@@ -30,9 +30,9 @@ msgid ""
 "　わたしが超交易型アンドロイド\n"
 "　$nn080なのだ！"
 msgstr ""
-"Hawk:“Welcome to the trade post!\n"
+"Hoc:“Welcome to the trade post!\n"
 " I'm the Super Trading Android,\n"
-" Hawk!”"
+" Hoc!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H17_N4_MSG1"
@@ -242,7 +242,7 @@ msgstr ""
 #.  is \0
 msgctxt "//===[NAMES]==="
 msgid "ホック"
-msgstr "Hawk"
+msgstr "Hoc"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}
 #.  is \0

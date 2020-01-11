@@ -3595,7 +3595,7 @@ msgid ""
 msgstr ""
 "With that,\n"
 "$np is taking the\n"
-"Artist to Evil Estate."
+"Artist to Evilla."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T04_ARTIST_MSG11"

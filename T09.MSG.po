@@ -5355,7 +5355,7 @@ msgstr ""
 " bring me there!”{END TEXTBOX}\n"
 "And thus, $np brought\n"
 "the Chassis Modder\n"
-"to Evil Estate."
+"to Evilla."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T09_SCOUT_MSG7"

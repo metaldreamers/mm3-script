@@ -802,7 +802,7 @@ msgid ""
 msgstr ""
 "“Yojimborg lurks underground\n"
 " below the building known as\n"
-" Evil Estate.\"$WP\"Evil Estate is a\n"
+" Evilla.\"$WP\"Evilla is a\n"
 " strangely-shaped building\n"
 " west of the Woodsea.\"$WP"
 
