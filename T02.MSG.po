@@ -6367,14 +6367,13 @@ msgid ""
 "　生きてやがったか！\n"
 "　$np！"
 msgstr ""
-"Toledo:“Oh!\n"
-" You were alive!\n"
+"Toledo:“Oh! You're alive!\n"
 " $np!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_WHERE_ZEIN_SELL1"
 msgid "誰だっけ？"
-msgstr "Who were you?"
+msgstr "Who are you?"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_WHERE_ZEIN_SELL2"
