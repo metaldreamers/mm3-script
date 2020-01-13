@@ -475,7 +475,7 @@ msgstr "I don't remember"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H08_BAN_N7_SEL17"
 msgid "覚えてないが、あやまる"
-msgstr "I don't remember but I apolize"
+msgstr "I don't remember but I apologize"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H08_BAN_N7_MSG17"
