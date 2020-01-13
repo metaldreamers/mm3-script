@@ -4212,9 +4212,9 @@ msgid ""
 "　ある砂漠のオアシスだってんだよ。{END TEXTBOX}\n"
 "$nn27「こんなところだぜ！"
 msgstr ""
-"Matt:“Where the junk will be sold at...\n"
-" That's NW after exiting the forest,\n"
-" in a desert oasis, see.”{END TEXTBOX}\n"
+"Matt:“Where to sell the junk...\n"
+" That's northwest after exiting\n"
+" the forest, in an oasis.”{END TEXTBOX}\n"
 "Matt:“Here it is!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
