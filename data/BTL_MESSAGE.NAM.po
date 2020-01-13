@@ -574,8 +574,8 @@ msgid ""
 "$BNの車内は\n"
 "混乱ガスで汚染された！"
 msgstr ""
-"$BN's vehicle was\n"
-"filled with confusion gas!"
+"$BN's vehicle filled\n"
+"with confusion gas!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "71"
