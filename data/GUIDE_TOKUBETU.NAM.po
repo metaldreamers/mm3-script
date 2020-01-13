@@ -297,7 +297,7 @@ msgid ""
 "　待っているそうですよ。$WP"
 msgstr ""
 "“This client wants\n"
-" help in getting revenger.”$WW\n"
+" help in getting revenge.”$WW\n"
 "“He's waiting in the red car\n"
 " in the city of Sideway.”$WP"
 
