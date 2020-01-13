@@ -766,7 +766,7 @@ msgid ""
 "「さぁ、よみがえるのだ‥‥。\n"
 "　この電撃でぇぇっ！"
 msgstr ""
-"“Yes! Ressurect...\n"
+"“Yes! Resurrect...\n"
 " With this electric shooock!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -777,7 +777,7 @@ msgid ""
 "　この電撃でぇぇっ！"
 msgstr ""
 "“.@w10.@w10.@w10.”{END TEXTBOX}\n"
-"“Yes! Ressurect!\n"
+"“Yes! Resurrect!\n"
 " With this electric shooock!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -789,7 +789,7 @@ msgid ""
 msgstr ""
 "“.@w10.@w10.@w10.”{END TEXTBOX}\n"
 "“Erm, okay.\n"
-" Ressurect, I say!”{END TEXTBOX}\n"
+" Resurrect, I say!”{END TEXTBOX}\n"
 "“With this electric shooock!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -2062,7 +2062,7 @@ msgid ""
 "「さぁ、よみがえるのだ！\n"
 "　この電撃でぇぇぇっ！"
 msgstr ""
-"“Yes! Ressurect!\n"
+"“Yes! Resurrect!\n"
 " With this electric shooock!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
