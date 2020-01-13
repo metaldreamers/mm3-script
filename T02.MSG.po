@@ -6851,8 +6851,8 @@ msgstr ""
 " a girl he'd loved\n"
 " a long time ago...”{END TEXTBOX}\n"
 "Toledo:“A girl who\n"
-" grew with us in the\n"
-" caraban,  Hypha...”"
+" grew up with us in the\n"
+" caravan, Hypha...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_WHERE_ZEIN_MSG24"
