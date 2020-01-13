@@ -1240,7 +1240,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "137"
 msgid "モンスターに 逃げられた・・・。$WW$WZ"
-msgstr "The Monster ran away...$WW$WZ"
+msgstr "The monster ran away...$WW$WZ"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "138"
