@@ -1000,12 +1000,12 @@ msgstr "Clan Dog"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "197"
 msgid "冷血ブッチャ－"
-msgstr "Cold-Blood Butcher"
+msgstr "Coldblood Butcher"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "198"
 msgid "冷血仮面"
-msgstr "Cold-Blood Mask"
+msgstr "Coldblood Mask"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "199"
@@ -1020,7 +1020,7 @@ msgstr "Patrol Clan"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "201"
 msgid "冷血ドクター"
-msgstr "Cold-Blood Doctor"
+msgstr "Coldblood Doctor"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "202"
