@@ -237,8 +237,8 @@ msgstr ""
 "“This is the place\n"
 " of rest for those\n"
 " who died before us.”{END TEXTBOX}\n"
-"“Not the best spot\n"
-" but unlike when Great Destruction\n"
+"“Not the best spot but unlike\n"
+" during Great Destruction,\n"
 " they're buried.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -2660,7 +2660,7 @@ msgstr ""
 "Ganthony:“But...”{END TEXTBOX}\n"
 "Ganthony:“I can't believe\n"
 " that Uribou was\n"
-" a Monster...”"
+" a monster...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T05_URIBOW_SELL16"
