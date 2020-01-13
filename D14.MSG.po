@@ -63,10 +63,8 @@ msgstr ""
 " $nw024.”{END TEXTBOX}\n"
 "“I was looking for you\n"
 " to thank you.”{END TEXTBOX}\n"
-"“Please accept\n"
-" this.”{END TEXTBOX}\n"
-"$np\n"
-"received\n"
+"“Please accept this.”{END TEXTBOX}\n"
+"$np received\n"
 "$ni079."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
