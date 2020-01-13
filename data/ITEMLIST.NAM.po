@@ -1750,7 +1750,7 @@ msgstr "Science Memo"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "347"
 msgid "新薬調合レシピ"
-msgstr "Medic Recipe"
+msgstr "Drug Formula"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "348"
