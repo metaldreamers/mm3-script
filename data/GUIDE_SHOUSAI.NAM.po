@@ -34,7 +34,7 @@ msgid ""
 "イゴールは、何か主人公に\n"
 "伝えたいことがあるようだ。"
 msgstr ""
-"Doctor Mince's assisstant, Igor,\n"
+"Doctor Mince's assistant, Igor,\n"
 "has something he wants to\n"
 "tell you."
 
