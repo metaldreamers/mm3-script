@@ -2942,7 +2942,7 @@ msgstr ""
 " That bitch...”{END TEXTBOX}\n"
 "Almeida:“Heh...\n"
 " Heh, hyah, hyah...!”{END TEXTBOX}\n"
-"Almeida:“What hot bitch\n"
+"Almeida:“What a hot bitch\n"
 " Evelyn is! Right!?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
