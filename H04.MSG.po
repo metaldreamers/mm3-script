@@ -1090,7 +1090,7 @@ msgstr "Who are you?"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H04_ARUMEIDA_SEL2"
 msgid "そっちも元気そうだ"
-msgstr "Same applies to you"
+msgstr "Right back at ya"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H04_ARUMEIDA_MSG2"
