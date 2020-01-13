@@ -166,7 +166,7 @@ msgstr ""
 " Great Destruction which \n"
 " caused the collapse of mankind.”{END TEXTBOX}\n"
 "Ozma:“The great electronic brain\n"
-" NOAH”"
+" NOAH.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H08_EVENT5_MSG6a"
