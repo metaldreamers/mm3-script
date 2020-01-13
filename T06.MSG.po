@@ -1224,7 +1224,7 @@ msgstr ""
 " you yet.”{END TEXTBOX}\n"
 "“I'm Sharkbear.”{END TEXTBOX}\n"
 "“I'm in charge of this area\n"
-" while the Clan No.3\n"
+" while the Clan No. 3\n"
 " Lord $nw015 is away.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -4231,7 +4231,7 @@ msgstr ""
 "Sintipede:“I was weaker\n"
 " than that Bladetooth...”{END TEXTBOX}\n"
 "Sintipede:“And so I got promoted\n"
-" to No.3 after\n"
+" to No. 3 after\n"
 " the rascal died?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
