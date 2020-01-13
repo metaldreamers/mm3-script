@@ -1462,7 +1462,7 @@ msgstr ""
 " the D-pad.”{END TEXTBOX}\n"
 "“You have $_0 minutes.”{END TEXTBOX}\n"
 "“The reward is $_1G but miss\n"
-" too many, and it'll rest the\n"
+" too many, and it'll reset the\n"
 " total.”{END TEXTBOX}\n"
 "“Well? You gonna try it?”"
 
