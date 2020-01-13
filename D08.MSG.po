@@ -449,7 +449,7 @@ msgstr ""
 " that you came!”{END TEXTBOX}\n"
 "Erika hugged\n"
 "$np0 tightly\n"
-"and kissed the cheek."
+"and kissed his cheek."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D08_2F_N2_MSG1_2"
@@ -514,7 +514,7 @@ msgstr ""
 " Thanks a lot!”{END TEXTBOX}\n"
 "Erika hugged\n"
 "$np0 VERY tightly\n"
-"and kissed the cheek."
+"and kissed his cheek."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D08_2F_N2_MSG3"
@@ -703,7 +703,7 @@ msgstr ""
 " thanks to you!”{END TEXTBOX}\n"
 "Erika hugged\n"
 "$np0 VERY tightly\n"
-"and kissed the cheek."
+"and kissed his cheek."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D08_2F_N3"
@@ -1190,7 +1190,7 @@ msgstr ""
 " to you!”{END TEXTBOX}\n"
 "Erika hugged\n"
 "$np0 VERY tightly\n"
-"and kissed the cheek. "
+"and kissed his cheek. "
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_LV1_2F_N3_MSG4"
