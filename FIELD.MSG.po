@@ -488,9 +488,8 @@ msgid ""
 "$nw016に\n"
 "追いついた！"
 msgstr ""
-"$np\n"
-"caught up\n"
-"with the $nw016!"
+"$np caught up\n"
+"to the $nw016!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// WM_KORATSURESARI_MSG1"
