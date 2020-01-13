@@ -3029,8 +3029,9 @@ msgid ""
 "　姉さんがぶじで・・・ガクっ・・・。$WW$WZ"
 msgstr ""
 "Lucy:\"Miiiggg!\n"
-" Why!?\"$WPMig:\"I'm glad...\n"
-" That's youre oka... Guh...\"$WW$WZ"
+" Why!?\"$WP"
+"Mig:\"I'm glad...\n"
+" that you're alri... guh...\"$WW$WZ"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "297"
