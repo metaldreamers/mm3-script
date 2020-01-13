@@ -4039,8 +4039,8 @@ msgid ""
 "　素敵にするよろし。"
 msgstr ""
 "“If you're not painting this one,\n"
-" I can paint\n"
-" other vehicles instead.”"
+" I can paint another vehicle\n"
+" instead.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// PAINTYA_QA01"
