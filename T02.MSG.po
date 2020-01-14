@@ -7389,8 +7389,7 @@ msgid ""
 "　モーターショップは\n"
 "　こちらでござんす。"
 msgstr ""
-"“We can do\n"
-" anything with\n"
+"“We can do anything with\n"
 " a vehicle!”{END TEXTBOX}\n"
 "“This is the\n"
 " Shelter Motor Shop.”"
@@ -7403,7 +7402,7 @@ msgstr "Are you Letska?"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_SOTO_LETCAR_SELL2"
 msgid "景気はどう？"
-msgstr "How's business like?"
+msgstr "How's business?"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_SOTO_LETCAR_SELL3"
