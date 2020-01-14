@@ -6720,9 +6720,7 @@ msgstr ""
 "Toledo:“Organizations\n"
 " always end up like that\n"
 " when they get big.”{END TEXTBOX}\n"
-"Toledo:“That's\n"
-" the nature\n"
-" of humans.”"
+"Toledo:“That's human nature.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T02_WHERE_ZEIN_SELL18"
