@@ -1030,7 +1030,7 @@ msgstr "Rough Clan"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "203"
 msgid "献血コウモリ"
-msgstr "Blood-Donate Bat"
+msgstr "Phlebatomist"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "204"
