@@ -104,7 +104,7 @@ msgid ""
 "　いいのか？"
 msgstr ""
 "“$_N can't\n"
-" equp this,\n"
+" equip this,\n"
 " OK?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
