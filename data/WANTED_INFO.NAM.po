@@ -41,7 +41,7 @@ msgstr ""
 "“Behemoose has been sighted near\n"
 " the waterfall downriver.\"$WP"
 "“Don't challenge it if you don't\n"
-" have a vehicle. Make that $WW\n"
+" have a vehicle. Make that\n"
 " mistake and you're dead!\"$WP"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
