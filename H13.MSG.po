@@ -4068,7 +4068,7 @@ msgstr ""
 " lived at.”{END TEXTBOX}\n"
 "Kasumi:“They married,\n"
 " and when the house was finished,\n"
-" the \"Great Destruction\" began.”{END TEXTBOX}\n"
+" the Great Destruction began.”{END TEXTBOX}\n"
 "Kasumi:“Talk about unlucky people.\n"
 " Truly. Heh, heh, heh.”"
 

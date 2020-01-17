@@ -3055,7 +3055,7 @@ msgid ""
 msgstr ""
 "Bring a masterwork Pierce Shell from\n"
 "the Great Cannon which was built\n"
-"before the \"Great Destruction\". "
+"before the Great Destruction. "
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "381"
