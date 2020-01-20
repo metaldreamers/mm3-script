@@ -41,8 +41,7 @@ msgid ""
 "　この$nn081に\n"
 "　聞いてね♪"
 msgstr ""
-"“Ask any details to\n"
-" Navi-Monkey,\n"
+"“Ask Navi-Monkey for any details\n"
 " if you may ♪”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -85,7 +84,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H17_N5_MSG1"
 msgid "$nn081「うっきっきー！"
-msgstr "Navi-Monkey:\"Ukiihhh!”"
+msgstr "Navi-Monkey:“Ukiihhh!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H17_N5_SEL1"
@@ -116,7 +115,7 @@ msgid ""
 msgstr ""
 "New places\n"
 "have been marked\n"
-"in the world map."
+"on the world map."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H17_N5_TURISSI"
@@ -163,7 +162,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H17_N5_MSG3"
 msgid "$nn081「うっきっきー！"
-msgstr "Navi-Monkey:\"Ukiihhh!”"
+msgstr "Navi-Monkey:“Ukiihhh!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H17_N7_A_MSG1"
@@ -189,7 +188,8 @@ msgid ""
 "\n"
 "※デバッグメッセージ"
 msgstr ""
-"Daikong:“Please trade with me.\"\n"
+"Daikong:“Please trade with me.”\n"
+"\n"
 "*Debug message"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
