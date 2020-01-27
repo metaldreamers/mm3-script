@@ -2220,7 +2220,7 @@ msgstr "Evap Armor"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "441"
 msgid "ミラービキニ"
-msgstr "Miror Bikini"
+msgstr "Mirror Bikini"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "442"
