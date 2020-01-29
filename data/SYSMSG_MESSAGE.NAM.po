@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
-"POT-Creation-Date: 21/11/2019\n"
+"POT-Creation-Date: 27/1/2020\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Metal Max 3 English fantranslation\n"
@@ -723,8 +723,7 @@ msgctxt "76"
 msgid ""
 "$WTルーシーズが\n"
 "あらわれた！$WW"
-msgstr ""
-"$WTLucys appeared!$WW"
+msgstr "$WTLucys appeared!$WW"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "77"
@@ -1195,8 +1194,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "129"
 msgid "$WC$_Nは レベルが あがった！$WW$WZ"
-msgstr ""
-"$WC$_N gained a level!$WW$WZ"
+msgstr "$WC$_N gained a level!$WW$WZ"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "130"
@@ -3471,7 +3469,7 @@ msgid ""
 "＜とうろく＞してください。$WW"
 msgstr ""
 "Nothing's registered in the\n"
-"Shortcuts! Choose an item from\n"
+"Shortcuts!$WPChoose an item from\n"
 "\"Inventory\" menu and \"Register\" it.$WW"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
