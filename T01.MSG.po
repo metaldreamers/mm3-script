@@ -2334,10 +2334,9 @@ msgstr ""
 "Belmont:“This seems to be\n"
 " the last piece!”{END TEXTBOX}\n"
 "Belmont:“This should help me\n"
-" restore it\n"
-" to its former form.”{END TEXTBOX}\n"
-"Belmont:“Wait\n"
-" a bit!\n"
+" restore it to its former\n"
+" glory.”{END TEXTBOX}\n"
+"Belmont:“Wait a bit!\n"
 " I'm going to restore it!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
