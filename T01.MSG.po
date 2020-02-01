@@ -2391,7 +2391,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_CAVE_BEL_B_SEL22"
 msgid "乗ってみるよ！"
-msgstr "I'll do!"
+msgstr "I will!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T01_CAVE_BEL_B_SEL23"
