@@ -1663,7 +1663,7 @@ msgid ""
 "極楽ボンバーを駆除したことを\n"
 "パツキントッシュ教授に報告する。"
 msgstr ""
-"Let professor Pakkintosh know\n"
+"Let Professor Pakintosh know\n"
 "that you took care of her\n"
 "Paradise Bomber problem."
 
@@ -1823,7 +1823,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "223"
 msgid "パツキントッシュ教授に報告する"
-msgstr "Report to professor Pakkintosh"
+msgstr "Report to Professor Pakintosh"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "224"
@@ -1832,7 +1832,7 @@ msgid ""
 "マスドラ研の\n"
 "パツキントッシュ教授に報告する。"
 msgstr ""
-"Tell professor Pakkintosh at the\n"
+"Tell Professor Pakintosh at the\n"
 "Mass Driver Lab that you have\n"
 "collected all the cells."
 

@@ -116,7 +116,7 @@ msgid ""
 "姿は見えない‥‥。"
 msgstr ""
 "You can't see \n"
-"Professor Pakkintosh\n"
+"Professor Pakintosh\n"
 "anywhere..."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
