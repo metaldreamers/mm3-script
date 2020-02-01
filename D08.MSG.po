@@ -4088,7 +4088,7 @@ msgid ""
 msgstr ""
 "Jude:“These bullets are pretty\n"
 " but they can't rival\n"
-" your beauty”"
+" your beauty.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T07_LV3_1F_N13_MSG3"
