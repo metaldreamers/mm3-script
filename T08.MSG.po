@@ -1197,7 +1197,7 @@ msgid ""
 msgstr ""
 "Kid:“Huh?”{END TEXTBOX}\n"
 "Kid:“Wait a min.\n"
-" That rocket belonged to mom!”"
+" That locket belonged to mom!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T08_HC_N1_MSG22"
