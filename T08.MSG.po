@@ -1206,8 +1206,8 @@ msgid ""
 "$ni051を\n"
 "少年にわたした。"
 msgstr ""
-"$np gave $ni051\n"
-" to the boy. "
+"$np gave the $ni051\n"
+"to the boy. "
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T08_HC_N1_MSG23"
