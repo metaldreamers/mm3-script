@@ -5546,7 +5546,7 @@ msgstr ""
 "to the old man.{END TEXTBOX}\n"
 "“Oh, that's\n"
 " $ni83, isn't it?”{END TEXTBOX}\n"
-"“It still existed...”"
+"“It still exists...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T09_KIRA2_TANK_MSG12"
