@@ -360,7 +360,7 @@ msgstr ""
 "“A job from Matt,\n"
 " living in Evilla.”$WW\n"
 "“Wants help\n"
-"　finding someone again.\n"
+" finding someone again.\n"
 " Ask him for the details.”$WP"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -375,9 +375,9 @@ msgid ""
 msgstr ""
 "“A job from Erika,\n"
 " living in the Evilla.”$WW\n"
-"“Wants help to\n"
-" find a legendary person.$WW\n"
-"“Ask her for the details.”$WP"
+"“Wants help finding\n"
+" a legendary person.”$WW\n"
+"“Ask her for details.”$WP"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "24"
