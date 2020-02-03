@@ -3150,7 +3150,7 @@ msgstr "Light Saber"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "627"
 msgid "ソニックスパナ"
-msgstr "Sonic Sponner"
+msgstr "Sonic Spanner"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "628"
