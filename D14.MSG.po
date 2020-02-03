@@ -520,7 +520,7 @@ msgid ""
 "　ドラム缶のバリケードじゃ\n"
 "　心元ないが、ないよりマシさ。"
 msgstr ""
-"“This is a barriecade.\n"
+"“This is a barricade.\n"
 " It's but a drumcan barricade yet\n"
 " better than nothing.”"
 
