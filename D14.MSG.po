@@ -527,12 +527,12 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D14_W1A_MSG"
 msgid "$nw024「ぎがががががーーーっ！"
-msgstr "$nw024:\"Gih-gah-gah-gaahhh!!”"
+msgstr "$nw024:“Gih-gah-gah-gaahhh!!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D14_W1A_MSG2"
 msgid "$nw027「ぎがががががーーーっ！"
-msgstr "$nw027:\":\"Gih-gah-gah-gaahhh!!”"
+msgstr "$nw027:“Gih-gah-gah-gaahhh!!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D14_MINI_MSG1"
