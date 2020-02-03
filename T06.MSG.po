@@ -5706,7 +5706,7 @@ msgstr ""
 " and built that army facility...”{END TEXTBOX}\n"
 "Nickman:“That demon\n"
 " does experiments there\n"
-" and enjoys is...”"
+" and enjoys it...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T06_NICKMAN_SELL16"
