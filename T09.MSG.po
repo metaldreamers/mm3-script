@@ -5802,7 +5802,7 @@ msgid ""
 "　あんたのクルマの色を\n"
 "　キラッキラに変えてやろう！"
 msgstr ""
-"“I'm painter!\n"
+"“I'm a painter!\n"
 " I'll change colors\n"
 " to sparkling stuff!”"
 
