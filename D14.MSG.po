@@ -622,7 +622,7 @@ msgstr ""
 "“Keyman!?”{END TEXTBOX}\n"
 "“No, that's not me.\n"
 " He went to Greenhouse #2,\n"
-" to the NE.\" "
+" to the northeast.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D14_ONA_N1_MSG3"
