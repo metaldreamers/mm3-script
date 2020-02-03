@@ -360,9 +360,8 @@ msgstr ""
 "Lackerman:“If I hadn't\n"
 " fallen from the bridge...@w10\n"
 " I...!”{END TEXTBOX}\n"
-"Lackerman:“I and\n"
-" Carol...!\n"
-" Would've had a happy life!?”"
+"Lackerman:“Me and Carol...\n"
+" would've had a happy life!?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H18_NAKA_N1_SEL14"
