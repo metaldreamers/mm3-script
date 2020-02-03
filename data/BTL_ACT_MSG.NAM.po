@@ -1915,7 +1915,7 @@ msgid ""
 "$BNは\n"
 "エネルギーをためている。"
 msgstr ""
-"$BNis\n"
+"$BN is\n"
 "charging energy."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
