@@ -7088,7 +7088,7 @@ msgid ""
 "$BNは\n"
 "エネルギーを使い切った！"
 msgstr ""
-"$BN has\n"
+"$BN\n"
 "ran out of energy!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
