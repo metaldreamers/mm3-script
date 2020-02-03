@@ -290,7 +290,7 @@ msgstr ""
 " the newly developed seeds.”{END TEXTBOX}\n"
 "“The $nw024\n"
 " was created here too.”{END TEXTBOX}\n"
-"“Who'd said it'd\n"
+"“Who knew it would\n"
 " become such a monster...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
