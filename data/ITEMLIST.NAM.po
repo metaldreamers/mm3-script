@@ -3195,7 +3195,7 @@ msgstr "Electric Eraser"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "636"
 msgid "ヴードゥーバレル"
-msgstr "Voodo Barrel"
+msgstr "Voodoo Barrel"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "637"
