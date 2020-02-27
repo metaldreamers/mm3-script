@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
-"POT-Creation-Date: 27/1/2020\n"
+"POT-Creation-Date: 26/2/2020\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Metal Max 3 English fantranslation\n"
@@ -3060,7 +3060,7 @@ msgstr "Ultima Eagle"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "609"
 msgid "１３０ｍｍゼウス"
-msgstr "130mm Zeus"
+msgstr "130 mm Zeus"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "610"
@@ -3195,7 +3195,7 @@ msgstr "Electric Eraser"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "636"
 msgid "ヴードゥーバレル"
-msgstr "Voodoo Barrel"
+msgstr "Voodo Barrel"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "637"
@@ -3235,37 +3235,37 @@ msgstr "Dog System"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "644"
 msgid "医療キットＤＸ"
-msgstr "MedicKit DX"
+msgstr "Medic Kit DX"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "645"
 msgid "医療キット"
-msgstr "MedicKit"
+msgstr "Medic Kit"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "646"
 msgid "タイルパック１００"
-msgstr "TilePack 100"
+msgstr "Tile Pack 100"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "647"
 msgid "タイルパック２５０"
-msgstr "TilePack 250"
+msgstr "Tile Pack 250"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "648"
 msgid "タイルパック５００"
-msgstr "TilePack 500"
+msgstr "Tile Pack 500"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "649"
 msgid "タイルパックＬ"
-msgstr "TilePack L"
+msgstr "Tile Pack L"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "650"
 msgid "タイルパックＬＬ"
-msgstr "TilePack LL"
+msgstr "Tile Pack LL"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "651"
@@ -3475,12 +3475,12 @@ msgstr "New Shovel Head"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "692"
 msgid "ショベルヘッドＴ"
-msgstr "Shovel Head T"
+msgstr "Shovel Head-T"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "693"
 msgid "ショベルヘッドＴＴ"
-msgstr "Shovel Head TT"
+msgstr "Shovel Head-TT"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "694"
@@ -3495,12 +3495,12 @@ msgstr "New Beetle"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "696"
 msgid "ビートルターボ"
-msgstr "Beetle Turbo"
+msgstr "Beetle-T"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "697"
 msgid "ビートルターボⅡ"
-msgstr "Beetle Turbo 2"
+msgstr "Beetle-TT"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "698"
@@ -3530,17 +3530,17 @@ msgstr "Chonov"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "703"
 msgid "チヨノフターボ"
-msgstr "Chonov Turbo"
+msgstr "Chonov-T"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "704"
 msgid "チヨノフツインＴ"
-msgstr "Chonov Twin Turbo"
+msgstr "Chonov-TT"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "705"
 msgid "チヨノフトリプルＴ"
-msgstr "Chonov Tple Turbo"
+msgstr "Chonov-TTT"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "706"
@@ -3660,17 +3660,17 @@ msgstr "Impulse"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "729"
 msgid "インパルスターボ"
-msgstr "Impulse Turbo"
+msgstr "Impulse-T"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "730"
 msgid "インパルスターボⅡ"
-msgstr "Impulse Turbo 2"
+msgstr "Impulse-TT"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "731"
 msgid "インパルスターボⅢ"
-msgstr "Impulse Turbo 3"
+msgstr "Impulse-TTT"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "732"
@@ -3730,7 +3730,7 @@ msgstr "Genbu Turbine"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "743"
 msgid "玄武ツインタービン"
-msgstr "Genbu Twin Turbine"
+msgstr "Genbu Turbine 2"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "744"
@@ -3770,12 +3770,12 @@ msgstr "Rudolph"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "751"
 msgid "ルドルフターボ"
-msgstr "Rudolph Turbo"
+msgstr "Rudolph-T"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "752"
 msgid "ルドルフツインＴ"
-msgstr "Rudolph Twin Turbo"
+msgstr "Rudolph-TT"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "753"
@@ -5250,7 +5250,7 @@ msgstr "Nose Poison 7"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1047"
 msgid "マンモスウイング"
-msgstr "Mammoth Wng"
+msgstr "Mammoth Wing"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1048"
@@ -5820,12 +5820,12 @@ msgstr "Cowboy"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1161"
 msgid "エアボーンＤ"
-msgstr "Airborne D"
+msgstr "Airborne-D"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1162"
 msgid "トーピードＤ"
-msgstr "Torpedo D"
+msgstr "Torpedo-D"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1163"
@@ -5860,12 +5860,12 @@ msgstr "Super Sider-C"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1169"
 msgid "エアボーンＢ"
-msgstr "Airborne B"
+msgstr "Airborne-B"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1170"
 msgid "トーピードＢ"
-msgstr "Torpedo B"
+msgstr "Torpedo-B"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1171"

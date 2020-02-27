@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
-"POT-Creation-Date: 21/11/2019\n"
+"POT-Creation-Date: 26/2/2020\n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: Metal Max 3 English fantranslation\n"
@@ -60,7 +60,7 @@ msgstr "Trade Wind"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "9"
 msgid "ホホアナ"
-msgstr "Hohoana"
+msgstr "Hohohole"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "10"
