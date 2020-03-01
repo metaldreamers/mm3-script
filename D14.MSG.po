@@ -741,10 +741,9 @@ msgid ""
 msgstr ""
 "“This is Greenhouse #3.\n"
 " Here we're cultivating\n"
-" giant radish\".{END TEXTBOX}\n"
-"“This radish\n"
-" is OK.”{END TEXTBOX}\n"
-"“Since it's a diferent breed\n"
+" giant radishes.”{END TEXTBOX}\n"
+"“This radish is OK”{END TEXTBOX}\n"
+"“since it's a different breed\n"
 " compared to $nw024.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
