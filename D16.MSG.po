@@ -213,8 +213,7 @@ msgid ""
 "$_0が\n"
 "爆弾の信管を叩きます。"
 msgstr ""
-"$_0\n"
-"hit the bomb's fuse"
+"$_0 struck the bomb's fuse."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// D16_SEL_PC_FINAL00"
@@ -222,7 +221,7 @@ msgid ""
 "$np0が爆弾を叩きます。\n"
 "よろしいですか?"
 msgstr ""
-"$np0 will hit the bomb.\n"
+"$np0 will strike the bomb.\n"
 "OK?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -233,7 +232,7 @@ msgid ""
 "よろしいですか?"
 msgstr ""
 "*Debug Message\n"
-" $np1 will hit the bomb.\n"
+" $np1 will strike the bomb.\n"
 " OK?"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -244,7 +243,7 @@ msgid ""
 "よろしいですか?"
 msgstr ""
 "*Debug Message\n"
-" $np2 will hit the bomb.\n"
+" $np2 will strike the bomb.\n"
 " OK?"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -255,7 +254,7 @@ msgid ""
 "よろしいですか?"
 msgstr ""
 "*Debug Message\n"
-" $np3 will hit the bomb.\n"
+" $np3 will strike the bomb.\n"
 " OK?"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
