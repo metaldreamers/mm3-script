@@ -105,17 +105,17 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T09_SOTO_N6_SEL1"
 msgid "男？"
-msgstr "A man?"
+msgstr "They're... tall?"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T09_SOTO_N6_SEL2"
 msgid "女？"
-msgstr "A woman?"
+msgstr "They're... bright?"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T09_SOTO_N6_SEL3"
 msgid "オカマ！"
-msgstr "A shemale!"
+msgstr "They're... tree-y?"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T09_SOTO_N6_MSG2"
@@ -124,9 +124,9 @@ msgid ""
 "　こう見えても\n"
 "　れっきとした女よ！"
 msgstr ""
-"“Kih!\n"
-" I don't look like one\n"
-" but I swear I'm a woman!”"
+"“Pfft!\n"
+" If you don't care, then just\n"
+" say so!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T09_SOTO_N7_MSG1"
