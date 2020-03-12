@@ -761,7 +761,7 @@ msgid ""
 "　なんだ、あれは？"
 msgstr ""
 "“Oh! Dunno why but\n"
-" it's become brigther!”{END TEXTBOX}\n"
+" it's become brighter!”{END TEXTBOX}\n"
 "“Hmmm!?\n"
 " What's that!?”"
 

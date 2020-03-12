@@ -57,7 +57,7 @@ msgid ""
 "　あの、$_MＧ　いただいても‥‥、\n"
 "　よろしいでしょうか‥‥？"
 msgstr ""
-"“$_I, rigtht?\n"
+"“$_I, right?\n"
 " It'll be $_MG, but...\n"
 " Is that OK...?”"
 

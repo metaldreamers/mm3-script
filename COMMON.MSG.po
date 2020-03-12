@@ -11470,7 +11470,7 @@ msgstr ""
 " by $_1t!”{END TEXTBOX}\n"
 "“Wanna mod it,\n"
 " then you\n"
-" gotta ligthen it.”{END TEXTBOX}\n"
+" gotta lighten it.”{END TEXTBOX}\n"
 "“I'll be waiting!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
