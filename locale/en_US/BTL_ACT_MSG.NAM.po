@@ -3,13 +3,16 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 21/11/2019\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: Metal Max 3 English fantranslation\n"
-"Language: ja-JP\n"
+"PO-Revision-Date: 2020-04-22 16:03+0000\n"
+"Last-Translator: cccmar <cccmar111@gmail.com>\n"
+"Language-Team: English (United States) <http://example.com/projects/"
+"metalmax3/btl_act_msgnam/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11.2\n"
 "X-1: Type2\n"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -25,7 +28,7 @@ msgstr "Dummy"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "2"
 msgid "何もしない"
-msgstr "Do Nothing"
+msgstr "Do nothing"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "3"
@@ -637,7 +640,7 @@ msgstr "Sleeping Gas"
 msgctxt "99"
 msgid "$BNは催眠ガスを噴出した！"
 msgstr ""
-"$BN emmited\n"
+"$BN emitted\n"
 "sleeping gas!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -649,7 +652,7 @@ msgstr "Poison Gas"
 msgctxt "101"
 msgid "$BNは毒ガスを噴出した！"
 msgstr ""
-"$BN emmited\n"
+"$BN emitted\n"
 "poison gas!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -663,7 +666,7 @@ msgid ""
 "$BNから\n"
 "猛毒ガスが噴出した！"
 msgstr ""
-"$BN emmited\n"
+"$BN emitted\n"
 "toxic gas!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -1280,7 +1283,7 @@ msgid ""
 "ハデなカカシになった！"
 msgstr ""
 "$BN\n"
-"becomes a flashy scarecrew!"
+"becomes a flashy scarecrow!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "208"
@@ -2471,7 +2474,7 @@ msgid ""
 "硫酸液を噴出した！"
 msgstr ""
 "$BN\n"
-"spouted sulfurice acid solution!"
+"spouted sulfuric acid solution!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "397"
@@ -2552,7 +2555,7 @@ msgid ""
 "濃硫酸を吐き出した！"
 msgstr ""
 "$BN\n"
-"spit Concentrated Sulphuric Acid"
+"spit Concentrated Sulfuric Acid"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "410"
@@ -2827,7 +2830,7 @@ msgid ""
 "強烈な冷気を噴出した！"
 msgstr ""
 "$BN\n"
-"spout a powerful cold air!"
+"blew powerful cold air!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "451"
@@ -3173,7 +3176,7 @@ msgid ""
 "$BNは\n"
 "怪しいガスを吐いた！"
 msgstr ""
-"$BN spitted\n"
+"$BN spat\n"
 "a mysterious gas!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -3212,7 +3215,7 @@ msgid ""
 "$BNは\n"
 "真っ黒いスミをはいた！"
 msgstr ""
-"$BN spit\n"
+"$BN spat\n"
 "a pitch-black ink!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -3371,7 +3374,7 @@ msgstr "Repair All"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "532"
 msgid "弾数アップ"
-msgstr "Increase Ammo Counts"
+msgstr "Increase Ammo Count"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "533"
@@ -3547,7 +3550,7 @@ msgid ""
 "$BNは\n"
 "メールを受信した！"
 msgstr ""
-"$BN recieved\n"
+"$BN received\n"
 "a text message!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -3684,7 +3687,7 @@ msgid ""
 "$BNは\n"
 "何かを吐き出した！"
 msgstr ""
-"$BN spitted\n"
+"$BN spat\n"
 "something!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -3902,7 +3905,7 @@ msgstr "$BN transformed!"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "619"
 msgid "サルモネラ・プロトへトランスフォーム。"
-msgstr "Transform into Salmonera Proto"
+msgstr "Transform into Salmonella Proto"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "620"
@@ -4034,7 +4037,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "641"
 msgid "スナダイコン出る"
-msgstr "Sand Radish Eemerge"
+msgstr "Sand Radish Emerge"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "642"
@@ -4711,19 +4714,19 @@ msgstr "Spit Cold Air"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "750"
 msgid "ゴミを吐く"
-msgstr "Spit Gargabe"
+msgstr "Spit Garbage"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "751"
 msgid ""
 "$BNは\n"
 "ゴミを吐き出した！"
-msgstr "$BN spat garbages!"
+msgstr "$BN spat garbage!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "752"
 msgid "サルモネラス機銃"
-msgstr "Salmoneras Machinegun"
+msgstr "Salmonellas Machinegun"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "753"
@@ -4731,23 +4734,23 @@ msgid ""
 "$BNは\n"
 "機銃を乱射した！"
 msgstr ""
-"$BN sprayedt\n"
+"$BN sprayed\n"
 "its machinegun around!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "754"
 msgid "サルモネラス体当たり"
-msgstr "Salmoneras Slam"
+msgstr "Salmonellas Slam"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "755"
 msgid "サルモネラスミサイル"
-msgstr "Salmoneras Missile"
+msgstr "Salmonellas Missile"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "756"
 msgid "サルモネラス変形"
-msgstr "Salmoneras Transformation"
+msgstr "Salmonellas Transformation"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "757"
@@ -4761,7 +4764,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "758"
 msgid "サルモネラス殴り"
-msgstr "Salmoneras Hit"
+msgstr "Salmonellas Hit"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "759"
@@ -4775,7 +4778,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "760"
 msgid "サルモネラスホーミングミサイル"
-msgstr "Salmoneras Homing Missiles"
+msgstr "Salmonellas Homing Missiles"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "761"
@@ -4789,7 +4792,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "762"
 msgid "サルモネラス大砲"
-msgstr "Salmoneras Cannon"
+msgstr "Salmonellas Cannon"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "763"
@@ -5080,7 +5083,7 @@ msgid ""
 "$BNは\n"
 "水のかたまりを吐いた！"
 msgstr ""
-"$BN Spat\n"
+"$BN spat\n"
 "a bubble of water!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -5327,7 +5330,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "842"
 msgid "ヘリ上昇"
-msgstr "Chooper Ascent"
+msgstr "Chopper Ascent"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "843"
@@ -5488,7 +5491,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "865"
 msgid "アルメイダ通常攻撃"
-msgstr "Almedia Normal Attack"
+msgstr "Almeida Normal Attack"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "866"
@@ -6464,7 +6467,7 @@ msgstr "Call for 1 Repair Copter"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1017"
 msgid "デザートスイーパーを１体呼ぶ。"
-msgstr "Call for 1 Dessert Sweper"
+msgstr "Call for 1 Desert Sweeper"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1018"
@@ -6877,12 +6880,12 @@ msgid ""
 "「ひとあばれするわよ！"
 msgstr ""
 "$BN attacked!\n"
-"“Let's Rock!”"
+"“Let's rock!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1085"
 msgid "洗車モップ"
-msgstr "Car Washing Mop"
+msgstr "Car Wash Mop"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1086"
@@ -6985,7 +6988,7 @@ msgstr "Scout Scope"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1102"
 msgid "様子見スコープ"
-msgstr "Check Scope"
+msgstr "Scout Scope"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1103"
@@ -7023,7 +7026,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1108"
 msgid "ポチボーン"
-msgstr "Pochibone"
+msgstr "Pochi Bone"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1109"
