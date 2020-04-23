@@ -3,13 +3,16 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 18/11/2019\n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: Metal Max 3 English fantranslation\n"
-"Language: ja-JP\n"
+"PO-Revision-Date: 2020-04-24 10:26+0000\n"
+"Last-Translator: cccmar <cccmar111@gmail.com>\n"
+"Language-Team: English (United States) <http://example.com/projects/"
+"metalmax3/h12/en_US/>\n"
+"Language: en_US\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11.2\n"
 "X-1: Type1\n"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -24,7 +27,7 @@ msgstr ""
 "Seems to be\n"
 "a mere dead body.{END TEXTBOX}\n"
 "Huh!?\n"
-"he body carries\n"
+"The body carries\n"
 "$ni046!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -48,7 +51,7 @@ msgid ""
 "注入します。"
 msgstr ""
 "Will pour life energy\n"
-"into the capsule"
+"into the capsule."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H12_SAI_COM_MSG1_2"
@@ -87,7 +90,7 @@ msgid ""
 "カプセルを排出します。"
 msgstr ""
 "Pouring complete!{END TEXTBOX}\n"
-"The capsule will be ejected"
+"The capsule will be ejected."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H12_SAI_COM_MSG2"
@@ -114,15 +117,15 @@ msgid ""
 "カプセルは排出済です。"
 msgstr ""
 "Error! Error!\n"
-"The capsule \n"
-" has already been ejected"
+"The capsule has already \n"
+"been ejected."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H12_BATTERY_OFF"
 msgid ""
 "どうやら、電源が\n"
 "入っていないようだ。"
-msgstr "Looks like it's not powered on"
+msgstr "Looks like it's not powered on."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SEC_MACHINE_MSG1"
@@ -223,7 +226,7 @@ msgid ""
 "入力されました"
 msgstr ""
 ">The right password\n"
-" has been inserted"
+" has been input"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}
 #.  is \0
