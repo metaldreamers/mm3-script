@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 21/11/2019\n"
-"PO-Revision-Date: 2020-04-22 16:03+0000\n"
+"PO-Revision-Date: 2020-04-24 10:26+0000\n"
 "Last-Translator: cccmar <cccmar111@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/ene_monsternam/en_US/>\n"
@@ -1578,7 +1578,7 @@ msgstr "Goemonkey"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "312"
 msgid "パクリエル号"
-msgstr "Pacriel Mobile"
+msgstr "Packriel Mobile"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "313"
@@ -1743,7 +1743,7 @@ msgstr "MegaPudding"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "345"
 msgid "サルモネラス"
-msgstr "Salmonella"
+msgstr "Salmonellas"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "346"
