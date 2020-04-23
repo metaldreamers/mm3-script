@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 21/11/2019\n"
-"PO-Revision-Date: 2020-04-23 14:20+0000\n"
+"PO-Revision-Date: 2020-04-24 10:25+0000\n"
 "Last-Translator: cccmar <cccmar111@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/setumei_itemset/en_US/>\n"
@@ -23,8 +23,8 @@ msgid ""
 "ただし、威力は通常弾の約半分。"
 msgstr ""
 "Hits a wide area.\n"
-"However, has around\n"
-"1/2 normal power."
+"However, it has around\n"
+"1/2 of normal power."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1"
@@ -282,7 +282,7 @@ msgid ""
 "体力まで回復する飲料。"
 msgstr ""
 "Drinking will not only make you\n"
-"happy, but restore strength!"
+"happy, but also restore strength!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "28"
@@ -420,7 +420,7 @@ msgid ""
 "体のマヒを消してしまうほどの\n"
 "強い刺激のある液体。"
 msgstr ""
-"Fluid from the AquaHydra's eye.\n"
+"Fluid from the Aqua Hydra's eye.\n"
 "Stimulus cures paralysis."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -450,7 +450,7 @@ msgid ""
 "強い刺激臭で、体のマヒが\n"
 "とれてしまうという。"
 msgstr ""
-"Extract from the AquaHydra.\n"
+"Extract from the Aqua Hydra.\n"
 "Strong odor, cures paralysis."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -500,7 +500,7 @@ msgid ""
 "たまっていた地下水。\n"
 "どんな眠気も覚める強烈なにおい。"
 msgstr ""
-"Water from inside the AquaHydra.\n"
+"Water from inside the Aqua Hydra.\n"
 "Strong smell cures sleep."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -510,7 +510,7 @@ msgid ""
 "刺激のつまった錠剤。"
 msgstr ""
 "Pill packed with caffeine\n"
-"to blow away drowsiness."
+"to wipe out drowsiness."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "52"
@@ -645,7 +645,7 @@ msgid ""
 "ダメージを受け続けるとき、\n"
 "これを使って火を消そう！"
 msgstr ""
-"Use when recieving damage\n"
+"Use when receiving damage\n"
 "from fire in battle to put it out!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -1756,7 +1756,7 @@ msgid ""
 "いつでもプレイできるように！"
 msgstr ""
 "You can play the masterpiece,\n"
-"“Doggy Tanks\", anytime!"
+"“Doggy Tanks!\", anytime!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "178"
@@ -2589,7 +2589,7 @@ msgid ""
 "心臓部にあったコア。\n"
 "未知の材質で構成されている。"
 msgstr ""
-"Superfluid Decapudding's heart.\n"
+"Superfluid Megapudding's heart.\n"
 "Made of unknown material."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -2627,7 +2627,7 @@ msgid ""
 "ちょっとやそっとでは\n"
 "切れることはない。"
 msgstr ""
-"Fibre from Cocoonera's cocoon.\n"
+"Fiber from Cocoonera's cocoon.\n"
 "Not easily cut."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -2852,7 +2852,7 @@ msgid ""
 "細胞核が金色に輝く細胞。\n"
 "人間には感知不能な匂いを発する。"
 msgstr ""
-"Cell with a gold nucelus.\n"
+"Cell with a gold nucleus. \n"
 "Emits a scent humans can't smell."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -3090,7 +3090,7 @@ msgid ""
 "特定のモンスターをひきつける\n"
 "においを出す袋。"
 msgstr ""
-"Bag with an unsmellable scent\n"
+"Bag with an odorless scent\n"
 "that draws a specific monster."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -3176,7 +3176,7 @@ msgid ""
 "重要なヒントの記された紙切れ。"
 msgstr ""
 "A scrap of paper with a hint\n"
-"on it, found in Nezib Melach."
+"on it, found in Netsib Melach."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "333"
@@ -3714,7 +3714,7 @@ msgid ""
 "まともに運ぶことはできない、\n"
 "圧倒的な重量を持つ巨大な車輪。"
 msgstr ""
-"Enourmously heavy wheel,\n"
+"Enormously heavy wheel,\n"
 "which honestly can't move anything."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -3795,7 +3795,7 @@ msgid ""
 "非常に重いドラム缶。"
 msgstr ""
 "Extra heavy drum can,\n"
-"filled with water equally important."
+"filled with water, equally important."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "399"
