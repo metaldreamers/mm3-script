@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 26/2/2020\n"
-"PO-Revision-Date: 2020-04-23 14:20+0000\n"
+"PO-Revision-Date: 2020-04-24 10:25+0000\n"
 "Last-Translator: cccmar <cccmar111@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/itemlistnam/en_US/>\n"
@@ -1668,7 +1668,7 @@ msgstr "Worn Bag"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "330"
 msgid "ハイファの写真"
-msgstr "Haifa Photo"
+msgstr "Hypha Photo"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "331"
@@ -4678,7 +4678,7 @@ msgstr "Mega Particle Gun"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "932"
 msgid "サルモネラポッド"
-msgstr "Salmonela Pod"
+msgstr "Salmonella Pod"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "933"
@@ -4703,7 +4703,7 @@ msgstr "Circle Breaker"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "937"
 msgid "サルモネラポッドα"
-msgstr "Salmonela Pod α"
+msgstr "Salmonella Pod α"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "938"
