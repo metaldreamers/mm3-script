@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 21/11/2019\n"
-"PO-Revision-Date: 2020-04-22 16:03+0000\n"
+"PO-Revision-Date: 2020-04-24 10:25+0000\n"
 "Last-Translator: cccmar <cccmar111@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/btl_act_msgnam/en_US/>\n"
@@ -101,7 +101,7 @@ msgid ""
 "催眠ガス弾を発射した！"
 msgstr ""
 "$BN fired\n"
-"a Sleep Gas Shell!"
+"a Sleeping Gas Shell!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "14"
@@ -492,7 +492,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "72"
 msgid "けむ４(催眠ガス）"
-msgstr "Fumes 4 (Sleep Gas)"
+msgstr "Fumes 4 (Sleeping Gas)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "73"
@@ -501,7 +501,7 @@ msgid ""
 "催眠ガスが充満している！"
 msgstr ""
 "$BN's vehicle is\n"
-"filled with sleep gas!"
+"filled with sleeping gas!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "74"
@@ -1680,8 +1680,8 @@ msgid ""
 "$BNはドラム缶になって\n"
 "ころがった！"
 msgstr ""
-"$BN turns into a drum can\n"
-"and rolls!"
+"$BN turns into a \n"
+"drum can and rolls!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "266"
@@ -1694,8 +1694,8 @@ msgid ""
 "$BNはソプラノ歌手になって\n"
 "歌った！"
 msgstr ""
-"$BN becomes a Soprano Singer\n"
-"and sings!"
+"$BN becomes a \n"
+"Soprano Singer and sings!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "268"
@@ -1708,8 +1708,8 @@ msgid ""
 "$BNは殺人アメーバになって\n"
 "酸を吐いた！"
 msgstr ""
-"$BN becomes a Killer Amoeba\n"
-"and spits acid!"
+"$BN becomes a \n"
+"Killer Amoeba and spits acid!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "270"
@@ -1722,8 +1722,8 @@ msgid ""
 "$BNはうろつきポリタンになって\n"
 "火炎を吹いた！"
 msgstr ""
-"$BN becomes a Wild Polytank\n"
-"and spits flames!"
+"$BN becomes a \n"
+"Wild Polytank and spits flames!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "272"
@@ -2648,7 +2648,7 @@ msgctxt "424"
 msgid ""
 "$BNは\n"
 "火炎を放射した！"
-msgstr "$BN spew flames!"
+msgstr "$BN spewed flames!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "425"
@@ -2776,7 +2776,7 @@ msgid ""
 "量子波動砲を発射した！"
 msgstr ""
 "$BN fired\n"
-"a Quantum wave cannon!"
+"a quantum wave cannon!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "443"
@@ -3474,7 +3474,7 @@ msgid ""
 "妨害電波を発した！"
 msgstr ""
 "$BN\n"
-"emitted Jamming wave!"
+"emitted jamming wave!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "547"
@@ -3505,7 +3505,7 @@ msgctxt "551"
 msgid "$BNは妨害電波を発した！"
 msgstr ""
 "$BN\n"
-"emitted Jamming wave!"
+"emitted jamming wave!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "552"
@@ -3620,7 +3620,9 @@ msgstr "Hit & Run"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "570"
 msgid "ルーシーズ号に入っているルーシーズが全員車内に出る。"
-msgstr "All The Lucys in the Mobile jump out of their vehicle."
+msgstr ""
+"All the Lucys in the Mobile \n"
+"jump out of their vehicle."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "571"
@@ -3628,7 +3630,7 @@ msgid ""
 "$BNは\n"
 "クルマから脱出した！"
 msgstr ""
-"$BN Escaped\n"
+"$BN escaped\n"
 "from the vehicle!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -3766,12 +3768,12 @@ msgstr "Transform into Land Mind Mole (Burrow)"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "594"
 msgid "サンドゴーレム（通常版）に変身"
-msgstr "Transform into Sand Golen (Normal)"
+msgstr "Transform into Sand Golem (Normal)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "595"
 msgid "サンドゴーレム（もぐり版）に変身"
-msgstr "Transform into Sand Golen (Burrow)"
+msgstr "Transform into Sand Golem (Burrow)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "596"
@@ -3980,7 +3982,7 @@ msgstr "$BN was destroyed!"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "632"
 msgid "アルメイダのクルマ→アルメイダ"
-msgstr "Almeida out of her Mobile"
+msgstr "Almeida out of his Mobile"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "633"
@@ -5598,7 +5600,7 @@ msgid ""
 "「ムカデ火炎車！"
 msgstr ""
 "$BN attacks!\n"
-"“Sintipede Flame wheel!”"
+"“Sintipede Flame Wheel!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "881"
@@ -6036,7 +6038,7 @@ msgid ""
 "クモの足が生えた！"
 msgstr ""
 "Spider feet emerged\n"
-"from $BN's legs"
+"from $BN's legs!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "949"
