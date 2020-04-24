@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 21/11/2019\n"
-"PO-Revision-Date: 2020-04-24 10:25+0000\n"
+"PO-Revision-Date: 2020-04-25 11:03+0000\n"
 "Last-Translator: cccmar <cccmar111@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/btl_act_msgnam/en_US/>\n"
@@ -2726,7 +2726,9 @@ msgstr "$BN's Napalm Attack!"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "436"
 msgid "大ナパーム定数ダメージ（超特大）"
-msgstr "Big Napalm Const Damage (Super Extra-large)"
+msgstr ""
+"Big Napalm Const Damage \n"
+"(Super Extra-large)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "437"
@@ -2797,7 +2799,9 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "445"
 msgid "冷凍定数ダメージ（超特大）"
-msgstr "Freeze Const Damage (Super Extra-large)"
+msgstr ""
+"Freeze Const Damage \n"
+"(Super Extra-large)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "446"
@@ -2883,12 +2887,16 @@ msgstr "Blood-sucking Const Damage (Middle)"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "459"
 msgid "吸血定数ダメージ（特大）"
-msgstr "Blood-sucking Const Damage (Extra-large)"
+msgstr ""
+"Blood-sucking Const Damage \n"
+"(Extra-large)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "460"
 msgid "吸血定数ダメージ（超特大）"
-msgstr "Blood-sucking Const Damage (Super Extra-large)"
+msgstr ""
+"Blood-sucking Const Damage \n"
+"(Super Extra-large)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "461"
@@ -3655,7 +3663,9 @@ msgstr "Go into the Lucys Mobile"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "575"
 msgid "地雷モグラ（通常版）に変身＋地雷モグラ（通常版）を呼ぶ。"
-msgstr "Transform Land Mine Mole + Call for Land Mine Mole"
+msgstr ""
+"Transform Land Mine Mole + \n"
+"Call for Land Mine Mole"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "576"
@@ -3816,7 +3826,9 @@ msgstr "Transform into Wave Cucumber (Big)"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "602"
 msgid "波動ビーム砲（中）に変身"
-msgstr "Transform into Wave Beam Cannon (Middle)"
+msgstr ""
+"Transform into Wave Beam Cannon\n"
+"(Middle)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "603"
@@ -3826,12 +3838,16 @@ msgstr "Transform into Wave Beam Cannon (Big)"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "604"
 msgid "ゾンビコフィン（箱から出た後）に変身"
-msgstr "Transform into Zombie Coffin (Out-Of-Box)"
+msgstr ""
+"Transform into Zombie Coffin\n"
+"(Out-Of-Box)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "605"
 msgid "メタモールゼリー（メガマウス版）に変身"
-msgstr "Transform into Metamor Jelly (Mega Mouse)"
+msgstr ""
+"Transform into Metamor Jelly \n"
+"(Mega Mouse)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "606"
@@ -3845,22 +3861,30 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "607"
 msgid "メタモールゼリー（サメクマ版）に変身"
-msgstr "Transform into Metamor Jelly (Shark Bear)"
+msgstr ""
+"Transform into Metamor Jelly \n"
+"(Shark Bear)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "608"
 msgid "メタモールゼリー（カジキータ版）に変身"
-msgstr "Transform into Metamor Jelly (Marleetah)"
+msgstr ""
+"Transform into Metamor Jelly \n"
+"(Marleetah)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "609"
 msgid "メタモールゼリー（スナザメ版）に変身"
-msgstr "Transform into Metamor Jelly (Sand Shark)"
+msgstr ""
+"Transform into Metamor Jelly \n"
+"(Sand Shark)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "610"
 msgid "メタモールゼリー（コードゴーレム版）に変身"
-msgstr "Transform into Metamor Jelly (Cord Golem)"
+msgstr ""
+"Transform into Metamor Jelly \n"
+"(Cord Golem)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "611"
@@ -6655,27 +6679,37 @@ msgstr "Call for 1 Loose Eater"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1051"
 msgid "スナザメをケータイで呼ぶ。"
-msgstr "Call for a Sand Shark through the Cellphone"
+msgstr ""
+"Call for a Sand Shark \n"
+"through the Cellphone"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1052"
 msgid "ヘルレスキュー（呼ばれ版）をケータイで呼ぶ。"
-msgstr "Call a Hell Rescue (Summoned) through the Cellphone"
+msgstr ""
+"Call a Hell Rescue (Summoned) \n"
+"through the Cellphone"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1053"
 msgid "暴走ゾンビをケータイで呼ぶ。"
-msgstr "Call a Berserk Zombie through the Cellphone"
+msgstr ""
+"Call a Berserk Zombie \n"
+"through the Cellphone"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1054"
 msgid "デザートスイーパーをケータイで呼ぶ。"
-msgstr "Call a Desert Sweeper through the Cellphone"
+msgstr ""
+"Call a Desert Sweeper \n"
+"through the Cellphone"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1055"
 msgid "スローウォーカー（呼ばれ版）をケータイで呼ぶ。"
-msgstr "Call a Slow Walker (Summoned) through the Cellphone"
+msgstr ""
+"Call a Slow Walker (Summoned) \n"
+"through the Cellphone"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1056"
@@ -6770,8 +6804,8 @@ msgid ""
 "$BN\n"
 "「今日はここまでにしてやる、ふん！"
 msgstr ""
-"$BN\n"
-"“We'll leave it at here for today! Hmph!”"
+"$BN “We'll leave it at here \n"
+"for today! Hmph!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1070"
@@ -7085,7 +7119,9 @@ msgstr "Transform 61"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1117"
 msgid "ビームを波動ナマコ（小）に戻る。"
-msgstr "Return the Beam to the Wave Cucumber (Small)"
+msgstr ""
+"Return the Beam to the Wave Cucumber\n"
+"(Small)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1118"
