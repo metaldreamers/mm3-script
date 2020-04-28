@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 21/11/2019\n"
-"PO-Revision-Date: 2020-04-25 11:03+0000\n"
+"PO-Revision-Date: 2020-04-29 12:07+0000\n"
 "Last-Translator: cccmar <cccmar111@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/btl_act_msgnam/en_US/>\n"
@@ -39,7 +39,7 @@ msgstr "BS Laser"
 msgctxt "4"
 msgid "衛星からレーザーが照射された！！"
 msgstr ""
-"A Laser was fired\n"
+"A laser was fired\n"
 "from a satellite!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -204,7 +204,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "28"
 msgid "不発弾"
-msgstr "Unexploded Shell"
+msgstr "UX Shell"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "29"
@@ -213,7 +213,7 @@ msgid ""
 "不発弾を発射した！"
 msgstr ""
 "$BN fired\n"
-"a Dud Shell!"
+"a UX Shell!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "30"
