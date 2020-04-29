@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 18/11/2019\n"
-"PO-Revision-Date: 2020-04-26 14:03+0000\n"
-"Last-Translator: cccmar <cccmar111@gmail.com>\n"
+"PO-Revision-Date: 2020-04-30 13:07+0000\n"
+"Last-Translator: Devon Meunier <devon.meunier@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/d08/en_US/>\n"
 "Language: en_US\n"
@@ -6418,7 +6418,7 @@ msgstr "Security Sphere"
 #.  is \0
 msgctxt "//===[NAMES]==="
 msgid "ヨージンボーグ"
-msgstr "Bodyguard Borg"
+msgstr "Yojimborg"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}
 #.  is \0
