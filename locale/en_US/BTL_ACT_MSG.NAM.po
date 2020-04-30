@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 21/11/2019\n"
-"PO-Revision-Date: 2020-04-30 13:07+0000\n"
+"PO-Revision-Date: 2020-05-02 10:07+0000\n"
 "Last-Translator: cccmar <cccmar111@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/btl_act_msgnam/en_US/>\n"
@@ -4095,7 +4095,9 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "645"
 msgid "巨大ロボチャージモードへ。"
-msgstr "Switch to Giant Robot Charge Mode"
+msgstr ""
+"Switch to Giant Robot \n"
+"Charge Mode"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "646"
@@ -4109,7 +4111,9 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "647"
 msgid "巨大ロボアタックモードへ。"
-msgstr "Switch to Giant Robot Attack Mode"
+msgstr ""
+"Switch to Giant Robot \n"
+"Attack Mode"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "648"
@@ -4858,7 +4862,7 @@ msgid ""
 "$BNは\n"
 "雹を降らした！"
 msgstr ""
-"$BNdropped\n"
+"$BN dropped\n"
 "hail!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -5530,7 +5534,7 @@ msgid ""
 "「きゃはははははっ！"
 msgstr ""
 "$BN attacks!\n"
-"“Kyah, hah, haaahhh!”"
+"“Fwah, hah, haaahhh!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "867"
@@ -5920,7 +5924,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "926"
 msgid "ルーシーズ女目からビーム"
-msgstr "Lucys Woman Beam from the Eyes"
+msgstr "Lucys Woman Eye Beam"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "927"
@@ -5953,7 +5957,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "931"
 msgid "ルーシーズ若男両腕から火炎"
-msgstr "Lucys Young Man Flames from the Arms"
+msgstr "Lucys Young Man Arm Flames"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "932"
@@ -6013,8 +6017,8 @@ msgid ""
 "$BN\n"
 "「地獄の炎に焼きつくされるがよい！"
 msgstr ""
-"$BN:\"Let the flames of hell\n"
-"burn you up!”"
+"$BN:\"Let the flames \n"
+" of hell burn you up!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "941"
@@ -6027,8 +6031,8 @@ msgid ""
 "$BN「この程度で死なないでくれよ、\n"
 "実験体１３１３号！"
 msgstr ""
-"$BN:\"Don't die so easily,\n"
-"Subject 1313!”"
+"$BN:\"Don't die so\n"
+" easily, Subject 1313!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "943"
@@ -6144,7 +6148,7 @@ msgid ""
 "$BNは\n"
 "３つの首からブレスを吹いた！"
 msgstr ""
-"$BN spat\n"
+"$BN exhaled\n"
 "breath from all 3 heads!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -6158,7 +6162,7 @@ msgid ""
 "$BNは\n"
 "凍てつく息を吹いた！"
 msgstr ""
-"$BN spat\n"
+"$BN exhaled\n"
 "freezing breath!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -6423,7 +6427,7 @@ msgid ""
 "何か出てきた！"
 msgstr ""
 "Something came out\n"
-"from $BN"
+"from $BN!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1004"
@@ -6551,7 +6555,7 @@ msgstr "Call for a T99 Gorilla"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1027"
 msgid "ＡＴグリズリーを呼ぶ。"
-msgstr "Call for a AT Grizzly"
+msgstr "Call for an AT Grizzly"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1028"
@@ -6619,7 +6623,7 @@ msgstr "Call for a Dismantle Copter"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1039"
 msgid "ＢＢＱマウスを３体呼ぶ。"
-msgstr "Call for 3 BBQ Mouses"
+msgstr "Call for 3 BBQ Mice"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1040"
@@ -6673,7 +6677,7 @@ msgstr "Call for 1 Clan Mob E1"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1049"
 msgid "死神注射を１体呼ぶ。"
-msgstr "Call for 1 Grim Reaper Syring"
+msgstr "Call for 1 Grim Reaper Syringe"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1050"
@@ -6808,8 +6812,8 @@ msgid ""
 "$BN\n"
 "「今日はここまでにしてやる、ふん！"
 msgstr ""
-"$BN “We'll leave it at here \n"
-"for today! Hmph!”"
+"$BN “We'll leave it \n"
+" at that for today! Hmph!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1070"
@@ -7012,7 +7016,7 @@ msgid ""
 "$BN「アンギャアァーーーっ！\n"
 "$BNは奇怪な声をあげた！"
 msgstr ""
-"$BN Screamed!\n"
+"$BN screamed!\n"
 "$BN:\"Angyaahh!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
