@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 21/11/2019\n"
-"PO-Revision-Date: 2020-04-29 12:07+0000\n"
+"PO-Revision-Date: 2020-04-30 13:07+0000\n"
 "Last-Translator: cccmar <cccmar111@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/btl_act_msgnam/en_US/>\n"
@@ -1521,7 +1521,7 @@ msgid ""
 "暗黒舞踏！"
 msgstr ""
 "$BN performs\n"
-"A deadly Butoh!"
+"a deadly Butoh!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "242"
@@ -1624,7 +1624,7 @@ msgid ""
 "$BNは\n"
 "緊急手術をはじめた！"
 msgstr ""
-"$BN begam\n"
+"$BN began\n"
 "Spot Surgery!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -1862,7 +1862,7 @@ msgid ""
 "$BNは\n"
 "ふわふわとたたずんでいる。"
 msgstr ""
-"$BNis \n"
+"$BN is \n"
 "floating around."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -2171,7 +2171,7 @@ msgstr "Missiles (Random) (Big)"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "343"
 msgid "ミサイル２発同時発射"
-msgstr "Missle (Double)"
+msgstr "Missile (Double)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "344"
@@ -2271,7 +2271,7 @@ msgstr "Machinegun "
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "363"
 msgid "機銃集中攻撃"
-msgstr "Machinegun (Concretated Attack)"
+msgstr "Machinegun (Concentrated Attack)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "364"
@@ -2399,7 +2399,9 @@ msgstr "Impact Attack 1"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "385"
 msgid "$BNは衝撃波を発した！"
-msgstr "$BN emitted a Shockwave!"
+msgstr ""
+"$BN emitted a \n"
+"Shockwave!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "386"
@@ -2465,7 +2467,7 @@ msgid ""
 "酸を吐き出した！"
 msgstr ""
 "$BN\n"
-"spit acid!"
+"spat acid!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "396"
@@ -2479,7 +2481,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "397"
 msgid "アシッド定数ダメージ（小）"
-msgstr "Acid Const Damage (Big)"
+msgstr "Acid Const Damage (Small)"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "398"
@@ -2488,7 +2490,7 @@ msgid ""
 "強酸を吐き出した！"
 msgstr ""
 "$BN\n"
-"spit a strong acid!"
+"spat out strong acid!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "399"
@@ -2546,7 +2548,7 @@ msgid ""
 "溶解液を吐き出した！"
 msgstr ""
 "$BN\n"
-"spit Dissolution Fluid!"
+"spat Dissolution Fluid!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "409"
@@ -2555,7 +2557,7 @@ msgid ""
 "濃硫酸を吐き出した！"
 msgstr ""
 "$BN\n"
-"spit Concentrated Sulfuric Acid"
+"spat Concentrated Sulfuric Acid"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "410"
@@ -3167,7 +3169,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "499"
 msgid "誘惑アタック"
-msgstr "Temptation Attck"
+msgstr "Temptation Attack"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "500"
@@ -3423,7 +3425,9 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "537"
 msgid "鉄かじり（超特大）＋弾補給"
-msgstr "Iron Bite (Super EX large) + Ammo Refill"
+msgstr ""
+"Iron Bite (Super EX large) \n"
+"+ Ammo Refill"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "538"
@@ -3950,7 +3954,7 @@ msgid ""
 "からっポリタンになった！"
 msgstr ""
 "$BN\n"
-"became an Empty Polytank"
+"became an Empty Polytank!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "623"
