@@ -442,7 +442,7 @@ msgid ""
 msgstr ""
 "“Hi, this is the Memory Center.\n"
 " Are you going to save the\n"
-" game?”{END TEXTBOX}"
+" game?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T09_TEA_1F_N1B_SEL1"
