@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 26/2/2020\n"
-"PO-Revision-Date: 2020-05-03 20:07+0000\n"
-"Last-Translator: cccmar <cccmar111@gmail.com>\n"
+"PO-Revision-Date: 2020-05-30 05:48+0000\n"
+"Last-Translator: Ahmed Wahid <ahmedwahid1988@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/itemlistnam/en_US/>\n"
 "Language: en_US\n"
@@ -3603,12 +3603,12 @@ msgstr "Coolie"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "717"
 msgid "強力クーリー"
-msgstr "Strang Coolie"
+msgstr "Strong Coolie"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "718"
 msgid "最強クーリー"
-msgstr "Strangset Coolie"
+msgstr "Strongset Coolie"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "719"
