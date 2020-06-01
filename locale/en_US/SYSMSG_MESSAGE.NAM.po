@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 26/2/2020\n"
-"PO-Revision-Date: 2020-05-31 07:07+0000\n"
+"PO-Revision-Date: 2020-06-01 12:20+0000\n"
 "Last-Translator: gamebunny <gamebunny420@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/sysmsg_messagenam/en_US/>\n"
@@ -756,7 +756,7 @@ msgid ""
 "いっぱいで いれかえられません！$WW"
 msgstr ""
 "$WC$_N's chassis magazine\n"
-"is full and it can't be swapped!$WW "
+"is full and it can't be swapped!$WW"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "80"
@@ -789,7 +789,7 @@ msgid ""
 "毛づやが $_K 良くなった！$WW"
 msgstr ""
 "$_N's\n"
-"Gloss has improved by $_K!$WW"
+"Coat has improved by $_K!$WW"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "83"
@@ -798,7 +798,7 @@ msgid ""
 "最大ＨＰが $_K ふえた！$WW"
 msgstr ""
 "$_N's\n"
-"Max HP has increased by $_K!$WW "
+"Max HP has increased by $_K!$WW"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "84"
@@ -807,7 +807,7 @@ msgid ""
 "わんりょくが $_K あがった！$WW"
 msgstr ""
 "$_N's\n"
-"Strength has increased by $_K!$WW "
+"Strength has increased by $_K!$WW"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "85"
@@ -816,7 +816,7 @@ msgid ""
 "たいりょくが $_K あがった！$WW"
 msgstr ""
 "$_N's\n"
-"Endurance has increased by $_K!$WW "
+"Endurance has increased by $_K!$WW"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "86"
@@ -825,7 +825,7 @@ msgid ""
 "すばやさが $_K あがった！$WW"
 msgstr ""
 "$_N's\n"
-"Speed has increased by $_K!$WW "
+"Speed has increased by $_K!$WW"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "87"
