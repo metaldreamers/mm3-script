@@ -1155,7 +1155,7 @@ msgstr ""
 " you wouldn't know about us... \n"
 " I'm shocked!”{END TEXTBOX}\n"
 "Lucy:“I'm the leader\n"
-" of the Lucys. Lucy.”{END TEXTBOX}\n"
+" of the Lucys, Lucy.”{END TEXTBOX}\n"
 "Ozma:“I see.\n"
 " The Lucys, well-known crooks.”"
 
