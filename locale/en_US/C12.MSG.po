@@ -249,9 +249,9 @@ msgstr ""
 "Ozma:“This is all stuff\n"
 " he told me back when\n"
 " I was a kid.”{END TEXTBOX}\n"
-"Ozma:“This Twin Lotus\n"
-" is what I have left after\n"
-" him, as a memento.”"
+"Ozma:“The Twin Lotus is all\n"
+" that I have left of him now,\n"
+" as a memento.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H08_EVENT5_MSG8"
