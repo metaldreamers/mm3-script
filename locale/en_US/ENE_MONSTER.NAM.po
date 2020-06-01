@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 21/11/2019\n"
-"PO-Revision-Date: 2020-05-30 05:48+0000\n"
+"PO-Revision-Date: 2020-06-01 12:20+0000\n"
 "Last-Translator: gamebunny <gamebunny420@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/ene_monsternam/en_US/>\n"
@@ -1223,12 +1223,12 @@ msgstr "Breed Shell"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "241"
 msgid "もえもえヒッキー"
-msgstr "Blazing Monkey"
+msgstr "Burnit Crab"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "242"
 msgid "ひあそびザル"
-msgstr "Piro Monkey"
+msgstr "Pyro Monkey"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "243"
