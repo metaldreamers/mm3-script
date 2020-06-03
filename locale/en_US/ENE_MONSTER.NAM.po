@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 21/11/2019\n"
-"PO-Revision-Date: 2020-06-03 19:07+0000\n"
-"Last-Translator: gamebunny <gamebunny420@gmail.com>\n"
+"PO-Revision-Date: 2020-06-04 21:07+0000\n"
+"Last-Translator: Ahmed Wahid <ahmedwahid1988@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/ene_monsternam/en_US/>\n"
 "Language: en_US\n"
@@ -163,7 +163,7 @@ msgstr "Beehive Gun"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "29"
 msgid "メガマウス"
-msgstr "Mega Mouse"
+msgstr "Mega Rat"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "30"
@@ -503,7 +503,7 @@ msgstr "Black Carpet"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "97"
 msgid "ダークアイ"
-msgstr "Dark Eyes"
+msgstr "Darkeye"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "98"
@@ -988,7 +988,7 @@ msgstr "Stinky Closet"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "194"
 msgid "ＢＢＱマウス"
-msgstr "BBQ Mouse"
+msgstr "BBQ Rat"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "195"
@@ -1588,7 +1588,7 @@ msgstr "Clan Patrol"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "314"
 msgid "ギガントマウス"
-msgstr "Giant Mouse"
+msgstr "Giant Rat"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "315"
