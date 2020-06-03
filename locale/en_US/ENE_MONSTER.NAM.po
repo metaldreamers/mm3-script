@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 21/11/2019\n"
-"PO-Revision-Date: 2020-06-01 12:20+0000\n"
+"PO-Revision-Date: 2020-06-03 19:07+0000\n"
 "Last-Translator: gamebunny <gamebunny420@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/ene_monsternam/en_US/>\n"
@@ -638,7 +638,7 @@ msgstr "Stunopus"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "124"
 msgid "シャコタンク"
-msgstr "Mantis Tank"
+msgstr "Clam Tank"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "125"
