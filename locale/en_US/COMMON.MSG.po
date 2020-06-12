@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 26/2/2020\n"
-"PO-Revision-Date: 2020-06-09 03:07+0000\n"
+"PO-Revision-Date: 2020-06-13 23:07+0000\n"
 "Last-Translator: Ahmed Wahid <ahmedwahid1988@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/common/en_US/>\n"
@@ -4593,7 +4593,7 @@ msgid ""
 "　いうのか‥‥。"
 msgstr ""
 "“This vehicle?\n"
-" You name it\n"
+" You named it\n"
 " $_N, huh?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -4917,12 +4917,12 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SHASIKAIZOUYA_QA01"
 msgid "穴を改造"
-msgstr "Mod the holes"
+msgstr "Mod the slots"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SHASIKAIZOUYA_QA02"
 msgid "穴以外"
-msgstr "All but the holes"
+msgstr "All but the slots"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SHASIKAIZOUYA_MSGP01"
