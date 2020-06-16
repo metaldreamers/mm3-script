@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 18/11/2019\n"
-"PO-Revision-Date: 2020-06-04 21:07+0000\n"
+"PO-Revision-Date: 2020-06-17 02:26+0000\n"
 "Last-Translator: Ahmed Wahid <ahmedwahid1988@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/h08/en_US/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.11.2\n"
+"X-Generator: Weblate 4.1\n"
 "X-1: Type1\n"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -190,7 +190,7 @@ msgstr "Why did I make a promise?"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H08_BAN_N7_SEL5"
 msgid "＜証拠＞とやらを見せてくれ"
-msgstr "Show me the \"proof”"
+msgstr "Show me the \"proof\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H08_BAN_N7_SEL6"
@@ -614,8 +614,8 @@ msgid ""
 "「ウォフ、ウォフ！\n"
 "「がるるるっ‥‥"
 msgstr ""
-"“Woof, woof!\"\n"
-"\"Wooff, wooff!\"\n"
+"“Woof, woof!”\n"
+"“Wooff, wooff!”\n"
 "“Grrr...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -1051,7 +1051,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H08_EVENT2_SEL1"
 msgid "だいじょうぶ、と答える"
-msgstr "Answer \"don't worry”"
+msgstr "Answer \"don't worry\""
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H08_EVENT2_SEL2"
