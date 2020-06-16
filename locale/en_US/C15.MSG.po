@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 18/11/2019\n"
-"PO-Revision-Date: 2020-04-29 12:07+0000\n"
-"Last-Translator: cccmar <cccmar111@gmail.com>\n"
+"PO-Revision-Date: 2020-06-17 02:26+0000\n"
+"Last-Translator: Ahmed Wahid <ahmedwahid1988@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/c15/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.11.2\n"
+"X-Generator: Weblate 4.1\n"
 "X-1: Type1\n"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -83,7 +83,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// C15_N1_MSG6"
 msgid "「ひぃーーーっ！"
-msgstr "“Eeek!\""
+msgstr "“Eeek!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// C15_N1_MSG7"
