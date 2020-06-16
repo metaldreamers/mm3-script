@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 18/11/2019\n"
-"PO-Revision-Date: 2020-05-27 21:07+0000\n"
-"Last-Translator: cccmar <cccmar111@gmail.com>\n"
+"PO-Revision-Date: 2020-06-17 02:26+0000\n"
+"Last-Translator: Ahmed Wahid <ahmedwahid1988@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/c02/en_US/>\n"
 "Language: en_US\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.11.2\n"
+"X-Generator: Weblate 4.1\n"
 "X-1: Type1\n"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -79,7 +79,7 @@ msgid ""
 "　不幸なのっ！"
 msgstr ""
 "Luckina:“It's supposed to be,\n"
-" but why then...\"{END TEXTBOX}\n"
+" but why then...”{END TEXTBOX}\n"
 "Luckina:“Why am I so unhappy!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -572,7 +572,7 @@ msgid ""
 "　あんなに苦労したのにっ！"
 msgstr ""
 "Luckina:“Then you didn't\n"
-" get even a single G!?\"{END TEXTBOX}\n"
+" get even a single G!?”{END TEXTBOX}\n"
 "Luckina:“After all that work!?”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -583,7 +583,7 @@ msgid ""
 "　ダメ男っ！　甲斐性なしっ！"
 msgstr ""
 "Luckina:“Men like you\n"
-" really are worthless.\"{END TEXTBOX}\n"
+" really are worthless.”{END TEXTBOX}\n"
 "Luckina:“Worthless man!\n"
 " Completely unreliable!”"
 
@@ -658,7 +658,7 @@ msgstr ""
 #.  is \0
 msgctxt "//===[NAMES]==="
 msgid "ショップ「ブルー」"
-msgstr "Shop \"Blue”"
+msgstr "Shop “Blue”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}
 #.  is \0
