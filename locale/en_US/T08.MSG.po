@@ -31,7 +31,7 @@ msgid ""
 "　\"乗る\"だよ、\"乗る\"。"
 msgstr ""
 "“To get into a vehicle\n"
-" use the \"ride\" button. \"Board\".”"
+" use the Ride button, Board.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T08_SOTO_N6_MSG1"
@@ -474,7 +474,7 @@ msgid ""
 "　たおしてもらいたい。"
 msgstr ""
 "“Do you know of a monster named\n"
-" \"$nw016\"?\n"
+" $nw016?\n"
 " I want you to defeat it.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -1030,7 +1030,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T08_HC_N1_SELL7"
 msgid "ヤツって、だれ？"
-msgstr "What do you mean by \"it\"?"
+msgstr "What do you mean by “it”?"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T08_HC_N1_SELL8"
@@ -1097,8 +1097,8 @@ msgid ""
 msgstr ""
 "Kid:“Sheesh. The red shark!”{END TEXTBOX}\n"
 "Kid:“Hmmm...”{END TEXTBOX}\n"
-"Kid:“The adult\n"
-" name it \"$ne013\"...”{END TEXTBOX}\n"
+"Kid:“Adults\n"
+" call it $ne013...”{END TEXTBOX}\n"
 "Kid:“They say it's red\n"
 " since it's bathed\n"
 " in people's blood.”"
@@ -1258,7 +1258,7 @@ msgstr ""
 "Kid:“Here, 5000G.”{END TEXTBOX}\n"
 "$np\n"
 "received a piece of paper\n"
-"with \"5000G\" written on it!"
+"with “5000G” written on it!"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T08_HC_N1_SELL18"
@@ -1297,7 +1297,7 @@ msgid ""
 "　でも、オレ。\n"
 "　なんも、もってないぜ。"
 msgstr ""
-"Kid:\"Eeehh!?\n"
+"Kid:“Eeehh!?\n"
 " But, I don't have anything.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -1352,7 +1352,7 @@ msgid ""
 "乗り物に乗れません！"
 msgstr ""
 "“If you ride vehicles\n"
-" you can't enter other vehicles!\" "
+" you can't enter other vehicles!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T08_SOTO_N9_MSG1"
