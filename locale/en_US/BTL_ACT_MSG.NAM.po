@@ -1971,17 +1971,17 @@ msgstr "Oh noopes"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "307"
 msgid "$BN「いやーーん。"
-msgstr "$BN: \"Oh noopes”"
+msgstr "$BN:“Oh nooo”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "308"
 msgid "おほほほほ"
-msgstr "Oh Hoh Hoh"
+msgstr "Oh hoh hoh"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "309"
 msgid "$BN「おほほほほほ。"
-msgstr "$BN:\"Oh! Hoh! Hoh!”"
+msgstr "$BN:“Oh! Hoh! Hoh!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "310"
@@ -6017,7 +6017,7 @@ msgid ""
 "$BN\n"
 "「地獄の炎に焼きつくされるがよい！"
 msgstr ""
-"$BN:\"Let the flames \n"
+"$BN:“Let the flames \n"
 " of hell burn you up!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -6031,7 +6031,7 @@ msgid ""
 "$BN「この程度で死なないでくれよ、\n"
 "実験体１３１３号！"
 msgstr ""
-"$BN:\"Don't die so\n"
+"$BN:“Don't die so\n"
 " easily, Subject 1313!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -6042,7 +6042,7 @@ msgstr "Gratonos Healing"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "944"
 msgid "$BN「効かぬ！効かぬ！"
-msgstr "$BN:\"You cannot hurt me!”"
+msgstr "$BN:“You cannot hurt me!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "945"
@@ -6764,7 +6764,7 @@ msgid ""
 "「わたしを女王さまとおよびっ！"
 msgstr ""
 "$BN attacks!\n"
-"“Call me \"Queen\"!”"
+"“Call me Queen!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1063"
@@ -6872,7 +6872,7 @@ msgstr ""
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1076"
 msgid "ドミンゲス「これで終わりだぜぇっ！"
-msgstr "Dominguez:\"This is it for you!”"
+msgstr "Dominguez:“This is it for you!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1077"
@@ -7017,7 +7017,7 @@ msgid ""
 "$BNは奇怪な声をあげた！"
 msgstr ""
 "$BN screamed!\n"
-"$BN:\"Angyaahh!”"
+"$BN:“Angyaahh!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "1100"
