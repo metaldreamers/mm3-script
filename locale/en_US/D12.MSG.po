@@ -285,7 +285,7 @@ msgstr ""
 "Lucy:“What a pity!@w10\n"
 " Undesirable events happen \n"
 " at unwanted times!”{END TEXTBOX}\n"
-"Lucy:“That's \"life\" indeed!”{END TEXTBOX}\n"
+"Lucy:“That's ‘life’ indeed!”{END TEXTBOX}\n"
 "Lucy:“I'll teach you what \n"
 " happens when you piss Lucy off!”"
 
