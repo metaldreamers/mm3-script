@@ -74,7 +74,7 @@ msgid ""
 "「これぞ、\"戦車\"という装備です。\n"
 "　メインマシンにいかがでしょう。$WP"
 msgstr ""
-"“This is what I'd call a \"tank\".\n"
+"“This is what I'd call a ‘tank’.\n"
 " How about using it as\n"
 " your main machine?”$WP"
 
