@@ -792,7 +792,7 @@ msgstr ""
 "“Hih!\n"
 " T-this guy's strong.\n"
 " Who the hell are you!?”{END TEXTBOX}\n"
-"“What's this fuss!?\"{END TEXTBOX}\n"
+"“What's this fuss!?”{END TEXTBOX}\n"
 "“Boss, Mr. Sharkbear! T-this guy...”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
@@ -5115,8 +5115,8 @@ msgstr ""
 "Mig:“If you don't\n"
 " get out ASAP they'll kill \n"
 " you by torturing you.”{END TEXTBOX}\n"
-"\"Escape from Torture Room\"\n"
-" added to adventure guide"
+"“Escape from Torture Room”\n"
+"added to adventure guide."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// SYUGEKI_GOUMON6_MSG10"
@@ -5138,8 +5138,8 @@ msgid ""
 msgstr ""
 "$np\n"
 "read Mig's memo.{END TEXTBOX}\n"
-"Hold the thing in the mouth\n"
-"and \"spit\" it during torture,\n"
+"Keep this in your mouth\n"
+"and spit it out under torture,\n"
 "or so it says."
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
