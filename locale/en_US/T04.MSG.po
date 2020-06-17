@@ -1210,7 +1210,7 @@ msgstr ""
 "“It hasn't rained in a while.”{END TEXTBOX}\n"
 "“We have enough to drink,\n"
 " but the car wash is a luxury\n"
-" right now.\""
+" right now.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T04_2F_N1_MSG1"
@@ -1574,7 +1574,7 @@ msgid ""
 msgstr ""
 "“Saburomeo won't be so\n"
 " fearsome if you wreck\n"
-" the Happy signal transmitter.\""
+" the Happy signal transmitter.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T04_3F_N5_MSG1"
@@ -1715,7 +1715,7 @@ msgid ""
 msgstr ""
 "“The statue has \n"
 " been removed.”{END TEXTBOX}\n"
-"“Well, color me surprised.\""
+"“Well, color me surprised.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T04_3F_N11_MSG1"
@@ -2536,7 +2536,7 @@ msgctxt "// T04_MERRYAN_MSG12"
 msgid ""
 "$nn105「あっ！\n"
 "　おっ、お待ちくださいっ！"
-msgstr "Vicente:“Ah! W-wait!\""
+msgstr "Vicente:“Ah! W-wait!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// T04_MERRYAN_MSG12_2"
