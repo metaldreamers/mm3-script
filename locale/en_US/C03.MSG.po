@@ -231,8 +231,8 @@ msgid ""
 "　できるからな。"
 msgstr ""
 "“You can switch the sensor on/off\n"
-" by going to the \"Guide\"\n"
-" and choosing \"Sensors\" command.”"
+" by going to the Guide\n"
+" and choosing Sensors command.”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// C03_SOTO_N10"
