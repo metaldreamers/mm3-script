@@ -371,7 +371,7 @@ msgstr "The Envoy from Hell"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H05_SOTO_N9_SEL2"
 msgid "＜$nn109＞の亡霊"
-msgstr "The Ghost of \"Boiling Scarecrow\" "
+msgstr "The Ghost of Boiling Scarecrow"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "// H05_SOTO_N9_SEL3"
@@ -1107,7 +1107,7 @@ msgstr ""
 "“That's gotta be the \n"
 " monkey's handiwork!”{END TEXTBOX}\n"
 "“Gotta find it soon or Lord \n"
-" Gratonos's gonna kill me!\""
+" Gratonos's gonna kill me!”"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}
 #.  is \0
