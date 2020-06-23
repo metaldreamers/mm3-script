@@ -22,8 +22,7 @@ Do note that this **is not** the Caravan scene release which is as follows:
     Size:                               	67108864
     Serial:                                     BM9J
 
-An additional patch has been included to convert from the Caravan dump to the
-good dump.
+The Caravan release may work but we make no guarantees.
 
 Not sure which ROM you have? You can check using ROMhacking.net's Online ROM
 Hasher here:
@@ -31,11 +30,10 @@ Hasher here:
 https://www.romhacking.net/hash/
 
 For Windows users:
-* Run the included xdeltaUI and select "Apply Patch"
-* Patch (select the .xdelta file)
-* Source File (Target No-intro release ROM)
-* Output File "select an output folder , name and extension for your Patched file"
-* Hit Patch button!!
+* Run the included "MM3 Patcher.exe" and click "Patch..."
+* Select your Metal Max 3 ROM
+* The patch will be applied automatically and appear in the same folder
+  as your ROM.
 
 For MacOS users we recommend MultiPatch available at:
 
@@ -46,6 +44,17 @@ or
 https://www.romhacking.net/utilities/746/
 
 For everyone else, you're probably comfortable with the xdelta3 CLI.
+
+Supported Ways to Play
+----------------------
+
+Emulators:
+* MelonDS
+* no$GBA
+
+3DS:
+* TwiLight++
+* R4i 3DS Plus Gold
 
 Credits
 -------
