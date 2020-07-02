@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Metal Max 3\n"
 "Report-Msgid-Bugs-To: unknown@metalmax.com\n"
 "POT-Creation-Date: 26/2/2020\n"
-"PO-Revision-Date: 2020-06-26 19:07+0000\n"
+"PO-Revision-Date: 2020-07-03 01:07+0000\n"
 "Last-Translator: gamebunny <gamebunny420@gmail.com>\n"
 "Language-Team: English (United States) <http://example.com/projects/"
 "metalmax3/itemlistnam/en_US/>\n"
@@ -1638,7 +1638,7 @@ msgstr "Diamond Ring"
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "324"
 msgid "銀のネックレス"
-msgstr "Silver Necklce"
+msgstr "Silver Necklace"
 
 #. Text size: 58 characters x 3 lines.{END TEXTBOX}\n is \0
 msgctxt "325"
